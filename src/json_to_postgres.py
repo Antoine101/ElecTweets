@@ -18,7 +18,7 @@ def remove_punctuations(text):
     return text
 
 def json_to_df(json_file_path):
-    data = pd.read_json('PA721498__@StanGuerini__Guerini__Stanislas.json')
+    data = pd.read_json(json_file_path)
     public_metric =json_normalize(data['public_metrics'])
     data = pd.merge(data, public_metric, left_index=True, right_index=True)
     data.drop(['public_metrics','conversation_id','context_annotations','geo','attachments',
