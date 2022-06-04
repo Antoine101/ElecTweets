@@ -29,8 +29,8 @@ CREATE TABLE candidats (
 );
 
 CREATE TABLE tweets(
-    tweet_id INT UNIQUE,
-    author_id INT UNIQUE,
+    tweet_id BIGINT,
+    author_id INT,
     publication_date DATE,
     like_counts INT,
     reply_counts INT,
