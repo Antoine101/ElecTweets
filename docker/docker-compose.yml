@@ -1,4 +1,4 @@
-version: '3'
+version: '3.8'
 
 services:
   database:
@@ -26,10 +26,18 @@ services:
     volumes:
       - pgadmin:/var/lib/pgadmin/
 
+  python:
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    depends_on:
+      - database
+    networks:
+      - postgres-network    
+    
 volumes:
     database:
     pgadmin:
 
 networks: 
   postgres-network:
-    driver: bridge
