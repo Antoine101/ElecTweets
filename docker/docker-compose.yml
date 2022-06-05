@@ -8,10 +8,8 @@ services:
       - 15432:5432
     env_file:
       - .env
-    networks:
-      - postgres-network
     volumes:
-      - ./db-data/:/var/lib/postgresql/data/
+      - database:/var/lib/postgresql/data/
   
   pgadmin:
     image: dpage/pgadmin4
@@ -21,11 +19,9 @@ services:
       - .env
     depends_on:
       - database
-    networks:
-      - postgres-network
     volumes:
-      - ./pgadmin/:/var/lib/pgadmin/
+      - pgadmin:/var/lib/pgadmin/
 
-networks: 
-  postgres-network:
-    driver: bridge
+volumes:
+    database:
+    pgadmin:
