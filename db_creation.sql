@@ -18,10 +18,11 @@ CREATE TABLE tags (
 
 CREATE TABLE candidats (
     id SERIAL,
-    prenom VARCHAR(100),
-    nom VARCHAR(100),
+    prenom VARCHAR(100) NOT NULL,
+    nom VARCHAR(100) NOT NULL,
+    sexe VARCHAR(1),
     date_naissance DATE,
-    id_twitter INT UNIQUE,
+    id_twitter BIGINT UNIQUE,
     username VARCHAR(255) UNIQUE,
     compte_verifie BOOLEAN,
     date_creation_compte DATE,
@@ -47,11 +48,11 @@ CREATE TABLE tweets(
 
 CREATE TABLE affiliation_elections (
     id SERIAL,
-    id_candidat INT UNIQUE,
+    id_candidat INT,
     annee_election INT,
     nom_annee_election VARCHAR(50),
     code_departement INT,
-    code_circonscription INT,
+    code_circonscription VARCHAR(10),
     sortant BOOLEAN,
     dissident BOOLEAN,
     resultat_election BOOLEAN,
