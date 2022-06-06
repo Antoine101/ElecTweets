@@ -18,6 +18,17 @@ def remove_punctuations(text):
         text = text.replace(punctuation, '')
     return text
 
+def get_tags_list(json_file_path):
+    data = pd.read_json(json_file_path)
+    data = data.entities.to_dict()
+    tag_list = []
+    for i in range(len(data)):
+        if data[i]:
+            if data[i].get('hashtags'):
+                for tag_data in data[i].get('hashtags') :
+                    tag_list.append(tag_data['tag'])
+    return tag_list
+
 def json_to_df(json_file_path):
     data = pd.read_json(json_file_path)
     public_metric =json_normalize(data['public_metrics'])
