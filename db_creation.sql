@@ -41,7 +41,7 @@ CREATE TABLE tweets(
     possibly_sensitive BOOLEAN,
     label VARCHAR(10),
     polarity FLOAT,
-    content VARCHAR(280),
+    content TEXT,
     PRIMARY KEY (tweet_id),
     FOREIGN KEY (author_id) REFERENCES candidats(id_twitter)
 );
