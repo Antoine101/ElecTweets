@@ -31,7 +31,7 @@ CREATE TABLE candidats (
 
 CREATE TABLE tweets(
     tweet_id BIGINT,
-    author_id INT,
+    author_id BIGINT,
     publication_date DATE,
     like_counts INT,
     reply_counts INT,
@@ -41,7 +41,7 @@ CREATE TABLE tweets(
     possibly_sensitive BOOLEAN,
     label VARCHAR(10),
     polarity FLOAT,
-    content VARCHAR(255),
+    content TEXT,
     PRIMARY KEY (tweet_id),
     FOREIGN KEY (author_id) REFERENCES candidats(id_twitter)
 );
