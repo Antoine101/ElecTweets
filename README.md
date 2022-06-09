@@ -9,6 +9,7 @@ Prédiction des vainqueurs dans chaque circonscription aux élections législati
 - docker compose build
 - docker compose up -d
 - docker compose run python bash
+
 Launch a python script:
 - python 3 xxx.py
 
@@ -28,4 +29,4 @@ Retrieve IP Adress:
 - docker ps: copy id of postgresql container
 - docker inspect id_container | grep IPAddress
 
-Have fun!s
+Have fun!
