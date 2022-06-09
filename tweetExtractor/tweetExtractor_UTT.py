@@ -104,9 +104,9 @@ twitterIdList = {
 
 def getLimitDates(legislature):
     return {
-        '2012': ["2012-05-10T00:00:00Z","2012-06-10T00:00:00Z"],
-        '2017': ["2017-05-11T00:00:00Z","2017-06-11T00:00:00Z"],
-        '2022': ["2022-05-10T00:00:00Z","2022-06-10T00:00:00Z"]
+        '2012': ["2012-05-09T00:00:00Z","2012-06-09T23:59:59Z"],
+        '2017': ["2017-05-10T00:00:00Z","2017-06-10T23:59:59Z"],
+        '2022': ["2022-05-11T00:00:00Z","2022-06-11T23:59:59Z"]
     }.get(legislature, ["2022-05-10T00:00:00Z","2022-05-10T00:00:00Z"])
 
 
@@ -133,9 +133,12 @@ def storeTweetsJson(data,destinationFile):
     if devPrint: 
         print("\n storeTweets -> data :",data)
         print("\n storeTweets -> destinationFile :",destinationFile)
-    
-    with open(destinationFile+'.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+
+    if False: print("data : ", data)
+
+    if True:
+        with open(destinationFile+'.json', 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
 
     if devPrint: print("\t -> Tweets stored in json "+destinationFile+'.json')
 
@@ -217,27 +220,42 @@ def extractTweetsFromListWithIterations(row, legislature):
 
         print("         ... en cours : ")
         tweetCounter=0
-        iteration=0
-        while tweetCounter<totalNumberRequested and iteration<1.5*int(math.ceil(totalNumberRequested/limit)):
-            iteration+=1
-            if printDev: print("tweetCounter ", str(tweetCounter), ' tweets recorded / ', str(totalNumberRequested),' => new request')
 
-            if tweetCounter==0 or next_token==0: # première itération => pas de next_token à renseigner
-                userTweets = API.get_users_tweets(id=row[4],
-                                                  max_results=limit,
-                                                  tweet_fields=tweet_fields,
-                                                  start_time=start_time,
-                                                  end_time=end_time
-                                                  ) # API sans next_token
-            else: # besoin de next_token
-                if printDev: print("  -> next_token ", next_token)
-                userTweets = API.get_users_tweets(id=row[4],
-                                                  max_results=limit,
-                                                  tweet_fields=tweet_fields,
-                                                  pagination_token=next_token,
-                                                  start_time=start_time,
-                                                  end_time=end_time
-                                                  ) # API avec next_token
+        userTweets = API.get_users_tweets(id=row[4],
+                                          max_results=limit,
+                                          tweet_fields=tweet_fields,
+                                          start_time=start_time,
+                                          end_time=end_time
+                                          )  # API sans next_token
+
+        if userTweets[0] is not None:
+            if 'next_token' in userTweets[3]:
+                next_token = userTweets[3]['next_token']  # récupération du next_token pour la prochaine requête
+            else:
+                next_token = 0
+            tweetCounter += len(userTweets[0])
+            allTweets = allTweets + userTweets[0]
+
+
+
+        iteration=0
+        while next_token!=0:
+            iteration+=1
+
+            if printDev:
+                print("tweetCounter ", str(tweetCounter), ' tweets recorded / ', str(totalNumberRequested),' => new request')
+                print("tweetCounter : ", tweetCounter, " - next_token : ", next_token)
+
+            if printDev: print("  -> next_token ", next_token)
+            userTweets = API.get_users_tweets(id=row[4],
+                                              max_results=limit,
+                                              tweet_fields=tweet_fields,
+                                              pagination_token=next_token,
+                                              start_time=start_time,
+                                              end_time=end_time
+                                              ) # API avec next_token
+
+            if printDev: print("userTweets[3] : ", userTweets)
 
             if userTweets[0] is not None:
                 if 'next_token' in userTweets[3]:
@@ -247,7 +265,7 @@ def extractTweetsFromListWithIterations(row, legislature):
                 tweetCounter+= len(userTweets[0])
 
                 if printDev:
-                    print(" userTweets : ", userTweets[0])
+                    print("\n\n userTweets : ", userTweets[0][0:2])
                     print(" len : ", len(userTweets[0]))
                     print(" userTweets : ", type(userTweets[0]))
 
