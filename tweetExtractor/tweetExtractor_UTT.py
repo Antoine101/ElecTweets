@@ -48,7 +48,7 @@ data_dir = parent_dir + "\data\\"
 
 data_path = data_dir + candidatesFile
 destinationFolderTweetDepute=data_dir #"data/01_tweetList/"  #prefix dossier de sortie
-
+ 
 
 limit = 100 # Nombre de tweets max par requete. Limité à XXX (à retrouver) par l'API Twitter !
 totalNumberRequested=3100 # 3100 # nombre de Tweets désirés pour chaque personne. Si totalNumberRequested>limit, alors plusieurs requêtes sont lancées à la suite pour récupérer les totalNumberRequested Tweets.
