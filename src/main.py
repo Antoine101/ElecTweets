@@ -98,12 +98,6 @@ def get_attribute(data, attribute, default_value):
         data[attribute] = default_value
     return data
 
-# Remove punctuations
-def remove_punctuations(text):
-    for punctuation in string.punctuation:
-        text = text.replace(punctuation, '')
-    return text
-
 # Json do df with path data
 def json_to_df(json_file_path):
     
@@ -123,7 +117,6 @@ def json_to_df(json_file_path):
 
         data = data[list_label]
         data['publication_date'] = data['publication_date'].dt.strftime('%Y-%m-%d')
-        data['content'] = data['content'].apply(remove_punctuations)
         data = data.convert_dtypes()
         data['possibly_sensitive'] = data['possibly_sensitive'].astype(str)
 
