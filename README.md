@@ -29,4 +29,4 @@ Retrieve IP Adress:
 - docker ps: copy id of postgresql container
 - docker inspect id_container | grep IPAddress
 
-Have fun!
+Have fun! and :beer:
