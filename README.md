@@ -29,4 +29,17 @@ Retrieve IP Adress:
 - docker ps: copy id of postgresql container
 - docker inspect id_container | grep IPAddress
 
+### Launch Jupyter 
+The containeur has to run:
+- cd docker/
+- docker compose build
+- docker compose up -d
+- docker compose run jupyter bash
+enter electweet as password
+
+If password or token is asked: run this command inside jupyter container :
+- jupyter server list
+- get token after "="
+- change password as requested if needed
+
 Have fun! and :beer:
