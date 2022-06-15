@@ -7,6 +7,9 @@ CREATE TABLE denomination_partis (
 CREATE TABLE contexte_elections (
     annee INT,
     parti_vainqueur_presidentielles VARCHAR(50),
+    preoccupation1 VARCHAR(50),
+    preoccupation2 VARCHAR(50),
+    preoccupation3 VARCHAR(50),
     PRIMARY KEY (annee)
 );
 
