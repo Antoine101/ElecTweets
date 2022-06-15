@@ -64,8 +64,8 @@ with open("data/contexte_elections.csv", newline="") as f:
     for row in reader:
         row = [item if item!='' else None for item in row ]
         cur.execute("""
-            INSERT INTO contexte_elections (annee, parti_vainqueur_presidentielles, preoccupation1, preoccupation2, preoccupation3) 
-            VALUES (%s, %s, %s, %s, %s)
+            INSERT INTO contexte_elections (annee, date_premier_tour, parti_vainqueur_presidentielles, preoccupation1, preoccupation2, preoccupation3) 
+            VALUES (%s, %s, %s, %s, %s, %s)
             """, row)
         
 conn.commit()

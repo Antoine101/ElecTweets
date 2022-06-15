@@ -6,6 +6,7 @@ CREATE TABLE denomination_partis (
 
 CREATE TABLE contexte_elections (
     annee INT,
+    date_premier_tour DATE UNIQUE,
     parti_vainqueur_presidentielles VARCHAR(50),
     preoccupation1 VARCHAR(50),
     preoccupation2 VARCHAR(50),
