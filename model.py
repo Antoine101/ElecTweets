@@ -24,6 +24,7 @@ id_twitter,
 compte_verifie,
 date_creation_compte,
 annee_election,
+date_premier_tour,
 affiliation_elections.nom_annee_election,
 nom_derniere_election,
 sortant,
@@ -44,81 +45,247 @@ prenom,
 nom,
 id_twitter,
 annee_election,
+
+--aggr on tweets : count
       (SELECT COUNT(DISTINCT tweets.tweet_id)
         FROM  public.tweets
         WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
         AS nb_tweets_elec_period,
         
-       (SELECT COUNT(DISTINCT tweets.tweet_id)
+      (SELECT COUNT(DISTINCT tweets.tweet_id)
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        date_trunc('year', cast('2022-05-23' as timestamp)) AND ('2022-05-23') AND author_id = id_twitter)
+        (date_premier_tour - 21) AND (date_premier_tour) AND author_id = id_twitter)
         AS nb_tweets_reserve_period,
  
-        (SELECT COUNT(DISTINCT tweets.tweet_id)
+      (SELECT COUNT(DISTINCT tweets.tweet_id)
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        (date '2022-06-12'  - 7) AND ('2022-05-23') AND author_id = id_twitter)
+        (date_premier_tour  - 7) AND date_premier_tour AND author_id = id_twitter)
         AS nb_tweets_last_week,
 
-        (SELECT COUNT(DISTINCT tweets.tweet_id)
+      (SELECT COUNT(DISTINCT tweets.tweet_id)
         FROM  public.tweets
-        WHERE UPPER(tweets.content) LIKE UPPER('%immigration%') AND author_id = id_twitter)       
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
         AS nb_tweets_1st_concern,
+
+      (SELECT COUNT(DISTINCT tweets.tweet_id)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS nb_tweets_2nd_concern,
+      
+      (SELECT COUNT(DISTINCT tweets.tweet_id)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS nb_tweets_3rd_concern,
         
+--aggr on likes : sum, max, avg
+    -- on elec period:
       (SELECT SUM(tweets.like_counts)
         FROM  public.tweets
         WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
         AS sum_likes_elec_period,
         
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
+        AS max_likes_elec_period,
+      
       (SELECT ROUND(AVG(tweets.like_counts))
         FROM  public.tweets
         WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
         AS avg_likes_elec_period,
-        
+
+    -- on reserve period:
+      (SELECT SUM(tweets.like_counts)
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
+        AS sum_likes_reserve_period,  
+
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
+        AS max_likes_reserve_period,   
+
       (SELECT ROUND(AVG(tweets.like_counts))
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        date_trunc('year', cast('2022-05-23' as timestamp)) AND ('2022-05-23') AND author_id = id_twitter)
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
         AS avg_likes_reserve_period,
-        
+
+    -- on the last week:
+      (SELECT SUM(tweets.like_counts)
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
+        AS sum_likes_last_week,  
+
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
+        AS max_likes_last_week,
+
       (SELECT ROUND(AVG(tweets.like_counts))
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        (date '2022-06-12'  - 7) AND ('2022-05-23') AND author_id = id_twitter)
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
         AS avg_likes_last_week,
 
+    -- on 1st concern:
+      (SELECT SUM(tweets.like_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+        AS sum_likes_1st_concern,
+
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+        AS max_likes_1st_concern,
+
       (SELECT ROUND(AVG(tweets.like_counts))
         FROM  public.tweets
-        WHERE UPPER(tweets.content) LIKE UPPER('%immigration%') AND author_id = id_twitter)       
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
         AS avg_likes_1st_concern,
 
+    -- on 2nd concern:
+      (SELECT SUM(tweets.like_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS sum_likes_2nd_concern,
+
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS max_likes_2nd_concern,
+
+      (SELECT ROUND(AVG(tweets.like_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS avg_likes_2nd_concern,
+
+    -- on 3rd concern:
+      (SELECT SUM(tweets.like_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS sum_likes_3rd_concern,
+
+      (SELECT ROUND(MAX(tweets.like_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS max_likes_3rd_concern,
+
+      (SELECT ROUND(AVG(tweets.like_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS avg_likes_3rd_concern,
+
+--aggr on retweets : sum, max, avg
+  -- on elec period:
       (SELECT SUM(tweets.retweet_counts)
         FROM  public.tweets
         WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
         AS sum_retweets_elec_period,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
+        AS max_retweets_elec_period,
         
       (SELECT ROUND(AVG(tweets.retweet_counts))
         FROM  public.tweets
         WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND author_id = id_twitter)
         AS avg_retweets_elec_period,
-        
-      (SELECT ROUND(AVG(tweets.retweet_counts))
+
+  -- on reserve period:  
+      (SELECT SUM(tweets.retweet_counts)
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        date_trunc('year', cast('2022-05-23' as timestamp)) AND ('2022-05-23') AND author_id = id_twitter)
-        AS avg_retweets_reserve_period,
-        
-      (SELECT ROUND(AVG(tweets.retweet_counts))
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
+        AS sum_retweets_reserve_period,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
         FROM  public.tweets
         WHERE DATE(publication_date) BETWEEN
-        (date '2022-06-12'  - 7) AND ('2022-05-23') AND author_id = id_twitter)
-        AS avg_retweets_last_week,
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
+        AS max_retweets_reserve_period,
 
       (SELECT ROUND(AVG(tweets.retweet_counts))
         FROM  public.tweets
-        WHERE UPPER(tweets.content) LIKE UPPER('%immigration%') AND author_id = id_twitter)       
-        AS avg_retweets_1st_concern
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 21) AND date_premier_tour AND author_id = id_twitter)
+        AS avg_retweets_reserve_period,
+
+  -- on the last week: 
+      (SELECT SUM(tweets.retweet_counts)
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
+        AS sum_retweets_last_week,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
+        AS max_retweets_last_week,
+        
+      (SELECT ROUND(AVG(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE DATE(publication_date) BETWEEN
+        (date_premier_tour - 7) AND date_premier_tour AND author_id = id_twitter)
+        AS avg_retweets_last_week,
+
+  -- on 1st concern:
+      (SELECT SUM(tweets.retweet_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+        AS sum_retweets_1st_concern,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+        AS max_retweets_1st_concern,
+
+      (SELECT ROUND(AVG(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+        AS avg_retweets_1st_concern,
+
+  -- on 2nd concern:
+
+      (SELECT SUM(tweets.retweet_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS sum_retweets_2nd_concern,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS max_retweets_2nd_concern,
+
+      (SELECT ROUND(AVG(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+        AS avg_retweets_2nd_concern,
+
+  -- on 3rd concern:
+      (SELECT SUM(tweets.retweet_counts)
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS sum_retweets_3rd_concern,
+
+      (SELECT ROUND(MAX(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS max_retweets_3rd_concern,
+
+      (SELECT ROUND(AVG(tweets.retweet_counts))
+        FROM  public.tweets
+        WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+        AS avg_retweets_3rd_concern
+
          
 FROM public.candidats
 LEFT JOIN public.tweets ON candidats.id_twitter = tweets.author_id
@@ -128,7 +295,7 @@ INNER JOIN public.affiliation_elections ON candidats.id = affiliation_elections.
 INNER JOIN public.denomination_partis ON affiliation_elections.nom_annee_election = denomination_partis.nom_annee_election
 INNER JOIN public.contexte_elections ON affiliation_elections.annee_election = contexte_elections.annee
 
-GROUP BY candidats.id, prenom, nom, id_twitter, annee_election
+GROUP BY candidats.id, prenom, nom, id_twitter, annee_election, date_premier_tour, preoccupation1, preoccupation2, preoccupation3
 """, conn)
 
 # Closing of of cursor and connection
