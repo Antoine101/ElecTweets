@@ -65,7 +65,7 @@ with open("data/contexte_elections.csv", newline="") as f:
         row = [item if item!='' else None for item in row ]
         cur.execute("""
             INSERT INTO contexte_elections (annee, date_premier_tour, parti_vainqueur_presidentielles, preoccupation1, preoccupation2, preoccupation3) 
-            VALUES (%s, %s, %s, %s, %s, %s)
+            VALUES (%s, TO_DATE(%s, 'DD/MM/YYYY'), %s, %s, %s, %s)
             """, row)
         
 conn.commit()
