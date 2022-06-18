@@ -33,10 +33,21 @@ services:
     depends_on:
       - database
     networks:
-      - postgres-network    
+      - postgres-network
     volumes:
       - ../:/app
-    
+
+  jupyter:
+    image: jupyter/datascience-notebook:latest       
+    ports:
+        - 8891:8888
+    depends_on:
+      - database
+    networks:
+      - postgres-network
+    volumes:
+      - ../:/home/jovyan
+
 volumes:
     database:
     pgadmin:

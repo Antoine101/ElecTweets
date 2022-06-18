@@ -18,6 +18,7 @@ def remove_punctuations(text):
         text = text.replace(punctuation, '')
     return text
 
+
 def get_tags_list(json_file_path):
     data = pd.read_json(json_file_path)
     data = data.entities.to_dict()
@@ -26,8 +27,8 @@ def get_tags_list(json_file_path):
         if data[i]:
             if data[i].get('hashtags'):
                 for tag_data in data[i].get('hashtags') :
-                    tag_list.append(tag_data['tag'])
-    return tag_list
+                    tag_list.append(tag_data['tag'].upper())
+    return list(tag_list)
 
 def json_to_df(json_file_path):
     data = pd.read_json(json_file_path)
@@ -74,6 +75,18 @@ def import_data_into_table_tweets(password,user):
                 ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
             conn.commit()
     conn.close()
+    
+    def import_tags_into_table_tags(password,user,file):
+    conn = psycopg2.connect(dbname="ElecTweets", password = password, user=user, host="localhost", port="5432")
+    cursor = conn.cursor()
+    data = get_tags_list(file)
+    for element in data:
+        cursor.execute(f"INSERT INTO tags (tag) VALUES ('{element}') ON CONFLICT DO NOTHING""")
+        conn.commit()
+    conn.close()
+    
     print('Data have been exported to PostGreSql Database')
+    
+    
 
     
