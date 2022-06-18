@@ -99,14 +99,24 @@ def get_attribute(data, attribute, default_value):
     return data
 
 # Json do df with path data
+
+def add_tags_column(json_file_path):
+    data = pd.read_json(json_file_path)
+    data['tags'] = np.empty((len(data), 0)).tolist()
+    for i in range(len(data)):
+        tag_list = []
+        if data.loc[i,'entities']:
+            if data.loc[i,'entities'].get('hashtags'):
+                for tags in data.loc[i,'entities'].get('hashtags'):
+                    data.loc[i,'tags'].append(tags.get('tag').upper())
+    return data['tags']
+
 def json_to_df(json_file_path):
     
     data = pd.read_json(json_file_path)
     if not (data.empty):
         public_metric =json_normalize(data['public_metrics'])
         data = pd.merge(data, public_metric, left_index=True, right_index=True)
-        data.drop(['public_metrics','conversation_id','context_annotations','geo','attachments','lang','source',
-                       'withheld','in_reply_to_user_id'], inplace=True, axis=1)
         data.rename(columns={"id": "tweet_id", "created_at": "publication_date", "text":"content","like_count":"like_counts",
                              "reply_count":"reply_counts","retweet_count":"retweet_counts","quote_count":"quote_counts"}, inplace = True)
         
@@ -119,6 +129,7 @@ def json_to_df(json_file_path):
         data['publication_date'] = data['publication_date'].dt.strftime('%Y-%m-%d')
         data = data.convert_dtypes()
         data['possibly_sensitive'] = data['possibly_sensitive'].astype(str)
+	data['tags'] = add_tags_column(json_file_path)
 
     return data
 
@@ -128,10 +139,18 @@ for file in Path("data/").glob("*.json"):
 
     tweet_data = json_to_df(data_json)
     for i in range(0 ,len(tweet_data)):
-        values = (tweet_data['tweet_id'][i],tweet_data['author_id'][i],tweet_data['publication_date'][i],tweet_data['like_counts'][i],
-        tweet_data['reply_counts'][i],tweet_data['retweet_counts'][i],tweet_data['quote_counts'][i],tweet_data['reply_settings'][i],
-        tweet_data['possibly_sensitive'][i],tweet_data['label'][i],tweet_data['polarity'][i],tweet_data['content'][i])
-        cur.execute("""INSERT INTO tweets (
+    	tag_data = tweet_data['tags'][i]
+    	for tag in tag_data:
+        	cur.execute(f"INSERT INTO tags (tag) VALUES ('{tag}') ON CONFLICT DO NOTHING""")
+        	conn.commit()
+        	cur.execute(f"SELECT tag_id FROM tags WHERE tag='{tag}';")
+        	index = cur.fetchone()[0]
+        	cur.execute(f"INSERT INTO tweets_tags (tweet_id,tag_id) VALUES (%s,%s)""", (tweet_data['tweet_id'][i], index))
+        	conn.commit()
+    	values = (tweet_data['tweet_id'][i],tweet_data['author_id'][i],tweet_data['publication_date'][i],tweet_data['like_counts'][i],
+    	tweet_data['reply_counts'][i],tweet_data['retweet_counts'][i],tweet_data['quote_counts'][i],tweet_data['reply_settings'][i],
+    	tweet_data['possibly_sensitive'][i],tweet_data['content'][i])
+    	cur.execute("""INSERT INTO tweets (
                  tweet_id,
                  author_id, 
                  publication_date,
@@ -141,21 +160,9 @@ for file in Path("data/").glob("*.json"):
                  quote_counts,
                  reply_settings,
                  possibly_sensitive,
-                 label,
-                 polarity,
                  content
-                 ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
-				 
-        entities = tweet_data['entities'][i]
-        if entities is not None:
-            get_attribute(entities, 'hashtags', [])
-
-            for j in range(len(entities['hashtags'])):
-                if entities.get('hashtags')[j] is not None:
-                    element = entities.get('hashtags')[j].get('tag').upper()
-                    cur.execute(f"INSERT INTO tags (tag) VALUES ('{element}') ON CONFLICT DO NOTHING")	 
-		
-        conn.commit()
+                 ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
+    	conn.commit()
 
 print('Data successfully inserted')
 
