@@ -9,7 +9,7 @@ from psycopg2.extensions import register_adapter
 psycopg2.extensions.register_adapter(np.int64, psycopg2._psycopg.AsIs)
 
 # Create a connection to the database
-conn = psycopg2.connect(dbname="ElecTweets", user="admin", host="database", password="password")
+conn = psycopg2.connect(dbname="twitter_elections", user="admin", host="database", password="password")
 
 # Create a cursor to perform database operations
 cur = conn.cursor()
