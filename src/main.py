@@ -111,7 +111,7 @@ def json_to_df(json_file_path):
                              "reply_count":"reply_counts","retweet_count":"retweet_counts","quote_count":"quote_counts"}, inplace = True)
         
         list_label = ['tweet_id', 'author_id', 'publication_date', 'like_counts', 'reply_counts', 'retweet_counts',
-                      'quote_counts','reply_settings', 'possibly_sensitive', 'label', 'polarity', 'content']
+                      'quote_counts','reply_settings', 'possibly_sensitive', 'label', 'polarity', 'content', 'entities']
         for i in list_label:
             get_attribute(data, i, None)
 
@@ -145,6 +145,16 @@ for file in Path("data/").glob("*.json"):
                  polarity,
                  content
                  ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
+				 
+        entities = tweet_data['entities'][i]
+        if entities is not None:
+            get_attribute(entities, 'hashtags', [])
+
+            for j in range(len(entities['hashtags'])):
+                if entities.get('hashtags')[j] is not None:
+                    element = entities.get('hashtags')[j].get('tag').upper()
+                    cur.execute(f"INSERT INTO tags (tag) VALUES ('{element}') ON CONFLICT DO NOTHING")	 
+		
         conn.commit()
 
 print('Data successfully inserted')
