@@ -1,37 +1,5 @@
 [
     {
-        "id": "1535535815866175488",
-        "text": "RT @paroles_la: 11 juin 1942. L'enfer s'est refermé derrière eux, ils viennent d'évacuer Bir Hakeim. Lui est couvert de sang et pourtant in…",
-        "created_at": "2022-06-11 08:14:02+00:00",
-        "attachments": null,
-        "author_id": 1207401907129659397,
-        "context_annotations": [],
-        "conversation_id": 1535535815866175488,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 14,
-                    "username": "paroles_la",
-                    "id": "1177251038761553922"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 962,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "withheld": null
-    },
-    {
         "id": "1535355181365444608",
         "text": "Salle comble à #Paris20 pour ma dernière réunion publique avec @datirachida !\n\nMerci pour ton soutien sans faille dans tous les combats que je mène pour défendre #Paris20 depuis 2 ans !\n\nDimanche 12 juin, j’ai besoin de vous !\n\n#circo7515 #legislatives2022 #PourVousDéfendre https://t.co/27yvd4PlUT",
         "created_at": "2022-06-10 20:16:15+00:00",

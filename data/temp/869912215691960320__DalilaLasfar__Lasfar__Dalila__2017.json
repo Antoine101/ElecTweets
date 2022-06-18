@@ -1,0 +1,1752 @@
+[
+    {
+        "id": "873283029954949122",
+        "text": "RT @LibeDesintox: C'est qd même dingue que TOUS les jours, à des heures de grande écoute, le clip de campagne de @JLMelenchon diffuse une f…",
+        "created_at": "2017-06-09 20:57:53+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 873283029954949122,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 113,
+                    "end": 125,
+                    "username": "JLMelenchon",
+                    "id": "80820758"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 150,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873282960102969344",
+        "text": "RT @JulienRichard92: #santé J'ai signé la charte pour la recherche contre les #cancers pédiatriques. Soigner les enfants = priorité absolue…",
+        "created_at": "2017-06-09 20:57:37+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 873282960102969344,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "JulienRichard92",
+                    "id": "1198226959"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 27,
+                    "tag": "santé"
+                },
+                {
+                    "start": 78,
+                    "end": 86,
+                    "tag": "cancers"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873282525560524800",
+        "text": "RT @HalimaMenhoudj: #circo9307 #Montreuil #Bagnolet #legislative2017 nos engagements pour l'environnement avec @N_Hulot https://t.co/XIVv3O…",
+        "created_at": "2017-06-09 20:55:53+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 873282525560524800,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "HalimaMenhoudj",
+                    "id": "544086238"
+                },
+                {
+                    "start": 111,
+                    "end": 119,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 30,
+                    "tag": "circo9307"
+                },
+                {
+                    "start": 31,
+                    "end": 41,
+                    "tag": "Montreuil"
+                },
+                {
+                    "start": 42,
+                    "end": 51,
+                    "tag": "Bagnolet"
+                },
+                {
+                    "start": 52,
+                    "end": 68,
+                    "tag": "legislative2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873282343355731969",
+        "text": "RT @HalimaMenhoudj: Notre circonscription a besoin d'apaisement et de rassemblement, non d'une \"guerre des gauches\" https://t.co/JKVEsZbJBq",
+        "created_at": "2017-06-09 20:55:10+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 873282343355731969,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "HalimaMenhoudj",
+                    "id": "544086238"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/JKVEsZbJBq",
+                    "expanded_url": "https://www.challenges.fr/elections-legislatives-2017/legislatives-a-bagnolet-montreuil-une-circonscription-en-or-pour-la-guerre-des-gauches-corbiere-hammadi_478745",
+                    "display_url": "challenges.fr/elections-legi…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873282241144791042",
+        "text": "RT @HalimaMenhoudj: Merci à Fatou pour l'accueil, au Président Dramé et son bureau de l'association du Conseil Supérieur de la Diaspora Mal…",
+        "created_at": "2017-06-09 20:54:45+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 873282241144791042,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "HalimaMenhoudj",
+                    "id": "544086238"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873281814093340673",
+        "text": "RT @fabiennegambiez: En campagne ce matin Métro #MarcelSembat #BoulogneBillancourt #circo9209 @GAMBIEZ2017 https://t.co/aA2prHeiSU",
+        "created_at": "2017-06-09 20:53:03+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872709013154254849",
+                "3_872709107484065792",
+                "3_872709194977345536"
+            ]
+        },
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 873281814093340673,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                },
+                {
+                    "start": 94,
+                    "end": 106,
+                    "username": "GAMBIEZ2017",
+                    "id": "865670845540257792"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 61,
+                    "tag": "MarcelSembat"
+                },
+                {
+                    "start": 62,
+                    "end": 82,
+                    "tag": "BoulogneBillancourt"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "circo9209"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/aA2prHeiSU",
+                    "expanded_url": "https://twitter.com/fabiennegambiez/status/872709278062215168/photo/1",
+                    "display_url": "pic.twitter.com/aA2prHeiSU",
+                    "media_key": "3_872709013154254849"
+                },
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/aA2prHeiSU",
+                    "expanded_url": "https://twitter.com/fabiennegambiez/status/872709278062215168/photo/1",
+                    "display_url": "pic.twitter.com/aA2prHeiSU",
+                    "media_key": "3_872709107484065792"
+                },
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/aA2prHeiSU",
+                    "expanded_url": "https://twitter.com/fabiennegambiez/status/872709278062215168/photo/1",
+                    "display_url": "pic.twitter.com/aA2prHeiSU",
+                    "media_key": "3_872709194977345536"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872441049582645251",
+        "text": "RT @cmadrolle: Jeudi prochain à 9h40 ou 20h40 retrouvez le clip de campagne de l @UDE_FR  sur fr2 \nEt toute la journée sur @franceinter et…",
+        "created_at": "2017-06-07 13:12:10+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 872441049582645251,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "cmadrolle",
+                    "id": "78897599"
+                },
+                {
+                    "start": 81,
+                    "end": 88,
+                    "username": "UDE_FR",
+                    "id": "3468137895"
+                },
+                {
+                    "start": 123,
+                    "end": 135,
+                    "username": "franceinter",
+                    "id": "34867057"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872441010449764352",
+        "text": "RT @fabiennegambiez: Les campagnes électorales avec un peu de soleil au mois de juin c'est tout de suite mieux 😀 #circo9209 #legislatives20…",
+        "created_at": "2017-06-07 13:12:00+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 872441010449764352,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 123,
+                    "tag": "circo9209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872440963549081600",
+        "text": "RT @fabiennegambiez: #legislatives2017 #Circo9209 nous étions présents sur le marché ce matin pour échanger tranquillement sur notre projet…",
+        "created_at": "2017-06-07 13:11:49+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 872440963549081600,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 38,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 39,
+                    "end": 49,
+                    "tag": "Circo9209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872440859207315456",
+        "text": "RT @C_Rossignol: Comme aux présidentielles, Il est craindre que les Insoumis n'appellent pas à battre #Lepen au second tour des législative…",
+        "created_at": "2017-06-07 13:11:24+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 872440859207315456,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "C_Rossignol",
+                    "id": "57632644"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 108,
+                    "tag": "Lepen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872000462081359873",
+        "text": "RT @GillesSauliere: Avec @Violettebaranda et l'@UDE_FR , nous serons présents à la Marche des Fiertés 2017 https://t.co/j4xph8URkI #legisla…",
+        "created_at": "2017-06-06 08:01:25+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 872000462081359873,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "GillesSauliere",
+                    "id": "6409532"
+                },
+                {
+                    "start": 25,
+                    "end": 41,
+                    "username": "Violettebaranda",
+                    "id": "2389800120"
+                },
+                {
+                    "start": 47,
+                    "end": 54,
+                    "username": "UDE_FR",
+                    "id": "3468137895"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/j4xph8URkI",
+                    "expanded_url": "http://baranda-sauliere-2017.fr/2017/06/violette-baranda-et-gilles-sauliere-presents-a-la-quinzaine-des-fiertes/",
+                    "display_url": "baranda-sauliere-2017.fr/2017/06/violet…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872000438979178496",
+        "text": "RT @GillesSauliere: The latest Without control! https://t.co/8RlxuWntlT Thanks to @startupvillage @OlivierPerou @gmirlt #afp #blockchain",
+        "created_at": "2017-06-06 08:01:20+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 872000438979178496,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "GillesSauliere",
+                    "id": "6409532"
+                },
+                {
+                    "start": 82,
+                    "end": 97,
+                    "username": "startupvillage",
+                    "id": "200563270"
+                },
+                {
+                    "start": 98,
+                    "end": 111,
+                    "username": "OlivierPerou",
+                    "id": "207455207"
+                },
+                {
+                    "start": 112,
+                    "end": 119,
+                    "username": "gmirlt",
+                    "id": "106707651"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 124,
+                    "tag": "afp"
+                },
+                {
+                    "start": 125,
+                    "end": 136,
+                    "tag": "blockchain"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/8RlxuWntlT",
+                    "expanded_url": "http://paper.li/GillesSauliere/1307318245?edition_id=b07fa480-4a4a-11e7-9df2-0cc47a0d1605",
+                    "display_url": "paper.li/GillesSauliere…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871837974115254272",
+        "text": "RT @JulienRichard92: L'Union des Démocrates et Ecologistes s'engage pleinement pour une majorité progressiste, écologiste et européenne. #A…",
+        "created_at": "2017-06-05 21:15:45+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871837974115254272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "JulienRichard92",
+                    "id": "1198226959"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871837837129371649",
+        "text": "RT @C_Rossignol: Mélenchon n'a jamais entendu parler de Tchernobyl de la ville-usine de Norilsk du lac Karatchaï en Russie ou encore des po…",
+        "created_at": "2017-06-05 21:15:12+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855115617229127680",
+                    "name": "Russia",
+                    "description": "Russia"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 871837837129371649,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "C_Rossignol",
+                    "id": "57632644"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871774181247078400",
+        "text": "RT @najatvb: Démenti ferme : mes enfants ne sont pas scolarisés dans le privé et ne l'ont jamais été.\n#FakeNews \nhttps://t.co/2CEs5oxXoz",
+        "created_at": "2017-06-05 17:02:16+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828645169222164480",
+                    "name": "Najat Vallaud-Belkacem",
+                    "description": "Najat Vallaud-Belkacem"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828645169222164480",
+                    "name": "Najat Vallaud-Belkacem",
+                    "description": "Najat Vallaud-Belkacem"
+                }
+            }
+        ],
+        "conversation_id": 871774181247078400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "najatvb",
+                    "id": "79145543"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 111,
+                    "tag": "FakeNews"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/2CEs5oxXoz",
+                    "expanded_url": "http://www.bfmtv.com/mediaplayer/video/mes-enfants-sont-evidemment-scolarises-dans-le-public-affirme-najat-vallaud-belkacem-534413.html",
+                    "display_url": "bfmtv.com/mediaplayer/vi…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 256,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871774154428751873",
+        "text": "RT @C_Rossignol: Vers  un Front national de gauche ? #FI https://t.co/RXzad5pda7",
+        "created_at": "2017-06-05 17:02:09+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871774154428751873,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "C_Rossignol",
+                    "id": "57632644"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 56,
+                    "tag": "FI"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/RXzad5pda7",
+                    "expanded_url": "http://www.rtl.fr/actu/politique/legislatives-2017-jean-luc-melenchon-est-aussi-victime-du-space-blues-selon-alba-ventura-7788842772",
+                    "display_url": "rtl.fr/actu/politique…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871744921316806656",
+        "text": "RT @fabiennegambiez: #BoulogneBillancourt #circo9209 @GAMBIEZ2017 ce matin sur marché Escudier pour présenter notre projet sincère et de co…",
+        "created_at": "2017-06-05 15:06:00+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871744921316806656,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                },
+                {
+                    "start": 53,
+                    "end": 65,
+                    "username": "GAMBIEZ2017",
+                    "id": "865670845540257792"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 41,
+                    "tag": "BoulogneBillancourt"
+                },
+                {
+                    "start": 42,
+                    "end": 52,
+                    "tag": "circo9209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871287488664539137",
+        "text": "RT @gouvernementFR: #LondonAttacks \nLa France exprime son émotion face aux lâches attaques qui ont frappé Londres en son cœur. 🇫🇷➖🇬🇧 https:…",
+        "created_at": "2017-06-04 08:48:19+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855412191050121217",
+                    "name": "London",
+                    "description": "london"
+                }
+            }
+        ],
+        "conversation_id": 871287488664539137,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "gouvernementFR",
+                    "id": "951480480"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 34,
+                    "tag": "LondonAttacks"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1327,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871287415092244481",
+        "text": "RT @leLab_E1: Attentat de Londres : Marine Le Pen réagit mais n'a aucun mot pour les victimes https://t.co/sVKU1KkwlP https://t.co/RYP0CCVk…",
+        "created_at": "2017-06-04 08:48:02+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855412191050121217",
+                    "name": "London",
+                    "description": "london"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 871287415092244481,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "leLab_E1",
+                    "id": "376812938"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/sVKU1KkwlP",
+                    "expanded_url": "http://bit.ly/2rSqry0",
+                    "display_url": "bit.ly/2rSqry0"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 305,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871050567254237184",
+        "text": "RT @cmadrolle: Partout en France Les candidates et Les candidats de l @UDE_FR  sont en campagne #ecologie #solidarite #europe #démocratie .…",
+        "created_at": "2017-06-03 17:06:53+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 871050567254237184,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "cmadrolle",
+                    "id": "78897599"
+                },
+                {
+                    "start": 70,
+                    "end": 77,
+                    "username": "UDE_FR",
+                    "id": "3468137895"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 105,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 106,
+                    "end": 117,
+                    "tag": "solidarite"
+                },
+                {
+                    "start": 118,
+                    "end": 125,
+                    "tag": "europe"
+                },
+                {
+                    "start": 126,
+                    "end": 137,
+                    "tag": "démocratie"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871036286018125824",
+        "text": "RT @philippecharlot: Député je travaillerai à la rénovation de nos vieilles pratiques institutionnelles et à la moralisation de la vie publ…",
+        "created_at": "2017-06-03 16:10:08+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871036286018125824,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "philippecharlot",
+                    "id": "39209486"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871036209778352129",
+        "text": "RT @philippecharlot: Bon accueil des habitants ce matin à Poisat lors de la distribution du projet @UDE_FR #circo3802 #legislatives2017 htt…",
+        "created_at": "2017-06-03 16:09:50+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871036209778352129,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "philippecharlot",
+                    "id": "39209486"
+                },
+                {
+                    "start": 99,
+                    "end": 106,
+                    "username": "UDE_FR",
+                    "id": "3468137895"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 117,
+                    "tag": "circo3802"
+                },
+                {
+                    "start": 118,
+                    "end": 135,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871036094099402752",
+        "text": "RT @GillesSauliere: Dans 15mn, @Violettebaranda et moi, serons rue Lepic, dans notre #circo7518. Vous savez où nous trouver maintenant :) #…",
+        "created_at": "2017-06-03 16:09:22+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 871036094099402752,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "GillesSauliere",
+                    "id": "6409532"
+                },
+                {
+                    "start": 31,
+                    "end": 47,
+                    "username": "Violettebaranda",
+                    "id": "2389800120"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 95,
+                    "tag": "circo7518"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870955414057357313",
+        "text": "RT @DalilaLasfar: Voici nos engagements pour construire une majorité humaniste, progressiste et écologiste pour la France 🇫🇷 https://t.co/y…",
+        "created_at": "2017-06-03 10:48:46+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 870955414057357313,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "DalilaLasfar",
+                    "id": "869912215691960320"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870762234389168129",
+        "text": "RT @fabiennegambiez: Merci à @JVPlace pour son soutien #legislatives2017 #circo9209 #BoulogneBillancourt https://t.co/8pMy6BMRa8",
+        "created_at": "2017-06-02 22:01:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870732077448220672"
+            ]
+        },
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 870762234389168129,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                },
+                {
+                    "start": 29,
+                    "end": 37,
+                    "username": "JVPlace",
+                    "id": "219361536"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 72,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 73,
+                    "end": 83,
+                    "tag": "circo9209"
+                },
+                {
+                    "start": 84,
+                    "end": 104,
+                    "tag": "BoulogneBillancourt"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/8pMy6BMRa8",
+                    "expanded_url": "https://twitter.com/fabiennegambiez/status/870732210705510400/photo/1",
+                    "display_url": "pic.twitter.com/8pMy6BMRa8",
+                    "media_key": "3_870732077448220672"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870574661339316225",
+        "text": "RT @EmmanuelMacron: La France proposera un plan d'actions concret et prendra des initiatives concrètes, notamment en Europe et en Afrique.",
+        "created_at": "2017-06-02 09:35:48+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864921776123293696",
+                    "name": "Africa",
+                    "description": "Africa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 870574661339316225,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 569,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870574600089997313",
+        "text": "RT @EmmanuelMacron: Nous ne tiendrons pas seulement nos engagements passés. Dès ce soir, la France se doit d'être plus ambitieuse encore, p…",
+        "created_at": "2017-06-02 09:35:33+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 870574600089997313,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 802,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870341191166046211",
+        "text": "Voici nos engagements pour construire une majorité humaniste, progressiste et écologiste pour la France 🇫🇷 https://t.co/yLNcXwpKpr",
+        "created_at": "2017-06-01 18:08:04+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870341183297523713"
+            ]
+        },
+        "author_id": 869912215691960320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 870341191166046211,
+        "entities": {
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/yLNcXwpKpr",
+                    "expanded_url": "https://twitter.com/DalilaLasfar/status/870341191166046211/photo/1",
+                    "display_url": "pic.twitter.com/yLNcXwpKpr",
+                    "media_key": "3_870341183297523713"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870292635965149185",
+        "text": "RT @JulienRichard92: #Asnières #Colombes Notre affiche officielle #legislatives2017 https://t.co/UdjJPjoRQi",
+        "created_at": "2017-06-01 14:55:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868457299840552960"
+            ]
+        },
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 870292635965149185,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "JulienRichard92",
+                    "id": "1198226959"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 30,
+                    "tag": "Asnières"
+                },
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "Colombes"
+                },
+                {
+                    "start": 66,
+                    "end": 83,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/UdjJPjoRQi",
+                    "expanded_url": "https://twitter.com/JulienRichard92/status/868457724551598080/photo/1",
+                    "display_url": "pic.twitter.com/UdjJPjoRQi",
+                    "media_key": "3_868457299840552960"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870292598300303360",
+        "text": "RT @fabiennegambiez: Votre candidate @UDE_FR @partisocialiste  @PartiRadicalG sur #circo9209 interrogee par @BFMTV  cet après midi #legisla…",
+        "created_at": "2017-06-01 14:54:59+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 870292598300303360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "fabiennegambiez",
+                    "id": "504625171"
+                },
+                {
+                    "start": 37,
+                    "end": 44,
+                    "username": "UDE_FR",
+                    "id": "3468137895"
+                },
+                {
+                    "start": 45,
+                    "end": 61,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                },
+                {
+                    "start": 63,
+                    "end": 77,
+                    "username": "PartiRadicalG",
+                    "id": "47459306"
+                },
+                {
+                    "start": 108,
+                    "end": 114,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 92,
+                    "tag": "circo9209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870292556906725376",
+        "text": "RT @philippecharlot: Député je m'engage à travailler à la construction de 60 000 logements pour les étudiants et les jeunes #circo3802 #leg…",
+        "created_at": "2017-06-01 14:54:49+00:00",
+        "attachments": null,
+        "author_id": 869912215691960320,
+        "context_annotations": [],
+        "conversation_id": 870292556906725376,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "philippecharlot",
+                    "id": "39209486"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 134,
+                    "tag": "circo3802"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

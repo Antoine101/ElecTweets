@@ -1,0 +1,5345 @@
+[
+    {
+        "id": "873138708244987905",
+        "text": "RT @ChristNavarre: J-3 Absence de candidat #laRepubliqueEnMarche dans la #circo7515 de #Paris soutien à @aragon_paris20 pour la #majoritepr…",
+        "created_at": "2017-06-09 11:24:24+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 873138708244987905,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 43,
+                    "end": 64,
+                    "tag": "laRepubliqueEnMarche"
+                },
+                {
+                    "start": 73,
+                    "end": 83,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 87,
+                    "end": 93,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 104,
+                    "end": 119,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872859769576357888",
+        "text": "Merci à vous tous pour vos soutiens et vos engagements.\nL'important reste à venir.\nDimanche voter #Aragon c'est... https://t.co/HNGLktEjV2",
+        "created_at": "2017-06-08 16:56:00+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 872859769576357888,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 105,
+                    "tag": "Aragon"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/HNGLktEjV2",
+                    "expanded_url": "http://fb.me/1XTvIGPsH",
+                    "display_url": "fb.me/1XTvIGPsH"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "872859729462218754",
+        "text": "Retweeted Kazansky (@Kazansky1):\n\nAdmire la temerite et l audace de @aragon_paris20 face a la coalition contre... https://t.co/Ng1FhhjLbL",
+        "created_at": "2017-06-08 16:55:51+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 872859729462218754,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 30,
+                    "username": "Kazansky1",
+                    "id": "343264102"
+                },
+                {
+                    "start": 68,
+                    "end": 83,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/Ng1FhhjLbL",
+                    "expanded_url": "http://fb.me/1YZfAstBO",
+                    "display_url": "fb.me/1YZfAstBO"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "872859685308813312",
+        "text": "RT @Kazansky1: Admire la temerite et l audace de @aragon_paris20 face a la coalition contre lui #legislatives_2017 #legislatives2017 #deput…",
+        "created_at": "2017-06-08 16:55:40+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 872859685308813312,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 114,
+                    "tag": "legislatives_2017"
+                },
+                {
+                    "start": 115,
+                    "end": 132,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Kazansky1",
+                    "id": "343264102"
+                },
+                {
+                    "start": 49,
+                    "end": 64,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872859663104172032",
+        "text": "Merci à vous tous pour vos soutiens et vos engagements.\nL'important reste à venir.\nDimanche voter #Aragon c'est voter pour @EmmanuelMacron https://t.co/LrnQlIaEN4",
+        "created_at": "2017-06-08 16:55:35+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "872518251359592448",
+                    "name": "GE- Polling day",
+                    "description": "GE- Polling day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872859663104172032,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 105,
+                    "tag": "Aragon"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 123,
+                    "end": 138,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/LrnQlIaEN4",
+                    "expanded_url": "https://twitter.com/Kazansky1/status/872754206016507904",
+                    "display_url": "twitter.com/Kazansky1/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 8,
+            "like_count": 4,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872326900332580864",
+        "text": "RT @ChristNavarre: J-5 Soutien à @aragon_paris20 dans la @circo7515 qui s'inscrit dans la #majoritepresidentielle en l'absence de candidat…",
+        "created_at": "2017-06-07 05:38:34+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 872326900332580864,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 33,
+                    "end": 48,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871769530619408384",
+        "text": "Retweeted Edouard Philippe (@EPhilippePM):\n\nÉtat d'urgence prolongé, contrôle aux frontières : nous mettons tout... https://t.co/WABPsuIDnn",
+        "created_at": "2017-06-05 16:43:47+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            }
+        ],
+        "conversation_id": 871769530619408384,
+        "entities": {
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/WABPsuIDnn",
+                    "expanded_url": "http://fb.me/1eIrTxzLE",
+                    "display_url": "fb.me/1eIrTxzLE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "871769460574756865",
+        "text": "RT @EPhilippePM: État d'urgence prolongé, contrôle aux frontières : nous mettons tout en place pour lutter contre le terrorisme &amp; protéger…",
+        "created_at": "2017-06-05 16:43:30+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 871769460574756865,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 354,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871063120550277120",
+        "text": "RT @ChristNavarre: @HerveAbadie @FlodeMassol @AragonParis20 @le20emecestvous @enmarchefr @Pierr_Person @LaetitiaAvia @aragon_paris20 @arago…",
+        "created_at": "2017-06-03 17:56:46+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 871063120550277120,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 31,
+                    "username": "HerveAbadie",
+                    "id": "777958560537903104"
+                },
+                {
+                    "start": 32,
+                    "end": 44,
+                    "username": "FlodeMassol",
+                    "id": "367087331"
+                },
+                {
+                    "start": 45,
+                    "end": 59,
+                    "username": "AragonParis20",
+                    "id": "772491935491686400"
+                },
+                {
+                    "start": 60,
+                    "end": 76,
+                    "username": "le20emecestvous",
+                    "id": "752131267580354560"
+                },
+                {
+                    "start": 77,
+                    "end": 88,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 89,
+                    "end": 102,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 103,
+                    "end": 116,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 117,
+                    "end": 132,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871063100530806785",
+        "text": "RT @ChristNavarre: @HerveAbadie @FlodeMassol @AragonParis20 @le20emecestvous @enmarchefr @Pierr_Person @LaetitiaAvia @aragon_paris20 Concer…",
+        "created_at": "2017-06-03 17:56:41+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 871063100530806785,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 31,
+                    "username": "HerveAbadie",
+                    "id": "777958560537903104"
+                },
+                {
+                    "start": 32,
+                    "end": 44,
+                    "username": "FlodeMassol",
+                    "id": "367087331"
+                },
+                {
+                    "start": 45,
+                    "end": 59,
+                    "username": "AragonParis20",
+                    "id": "772491935491686400"
+                },
+                {
+                    "start": 60,
+                    "end": 76,
+                    "username": "le20emecestvous",
+                    "id": "752131267580354560"
+                },
+                {
+                    "start": 77,
+                    "end": 88,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 89,
+                    "end": 102,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 103,
+                    "end": 116,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 117,
+                    "end": 132,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870999396707475456",
+        "text": "https://t.co/tq0VOzrliG",
+        "created_at": "2017-06-03 13:43:33+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 870999396707475456,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/tq0VOzrliG",
+                    "expanded_url": "http://fb.me/6VKA6BN79",
+                    "display_url": "fb.me/6VKA6BN79"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "870542687539126272",
+        "text": "Pensez à nous contacter pour les #procurations durant votre absence, nous avons la personne qu' il vous faut... https://t.co/7Rd1TrPiWM",
+        "created_at": "2017-06-02 07:28:45+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10000607734",
+                    "name": "NBA Basketball",
+                    "description": "All the latest basketball action from the NBA."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029304530",
+                    "name": "NBA Basketball"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049616156",
+                    "name": "Cleveland Cavaliers at Golden State Warriors"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049749108",
+                    "name": "Game 1: Cavaliers at Warriors"
+                }
+            }
+        ],
+        "conversation_id": 870542687539126272,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 46,
+                    "tag": "procurations"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/7Rd1TrPiWM",
+                    "expanded_url": "http://fb.me/14GPeGsYS",
+                    "display_url": "fb.me/14GPeGsYS"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "870542600369057792",
+        "text": "Pensez à nous contacter pour les #procurations durant votre absence, nous avons la personne qu' il vous faut #TeamAragon #legislatives2017 https://t.co/3cqRzbCMns",
+        "created_at": "2017-06-02 07:28:24+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10000607734",
+                    "name": "NBA Basketball",
+                    "description": "All the latest basketball action from the NBA."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029304530",
+                    "name": "NBA Basketball"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049616156",
+                    "name": "Cleveland Cavaliers at Golden State Warriors"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049749108",
+                    "name": "Game 1: Cavaliers at Warriors"
+                }
+            }
+        ],
+        "conversation_id": 870542600369057792,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 46,
+                    "tag": "procurations"
+                },
+                {
+                    "start": 109,
+                    "end": 120,
+                    "tag": "TeamAragon"
+                },
+                {
+                    "start": 121,
+                    "end": 138,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/3cqRzbCMns",
+                    "expanded_url": "https://twitter.com/gouvernementFR/status/870265283960651781",
+                    "display_url": "twitter.com/gouvernementFR…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870389091317231616",
+        "text": "Retweeted Jean-Louis BORLOO (@JLBorloo):\n\n#presidentielle2017 \"La grande aspiration au renouvellement est... https://t.co/liT75tgsj6",
+        "created_at": "2017-06-01 21:18:25+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 870389091317231616,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 61,
+                    "tag": "presidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 29,
+                    "end": 38,
+                    "username": "JLBorloo",
+                    "id": "279137479"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/liT75tgsj6",
+                    "expanded_url": "http://fb.me/6gJPm3D6M",
+                    "display_url": "fb.me/6gJPm3D6M"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "870389035579080705",
+        "text": "RT @JLBorloo: #presidentielle2017 \"La grande aspiration au renouvellement est incarnée par @EmmanuelMacron, pour une 🇫🇷 positive.\" • #RTLMa…",
+        "created_at": "2017-06-01 21:18:11+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 870389035579080705,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 33,
+                    "tag": "presidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "JLBorloo",
+                    "id": "279137479"
+                },
+                {
+                    "start": 91,
+                    "end": 106,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 131,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868978010350915584",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@EmmanuelMacron @EPhilippePM @enmarchefr @BGriveaux @delevoye... https://t.co/j57sF8HiXx",
+        "created_at": "2017-05-28 23:51:17+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868978010350915584,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 27,
+                    "probability": 0.8406,
+                    "type": "Person",
+                    "normalized_text": "Christophe Navarre"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 48,
+                    "end": 63,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                },
+                {
+                    "start": 77,
+                    "end": 88,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 89,
+                    "end": 99,
+                    "username": "BGriveaux",
+                    "id": "317655205"
+                },
+                {
+                    "start": 100,
+                    "end": 109,
+                    "username": "delevoye",
+                    "id": "109320501"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/j57sF8HiXx",
+                    "expanded_url": "http://fb.me/8qtLlrjzW",
+                    "display_url": "fb.me/8qtLlrjzW"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868977967631880192",
+        "text": "RT @ChristNavarre: @EmmanuelMacron @EPhilippePM @enmarchefr @BGriveaux @delevoye #LREM #majoritepresidentielle #circo7515 #laRepubliqueEnMa…",
+        "created_at": "2017-05-28 23:51:06+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868977967631880192,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 34,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868953115747377152",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@enmarcheParis Soutenons les candidats #lrem, @Pierr_Person et... https://t.co/aEpDejy822",
+        "created_at": "2017-05-28 22:12:21+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868953115747377152,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 92,
+                    "tag": "lrem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 48,
+                    "end": 62,
+                    "username": "EnMarcheParis",
+                    "id": "724553994023100417"
+                },
+                {
+                    "start": 94,
+                    "end": 107,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/aEpDejy822",
+                    "expanded_url": "http://fb.me/4QuvtUiBd",
+                    "display_url": "fb.me/4QuvtUiBd"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868953104737349633",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@enmarchefr Soutenons les candidats #lrem, @Pierr_Person et... https://t.co/pp5NNRuqRf",
+        "created_at": "2017-05-28 22:12:19+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868953104737349633,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 89,
+                    "tag": "lrem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 48,
+                    "end": 59,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 91,
+                    "end": 104,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/pp5NNRuqRf",
+                    "expanded_url": "http://fb.me/8CQWeJ0H2",
+                    "display_url": "fb.me/8CQWeJ0H2"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868953067613548548",
+        "text": "RT @ChristNavarre: @enmarcheParis Soutenons les candidats #lrem, @Pierr_Person et @LaetitiaAvia, et à @aragon_paris20 de la #majoritepresid…",
+        "created_at": "2017-05-28 22:12:10+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868953067613548548,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 63,
+                    "tag": "lrem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 33,
+                    "username": "EnMarcheParis",
+                    "id": "724553994023100417"
+                },
+                {
+                    "start": 65,
+                    "end": 78,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 82,
+                    "end": 95,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 102,
+                    "end": 117,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868953046121799680",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@enmarcheIDF Soutenons les candidats #lrem, @Pierr_Person et... https://t.co/K4x3tF4cRq",
+        "created_at": "2017-05-28 22:12:05+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868953046121799680,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 90,
+                    "tag": "lrem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 92,
+                    "end": 105,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/K4x3tF4cRq",
+                    "expanded_url": "http://fb.me/132DW6hHY",
+                    "display_url": "fb.me/132DW6hHY"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868953041440997376",
+        "text": "RT @ChristNavarre: @enmarchefr Soutenons les candidats #lrem, @Pierr_Person et @LaetitiaAvia, et à @aragon_paris20 de la #majoritepresident…",
+        "created_at": "2017-05-28 22:12:04+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868953041440997376,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 60,
+                    "tag": "lrem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 30,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 62,
+                    "end": 75,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 79,
+                    "end": 92,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 99,
+                    "end": 114,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868952971102621696",
+        "text": "RT @ChristNavarre: @enmarcheIDF Soutenons les candidats #lrem, @Pierr_Person et @LaetitiaAvia, et à @aragon_paris20 de la #majoritepresiden…",
+        "created_at": "2017-05-28 22:11:47+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868952971102621696,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868944921889091585",
+        "text": "Je condamne cet acte de vandalisme commis sur la tombe du général De Gaulle, c'est un acte contre la France, la... https://t.co/yJSwFoaomS",
+        "created_at": "2017-05-28 21:39:48+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 868944921889091585,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/yJSwFoaomS",
+                    "expanded_url": "http://fb.me/32Gw76oQ2",
+                    "display_url": "fb.me/32Gw76oQ2"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868944853748600837",
+        "text": "Je condamne cet acte de vandalisme commis sur la tombe du général De Gaulle, c'est un acte contre la France, la République et la Démocratie. https://t.co/hvPuMr6Vpy",
+        "created_at": "2017-05-28 21:39:32+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 868944853748600837,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/hvPuMr6Vpy",
+                    "expanded_url": "https://twitter.com/Charles2Gaulle_/status/868556312740757504",
+                    "display_url": "twitter.com/Charles2Gaulle…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868845362194337793",
+        "text": "Retweeted En Marche (@enmarchefr):\n\n« Je soutiens tous ceux qui veulent donner au Président de la République une majorité. » @EPhilippePM",
+        "created_at": "2017-05-28 15:04:11+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868845362194337793,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 32,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868845258330824704",
+        "text": "RT @enmarchefr: « Je soutiens tous ceux qui veulent donner au Président de la République une majorité. » @EPhilippePM",
+        "created_at": "2017-05-28 15:03:46+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868845258330824704,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 231,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868845099228286977",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@EnMarcheParis20 @MilitantsUDIP20 @UDI_Paris20 #EnMarche... https://t.co/tHDIWkFKzY",
+        "created_at": "2017-05-28 15:03:08+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868845099228286977,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 104,
+                    "tag": "EnMarche"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 82,
+                    "end": 94,
+                    "username": "UDI_Paris20",
+                    "id": "1600653655"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/tHDIWkFKzY",
+                    "expanded_url": "http://fb.me/19bd2rheW",
+                    "display_url": "fb.me/19bd2rheW"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868845003837243392",
+        "text": "RT @ChristNavarre: @EnMarcheParis20 @MilitantsUDIP20 @UDI_Paris20 #EnMarche #legislatives2017 \nhttps://t.co/HYxDs8iLA3",
+        "created_at": "2017-05-28 15:02:45+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868845003837243392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/HYxDs8iLA3",
+                    "expanded_url": "https://twitter.com/enmarchefr/status/868829771379113984",
+                    "display_url": "twitter.com/enmarchefr/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868842957004255234",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@aragon_paris20 @Pierr_Person @LaetitiaAvia #Paris20 #circo7515... https://t.co/xwigwpcNTE",
+        "created_at": "2017-05-28 14:54:37+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868842957004255234,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 27,
+                    "probability": 0.8398,
+                    "type": "Person",
+                    "normalized_text": "Christophe Navarre"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 100,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 101,
+                    "end": 111,
+                    "tag": "circo7515"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 48,
+                    "end": 63,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                },
+                {
+                    "start": 64,
+                    "end": 77,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 78,
+                    "end": 91,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/xwigwpcNTE",
+                    "expanded_url": "http://fb.me/1idfs6svl",
+                    "display_url": "fb.me/1idfs6svl"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868842913844908032",
+        "text": "RT @ChristNavarre: @aragon_paris20 @Pierr_Person @LaetitiaAvia #Paris20 #circo7515 #Circo7506 #circo7508 #LREM #majoritepresidentielle \nhtt…",
+        "created_at": "2017-05-28 14:54:27+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868842913844908032,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 71,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 72,
+                    "end": 82,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "Circo7506"
+                },
+                {
+                    "start": 94,
+                    "end": 104,
+                    "tag": "circo7508"
+                },
+                {
+                    "start": 105,
+                    "end": 110,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 111,
+                    "end": 134,
+                    "tag": "majoritepresidentielle"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 19,
+                    "end": 34,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                },
+                {
+                    "start": 35,
+                    "end": 48,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 49,
+                    "end": 62,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868842619987574784",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n#EnMarche avec les candidats de #Paris20 :\n@Pierr_Person... https://t.co/qFJZVIUGV9",
+        "created_at": "2017-05-28 14:53:17+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868842619987574784,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 57,
+                    "tag": "EnMarche"
+                },
+                {
+                    "start": 80,
+                    "end": 88,
+                    "tag": "Paris20"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 91,
+                    "end": 104,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/qFJZVIUGV9",
+                    "expanded_url": "http://fb.me/90dAbflkx",
+                    "display_url": "fb.me/90dAbflkx"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868842550051954690",
+        "text": "RT @ChristNavarre: #EnMarche avec les candidats de #Paris20 :\n@Pierr_Person (#circo7506)\n@LaetitiaAvia (#circo7508)\n@aragon_paris20 (#circo…",
+        "created_at": "2017-05-28 14:53:00+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868842550051954690,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 28,
+                    "tag": "EnMarche"
+                },
+                {
+                    "start": 51,
+                    "end": 59,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 77,
+                    "end": 87,
+                    "tag": "circo7506"
+                },
+                {
+                    "start": 104,
+                    "end": 114,
+                    "tag": "circo7508"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 62,
+                    "end": 75,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 89,
+                    "end": 102,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 116,
+                    "end": 131,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868502607727386624",
+        "text": "Retweeted DELARUE Emmanuel (@DELARUEEm):\n\nJ'ajoute mon ami @aragon_paris20 dans circo #7515 car je connais  son... https://t.co/9voC2UeBM4",
+        "created_at": "2017-05-27 16:22:12+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868502607727386624,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "DELARUEEm",
+                    "id": "572138913"
+                },
+                {
+                    "start": 59,
+                    "end": 74,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/9voC2UeBM4",
+                    "expanded_url": "http://fb.me/8Qdavg42l",
+                    "display_url": "fb.me/8Qdavg42l"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868502554908520448",
+        "text": "RT @DELARUEEm: J'ajoute mon ami @aragon_paris20 dans circo #7515 car je connais  son talent et les valeurs humanistes qu'il a à coeur.  #le…",
+        "created_at": "2017-05-27 16:21:59+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868502554908520448,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "DELARUEEm",
+                    "id": "572138913"
+                },
+                {
+                    "start": 32,
+                    "end": 47,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868500440694095872",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n#Paris20 Soutenez les 2 candidats #LREM, @Pierr_Person et... https://t.co/RuiY3QCR6Q",
+        "created_at": "2017-05-27 16:13:35+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868500440694095872,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 56,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 82,
+                    "end": 87,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 89,
+                    "end": 102,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/RuiY3QCR6Q",
+                    "expanded_url": "http://fb.me/LMTQeWSY",
+                    "display_url": "fb.me/LMTQeWSY"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868500338919264256",
+        "text": "RT @ChristNavarre: #Paris20 Soutenez les 2 candidats #LREM, @Pierr_Person et @LaetitiaAvia ainsi que @aragon_paris20 candidat de la  #major…",
+        "created_at": "2017-05-27 16:13:11+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868500338919264256,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 27,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 53,
+                    "end": 58,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 60,
+                    "end": 73,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 77,
+                    "end": 90,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 101,
+                    "end": 116,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868452284728045568",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n#Paris20 @Pierr_Person (#circo7506) et @LaetitiaAvia... https://t.co/WPSCziJaIc",
+        "created_at": "2017-05-27 13:02:14+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868452284728045568,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 27,
+                    "probability": 0.836,
+                    "type": "Person",
+                    "normalized_text": "Christophe Navarre"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 56,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 72,
+                    "end": 82,
+                    "tag": "circo7506"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 57,
+                    "end": 70,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 87,
+                    "end": 100,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/WPSCziJaIc",
+                    "expanded_url": "http://fb.me/18xIcko9X",
+                    "display_url": "fb.me/18xIcko9X"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "868452236195704834",
+        "text": "RT @ChristNavarre: #Paris20 @Pierr_Person (#circo7506) et @LaetitiaAvia  (#circo7508) pour #LREM. #circo7515, @aragon_paris20 pour la #majo…",
+        "created_at": "2017-05-27 13:02:02+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868452236195704834,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 27,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 43,
+                    "end": 53,
+                    "tag": "circo7506"
+                },
+                {
+                    "start": 74,
+                    "end": 84,
+                    "tag": "circo7508"
+                },
+                {
+                    "start": 91,
+                    "end": 96,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 98,
+                    "end": 108,
+                    "tag": "circo7515"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "Pierr_Person",
+                    "id": "2525163440"
+                },
+                {
+                    "start": 58,
+                    "end": 71,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 110,
+                    "end": 125,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868415310210232320",
+        "text": "Retweeted Philippe ARAGÓN (@aragon_paris20):\n\nhttps://t.co/oCBRxqEa10 https://t.co/OQSOaQYG1E",
+        "created_at": "2017-05-27 10:35:18+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 868415310210232320,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 24,
+                    "probability": 0.6916,
+                    "type": "Person",
+                    "normalized_text": "Philippe ARAGÓN"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 42,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/oCBRxqEa10",
+                    "expanded_url": "http://fb.me/3aT7DaJ6y",
+                    "display_url": "fb.me/3aT7DaJ6y"
+                },
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/OQSOaQYG1E",
+                    "expanded_url": "http://fb.me/96TxeKVjE",
+                    "display_url": "fb.me/96TxeKVjE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867389346797821952",
+        "text": "https://t.co/oCBRxqEa10",
+        "created_at": "2017-05-24 14:38:30+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 867389346797821952,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/oCBRxqEa10",
+                    "expanded_url": "http://fb.me/3aT7DaJ6y",
+                    "display_url": "fb.me/3aT7DaJ6y"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867264570821312512",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@MilitantsUDIP20 @EnMarcheParis20 Pas de candidats #LREM dans la... https://t.co/JRJm78uLVN",
+        "created_at": "2017-05-24 06:22:41+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867264570821312512,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 99,
+                    "end": 104,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/JRJm78uLVN",
+                    "expanded_url": "http://fb.me/1Q6RZgCR1",
+                    "display_url": "fb.me/1Q6RZgCR1"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867264536025477121",
+        "text": "RT @ChristNavarre: @MilitantsUDIP20 @EnMarcheParis20 Pas de candidats #LREM dans la #circo7515 . Soutenons @aragon_paris20 pour la #majorit…",
+        "created_at": "2017-05-24 06:22:33+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867264536025477121,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "867264498591293440",
+        "text": "Retweeted Christophe Navarre (@ChristNavarre):\n\n@EnMarcheParis20 Pas de candidats #LREM dans la #circo7515 .... https://t.co/jrrv6djqDf",
+        "created_at": "2017-05-24 06:22:24+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867264498591293440,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 87,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 96,
+                    "end": 106,
+                    "tag": "circo7515"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 44,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/jrrv6djqDf",
+                    "expanded_url": "http://fb.me/5YkfFpPzp",
+                    "display_url": "fb.me/5YkfFpPzp"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867264453271855104",
+        "text": "Retweeted 📢 Tweets Politiques (@LeTweetPol):\n\n.17/05/2014 15:31 Marielle de Sarnez a retweeté :\n#Politique... https://t.co/UfiebSSd8T",
+        "created_at": "2017-05-24 06:22:13+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            }
+        ],
+        "conversation_id": 867264453271855104,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 106,
+                    "tag": "Politique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 42,
+                    "username": "LeTweetPol",
+                    "id": "825096446781308929"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/UfiebSSd8T",
+                    "expanded_url": "http://fb.me/uMBlqIJ5",
+                    "display_url": "fb.me/uMBlqIJ5"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867264439917187072",
+        "text": "RT @ChristNavarre: @EnMarcheParis20 Pas de candidats #LREM dans la #circo7515 . Soutenons @aragon_paris20 qui soutient la #majoritepresiden…",
+        "created_at": "2017-05-24 06:22:10+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867264439917187072,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ChristNavarre",
+                    "id": "53030642"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "867264381192732673",
+        "text": "RT @LeTweetPol: .17/05/2014 15:31 Marielle de Sarnez a retweeté :\n#Politique\nhttps://t.co/z71A9JOyHT",
+        "created_at": "2017-05-24 06:21:56+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 867264381192732673,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 76,
+                    "tag": "Politique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "LeTweetPol",
+                    "id": "825096446781308929"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/z71A9JOyHT",
+                    "expanded_url": "https://twitter.com/TwitterDev/status/467658773323345920",
+                    "display_url": "twitter.com/TwitterDev/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "867264190439968768",
+        "text": "Retweeted 📢 Tweets Politiques (@LeTweetPol):\n\n.RT du ministre chargé des affaires européennes à 12:11 le 14/05/14... https://t.co/uTznGdHiou",
+        "created_at": "2017-05-24 06:21:10+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            }
+        ],
+        "conversation_id": 867264190439968768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 42,
+                    "username": "LeTweetPol",
+                    "id": "825096446781308929"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/uTznGdHiou",
+                    "expanded_url": "http://fb.me/6lW2ciVIN",
+                    "display_url": "fb.me/6lW2ciVIN"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "867264115089321984",
+        "text": "RT @LeTweetPol: .RT du ministre chargé des affaires européennes à 12:11 le 14/05/14 (Marielle de Sarnez)\n#GouvernementPhilippe\nhttps://t.co…",
+        "created_at": "2017-05-24 06:20:52+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 867264115089321984,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 126,
+                    "tag": "GouvernementPhilippe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "LeTweetPol",
+                    "id": "825096446781308929"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "866930484403503105",
+        "text": "Retweeted JC Lagarde (@jclagarde):\n\n#Manchester Solidarité avec nos amis britanniques à nouveau frappés par la... https://t.co/DcvIaVIOeR",
+        "created_at": "2017-05-23 08:15:08+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            }
+        ],
+        "conversation_id": 866930484403503105,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 47,
+                    "tag": "Manchester"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 32,
+                    "username": "jclagarde",
+                    "id": "360680603"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/DcvIaVIOeR",
+                    "expanded_url": "http://fb.me/7LdM6CpaO",
+                    "display_url": "fb.me/7LdM6CpaO"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "866930459946737665",
+        "text": "Retweeted Edouard Philippe (@EPhilippePM):\n\nRéaction suite à l'attaque terroriste à #Manchester le 22 mai au soir... https://t.co/oCD50nyBXg",
+        "created_at": "2017-05-23 08:15:03+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            }
+        ],
+        "conversation_id": 866930459946737665,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 95,
+                    "tag": "Manchester"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/oCD50nyBXg",
+                    "expanded_url": "http://fb.me/11PGUv76A",
+                    "display_url": "fb.me/11PGUv76A"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "866930411900940289",
+        "text": "RT @jclagarde: #Manchester Solidarité avec nos amis britanniques à nouveau frappés par la barbarie qui vise la culture et tue sauvagement e…",
+        "created_at": "2017-05-23 08:14:51+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            }
+        ],
+        "conversation_id": 866930411900940289,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 26,
+                    "tag": "Manchester"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "jclagarde",
+                    "id": "360680603"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 57,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "866930394624663552",
+        "text": "RT @EPhilippePM: Réaction suite à l'attaque terroriste à #Manchester le 22 mai au soir : https://t.co/RisydQvCYf",
+        "created_at": "2017-05-23 08:14:47+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866898918365437952"
+            ]
+        },
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            }
+        ],
+        "conversation_id": 866930394624663552,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 68,
+                    "tag": "Manchester"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/RisydQvCYf",
+                    "expanded_url": "https://twitter.com/EPhilippePM/status/866898924531052544/photo/1",
+                    "display_url": "pic.twitter.com/RisydQvCYf",
+                    "media_key": "3_866898918365437952"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1421,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "866930329239654400",
+        "text": "RT @EmmanuelMacron: J'adresse mes pensées au peuple britannique, aux victimes et à leurs proches. Nous menons ensemble le combat contre le…",
+        "created_at": "2017-05-23 08:14:31+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 866930329239654400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10195,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "865316532842356738",
+        "text": "Retweeted Militants UDI P20 (@MilitantsUDIP20):\n\nEn réunion, aux permanences, dans les médias, sur les marchés... https://t.co/8jpNHdq8qT",
+        "created_at": "2017-05-18 21:21:52+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 865316532842356738,
+        "entities": {
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/8jpNHdq8qT",
+                    "expanded_url": "http://fb.me/3MjHdDSE2",
+                    "display_url": "fb.me/3MjHdDSE2"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "865316481638256642",
+        "text": "RT @MilitantsUDIP20: En réunion, aux permanences, dans les médias, sur les marchés ... @aragon_paris20 est PARTOUT !!! #circo7515 #AragonDe…",
+        "created_at": "2017-05-18 21:21:40+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 865316481638256642,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 129,
+                    "tag": "circo7515"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 102,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "865272101304913921",
+        "text": "Retweeted JC Lagarde (@jclagarde):\n\nSorti de l’hôpital, de retour à Drancy. Merci pour tous vos messages de... https://t.co/oVTgbHQF9f",
+        "created_at": "2017-05-18 18:25:19+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 865272101304913921,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 32,
+                    "username": "jclagarde",
+                    "id": "360680603"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/oVTgbHQF9f",
+                    "expanded_url": "http://fb.me/10UoTEA2c",
+                    "display_url": "fb.me/10UoTEA2c"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "865257332904742912",
+        "text": "RT @jclagarde: Sorti de l’hôpital, de retour à Drancy. Merci pour tous vos messages de sympathie ! https://t.co/GlzhLJV24O",
+        "created_at": "2017-05-18 17:26:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865256253420908544"
+            ]
+        },
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 865257332904742912,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "jclagarde",
+                    "id": "360680603"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/GlzhLJV24O",
+                    "expanded_url": "https://twitter.com/jclagarde/status/865256291446513664/photo/1",
+                    "display_url": "pic.twitter.com/GlzhLJV24O",
+                    "media_key": "3_865256253420908544"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 57,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864841609694900224",
+        "text": "Bravo et bonne chance au gouvernement @EmmanuelMacron @EPhilippe_LH  ... https://t.co/5uxTcaYw7g",
+        "created_at": "2017-05-17 13:54:42+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            }
+        ],
+        "conversation_id": 864841609694900224,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 38,
+                    "end": 53,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "EPhilippe_LH",
+                    "id": "1110890216"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/5uxTcaYw7g",
+                    "expanded_url": "https://twitter.com/Elysee/status/864838538680045569",
+                    "display_url": "twitter.com/Elysee/status/…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864840936773308417",
+        "text": "Bravo et bonne chance au gouvernement @EmmanuelMacron @EPhilippe_LH  ... https://t.co/DYsTyeT6md",
+        "created_at": "2017-05-17 13:52:01+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "864790347636850688",
+                    "name": "Édouard Philippe",
+                    "description": "Édouard Philippe"
+                }
+            }
+        ],
+        "conversation_id": 864840936773308417,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 38,
+                    "end": 53,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "EPhilippe_LH",
+                    "id": "1110890216"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/DYsTyeT6md",
+                    "expanded_url": "https://twitter.com/Elysee/status/864827961450655744",
+                    "display_url": "twitter.com/Elysee/status/…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864535552686571520",
+        "text": "Retweeted Bob le Centriste (@BobLeCentriste):\n\n.@Chantal_Jouanno s'associe à l'appel des élus #UDI et #LR pour... https://t.co/TaOzf1mMDs",
+        "created_at": "2017-05-16 17:38:32+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864535552686571520,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 98,
+                    "tag": "UDI"
+                },
+                {
+                    "start": 102,
+                    "end": 105,
+                    "tag": "LR"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "BobLeCentriste",
+                    "id": "457444998"
+                },
+                {
+                    "start": 48,
+                    "end": 64,
+                    "username": "Chantal_Jouanno",
+                    "id": "102397481"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/TaOzf1mMDs",
+                    "expanded_url": "http://fb.me/8MKRBe4QD",
+                    "display_url": "fb.me/8MKRBe4QD"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864534128309542913",
+        "text": "Retweeted Aurore Bergé (@auroreberge):\n\n\"J'invite les membres Les Républicains qui partagent nos valeurs et notre... https://t.co/VdAdmHs5RZ",
+        "created_at": "2017-05-16 17:32:53+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864534128309542913,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 36,
+                    "username": "auroreberge",
+                    "id": "37509285"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/VdAdmHs5RZ",
+                    "expanded_url": "http://fb.me/8Du07USDf",
+                    "display_url": "fb.me/8Du07USDf"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864533082153549825",
+        "text": "RT @BobLeCentriste: .@Chantal_Jouanno s'associe à l'appel des élus #UDI et #LR pour répondre à la main tendue par Emmanuel #Macron\nhttps://…",
+        "created_at": "2017-05-16 17:28:43+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864533082153549825,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 67,
+                    "end": 71,
+                    "tag": "UDI"
+                },
+                {
+                    "start": 75,
+                    "end": 78,
+                    "tag": "LR"
+                },
+                {
+                    "start": 123,
+                    "end": 130,
+                    "tag": "Macron"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "BobLeCentriste",
+                    "id": "457444998"
+                },
+                {
+                    "start": 21,
+                    "end": 37,
+                    "username": "Chantal_Jouanno",
+                    "id": "102397481"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864532845443919872",
+        "text": "RT @auroreberge: \"J'invite les membres Les Républicains qui partagent nos valeurs et notre projet à passer sur l'autre rive et à nous rejoi…",
+        "created_at": "2017-05-16 17:27:47+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864532845443919872,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "auroreberge",
+                    "id": "37509285"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864462336895188992",
+        "text": "Retweeted Le Nantais 🇪🇺 (@YoyoLeNantais44):\n\nQuand la France Insoumise reprend la strategie du FN avec ses fake... https://t.co/Zah4qjldk1",
+        "created_at": "2017-05-16 12:47:36+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 864462336895188992,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/Zah4qjldk1",
+                    "expanded_url": "http://fb.me/69SxnBPre",
+                    "display_url": "fb.me/69SxnBPre"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864462282432139270",
+        "text": "RT @YoyoLeNantais44: Quand la France Insoumise reprend la strategie du FN avec ses fake news. \n\nSTOP AU FAKE NEWS ! STOP À L'IMMOBILISME !…",
+        "created_at": "2017-05-16 12:47:23+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 864462282432139270,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 71,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864246810512158720",
+        "text": "Retweeted Militants UDI P20 (@MilitantsUDIP20):\n\nCe soir collage Macron sur la 15ème Circonscription de Paris... https://t.co/gCao9vDVYv",
+        "created_at": "2017-05-15 22:31:11+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864246810512158720,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/gCao9vDVYv",
+                    "expanded_url": "http://fb.me/5WbmcW3Lv",
+                    "display_url": "fb.me/5WbmcW3Lv"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864246676709662721",
+        "text": "RT @MilitantsUDIP20: Ce soir collage Macron sur la 15ème Circonscription de Paris 20ème vu par notre #Candidat aux #législatives sur la #15…",
+        "created_at": "2017-05-15 22:30:39+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864246676709662721,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 110,
+                    "tag": "Candidat"
+                },
+                {
+                    "start": 115,
+                    "end": 128,
+                    "tag": "législatives"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864246007374249984",
+        "text": "Ce soir collage Macron sur la 15ème Circonscription de Paris 20ème vu par notre #Candidat aux #législatives sur... https://t.co/bBi5oL0Y30",
+        "created_at": "2017-05-15 22:27:59+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864246007374249984,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 89,
+                    "tag": "Candidat"
+                },
+                {
+                    "start": 94,
+                    "end": 107,
+                    "tag": "législatives"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/bBi5oL0Y30",
+                    "expanded_url": "http://fb.me/31iogz5eb",
+                    "display_url": "fb.me/31iogz5eb"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864245228672356355",
+        "text": "Retweeted Le Figaro Élections (@FigaroElections):\n\nÉdouard Philippe, un fils spirituel de Juppé au service de... https://t.co/jBAq6a8WmA",
+        "created_at": "2017-05-15 22:24:54+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 864245228672356355,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/jBAq6a8WmA",
+                    "expanded_url": "http://fb.me/8jUi5BGHx",
+                    "display_url": "fb.me/8jUi5BGHx"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864245135411949570",
+        "text": "RT @FigaroElections: Édouard Philippe, un fils spirituel de Juppé au service de Macron https://t.co/MPEY88Ugzs",
+        "created_at": "2017-05-15 22:24:31+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864245135411949570,
+        "entities": {
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/MPEY88Ugzs",
+                    "expanded_url": "http://bit.ly/2qnNjlm",
+                    "display_url": "bit.ly/2qnNjlm",
+                    "status": 200,
+                    "unwound_url": "https://www.lefigaro.fr/elections/presidentielles/2017/05/15/35003-20170515ARTFIG00175-edouard-philippe-un-fils-spirituel-de-juppe-au-service-de-macron.php?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864170565787164676",
+        "text": "Retweeted Emmanuel Macron (@EmmanuelMacron):\n\nDéclaration à la suite de mon échange avec la Chancelière... https://t.co/Fa02gks1mn",
+        "created_at": "2017-05-15 17:28:13+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864170565787164676,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 42,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/Fa02gks1mn",
+                    "expanded_url": "http://fb.me/97qVt4qab",
+                    "display_url": "fb.me/97qVt4qab"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "864170519905619971",
+        "text": "RT @EmmanuelMacron: Déclaration à la suite de mon échange avec la Chancelière allemande, Angela Merkel. https://t.co/VZGtwRrXfc",
+        "created_at": "2017-05-15 17:28:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "13_864167912185221120"
+            ]
+        },
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "849236271553691648",
+                    "name": "Angela Merkel",
+                    "description": "Angela Merkel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "849236271553691648",
+                    "name": "Angela Merkel",
+                    "description": "Angela Merkel"
+                }
+            }
+        ],
+        "conversation_id": 864170519905619971,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/VZGtwRrXfc",
+                    "expanded_url": "https://twitter.com/EmmanuelMacron/status/864170007936237568/video/1",
+                    "display_url": "pic.twitter.com/VZGtwRrXfc",
+                    "media_key": "13_864167912185221120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 455,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863859486871703553",
+        "text": "Retweeted Militants UDI P20 (@MilitantsUDIP20):\n\nBravo à nos équipes qui font #campagne sur les #marchés pour... https://t.co/mVjWshRAb3",
+        "created_at": "2017-05-14 20:52:06+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 863859486871703553,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 87,
+                    "tag": "campagne"
+                },
+                {
+                    "start": 96,
+                    "end": 104,
+                    "tag": "marchés"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/mVjWshRAb3",
+                    "expanded_url": "http://fb.me/8eq2dvS6Q",
+                    "display_url": "fb.me/8eq2dvS6Q"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "863859407918174208",
+        "text": "RT @MilitantsUDIP20: Bravo à nos équipes qui font #campagne sur les #marchés pour notre #Candidat aux #législatives sur la #15ème #Circo #P…",
+        "created_at": "2017-05-14 20:51:47+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 863859407918174208,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 59,
+                    "tag": "campagne"
+                },
+                {
+                    "start": 68,
+                    "end": 76,
+                    "tag": "marchés"
+                },
+                {
+                    "start": 88,
+                    "end": 97,
+                    "tag": "Candidat"
+                },
+                {
+                    "start": 102,
+                    "end": 115,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 123,
+                    "end": 129,
+                    "tag": "15ème"
+                },
+                {
+                    "start": 130,
+                    "end": 136,
+                    "tag": "Circo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863837681591009284",
+        "text": "Retweeted SéverineF (@EMacron75020):\n\nMême sous la pluie, les militants d'@EnMarcheParis20 gardent leur sourire... https://t.co/vbSSmDzIkn",
+        "created_at": "2017-05-14 19:25:27+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 863837681591009284,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/vbSSmDzIkn",
+                    "expanded_url": "http://fb.me/3g77QBrRU",
+                    "display_url": "fb.me/3g77QBrRU"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "863675895185375232",
+        "text": "Retweeted Militants UDI P20 (@MilitantsUDIP20):\n\nÇa court pour la Pyrénéenne  ... \nNotre #Candidat aux... https://t.co/1LDgeQ0jEC",
+        "created_at": "2017-05-14 08:42:34+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 863675895185375232,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 98,
+                    "tag": "Candidat"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/1LDgeQ0jEC",
+                    "expanded_url": "http://fb.me/87OUoDD6K",
+                    "display_url": "fb.me/87OUoDD6K"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "863675856622936064",
+        "text": "RT @MilitantsUDIP20: Ça court pour la Pyrénéenne  ... \nNotre #Candidat aux #législatives sur la #15ème #Circonscription de #Paris20 toujour…",
+        "created_at": "2017-05-14 08:42:25+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 863675856622936064,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 70,
+                    "tag": "Candidat"
+                },
+                {
+                    "start": 75,
+                    "end": 88,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "15ème"
+                },
+                {
+                    "start": 103,
+                    "end": 119,
+                    "tag": "Circonscription"
+                },
+                {
+                    "start": 123,
+                    "end": 131,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863656877506408448",
+        "text": "Retweeted Alexandre Breit (@alexandrebreit):\n\n#TopTwittos of the day ♦ @FredJKt @JeuneSarkozy @aragon_paris20... https://t.co/a7lRP0Aidc",
+        "created_at": "2017-05-14 07:27:00+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 863656877506408448,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 24,
+                    "probability": 0.911,
+                    "type": "Person",
+                    "normalized_text": "Alexandre Breit"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 57,
+                    "tag": "TopTwittos"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 42,
+                    "username": "alexandrebreit",
+                    "id": "87048971"
+                },
+                {
+                    "start": 71,
+                    "end": 79,
+                    "username": "FredJKt",
+                    "id": "397869663"
+                },
+                {
+                    "start": 80,
+                    "end": 93,
+                    "username": "JeuneSarkozy",
+                    "id": "2673579577"
+                },
+                {
+                    "start": 94,
+                    "end": 109,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/a7lRP0Aidc",
+                    "expanded_url": "http://fb.me/8AF29guNh",
+                    "display_url": "fb.me/8AF29guNh"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "863656812716883968",
+        "text": "RT @alexandrebreit: #TopTwittos of the day ♦ @FredJKt @JeuneSarkozy @aragon_paris20 \n\nVia https://t.co/iCvg8cvJXp",
+        "created_at": "2017-05-14 07:26:44+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 863656812716883968,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 31,
+                    "tag": "TopTwittos"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "alexandrebreit",
+                    "id": "87048971"
+                },
+                {
+                    "start": 45,
+                    "end": 53,
+                    "username": "FredJKt",
+                    "id": "397869663"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "JeuneSarkozy",
+                    "id": "2673579577"
+                },
+                {
+                    "start": 68,
+                    "end": 83,
+                    "username": "aragon_paris20",
+                    "id": "1728425251"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/iCvg8cvJXp",
+                    "expanded_url": "https://toptwittos.com/u/alexandrebreit",
+                    "display_url": "toptwittos.com/u/alexandrebre…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862750537007149056",
+        "text": "@LaetitiaAvia @enmarchefr Félicitations  ...\nHaut les coeurs.",
+        "created_at": "2017-05-11 19:25:31+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 862745398934482946,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "LaetitiaAvia",
+                    "id": "2317502810"
+                },
+                {
+                    "start": 14,
+                    "end": 25,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2317502810,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862339353967812615",
+        "text": "https://t.co/ArAebUPGRK",
+        "created_at": "2017-05-10 16:11:38+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 862339353967812615,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/ArAebUPGRK",
+                    "expanded_url": "http://fb.me/6CXKmBXXb",
+                    "display_url": "fb.me/6CXKmBXXb"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "862256431386419200",
+        "text": "Retweeted Groupe UDI MoDem (@GroupeUDIMoDem):\n\n.@AziereEric : à l'heure de la mise en chantier de tant de projets... https://t.co/UT6LkrnxXu",
+        "created_at": "2017-05-10 10:42:07+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [],
+        "conversation_id": 862256431386419200,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "GroupeUDIMoDem",
+                    "id": "2493027612"
+                },
+                {
+                    "start": 48,
+                    "end": 59,
+                    "username": "AziereEric",
+                    "id": "2344037586"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/UT6LkrnxXu",
+                    "expanded_url": "http://fb.me/8EaPTZsoH",
+                    "display_url": "fb.me/8EaPTZsoH"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "862256367071100933",
+        "text": "RT @GroupeUDIMoDem: .@AziereEric : à l'heure de la mise en chantier de tant de projets à Paris, il semble intéressant de récompenser les pl…",
+        "created_at": "2017-05-10 10:41:52+00:00",
+        "attachments": null,
+        "author_id": 1728425251,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 862256367071100933,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "GroupeUDIMoDem",
+                    "id": "2493027612"
+                },
+                {
+                    "start": 21,
+                    "end": 32,
+                    "username": "AziereEric",
+                    "id": "2344037586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

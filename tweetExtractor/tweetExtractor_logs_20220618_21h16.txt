@@ -1,0 +1,663 @@
+C:\Users\debat\OneDrive\Bureau\Formations\01_UTT\Cours\28_Babiga\Projet\Github_projet\tweetExtractor\venv\Scripts\python.exe C:/Users/debat/OneDrive/Bureau/Formations/01_UTT/Cours/28_Babiga/Projet/Github_projet/tweetExtractor/tweetExtractor_UTT.py
+
+=== CUSTOM TWEET EXTRACTOR - SPOT DEBAT V1.1 ===
+
+Total number of necessary loops :  31
+
+Synthèse fichier 'candidats.csv' : 
+	 -> Nombre de députés : 44
+		 ... dont 29 avec un ID Twitter
+
+
+====== Traitement de Marie-Josee Boulaire  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+
+====== Traitement de François-Marie Didier  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  67
+			 - newestTweet :  2022-06-10T20:16:15
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-10T20:16:16Z
+			 - New dates for request :
+				 -> Start time :   2022-06-10T20:16:16Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  1
+
+	    🐤 Sauvegarde du fichier : 1207401907129659397__fmdidier__Didier__François-Marie__2022.json
+
+
+====== Traitement de Lamia El Aaraje  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  466
+			 - newestTweet :  2022-06-10T21:45:56
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-10T21:45:57Z
+			 - New dates for request :
+				 -> Start time :   2022-06-10T21:45:57Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+
+====== Traitement de Mohamad-Lamine Gassama  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  251
+			 - newestTweet :  2022-06-10T19:59:41
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-10T19:59:42Z
+			 - New dates for request :
+				 -> Start time :   2022-06-10T19:59:42Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+
+====== Traitement de Philippe Houplain  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  2086
+			 - newestTweet :  2022-06-11T06:52:05
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-11T06:52:06Z
+			 - New dates for request :
+				 -> Start time :   2022-06-11T06:52:06Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  2
+
+	    🐤 Sauvegarde du fichier : 3255832605__HouplainPh__Houplain__Philippe__2022.json
+
+
+====== Traitement de Danielle Simonnet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  498
+			 - newestTweet :  2022-06-10T21:57:21
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-10T21:57:22Z
+			 - New dates for request :
+				 -> Start time :   2022-06-10T21:57:22Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+
+====== Traitement de Apolline Tyburczy  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-05-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  374
+			 - newestTweet :  2022-06-10T19:19:42
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2022-06-10T19:19:43Z
+			 - New dates for request :
+				 -> Start time :   2022-06-10T19:19:43Z  - End time :  2022-06-11T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  12
+
+	    🐤 Sauvegarde du fichier : 1489995966132412422__ApollineTyburzy__Tyburczy__Apolline__2022.json
+
+
+====== Traitement de Christophe Versini  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Hélène Testud  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  106
+			 - newestTweet :  2017-06-09T06:36:26
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-09T06:36:27Z
+			 - New dates for request :
+				 -> Start time :   2017-06-09T06:36:27Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Adil Touaimia-Kabbouch  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  59
+			 - newestTweet :  2017-06-10T08:30:39
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-10T08:30:40Z
+			 - New dates for request :
+				 -> Start time :   2017-06-10T08:30:40Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Florence Castillon  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Hicham Fassi Fihri  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  31
+			 - newestTweet :  2017-06-08T00:24:35
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-08T00:24:36Z
+			 - New dates for request :
+				 -> Start time :   2017-06-08T00:24:36Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Mehdi Kemoune  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  162
+			 - newestTweet :  2017-06-09T15:05:35
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-09T15:05:36Z
+			 - New dates for request :
+				 -> Start time :   2017-06-09T15:05:36Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Roger Domard  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Olivier Cohen  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Atanase Périfan  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Antoinette Guhl  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de George Pau-Langevin  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Philippe Aragon  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  84
+			 - newestTweet :  2017-06-09T11:24:24
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-09T11:24:25Z
+			 - New dates for request :
+				 -> Start time :   2017-06-09T11:24:25Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Dalila Lasfar  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  31
+			 - newestTweet :  2017-06-09T20:57:53
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2017-06-09T20:57:54Z
+			 - New dates for request :
+				 -> Start time :   2017-06-09T20:57:54Z  - End time :  2017-06-10T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Jacques Baudrier  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Ariane Dreyfus  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-05-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Arlette Zilberg  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Sonia Ouertani  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  92
+			 - newestTweet :  2012-06-08T21:58:04
+
+		Vérification des dates de récupération des Tweets... 
+			 - Start time recalé à la date du dernier Tweet + 1sec :  2012-06-08T21:58:05Z
+			 - New dates for request :
+				 -> Start time :   2012-06-08T21:58:05Z  - End time :  2012-06-09T23:59:59Z
+			... fin de vérification des dates de récupération des Tweets 
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Elisabeth Jaskulke  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Nathalie Fanfant  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Didier Le Reste  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Pierre Mounier  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-05-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+
+		Ce député est déjà connu dans la base de données ! (répertoire 'data') 
+			 - Nombre de Tweets dans le fichier existant :  0
+			 - newestTweet :  -1
+
+		Lancement de la fonction API en cours... 
+
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Pas de Tweets -> Pas de sauvegarde
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+====== Traitement de Claude Trannet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+29 Comptes parcourus sur 29
+
+===! CUSTOM TWEET EXTRACTOR - SPOT DEBAT V1.1  !===
+
+
+Process finished with exit code 0

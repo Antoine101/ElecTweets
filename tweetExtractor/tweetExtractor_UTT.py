@@ -1,11 +1,15 @@
 from typing import Counter
 import tweepy
-import tokens
 import csv
 import json
 import datetime
 import math
 import os
+
+from datetime import datetime, timedelta
+
+import tokens
+from checkJson import checkIfFileAlreadyExists, getLastTweetDateInJson, loadjson
 
 '''
 LISTE DES APIs tweepy get (non exhaustive) :
@@ -48,7 +52,7 @@ data_dir = parent_dir + "\data\\"
 
 data_path = data_dir + candidatesFile
 destinationFolderTweetDepute=data_dir #"data/01_tweetList/"  #prefix dossier de sortie
- 
+
 
 limit = 100 # Nombre de tweets max par requete. Limité à XXX (à retrouver) par l'API Twitter !
 totalNumberRequested=3100 # 3100 # nombre de Tweets désirés pour chaque personne. Si totalNumberRequested>limit, alors plusieurs requêtes sont lancées à la suite pour récupérer les totalNumberRequested Tweets.
@@ -102,17 +106,18 @@ twitterIdList = {
     ]
 }
 
+
+
+extractFullTweet=True # extraction de toutes les infos du Tweet (pour le format json)
+header = [["Time","Text"]]  #entete des fichiers de destination
+
+
 def getLimitDates(legislature):
     return {
         '2012': ["2012-05-09T00:00:00Z","2012-06-09T23:59:59Z"],
         '2017': ["2017-05-10T00:00:00Z","2017-06-10T23:59:59Z"],
         '2022': ["2022-05-11T00:00:00Z","2022-06-11T23:59:59Z"]
     }.get(legislature, ["2022-05-10T00:00:00Z","2022-05-10T00:00:00Z"])
-
-
-extractFullTweet=True # extraction de toutes les infos du Tweet (pour le format json)
-header = [["Time","Text"]]  #entete des fichiers de destination
-
 
 
 def storeTweets(data,destinationFile):
@@ -130,17 +135,17 @@ def storeTweets(data,destinationFile):
 
 def storeTweetsJson(data,destinationFile):
     devPrint = False
-    if devPrint: 
+    if devPrint:
         print("\n storeTweets -> data :",data)
         print("\n storeTweets -> destinationFile :",destinationFile)
 
-    if False: print("data : ", data)
+    if devPrint: print("data : ", data)
 
     if True:
-        with open(destinationFile+'.json', 'w', encoding='utf-8') as f:
+        with open(destinationFile, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
-    if devPrint: print("\t -> Tweets stored in json "+destinationFile+'.json')
+    if devPrint: print("\t -> Tweets stored in json "+destinationFile)
 
 
 # Fonction permettant de récupérer et d'organiser le contenu d'un Tweet.
@@ -201,33 +206,59 @@ def tweetExtraction(userTweets):
 
 
 
-def extractTweetsFromListWithIterations(row, legislature):
+def fileNameBuilder(row, legislature):
+    return row['id_twitter']+"__"+row['username']+"__"+row['nom']+"__"+row['prenom']+"__"+str(legislature)+'.json'
+
+
+def extractTweetsFromListWithIterations(row, fileName, legislature, newestTweet=-1):
     printDev=False
     next_token=0
     
     allTweets=[]
 
-    #print("Legislature : ", legislature)
-    #print("twitterIdList[legislature] : ", twitterIdList[legislature])
 
 
-    if row[4] not in twitterIdList[legislature]:
-        print("\t -> Pas candidat en ", legislature)
+    callApiBool = True
+
+    start_time = getLimitDates(legislature)[0]
+    end_time = getLimitDates(legislature)[1]
+
+    if newestTweet != -1:
+        print("\n\t\tVérification des dates de récupération des Tweets... ")
+
+        if False:
+            print("startRequestedDate : ", start_time)
+            print("endRequestedDate : ", end_time)
+            print("lastTweetDate : ", newestTweet)
+        startRequestedDate_dateFormat = datetime.strptime(str(start_time).replace('T', ' ').replace('Z', ''), '%Y-%m-%d %H:%M:%S')
+        endRequestedDate_dateFormat = datetime.strptime(str(end_time).replace('T', ' ').replace('Z', ''), '%Y-%m-%d %H:%M:%S')
+        lastTweetDate_dateFormat = datetime.strptime(str(newestTweet).replace('T', ' ').replace('Z', ' '), '%Y-%m-%d %H:%M:%S')
+
+        # Recalage de la date de début de recherche à la date du dernier Tweet + 1 seconde
+        if lastTweetDate_dateFormat>startRequestedDate_dateFormat and lastTweetDate_dateFormat<endRequestedDate_dateFormat:
+            start_time = (lastTweetDate_dateFormat+timedelta(0,1)).isoformat()+"Z"
+            print("\t\t\t - Start time recalé à la date du dernier Tweet + 1sec : ", start_time)
+
+        print("\t\t\t - New dates for request :\n\t\t\t\t -> Start time :  ", start_time, " - End time : ", end_time)
+
+        print("\t\t\t... fin de vérification des dates de récupération des Tweets ")
+
+
+    if not callApiBool:
+        print("\n!!! Pas d'appel de l'API Twitter !!!")
     else:
-        print("\n\t -> Candidat en ", legislature, " !")
-        start_time, end_time = getLimitDates(legislature)
-        print("\n\tStart time : ", start_time[0:10], " - End time : ", end_time[0:10])
+        print("\n\t\tLancement de la fonction API en cours... ")
 
-        print("         ... en cours : ")
         tweetCounter=0
-
-        userTweets = API.get_users_tweets(id=row[4],
+        # Premier appel de l'API Tweeter
+        userTweets = API.get_users_tweets(id=row['id_twitter'],
                                           max_results=limit,
                                           tweet_fields=tweet_fields,
                                           start_time=start_time,
                                           end_time=end_time
                                           )  # API sans next_token
 
+        # Récupération du 'next_token' (s'il existe) et sauvegarde des Tweets
         if userTweets[0] is not None:
             if 'next_token' in userTweets[3]:
                 next_token = userTweets[3]['next_token']  # récupération du next_token pour la prochaine requête
@@ -237,17 +268,12 @@ def extractTweetsFromListWithIterations(row, legislature):
             allTweets = allTweets + userTweets[0]
 
 
-
+        # Relance de l'API si la clé next_token existe
         iteration=0
         while next_token!=0:
             iteration+=1
 
-            if printDev:
-                print("tweetCounter ", str(tweetCounter), ' tweets recorded / ', str(totalNumberRequested),' => new request')
-                print("tweetCounter : ", tweetCounter, " - next_token : ", next_token)
-
-            if printDev: print("  -> next_token ", next_token)
-            userTweets = API.get_users_tweets(id=row[4],
+            userTweets = API.get_users_tweets(id=row['id_twitter'],
                                               max_results=limit,
                                               tweet_fields=tweet_fields,
                                               pagination_token=next_token,
@@ -255,29 +281,19 @@ def extractTweetsFromListWithIterations(row, legislature):
                                               end_time=end_time
                                               ) # API avec next_token
 
-            if printDev: print("userTweets[3] : ", userTweets)
-
             if userTweets[0] is not None:
                 if 'next_token' in userTweets[3]:
                     next_token=userTweets[3]['next_token'] # récupération du next_token pour la prochaine requête
                 else:
                     next_token=0
                 tweetCounter+= len(userTweets[0])
-
-                if printDev:
-                    print("\n\n userTweets : ", userTweets[0][0:2])
-                    print(" len : ", len(userTweets[0]))
-                    print(" userTweets : ", type(userTweets[0]))
-
                 allTweets=allTweets+userTweets[0]
-                if printDev:
-                    print(" allTweets : ", allTweets)
-                    print(" len allTweets : ", len(allTweets))
 
-        print("      Nombre de tweets récupérés : ", len(allTweets))
+        print("\n\t\tNombre de nouveaux tweets récupérés : ", len(allTweets))
 
         filterdUserTweets = []
         filterdUserTweets = tweetExtraction(allTweets) # Fonction d'extraction des données des Tweets
+        newTweets = filterdUserTweets['filterdUserTweetsObject']
 
         if printDev:
             print("\n filterdUserTweets : ", filterdUserTweets['filterdUserTweetsObject'])
@@ -289,104 +305,111 @@ def extractTweetsFromListWithIterations(row, legislature):
         else:
             print("") # !!!!!!!!!!! loop over NOK !!!!!!!!!!!!
 
-        fileName = row[4]+"__"+row[5]+"__"+row[1]+"__"+row[0]+"__"+str(legislature) #on stock dans un fichier qui aura comme format de nom id__@username__nom__prenom
         destination = destinationFolderTweetDepute + fileName #on stock dans le repertoire qui correspond aux tweet des deputes
 
-        storeTweetsJson(filterdUserTweets['filterdUserTweetsObject'],destination) # méthode de sauvegarde au format json
+        originalJson = loadjson(fileName)
+        # print("originalJson : ", originalJson)
 
-    
-def extractTweetsFromList(row):
-    # try :
-    devPrint = False # Permet d'activer/désactiver les print de développement
-    
-    userTweets = API.get_users_tweets(
-        id=row[4], 
-        max_results=limit, 
-        tweet_fields=tweet_fields,
-        start_time=start_time,
-        end_time=end_time
-        )
-    
-    if devPrint: 
-        print("\n next_token :", userTweets[3]['next_token'])
-        print("\n len :", len(userTweets))
-        print("\n userTweets[0] :", userTweets[0])
-    
-    #Formating the tweets to store them
-    filterdUserTweets = []
-    filterdUserTweets = tweetExtraction(userTweets[0]) # Fonction d'extraction des données des Tweets
-        
-    if devPrint: 
-        print("\n filterdUserTweetsRow :", filterdUserTweets['filterdUserTweetsRow']) # affichage du fichier au format txt ?
-        print("\n filterdUserTweetsObject :", filterdUserTweets['filterdUserTweetsObject']) # affichage du fichier au format json
-    
-    fileName = row[4]+"__"+row[5]+"__"+row[1]+"__"+row[0]+"__"+str(legislature) #on stock dans un fichier qui aura comme format de nom id__@username__nom__prenom
-    destination = destinationFolderTweetDepute + fileName #on stock dans le repertoire qui correspond aux tweet des deputes
-    
-    if devPrint: print("destination :", destination)
-    print("\t -> Tweets from -- "+row[3]+" -- extracted successfully")    
-    
-    #storeTweets(filterdUserTweets['filterdUserTweetsRow'],destination) #on envoie le resultat a la methode qui aura pour role de stocker le resultat
-    storeTweetsJson(filterdUserTweets['filterdUserTweetsObject'],destination) # méthode de sauvegarde au format json
-    
-    # except :
-    #     print("\nAn error occured in the extraction process")
-    
-     
+        if len(originalJson)>0:
+            jsonListToSave  = newTweets + originalJson
+        else:
+            jsonListToSave = newTweets
 
-def getDeputeFromList():
-    deputeCounter = 0
-    treatedDeputeCounter =0
+        if printDev:
+            print("\nnewTweets : ", newTweets)
+            print("\njsonListToSave : ", jsonListToSave)
 
-    if False : print("data_path :", data_path)
+        if len(newTweets)>0:
+            print("\t    🐤 Sauvegarde du fichier :", fileName)
+            storeTweetsJson(jsonListToSave,destination) # méthode de sauvegarde au format json
+        else:
+            print("\t    🐤 Pas de Tweets -> Pas de sauvegarde")
 
+
+def getDeputesList():
     # Récupération des id/username des personnes dont on veut récupérer les Tweets
-    with open(data_path) as csv_file:
 
-        csv_reader = csv.reader(csv_file, delimiter=';')
-        next(csv_reader) #intruction pour eviter la conlonne d'entete
+    deputesListe = []
 
-        totalDeputesCounter = 0
-        totalIdCounter = 0
-        for row in csv_reader:
-            totalDeputesCounter += 1
-
-            if row[4]!="":
-                totalIdCounter += 1
-        #totalDeputesCounter = sum(1 for row in csv.reader(csv_file, delimiter=';') )
-        if True:
-            print("\nSynthèse fichier '" + candidatesFile + "' : " )
-            print("\t -> Nombre de députés :", totalDeputesCounter)
-            print("\t\t ... dont " + str(totalIdCounter) + " avec un ID Twitter" )
-
-
+    # Chargement du fichier .csv contenant la liste des députés
     with open(data_path, encoding='utf8') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=';')
-        next(csv_reader)  # intruction pour eviter la conlonne d'entete
+        next(csv_reader)  # pour éviter la colonne d'en-tête
+
+        totalDeputesCounter = 0
+        withIdCounter = 0
+
 
         # Pour chaque personne du csv
         for row in csv_reader:
+            totalDeputesCounter += 1
 
-            if True: print("\nrow : ", row)
+            if row:
+                rowItems = {}
+                rowItems['prenom'] = row[0]
+                rowItems['nom'] = row[1]
+                rowItems['sexe'] = row[2]
+                rowItems['date_naissance'] = row[3]
+                rowItems['id_twitter'] = row[4]
+                rowItems['username'] = row[5]
+                rowItems['compte_verifie'] = row[6]
+                rowItems['date_creation_compte'] = row[7]
 
-            if row and row[4]!="":
 
-                deputeCounter+=1
+                if rowItems['id_twitter'] != "":
+                    withIdCounter+=1
+                    deputesListe.append(rowItems)
 
-                if personsToExportCounterMin<deputeCounter and deputeCounter<=min(totalDeputesCounter,personsToExportCounterMax): # interruption du code pour le dev
-                
-                    print("\t "+str(deputeCounter)+"/"+str(min(totalDeputesCounter,personsToExportCounterMax))+" >> Extracting tweets from "+row[0]+" "+row[1]+" // id : "+row[4])
-                    print("\t total tweets Requested : ", str(totalNumberRequested), " - limit by request :", str(limit))
-                    
-                    if True:
-                        if totalNumberRequested>limit: # besoin de faire plusieurs requêtes (en utilisant next_token)
+    print("\nSynthèse fichier '" + candidatesFile + "' : ")
+    print("\t -> Nombre de députés :", totalDeputesCounter)
+    print("\t\t ... dont " + str(withIdCounter) + " avec un ID Twitter")
 
-                            for eachLegislature in ['2012', '2017', '2022']:
-                                extractTweetsFromListWithIterations(row, eachLegislature)
-                        else: # pas besoin de faire plusieurs requêtes à la suite  (avec next_token)
-                            extractTweetsFromList(row)
-                    treatedDeputeCounter+=1
+    if False : print("\ndeputesListe '", deputesListe[0:2])
+
+    return deputesListe
+
+
+def checkLaunchTwitterAPI(deputesListe):
+    deputeCounter = 0
+    treatedDeputeCounter = 0
+    totalDeputesCounter = len(deputesListe)
+
+    # Pour chaque personne du csv
+    for row in deputesListe:
+
+        if True: print('\n\n====== Traitement de',row['prenom'],row['nom'],' ======')
+
+        deputeCounter+=1
+
+        if personsToExportCounterMin<deputeCounter and deputeCounter<=min(totalDeputesCounter,personsToExportCounterMax): # interruption du code pour le dev
+
+            if False:
+                print("\t "+str(deputeCounter)+"/"+str(min(totalDeputesCounter,personsToExportCounterMax))+" >> Extracting tweets from "+row['prenom']+" "+row['nom']+" // id : "+row['id_twitter'])
+                print("\t total tweets Requested : ", str(totalNumberRequested), " - limit by request :", str(limit))
+
+            for eachLegislature in ['2012', '2017', '2022']:
+
+                fileName = fileNameBuilder(row, eachLegislature)  # on stock dans un fichier qui aura comme format de nom id__@username__nom__prenom
+
+                if row['id_twitter'] not in twitterIdList[eachLegislature]:
+                    print("\n\t -> Pas candidat en ", eachLegislature)
+                else:
+                    print("\n\t -> Candidat en ", eachLegislature, " !")
+                    start_time, end_time = getLimitDates(eachLegislature)
+                    print("\t\tStart time : ", start_time, " - End time : ", end_time)
+
+                    if checkIfFileAlreadyExists(fileName):
+                        print("\n\t\tCe député est déjà connu dans la base de données ! (répertoire 'data') ")
+                        newestTweet = getLastTweetDateInJson(fileName)
+                        print("\t\t\t - newestTweet : ", newestTweet)
+
+                    else:
+                        print("\t\tNouveau député")
+
+                    extractTweetsFromListWithIterations(row, fileName, eachLegislature, newestTweet)
+
+            treatedDeputeCounter+=1
 
     print("\n"+ str(treatedDeputeCounter) +" Comptes parcourus sur "+ str(deputeCounter))
 
@@ -398,8 +421,9 @@ if __name__ == "__main__":
     nbLoops = int(math.ceil(totalNumberRequested/limit))
     print("Total number of necessary loops : ", str(nbLoops))
           
-    getDeputeFromList()
-    
+    deputesListe = getDeputesList()
+    checkLaunchTwitterAPI(deputesListe)
+
     print("\n===! CUSTOM TWEET EXTRACTOR - SPOT DEBAT V1.1  !===\n")
     
 
