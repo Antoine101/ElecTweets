@@ -16,7 +16,7 @@ CREATE TABLE contexte_elections (
 
 CREATE TABLE tags (
     tag_id SERIAL,
-    tag VARCHAR(255),
+    tag VARCHAR(255) UNIQUE,
     PRIMARY KEY (tag_id)
 );
 
@@ -67,7 +67,7 @@ CREATE TABLE affiliation_elections (
 );
 
 CREATE TABLE tweets_tags (
-    tweet_id INT,
+    tweet_id BIGINT,
     tag_id INT,
     PRIMARY KEY (tweet_id, tag_id),
     FOREIGN KEY (tweet_id) REFERENCES tweets(tweet_id),
