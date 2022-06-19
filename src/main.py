@@ -100,11 +100,9 @@ def get_attribute(data, attribute, default_value):
 
 # Json do df with path data
 
-def add_tags_column(json_file_path):
-    data = pd.read_json(json_file_path)
+def add_tags_column(data):
     data['tags'] = np.empty((len(data), 0)).tolist()
     for i in range(len(data)):
-        tag_list = []
         if data.loc[i,'entities']:
             if data.loc[i,'entities'].get('hashtags'):
                 for tags in data.loc[i,'entities'].get('hashtags'):
