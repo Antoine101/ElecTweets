@@ -62,17 +62,17 @@ def create_df_from_database(dbname, user, password, host):
 
           (SELECT COUNT(DISTINCT tweets.tweet_id)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS nb_tweets_1st_concern,
 
           (SELECT COUNT(DISTINCT tweets.tweet_id)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS nb_tweets_2nd_concern,
           
           (SELECT COUNT(DISTINCT tweets.tweet_id)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS nb_tweets_3rd_concern,
             
     --aggr on likes : sum, max, avg
@@ -133,49 +133,49 @@ def create_df_from_database(dbname, user, password, host):
         -- on 1st concern:
           (SELECT SUM(tweets.like_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS sum_likes_1st_concern,
 
           (SELECT ROUND(MAX(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS max_likes_1st_concern,
 
           (SELECT ROUND(AVG(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS avg_likes_1st_concern,
 
         -- on 2nd concern:
           (SELECT SUM(tweets.like_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS sum_likes_2nd_concern,
 
           (SELECT ROUND(MAX(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS max_likes_2nd_concern,
 
           (SELECT ROUND(AVG(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS avg_likes_2nd_concern,
 
         -- on 3rd concern:
           (SELECT SUM(tweets.like_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS sum_likes_3rd_concern,
 
           (SELECT ROUND(MAX(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS max_likes_3rd_concern,
 
           (SELECT ROUND(AVG(tweets.like_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS avg_likes_3rd_concern,
 
     --aggr on retweets : sum, max, avg
@@ -236,50 +236,50 @@ def create_df_from_database(dbname, user, password, host):
       -- on 1st concern:
           (SELECT SUM(tweets.retweet_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS sum_retweets_1st_concern,
 
           (SELECT ROUND(MAX(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS max_retweets_1st_concern,
 
           (SELECT ROUND(AVG(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation1 || '%') AND author_id = id_twitter)       
             AS avg_retweets_1st_concern,
 
       -- on 2nd concern:
 
           (SELECT SUM(tweets.retweet_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS sum_retweets_2nd_concern,
 
           (SELECT ROUND(MAX(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS max_retweets_2nd_concern,
 
           (SELECT ROUND(AVG(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation2 || '%') AND author_id = id_twitter)       
             AS avg_retweets_2nd_concern,
 
       -- on 3rd concern:
           (SELECT SUM(tweets.retweet_counts)
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS sum_retweets_3rd_concern,
 
           (SELECT ROUND(MAX(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS max_retweets_3rd_concern,
 
           (SELECT ROUND(AVG(tweets.retweet_counts))
             FROM  public.tweets
-            WHERE UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
+            WHERE EXTRACT(YEAR FROM DATE(publication_date)) = annee_election AND UPPER(tweets.content) LIKE UPPER('%' || preoccupation3 || '%') AND author_id = id_twitter)       
             AS avg_retweets_3rd_concern
 
             
