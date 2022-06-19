@@ -119,7 +119,7 @@ def json_to_df(json_file_path):
         data.rename(columns={"id": "tweet_id", "created_at": "publication_date", "text":"content","like_count":"like_counts",
                              "reply_count":"reply_counts","retweet_count":"retweet_counts","quote_count":"quote_counts"}, inplace = True) 
         list_label = ['tweet_id', 'author_id', 'publication_date', 'like_counts', 'reply_counts', 'retweet_counts',
-                      'quote_counts','reply_settings', 'possibly_sensitive', 'label', 'polarity', 'content', 'entities']
+                      'quote_counts','reply_settings', 'possibly_sensitive', 'content', 'entities']
         for i in list_label:
             get_attribute(data, i, None)
         data = data[list_label]
@@ -142,7 +142,7 @@ for file in Path("data/").glob("*.json"):
             conn.commit()
             cur.execute(f"SELECT tag_id FROM tags WHERE tag='{tag}';")
             index = cur.fetchone()[0]
-            cur.execute(f"INSERT INTO tweets_tags (tweet_id,tag_id) VALUES (%s,%s)""", (tweet_data['tweet_id'][i], index))
+            cur.execute(f"INSERT INTO tweets_tags (tweet_id,tag_id) VALUES (%s,%s) ON CONFLICT DO NOTHING""", (tweet_data['tweet_id'][i], index))
             conn.commit()
         values = (tweet_data['tweet_id'][i],tweet_data['author_id'][i],tweet_data['publication_date'][i],tweet_data['like_counts'][i],
     	tweet_data['reply_counts'][i],tweet_data['retweet_counts'][i],tweet_data['quote_counts'][i],tweet_data['reply_settings'][i],
