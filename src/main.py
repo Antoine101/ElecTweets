@@ -112,25 +112,22 @@ def add_tags_column(json_file_path):
     return data['tags']
 
 def json_to_df(json_file_path):
-    
     data = pd.read_json(json_file_path)
     if not (data.empty):
         public_metric =json_normalize(data['public_metrics'])
         data = pd.merge(data, public_metric, left_index=True, right_index=True)
         data.rename(columns={"id": "tweet_id", "created_at": "publication_date", "text":"content","like_count":"like_counts",
-                             "reply_count":"reply_counts","retweet_count":"retweet_counts","quote_count":"quote_counts"}, inplace = True)
-        
+                             "reply_count":"reply_counts","retweet_count":"retweet_counts","quote_count":"quote_counts"}, inplace = True) 
         list_label = ['tweet_id', 'author_id', 'publication_date', 'like_counts', 'reply_counts', 'retweet_counts',
                       'quote_counts','reply_settings', 'possibly_sensitive', 'label', 'polarity', 'content', 'entities']
         for i in list_label:
             get_attribute(data, i, None)
-
         data = data[list_label]
         data['publication_date'] = data['publication_date'].dt.strftime('%Y-%m-%d')
         data = data.convert_dtypes()
         data['possibly_sensitive'] = data['possibly_sensitive'].astype(str)
-	data['tags'] = add_tags_column(json_file_path)
-
+        data['tags'] = add_tags_column(json_file_path)
+    
     return data
 
 # Insert data from json to table tweets
@@ -139,30 +136,30 @@ for file in Path("data/").glob("*.json"):
 
     tweet_data = json_to_df(data_json)
     for i in range(0 ,len(tweet_data)):
-    	tag_data = tweet_data['tags'][i]
-    	for tag in tag_data:
-        	cur.execute(f"INSERT INTO tags (tag) VALUES ('{tag}') ON CONFLICT DO NOTHING""")
-        	conn.commit()
-        	cur.execute(f"SELECT tag_id FROM tags WHERE tag='{tag}';")
-        	index = cur.fetchone()[0]
-        	cur.execute(f"INSERT INTO tweets_tags (tweet_id,tag_id) VALUES (%s,%s)""", (tweet_data['tweet_id'][i], index))
-        	conn.commit()
-    	values = (tweet_data['tweet_id'][i],tweet_data['author_id'][i],tweet_data['publication_date'][i],tweet_data['like_counts'][i],
+        tag_data = tweet_data['tags'][i]
+        for tag in tag_data:
+            cur.execute(f"INSERT INTO tags (tag) VALUES ('{tag}') ON CONFLICT DO NOTHING""")
+            conn.commit()
+            cur.execute(f"SELECT tag_id FROM tags WHERE tag='{tag}';")
+            index = cur.fetchone()[0]
+            cur.execute(f"INSERT INTO tweets_tags (tweet_id,tag_id) VALUES (%s,%s)""", (tweet_data['tweet_id'][i], index))
+            conn.commit()
+        values = (tweet_data['tweet_id'][i],tweet_data['author_id'][i],tweet_data['publication_date'][i],tweet_data['like_counts'][i],
     	tweet_data['reply_counts'][i],tweet_data['retweet_counts'][i],tweet_data['quote_counts'][i],tweet_data['reply_settings'][i],
     	tweet_data['possibly_sensitive'][i],tweet_data['content'][i])
-    	cur.execute("""INSERT INTO tweets (
-                 tweet_id,
-                 author_id, 
-                 publication_date,
-                 like_counts,
-                 reply_counts,
-                 retweet_counts,
-                 quote_counts,
-                 reply_settings,
-                 possibly_sensitive,
-                 content
-                 ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
-    	conn.commit()
+        cur.execute("""INSERT INTO tweets (
+            tweet_id,
+            author_id, 
+            publication_date,
+            like_counts,
+            reply_counts,
+            retweet_counts,
+            quote_counts,
+            reply_settings,
+            possibly_sensitive,
+            content
+            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""", values)
+        conn.commit()
 
 print('Data successfully inserted')
 
