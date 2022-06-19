@@ -70,6 +70,5 @@ CREATE TABLE tweets_tags (
     tweet_id BIGINT,
     tag_id INT,
     PRIMARY KEY (tweet_id, tag_id),
-    FOREIGN KEY (tweet_id) REFERENCES tweets(tweet_id),
     FOREIGN KEY (tag_id) REFERENCES tags(tag_id)
 );
