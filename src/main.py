@@ -124,7 +124,7 @@ def json_to_df(json_file_path):
         data['publication_date'] = data['publication_date'].dt.strftime('%Y-%m-%d')
         data = data.convert_dtypes()
         data['possibly_sensitive'] = data['possibly_sensitive'].astype(str)
-        data['tags'] = add_tags_column(json_file_path)
+        data['tags'] = add_tags_column(data)
     
     return data
 
