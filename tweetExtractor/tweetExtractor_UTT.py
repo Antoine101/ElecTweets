@@ -73,7 +73,21 @@ twitterIdList = {
         '376865423',
         '3255832605',
         '329686497',
-        '1489995966132412422'
+        '1489995966132412422',
+        '49627758',
+        '1203299532655770000',
+        '539156968',
+        '425231735',
+        '1156135942660460000',
+        '2933680894',
+        '371381075',
+        '371381075',
+        '1536288124195810000',
+        '15719595',
+        '17747931',
+        '153108420',
+        '28308363',
+        '1537768362658480000'
     ],
     '2017': [
         '1009368668579516416',
@@ -318,7 +332,7 @@ def extractTweetsFromListWithIterations(row, fileName, legislature, newestTweet=
             print("\nnewTweets : ", newTweets)
             print("\njsonListToSave : ", jsonListToSave)
 
-        if len(newTweets)>0:
+        if len(newTweets)>0 or len(originalJson)==0:
             print("\t    🐤 Sauvegarde du fichier :", fileName)
             storeTweetsJson(jsonListToSave,destination) # méthode de sauvegarde au format json
         else:
@@ -346,14 +360,14 @@ def getDeputesList():
 
             if row:
                 rowItems = {}
-                rowItems['prenom'] = row[0]
-                rowItems['nom'] = row[1]
-                rowItems['sexe'] = row[2]
-                rowItems['date_naissance'] = row[3]
-                rowItems['id_twitter'] = row[4]
-                rowItems['username'] = row[5]
-                rowItems['compte_verifie'] = row[6]
-                rowItems['date_creation_compte'] = row[7]
+                rowItems['prenom'] = row[1]
+                rowItems['nom'] = row[2]
+                rowItems['sexe'] = row[3]
+                rowItems['date_naissance'] = row[4]
+                rowItems['id_twitter'] = row[5]
+                rowItems['username'] = row[6]
+                rowItems['compte_verifie'] = row[7]
+                rowItems['date_creation_compte'] = row[8]
 
 
                 if rowItems['id_twitter'] != "":

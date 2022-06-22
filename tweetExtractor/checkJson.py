@@ -5,7 +5,7 @@ import matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime
-
+from pathlib import Path
 
 def getPathToJson():
     current_dir = os.path.abspath(os.path.dirname(__file__))
@@ -48,8 +48,10 @@ def loadjson(fileName):
         pathToJson = getPathToJson()
         fullPath = pathToJson + fileName
 
-        with open(fullPath, 'r', encoding="utf8") as json_file:
-            data = json.load(json_file)
+        my_file = Path(fullPath)
+        if my_file.is_file():
+            with open(fullPath, 'r', encoding="utf8") as json_file:
+                data = json.load(json_file)
 
     return data
 
