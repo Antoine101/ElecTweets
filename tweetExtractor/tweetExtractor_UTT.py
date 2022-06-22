@@ -107,7 +107,6 @@ twitterIdList = {
 }
 
 
-
 extractFullTweet=True # extraction de toutes les infos du Tweet (pour le format json)
 header = [["Time","Text"]]  #entete des fichiers de destination
 
