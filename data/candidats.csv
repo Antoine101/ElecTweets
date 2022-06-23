@@ -1,68 +1,177 @@
-ï»¿prenom;nom;Sexe;Date de naissance;id_twitter;username;compte_verifie;date_creation_compte
-Sandrine;Adobati;F;30/03/1974;;;;
-Marie-Josee;Boulaire;F;26/01/1959;1.13017E+18;boulairejosee;0;mai-19
-Arnaud;Charvillat;M;28/10/1977;;;;
-FranÃ§ois-Marie;Didier;M;03/10/1980;1.2074E+18;fmdidier;0;dÃ©c-19
-Lamia;El Aaraje;F;22/11/1986;943672818;lamiaela;1;nov-12
-Mohamad-Lamine;Gassama;M;;376865423;MohamadParis20;0;nov-11
-Philippe;Houplain;M;16/07/1961;3255832605;HouplainPh;0;mai-15
-Danielle;Simonnet;F;02/07/1971;329686497;Simonnet2;0;juil-11
-Apolline;Tyburczy;F;12/10/1987;1.49E+18;ApollineTyburzy;0;fÃ©vr-22
-Christophe;Versini;M;10/08/1995;1.00937E+18;Ch_Versini;0;juin-18
-HÃ©lÃ¨ne;Testud;F;04/10/1956;29447272;helenetestud;0;avr-09
-Adil;Touaimia-Kabbouch;M;03/03/1991;3417457690;adil_de_paris;0;aoÃ»t-15
-Florence;Castillon;F;09/02/1951;1.32646E+18;CastillonFlore1;0;nov-20
-Hicham;Fassi Fihri;M;16/10/1965;68457158;hichamfassifihr;0;aoÃ»t-09
-HervÃ©;Masnyou;M;25/03/1964;;;;
-Mehdi;Kemoune;M;17/02/1972;377865606;kemounemehdi;0;sept-11
-Roger;Domard;M;09/11/1945;1.51998E+18;marie_emilie_eu;0;avr-22
-Olivier;Cohen;M;25/10/1963;58584212;olivier_cohen;0;juil-09
-Jean-Philippe;Renau;M;01/01/1954;;;;
-Atanase;PÃ©rifan;M;19/08/1964;2188765218;AtanasePerifan;0;nov-13
-Antoinette;Guhl;F;10/06/1970;493483010;antoinetteguhl;0;fÃ©vr-12
-George;Pau-Langevin;F;19/10/1948;81063019;pau_langevin;0;oct-09
-Nina;Abdoulhamidi;F;26/02/1978;;;;
-Philippe;Aragon;M;23/05/1968;1728425251;aragon_paris20;0;sept-13
-Dalila;Lasfar;F;27/06/1978;8.69912E+17;DalilaLasfar;0;mai-16
-Arnaud;Charvillat;M;28/10/1977;;;;
-Didier;ChabaillÃ©;M;18/03/1958;;;;
-Jacques;Baudrier;M;11/06/1966;3362289555;jacquesbaudrier;0;juil-15
-Ariane;Dreyfus;F;15/02/1991;1.05442E+18;EmmDreyfus;0;oct-18
-Colette;Anglada;F;27/12/1961;;;;
-Julien;Volganli;M;04/11/1984;;;;
-Arnaud;Volganli;M;28/10/1977;;;;
-Nancy;Verdier;F;13/03/1945;;;;
-Hacen;Mohammedi;M;27/10/1985;;;;
-AbbÃ¨s;Benaissa;M;29/05/1981;;;;
-Arlette;Zilberg;F;20/05/1956;475208227;arlette_zilberg;0;janv-12
-Sonia;Ouertani;F;20/01/1986;73968763;soniaoue;0;sept-09
-Elisabeth;Jaskulke;F;21/11/1963;392528127;btoplanet;0;oct-11
-Nathalie;Fanfant;F;07/01/1971;85285173;nathfanfant;0;oct-09
-PÃ©nÃ©lope;Duggan;F;02/01/1953;;;;
-GeneviÃ¨ve;Beduneau;F;30/03/1947;;;;
-Didier;Le Reste;M;02/06/1955;7.80406E+17;didierlereste;0;sept-16
-Pierre;Mounier;M;30/06/1970;14233770;piotrr70;0;mars-08
-Claude;Trannet;M;20/10/1952;223038322;TRANNET;0;dÃ©c-10
-Daniel;Assayag;M;;;;;
-Quitterie;de Villepin;F;;49627758;Quitt3rie;0;juin-09
-Karine;Dreyfuss;F;;1.2033E+18;DreyfussLevy;0;dÃ©c-19
-Charline;Joliveau;F;;;;;
-Gilles;Le Gendre;M;;;;;
-Jean-Pierre;Lecoq;M;;539156968;jp_lecoq;0;mars-12
-Marine;Rosset;F;;425231735;MarineRosset;0;sept-11
-AndrÃ©;RougÃ©;M;;1.15614E+18;andrerougeoff;0;sept-19
-Florence;Bedague;F;;;;;
-Pierre;Beyssac;M;;;;;
-BÃ©atrice;Cossart;F;;2933680894;theresemiket;0;dÃ©c-14
-Mireille;Delafond;F;;;;;
-Jean-Baptiste;Olivier;M;;;;;
-Sandrine;Rousseau;F;;371381075;sandrousseau;1;sept-11
-Buon;Tan;M;;1.53629E+18;BuonTAN;1;mai-14
-Marie-Claire;CarrÃ¨re-GÃ©e;F;;15719595;mccg;0;aoÃ»t-08
-Saddia;Cousin;F;;;;;
-Maud;Gatel;F;;17747931;maudgatel;1;oct-08
-Valentine;Labourdette;F;;;;;
-Franck;LayrÃ©-Cassou;M;;153108420;FranckLC;0;juin-11
-Nolwenn;Le Gac;F;;28308363;mllepikpik;0;avr-09
-Olivia;Polski;F;;1.53777E+18;OliviaPolski;0;oct-11
-Laurent;Vinciguerra;M;;;;;
+prenom	nom	Sexe	Date de naissance	id_twitter	username	compte_verifie	date_creation_compte
+Sandrine	Adobati	F	30/03/1974				
+Marie-Josee	Boulaire	F	26/01/1959	1,13017E+18	boulairejosee	0	mai-19
+Arnaud	Charvillat	M	28/10/1977				
+François-Marie	Didier	M	03/10/1980	1,2074E+18	fmdidier	0	déc-19
+Lamia	El Aaraje	F	22/11/1986	943672818	lamiaela	1	nov-12
+Mohamad-Lamine	Gassama	M		376865423	MohamadParis20	0	nov-11
+Philippe	Houplain	M	16/07/1961	3255832605	HouplainPh	0	mai-15
+Danielle	Simonnet	F	02/07/1971	329686497	Simonnet2	0	juil-11
+Apolline	Tyburczy	F	12/10/1987	1,49E+18	ApollineTyburzy	0	févr-22
+Christophe	Versini	M	10/08/1995	1,00937E+18	Ch_Versini	0	juin-18
+Hélène	Testud	F	04/10/1956	29447272	helenetestud	0	avr-09
+Adil	Touaimia-Kabbouch	M	03/03/1991	3417457690	adil_de_paris	0	août-15
+Florence	Castillon	F	09/02/1951	1,32646E+18			
+	CastillonFlore1	0	nov-20				
+Hicham	Fassi Fihri	M	16/10/1965	68457158	hichamfassifihr	0	août-09
+Hervé	Masnyou	M	25/03/1964				
+Mehdi	Kemoune	M	17/02/1972	377865606	kemounemehdi	0	sept-11
+Roger	Domard	M	09/11/1945	1,51998E+18	marie_emilie_eu	0	avr-22
+Olivier	Cohen	M	25/10/1963	58584212	olivier_cohen	0	juil-09
+Jean-Philippe	Renau	M	01/01/1954				
+Atanase	Périfan	M	19/08/1964	2188765218	AtanasePerifan	0	nov-13
+Antoinette	Guhl	F	10/06/1970	493483010	antoinetteguhl	0	févr-12
+George	Pau-Langevin	F	19/10/1948	81063019	pau_langevin	0	oct-09
+Nina	Abdoulhamidi	F	26/02/1978				
+Philippe	Aragon	M	23/05/1968	1728425251	aragon_paris20	0	sept-13
+Dalila	Lasfar	F	27/06/1978	8,69912E+17	DalilaLasfar	0	mai-16
+Didier	Chabaillé	M	18/03/1958				
+Jacques	Baudrier	M	11/06/1966	3362289555	jacquesbaudrier	0	juil-15
+Ariane	Dreyfus	F	15/02/1991	1,05442E+18	EmmDreyfus	0	oct-18
+Colette	Anglada	F	27/12/1961				
+Julien	Volganli	M	04/11/1984				
+Arnaud	Volganli	M	28/10/1977				
+Nancy	Verdier	F	13/03/1945				
+Hacen	Mohammedi	M	27/10/1985				
+Abbès	Benaissa	M	29/05/1981				
+Arlette	Zilberg	F	20/05/1956	475208227	arlette_zilberg	0	janv-12
+Sonia	Ouertani	F	20/01/1986	73968763	soniaoue	0	sept-09
+Elisabeth	Jaskulke	F	21/11/1963	392528127	btoplanet	0	oct-11
+Nathalie	Fanfant	F	07/01/1971	85285173	nathfanfant	0	oct-09
+Pénélope	Duggan	F	02/01/1953				
+Geneviève	Beduneau	F	30/03/1947				
+Didier	Le Reste	M	02/06/1955	7,80406E+17	didierlereste	0	sept-16
+Pierre	Mounier	M	30/06/1970	14233770	piotrr70	0	mars-08
+Claude	Trannet	M	20/10/1952	223038322	TRANNET	0	déc-10
+Daniel	Assayag	M					
+Quitterie	de Villepin	F		49627758	Quitt3rie	0	juin-09
+Karine	Dreyfuss	F		1,2033E+18	DreyfussLevy	0	déc-19
+Charline	Joliveau	F					
+Gilles	Le Gendre	M					
+Jean-Pierre	Lecoq	M		539156968	jp_lecoq	0	mars-12
+Marine	Rosset	F		425231735	MarineRosset	0	sept-11
+André	Rougé	M		1,16E+18	andrerougeoff	0	sept-19
+Florence	Bedague	F					
+Pierre	Beyssac	M					
+Béatrice	Cossart	F		2933680894	theresemiket	0	déc-14
+Mireille	Delafond	F					
+Jean-Baptiste	Olivier	M					
+Sandrine	Rousseau	F		371381075	sandrousseau	1	sept-11
+Sandrine	Rousseau	F					
+Buon	Tan	M		1,53629E+18	BuonTAN	1	mai-14
+Marie-Claire	Carrère-Gée	F		15719595	mccg	0	août-08
+Saddia	Cousin	F					
+Maud	Gatel	F		17747931	maudgatel	1	oct-08
+Valentine	Labourdette	F					
+Franck	Layré-Cassou	M		153108420	FranckLC	0	juin-11
+Nolwenn	Le Gac	F		28308363	mllepikpik	0	avr-09
+Olivia	Polski	F		1,54E+18	OliviaPolski	0	oct-11
+Laurent	Vinciguerra	M					
+Henri	Guaino	M	11/03/1957				
+Nathalie	Kosciusko-morizet	F	14/05/1973				
+Gilles	Seignan	M	08/05/1963				
+Jan-Edouard	Brunie	M	29/06/1975				
+Alain	Avronsart	M	27/04/1958				
+Anne-Françoise	Prunières	F	21/12/1947				
+Manon	Bouquin	F	12/06/1992				
+Fabien	Lassalle-humez	M	26/11/1998				
+Laurent	Gamet	M	26/07/1987				
+Delphine	Benin	F	18/06/1969				
+Pauline	Betton	F	05/05/1988				
+Fabien	Couture	M	19/10/1972				
+Edmond	Coulot	M	01/03/1994				
+Anne	Zanghellini	F	15/08/1960				
+Alain	Penso	M	02/02/1950				
+Nicolas	Rousseaux	M	17/11/1976				
+Christine	Lichtenauer	F	28/02/1976				
+Dominique	Lelys	M	26/02/1957				
+Annick	Puyoou	F	29/12/1944				
+David	De preval	M	07/08/1955				
+Lorraine	Questiaux	F	26/06/1987				
+Yorick	Berger	M	08/08/1976				
+Cendrine	Chereil de la rivière	F	11/12/1953				
+Fanny	Benard	F	03/07/1987				
+Benoit	Chazerand	M	06/09/1986				
+Joël	Ezaoui	M	02/11/1963				
+David	Flacher	M	03/03/1976				
+Nathalie	Laville	F	16/10/1962				
+Anne	Limoge	F	04/12/1976				
+Raphaël	Qnouch	M	03/08/1982				
+Claire	Monod	F	01/07/1964				
+Laurent	Truchot	M	05/04/1958				
+Franck	Bonot	M	13/02/1969				
+Benjamin	Requet	M	23/04/1996				
+Martin	Lagane	M	04/02/1987				
+Élise	Mazella	F	27/06/1955				
+Chrystelle	Pellegrino	F	06/01/1972				
+Bernard	Sok	M	17/04/1950				
+Laure	Esquieu	F	31/07/1992				
+Elisabeth	Stibbe	F	02/12/1962				
+Boris	Douchin	M	29/06/1987				
+Jean-Noël	Aqua	M	01/01/1974				
+Corinne	Berthaud	F	07/04/1971				
+Cyrille	Niol	M	06/10/1966				
+Hippolyte	Peters-desteract	M	25/05/1989				
+Armelle	Malvoisin	F	22/10/1971				
+Bruno	De fromont	M	15/08/1960				
+Anissa	Ghaidi	F	13/12/1984				
+Miron	Cusa	M	01/10/1976				
+François	De grailly	M	31/07/1946				
+Luce	Condamine	F	10/09/1962				
+Christian	Laurut	M	06/04/1946				
+Elisabeth	Baston	F	30/07/1961				
+Francis	Szpiner	M	22/03/1954				
+Jean-Roch	Sergent	M	16/01/1977				
+Marielle	De sarnez	F	27/03/1951				
+Pascal	Cherki	M	01/09/1966				
+Florentin	Letissier	M	03/02/1986				
+Jean-Pierre	Coulomb	M	23/03/1953				
+Marc	Agenis-nevers	M	29/09/1983				
+Marielle	Blanc-pernin	F	14/05/1947				
+Anne	Billoët	F	09/07/1998				
+Axel	Kahn	M	05/09/1944				
+Véronique	Bover sayous	F	14/07/1967				
+Yvan	Blot	M	29/06/1948				
+Lassina	Traore	M	26/01/1980				
+Stella	Rebot	F	05/05/1948				
+Chantal	Cottet	F	10/11/1949				
+Marc	Le tanneur	M	09/07/1961				
+Amar	Bellal	M	17/01/1975				
+Christophe	Darmangeat	M	01/01/1965				
+Anne-Sophie	Godfroy-genin	F	11/09/1969				
+Alix	Fourier	F	09/03/1984				
+Laurent	Audouin	M	17/07/1974				
+François	Fillon	M	04/03/1954				
+Farid	Debah	M	19/07/1976				
+Guillaume	Lance	M	22/03/1976				
+Clément	Deflandre	M	17/08/1986				
+Gilles	Moisan de kerbino	M	18/12/1959				
+Caroline	De braquilanges	F	26/06/1977				
+Emmanuel	Dehu	M	26/02/1967				
+Jean-Marie	Le guen	M	03/01/1953				
+Gilles	Chehade	M	03/02/1981				
+Cyprien	Bisot	M	09/05/1990				
+Grégory	Auda	M	08/02/1975				
+Pierre	Gallois	M	10/04/1984				
+David	Boulle	M	06/09/1981				
+Karim	Choulak	M	14/12/1968				
+Catherine	Creton	F	22/06/1969				
+Guillaume	Fillon	M	08/10/1972				
+Emmanuelle	Becker	F	15/07/1983				
+Fadila	Mehal	F	30/07/1954				
+Clémence	Hebert	F	28/07/1986				
+Mariz	Lechesne	F	01/10/1955				
+Anne-Sophie	Souhaite	F	04/08/1981				
+Claire	Coutau-begarie	F	01/05/1962				
+Jean-Noël	Benoit	M	19/12/1964				
+Marianne	Picard	F	13/02/1977				
+Maxime-Valery	Muller	M	10/01/1987				
+Philippe	Pejo	M	10/04/1968				
+Célia	Blauel	F	10/11/1981				
+Florine	Wong	F	21/11/1987				
+Laurent	Duffault	M	01/07/1967				
+Charles-Henri	Bernard	M	08/06/1987				
+Frédéric	Cella	M	26/10/1967				
+Jean-François	Martins	M	10/12/1981				
+Dominique	Mahe	F	16/10/1957				
+Dominique	Nogueres	F	11/12/1947				
