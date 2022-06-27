@@ -1,0 +1,40 @@
+[
+    {
+        "id": "873204189731704832",
+        "text": "RT @Ed_LaDecouverte: Délibérée, la nouvelle revue sur la justice, les droits et les libertés du @SMagistrature paraîtra le 12 juin ! https:…",
+        "created_at": "2017-06-09 15:44:36+00:00",
+        "attachments": null,
+        "author_id": 40967152,
+        "context_annotations": [],
+        "conversation_id": 873204189731704832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "Ed_LaDecouverte",
+                    "id": "848950321"
+                },
+                {
+                    "start": 96,
+                    "end": 110,
+                    "username": "SMagistrature",
+                    "id": "703015526"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

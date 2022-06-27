@@ -1,0 +1,1079 @@
+[
+    {
+        "id": "211522142603460608",
+        "text": "RT @Elysee_2012: #circo7502 : deux universitaires à la conquête des beaux quartiers: Axel Kahn (PS) et Laurent Audoin ... http://t.co/zZ ...",
+        "created_at": "2012-06-09 18:16:23+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 211522142603460608,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 27,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "211140935269097472",
+        "text": "Débat avec R Lion et JB de Foucauld et verre de l'amitié : on finit en beauté la campagne #EELV dans la #circo7502 ! 19h30 92 bd St-Germain",
+        "created_at": "2012-06-08 17:01:36+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 211140935269097472,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 90,
+                    "end": 95,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 104,
+                    "end": 114,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "210417005046661122",
+        "text": "Table ouverte #EELV au Verre a pied 118b rue Mouffetard jeudi a 19h #vraiséchanges #proximité #circo7502",
+        "created_at": "2012-06-06 17:04:58+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 210417005046661122,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 19,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 68,
+                    "end": 82,
+                    "tag": "vraiséchanges"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "proximité"
+                },
+                {
+                    "start": 94,
+                    "end": 104,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "210416273954308096",
+        "text": "Antennes relais au Sénat, puis Europe avec @AnneSoGodfroy  : hier soir il y avait bien mieux que le show de #FFillon dans la #circo7502 !",
+        "created_at": "2012-06-06 17:02:03+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 210416273954308096,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "AnneSoGodfroy",
+                    "id": "54262687"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 116,
+                    "tag": "FFillon"
+                },
+                {
+                    "start": 125,
+                    "end": 135,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "210414679422541824",
+        "text": "@GuillaumeDaudin @PhiloBouillon La #circo7502 ce n'est pas un duel il y a un premier tour et meme des candidats qui débattent. On en parle ?",
+        "created_at": "2012-06-06 16:55:43+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 210414679422541824,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "GuillaumeDaudin",
+                    "id": "132543309"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 35,
+                    "end": 45,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 132543309,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "210096176295452672",
+        "text": "@CamilleBrinet @CelineBon Journal du 5e est édité par \"les amis de #Tiberi\"! #Fillon héritier du système ne lui laissons pas la #circo7502 !",
+        "created_at": "2012-06-05 19:50:06+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 210096176295452672,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "CamilleBrinet",
+                    "id": "18531895"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "CelineBon",
+                    "id": "52036252"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 67,
+                    "end": 74,
+                    "tag": "Tiberi"
+                },
+                {
+                    "start": 77,
+                    "end": 84,
+                    "tag": "Fillon"
+                },
+                {
+                    "start": 128,
+                    "end": 138,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 18531895,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "209560387132211200",
+        "text": "RT @emmacosse: Encadrement des loyers, première étape franchie ce matin par la voie réglementaire. Heureuse d'avoir @CecileDuflot pour m ...",
+        "created_at": "2012-06-04 08:21:04+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 209560387132211200,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "emmacosse",
+                    "id": "95533081"
+                },
+                {
+                    "start": 116,
+                    "end": 129,
+                    "username": "CecileDuflot",
+                    "id": "17508660"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "208918543255879680",
+        "text": "Diffusion rue St-Dominique et rue du Four ce matin, débat sup et recherche à Jussieu cet aprem : la #circo7502 dans toute sa diversité !",
+        "created_at": "2012-06-02 13:50:36+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 208918543255879680,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 110,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "208116755565002752",
+        "text": "Très bon accueil ce matin à Mabillon, ce soir à partir de 19h c'est table ouverte au Verre à Pied 118 rue Mouffetard ! #EELV #circo7502",
+        "created_at": "2012-05-31 08:44:35+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 208116755565002752,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 124,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 125,
+                    "end": 135,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "208114800172081152",
+        "text": "RT @JeanLafont: Victoire! La circulaire Guéant a été enfin abrogée!",
+        "created_at": "2012-05-31 08:36:49+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 208114800172081152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "JeanLafont",
+                    "id": "109390337"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "207601491815579648",
+        "text": "RT @Wandrille_: Ce soit au #dejazet @JacquesBoutault @annesouyris Corine Faugeron @laurentaudouin @bfrancois_EELV Agnès Michel @Denis_Ba ...",
+        "created_at": "2012-05-29 22:37:07+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 207601491815579648,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Wandrille_",
+                    "id": "338279064"
+                },
+                {
+                    "start": 36,
+                    "end": 52,
+                    "username": "JacquesBoutault",
+                    "id": "72301588"
+                },
+                {
+                    "start": 53,
+                    "end": 65,
+                    "username": "annesouyris",
+                    "id": "96739831"
+                },
+                {
+                    "start": 82,
+                    "end": 97,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 35,
+                    "tag": "dejazet"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "207493432166465538",
+        "text": "#circo7502 #Fillon \"candidat fantôme\" pour #EELV @le_Parisien_fr l’ex-1er ministre croise le fer avec le scientifique http://t.co/KfZoOgDZ",
+        "created_at": "2012-05-29 15:27:43+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 207493432166465538,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 64,
+                    "username": "le_Parisien_fr",
+                    "id": "807439081"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 138,
+                    "url": "http://t.co/KfZoOgDZ",
+                    "expanded_url": "http://www.leparisien.fr/elections-legislatives-2012/legislatives-l-ex-premier-ministre-croise-le-fer-avec-le-scientifique-29-05-2012-2022376.php",
+                    "display_url": "leparisien.fr/elections-legi…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 11,
+                    "end": 18,
+                    "tag": "Fillon"
+                },
+                {
+                    "start": 43,
+                    "end": 48,
+                    "tag": "EELV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "207462826464391171",
+        "text": "RT @daicaudouit: Rappelons que Michel #Gaudin n'était pas très favorable au projet de d'aménagement des voies sur berge surtout côté riv ...",
+        "created_at": "2012-05-29 13:26:06+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 207462826464391171,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "daicaudouit",
+                    "id": "51170340"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 38,
+                    "end": 45,
+                    "tag": "Gaudin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206738426555416577",
+        "text": "Toujours pas trace de F. #Fillon sur les marchés de la #circo7502 ce WE. Trop pris par sa guerre avec Copé ou trop honteux de son bilan?",
+        "created_at": "2012-05-27 13:27:36+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 206738426555416577,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 25,
+                    "end": 32,
+                    "tag": "Fillon"
+                },
+                {
+                    "start": 55,
+                    "end": 65,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
+        "withheld": null
+    },
+    {
+        "id": "206052490817437697",
+        "text": "#circo7502 Top 8 sur Twitter via @marcpreel http://t.co/JnxE7fhd / Et il n'y a pas que #Fillon... @laurentaudouin #EELV #local #avenir",
+        "created_at": "2012-05-25 16:01:56+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 206052490817437697,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 43,
+                    "username": "marcpreel",
+                    "id": "40638594"
+                },
+                {
+                    "start": 98,
+                    "end": 113,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 44,
+                    "end": 64,
+                    "url": "http://t.co/JnxE7fhd",
+                    "expanded_url": "http://circo.afp.com",
+                    "display_url": "circo.afp.com"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 87,
+                    "end": 94,
+                    "tag": "Fillon"
+                },
+                {
+                    "start": 114,
+                    "end": 119,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 120,
+                    "end": 126,
+                    "tag": "local"
+                },
+                {
+                    "start": 127,
+                    "end": 134,
+                    "tag": "avenir"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206042057674985473",
+        "text": "RT @Candidatsfr: Laurent AUDOUIN (Les verts, Paris) a signé le pacte du logiciel libre !  http://t.co/9SYgZCzC",
+        "created_at": "2012-05-25 15:20:29+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 206042057674985473,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Candidatsfr",
+                    "id": "117424621"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 110,
+                    "url": "http://t.co/9SYgZCzC",
+                    "expanded_url": "http://bit.ly/IK9AA5",
+                    "display_url": "bit.ly/IK9AA5"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205956187714363393",
+        "text": "J'ai signé le Pacte du Logiciel Libre http://t.co/DaHKAKu2. Pas de surprise, la majorité des signataires sont #EELV !  #circo7502",
+        "created_at": "2012-05-25 09:39:16+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205956187714363393,
+        "entities": {
+            "urls": [
+                {
+                    "start": 38,
+                    "end": 58,
+                    "url": "http://t.co/DaHKAKu2",
+                    "expanded_url": "http://campagnes.candidats.fr/legislatives2012/",
+                    "display_url": "campagnes.candidats.fr/legislatives20…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 115,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 119,
+                    "end": 129,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205954507325194241",
+        "text": "RT @Celia_Blauel: Cumul des mandats, ça coince au PS http://t.co/5kJOKSoe Seul @Denis_Baupin #EELV est clair sur le non cumul. #exemplar ...",
+        "created_at": "2012-05-25 09:32:35+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205954507325194241,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Celia_Blauel",
+                    "id": "484013613"
+                },
+                {
+                    "start": 79,
+                    "end": 92,
+                    "username": "Denis_Baupin",
+                    "id": "17271007"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 73,
+                    "url": "http://t.co/5kJOKSoe",
+                    "expanded_url": "http://goo.gl/CGgOq",
+                    "display_url": "goo.gl/CGgOq"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 98,
+                    "tag": "EELV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205948815436550144",
+        "text": "@laurentaudouin Car le 6e,c'est aussi @Celia_Blauel #quartier Notre-Dame-des-Champs et le 7e Christiane Coudray #quartier Ecole Militaire :)",
+        "created_at": "2012-05-25 09:09:58+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205946579050434561,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                },
+                {
+                    "start": 38,
+                    "end": 51,
+                    "username": "Celia_Blauel",
+                    "id": "484013613"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 61,
+                    "tag": "quartier"
+                },
+                {
+                    "start": 112,
+                    "end": 121,
+                    "tag": "quartier"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 113982114,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205946579050434561",
+        "text": "Où voter #législatives #Paris 5e arrondissement? #circo7502 avec @laurentaudouin pour #EELV \n6e ou 7e, y'a des chances http://t.co/4nVUb7Jn",
+        "created_at": "2012-05-25 09:01:05+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205946579050434561,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 65,
+                    "end": 80,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 119,
+                    "end": 139,
+                    "url": "http://t.co/4nVUb7Jn",
+                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/2e-circonscription-de-paris/",
+                    "display_url": "laurentaudouin.eelv-legislatives.fr/2e-circonscrip…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 9,
+                    "end": 22,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 23,
+                    "end": 29,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 49,
+                    "end": 59,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 86,
+                    "end": 91,
+                    "tag": "EELV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205942066818195456",
+        "text": "#FF spécial #législatives #EELV #Paris #rivegauche @Celia_Blauel @JeanLafont @GFillon @Denis_Baupin et @laurentaudouin pour la #circo7502 !",
+        "created_at": "2012-05-25 08:43:09+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205942066818195456,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 64,
+                    "username": "Celia_Blauel",
+                    "id": "484013613"
+                },
+                {
+                    "start": 65,
+                    "end": 76,
+                    "username": "JeanLafont",
+                    "id": "109390337"
+                },
+                {
+                    "start": 77,
+                    "end": 85,
+                    "username": "GFillon",
+                    "id": "53101892"
+                },
+                {
+                    "start": 86,
+                    "end": 99,
+                    "username": "Denis_Baupin",
+                    "id": "17271007"
+                },
+                {
+                    "start": 103,
+                    "end": 118,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "tag": "FF"
+                },
+                {
+                    "start": 12,
+                    "end": 25,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 26,
+                    "end": 31,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 32,
+                    "end": 38,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 39,
+                    "end": 50,
+                    "tag": "rivegauche"
+                },
+                {
+                    "start": 127,
+                    "end": 137,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205798129012981760",
+        "text": "RT @jeanmarcbrule: La guerre totale ! UMP: Dati traite Fillon de tous les noms... #UMPMoinsde140Députés Yahoo! Actualités France http:// ...",
+        "created_at": "2012-05-24 23:11:12+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205798129012981760,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jeanmarcbrule",
+                    "id": "57000248"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 103,
+                    "tag": "UMPMoinsde140Députés"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205692388235165696",
+        "text": "Mais où est donc Monsieur #Fillon ? Pas dans la #circo7502... http://t.co/woxT5J6O",
+        "created_at": "2012-05-24 16:11:01+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 205692388235165696,
+        "entities": {
+            "urls": [
+                {
+                    "start": 62,
+                    "end": 82,
+                    "url": "http://t.co/woxT5J6O",
+                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/mais-ou-est-donc-monsieur-fillon/",
+                    "display_url": "laurentaudouin.eelv-legislatives.fr/mais-ou-est-do…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 33,
+                    "tag": "Fillon"
+                },
+                {
+                    "start": 48,
+                    "end": 58,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

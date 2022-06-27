@@ -1,0 +1,5026 @@
+[
+    {
+        "id": "873214249417539588",
+        "text": "Les #Electionslegislatives2017 de dimanche sont historiques. Donnons une majorité claire à @EmmanuelMacron pour faire Votre France https://t.co/2iQLd9cG2b",
+        "created_at": "2017-06-09 16:24:35+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873214241892859904"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 873214249417539588,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 4,
+                    "end": 30,
+                    "tag": "Electionslegislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 106,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/2iQLd9cG2b",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/873214249417539588/photo/1",
+                    "display_url": "pic.twitter.com/2iQLd9cG2b",
+                    "media_key": "3_873214241892859904"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873213035468468224",
+        "text": "En 3 semaines nous avons réalisé une superbe campagne. Bravo et merci à tous les militants qui se sont mobilisés pour #laRepubliqueEnMarche https://t.co/h78c2K0F0k",
+        "created_at": "2017-06-09 16:19:45+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873213027037966341"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 873213035468468224,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 139,
+                    "tag": "laRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/h78c2K0F0k",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/873213035468468224/photo/1",
+                    "display_url": "pic.twitter.com/h78c2K0F0k",
+                    "media_key": "3_873213027037966341"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873211849243848709",
+        "text": "Ce soir s'achève la campagne officielle. Je serai à 18:30 Place d'Italie et à partir de 20h au bomby's cafe Place d'Italie. Venez nombreux!",
+        "created_at": "2017-06-09 16:15:03+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850442647088971776",
+                    "name": "Coffee",
+                    "description": "Coffee"
+                }
+            }
+        ],
+        "conversation_id": 873211849243848709,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872891234808889346",
+        "text": "La #stationF est 1 symbole d'action partenariale pour libérer les initiatives des #jeunes : accompagner à #innover, concrétiser leurs idees https://t.co/Yvq0wUVmuc",
+        "created_at": "2017-06-08 19:01:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872891220963598336"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872891234808889346,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "tag": "stationF"
+                },
+                {
+                    "start": 82,
+                    "end": 89,
+                    "tag": "jeunes"
+                },
+                {
+                    "start": 106,
+                    "end": 114,
+                    "tag": "innover"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/Yvq0wUVmuc",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872891234808889346/photo/1",
+                    "display_url": "pic.twitter.com/Yvq0wUVmuc",
+                    "media_key": "3_872891220963598336"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872890596326862848",
+        "text": "L'ouverture à l'international est 1 chance pr les #jeunes ds le cadre de la formation. le renforcement de #erasmus est 1 mesure essentielle https://t.co/8Iu4JTxMcn",
+        "created_at": "2017-06-08 18:58:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872890583832031235"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872890596326862848,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 57,
+                    "tag": "jeunes"
+                },
+                {
+                    "start": 106,
+                    "end": 114,
+                    "tag": "erasmus"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/8Iu4JTxMcn",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872890596326862848/photo/1",
+                    "display_url": "pic.twitter.com/8Iu4JTxMcn",
+                    "media_key": "3_872890583832031235"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872889544697368576",
+        "text": "Nous devons rapprocher la #formation et l'emploi. #apprentissage est une opportunité à amplifier pour l'insertion pro #laRepubliqueEnMarche https://t.co/LqG1Qe8xX7",
+        "created_at": "2017-06-08 18:54:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872889533846740994"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872889544697368576,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 36,
+                    "tag": "formation"
+                },
+                {
+                    "start": 50,
+                    "end": 64,
+                    "tag": "apprentissage"
+                },
+                {
+                    "start": 118,
+                    "end": 139,
+                    "tag": "laRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/LqG1Qe8xX7",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872889544697368576/photo/1",
+                    "display_url": "pic.twitter.com/LqG1Qe8xX7",
+                    "media_key": "3_872889533846740994"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872886000271458307",
+        "text": "RT @PacomeRupin: \"Nous avons besoin d'une conscience métropolitaine pour avoir une politique de construction de logements attractive dans l…",
+        "created_at": "2017-06-08 18:40:14+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872886000271458307,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PacomeRupin",
+                    "id": "72581817"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872885558477033472",
+        "text": "RT @PacomeRupin: Nous allons investir 15 milliards pour faciliter l'accès à la formation, notamment des jeunes qui souhaitent bénéficier d'…",
+        "created_at": "2017-06-08 18:38:29+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872885558477033472,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PacomeRupin",
+                    "id": "72581817"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872885217891164162",
+        "text": "RT @EnMarcheParis13: Réunion publique de @BuonTAN sur la #jeunesse On parle #logement #culture #éducation https://t.co/x5LbYI1p6E",
+        "created_at": "2017-06-08 18:37:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872883149440778240"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "25",
+                    "name": "Events",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "10040529361",
+                    "name": "Discovery VCN - GameChangers"
+                }
+            }
+        ],
+        "conversation_id": 872885217891164162,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 66,
+                    "tag": "jeunesse"
+                },
+                {
+                    "start": 76,
+                    "end": 85,
+                    "tag": "logement"
+                },
+                {
+                    "start": 86,
+                    "end": 94,
+                    "tag": "culture"
+                },
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "éducation"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 49,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/x5LbYI1p6E",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/872883985264914432/photo/1",
+                    "display_url": "pic.twitter.com/x5LbYI1p6E",
+                    "media_key": "3_872883149440778240"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872885182482829313",
+        "text": "Soirée dédiée à la jeunesse. Culture, école, emploi, Europe. Donnons aux jeunes la possibilité de construire une société qui leur ressemble https://t.co/1LAZsSgDQl",
+        "created_at": "2017-06-08 18:36:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872885170810097665"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 872885182482829313,
+        "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/1LAZsSgDQl",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872885182482829313/photo/1",
+                    "display_url": "pic.twitter.com/1LAZsSgDQl",
+                    "media_key": "3_872885170810097665"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872866246827659265",
+        "text": "RT @EnMarcheParis13: Suite aux accusations mensongères publiées ce matin dans la presse, vous trouverez ici la déclaration de notre candida…",
+        "created_at": "2017-06-08 17:21:44+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 872866246827659265,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872158195661328384",
+        "text": "RT @EmmanuelMacron: Journée mondiale de l'environnement : un jour pour se rappeler de la nécessité de mener ce combat tous les jours ! #Mak…",
+        "created_at": "2017-06-06 18:28:12+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872158195661328384,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1734,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872118548386242560",
+        "text": "RT @enmarchefr: .@BuonTAN est candidat à Paris. Il est entrepreneur et adjoint au maire du 13e arrondissement. #LaRépubliqueEnMarche #circo…",
+        "created_at": "2017-06-06 15:50:39+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872118548386242560,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 132,
+                    "tag": "LaRépubliqueEnMarche"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                },
+                {
+                    "start": 17,
+                    "end": 25,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871335165829808128",
+        "text": "RT @EnMarcheParis13: Aujourd'hui 17h rassemblement silencieux devant la tour Londres sur la dalle Olympiades en solidarité avec les Londoni…",
+        "created_at": "2017-06-04 11:57:46+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855412191050121217",
+                    "name": "London",
+                    "description": "london"
+                }
+            }
+        ],
+        "conversation_id": 871335165829808128,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871256861202407424",
+        "text": "RT @maxkarole: #legislatives2017 du 11 et 18 juin 2017 M. Buon TAN candidat très proche des gens, investi par LaRépubliqueEnMarche sur la 9…",
+        "created_at": "2017-06-04 06:46:37+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 871256861202407424,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 32,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "maxkarole",
+                    "id": "1940675298"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871256837928169472",
+        "text": "RT @JB_BROS: Législatives #Paris, sur la 9e circonscription @BuonTAN un candidat engagé pour les Parisiens https://t.co/QyNQPoXrQk via @LeP…",
+        "created_at": "2017-06-04 06:46:31+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 871256837928169472,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 32,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "JB_BROS",
+                    "id": "184803344"
+                },
+                {
+                    "start": 60,
+                    "end": 68,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/QyNQPoXrQk",
+                    "expanded_url": "http://l.leparisien.fr/s/7Q2M",
+                    "display_url": "l.leparisien.fr/s/7Q2M"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871048033068306432",
+        "text": "@nicapps23 @martinlagane @oxfamfrance @ccfd_tsolidaire @PSo_ActionAid @caritasfrance @benoitgolitin @Bahira_Droubi @SaraLickel @SrhFvl @Esquieu2017 @RaphaelQnouch Bonjour. Moi meme et l'ensemble de l'équipe de La République En Marche serons ravis d'échanger avec vous sur ces enjeux majeurs",
+        "created_at": "2017-06-03 16:56:49+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 870926203984781312,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "nicapps23",
+                    "id": "2383700000"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 25,
+                    "end": 37,
+                    "username": "oxfamfrance",
+                    "id": "15480982"
+                },
+                {
+                    "start": 38,
+                    "end": 54,
+                    "username": "ccfd_tsolidaire",
+                    "id": "35717480"
+                },
+                {
+                    "start": 55,
+                    "end": 69,
+                    "username": "PSo_ActionAid",
+                    "id": "236335938"
+                },
+                {
+                    "start": 70,
+                    "end": 84,
+                    "username": "caritasfrance",
+                    "id": "42900697"
+                },
+                {
+                    "start": 100,
+                    "end": 114,
+                    "username": "Bahira_Droubi",
+                    "id": "242505426"
+                },
+                {
+                    "start": 115,
+                    "end": 126,
+                    "username": "SaraLickel",
+                    "id": "583624256"
+                },
+                {
+                    "start": 127,
+                    "end": 134,
+                    "username": "SrhFvl",
+                    "id": "300905233"
+                },
+                {
+                    "start": 148,
+                    "end": 162,
+                    "username": "RaphaelQnouch",
+                    "id": "387618120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2383700000,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870379142864306176",
+        "text": "Ce soir, au moment même où Donald Trump sortait de l'Accord de Paris, je tenais une réunion publique sur la transition écologique !",
+        "created_at": "2017-06-01 20:38:53+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 870379142864306176,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870346970094870528",
+        "text": "RT @EnMarcheParis13: Présentation des mesures phares d'En Marche! sur l'#environnement @BuonTAN https://t.co/DJEWc6PAvO",
+        "created_at": "2017-06-01 18:31:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870345001661870080"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 870346970094870528,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 86,
+                    "tag": "environnement"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 95,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/DJEWc6PAvO",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/870345010453123074/photo/1",
+                    "display_url": "pic.twitter.com/DJEWc6PAvO",
+                    "media_key": "3_870345001661870080"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869950589236641792",
+        "text": "@JupiterPremier Merci pour ce soutien et cet enthousiasme.",
+        "created_at": "2017-05-31 16:15:58+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 869922238291640322,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "JupiterPremier",
+                    "id": "1078237033"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1078237033,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869950450191257600",
+        "text": "RT @JupiterPremier: Pour les #legislatives2017 je soutiendrai @BuonTAN, candidat de #laRepubliqueEnMarche dans la 9ème #circonscription de…",
+        "created_at": "2017-05-31 16:15:24+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 869950450191257600,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 29,
+                    "end": 46,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 84,
+                    "end": 105,
+                    "tag": "laRepubliqueEnMarche"
+                },
+                {
+                    "start": 119,
+                    "end": 135,
+                    "tag": "circonscription"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "JupiterPremier",
+                    "id": "1078237033"
+                },
+                {
+                    "start": 62,
+                    "end": 70,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869638756558655489",
+        "text": "RT @BGriveaux: Je soutiens @BuonTAN candidat dans le 13e arrondissement à Paris, élu local engagé, pour porter notre projet à l'Assemblée.#…",
+        "created_at": "2017-05-30 19:36:51+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 869638756558655489,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "BGriveaux",
+                    "id": "317655205"
+                },
+                {
+                    "start": 27,
+                    "end": 35,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869439132728258560",
+        "text": "Je salue le dialogue renouvelé entre la #russie et la #france @EmmanuelMacron a renoué un lien distendu sans ne jamais faire de concession",
+        "created_at": "2017-05-30 06:23:37+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855115617229127680",
+                    "name": "Russia",
+                    "description": "Russia"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 869439132728258560,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 47,
+                    "tag": "russie"
+                },
+                {
+                    "start": 54,
+                    "end": 61,
+                    "tag": "france"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 62,
+                    "end": 77,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869207730870988802",
+        "text": "Réussir le plan d'investissement annoncé par Emmanuel #Macron. Retrouvez ma tribune dans @AgefiFrance  https://t.co/pGS3N2bbfm",
+        "created_at": "2017-05-29 15:04:06+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 869207730870988802,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 61,
+                    "tag": "Macron"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 101,
+                    "username": "AgefiFrance",
+                    "id": "233893003"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/pGS3N2bbfm",
+                    "expanded_url": "http://communautes.agefi.fr/status/13156",
+                    "display_url": "communautes.agefi.fr/status/13156"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868917705931403264",
+        "text": "Rencontre avec les artistes de @lesFrigos avec notre candidat @BuonTAN. #circo7509 https://t.co/kj7vFUO2zZ",
+        "created_at": "2017-05-28 19:51:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868917703360352258"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 868917705931403264,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 82,
+                    "tag": "circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 41,
+                    "username": "lesFrigos",
+                    "id": "1346985835"
+                },
+                {
+                    "start": 62,
+                    "end": 70,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/kj7vFUO2zZ",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/868917705931403264/photo/1",
+                    "display_url": "pic.twitter.com/kj7vFUO2zZ",
+                    "media_key": "3_868917703360352258"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868855405329428483",
+        "text": "De belles rencontres avec les artistes de @lesFrigos pour leur journée porte-ouverte. #LaCultureEnMarche #Circo7509 https://t.co/8zAXP5W46K",
+        "created_at": "2017-05-28 15:44:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868855403467210755"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 868855405329428483,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 104,
+                    "tag": "LaCultureEnMarche"
+                },
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "Circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 52,
+                    "username": "lesFrigos",
+                    "id": "1346985835"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/8zAXP5W46K",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/868855405329428483/photo/1",
+                    "display_url": "pic.twitter.com/8zAXP5W46K",
+                    "media_key": "3_868855403467210755"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 19,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868764077514002436",
+        "text": "RT @EnMarcheParis13: Indécence totale des candidats du PS qui recopient mot pour mot le programme d'Emmanuel Macron dans leur tract ! Tromp…",
+        "created_at": "2017-05-28 09:41:11+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868764077514002436,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 177,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868560770623295488",
+        "text": "Je condamne fermement l'acte honteux de dégradation de la tombe du Général #deGaulle. Respectons nos grandes figures nationales !",
+        "created_at": "2017-05-27 20:13:19+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 868560770623295488,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 75,
+                    "end": 84,
+                    "tag": "deGaulle"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868296398369894400",
+        "text": "RT @RolandLescure: «Le 7 mai, nous avons tourné une page de notre vie politique. Le 3 juin, ne revenons pas en arrière.» @EmmanuelMacron #l…",
+        "created_at": "2017-05-27 02:42:48+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 868296398369894400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "RolandLescure",
+                    "id": "828000112215355393"
+                },
+                {
+                    "start": 121,
+                    "end": 136,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868296281432748036",
+        "text": "RT @GuillaumePeyron: 🚪a🚪 ce matin place nationale avec les équipes @EnMarcheParis13 @BuonTAN @Alexandralaffi4 #circo7509 https://t.co/kIlAt…",
+        "created_at": "2017-05-27 02:42:20+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 868296281432748036,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GuillaumePeyron",
+                    "id": "802460978663321600"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868296230476161024",
+        "text": "RT @MoDem75013: Opération Place nationale avec #BuonTan2017 #legislatives2017 #LREM  #MoDem  cc @BuonTAN #majoritepresidentielle 👍^^ https:…",
+        "created_at": "2017-05-27 02:42:08+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 868296230476161024,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 59,
+                    "tag": "BuonTan2017"
+                },
+                {
+                    "start": 60,
+                    "end": 77,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 78,
+                    "end": 83,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 85,
+                    "end": 91,
+                    "tag": "MoDem"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "tag": "majoritepresidentielle"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "MoDem75013",
+                    "id": "2240364139"
+                },
+                {
+                    "start": 96,
+                    "end": 104,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867986199356489729",
+        "text": "RT @BuonTAN: Je vous donne rendez-vous dimanche à 16H pour une visite des Frigos, à la rencontre des artistes de la circonscription ! #Circ…",
+        "created_at": "2017-05-26 06:10:10+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867986199356489729,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867855030778564608",
+        "text": "Je vous donne rendez-vous dimanche à 16H pour une visite des Frigos, à la rencontre des artistes de la circonscription ! #Circo7509 https://t.co/h8h6TZqGdI",
+        "created_at": "2017-05-25 21:28:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867855023228821504"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867855030778564608,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/h8h6TZqGdI",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867855030778564608/photo/1",
+                    "display_url": "pic.twitter.com/h8h6TZqGdI",
+                    "media_key": "3_867855023228821504"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867854642721566720",
+        "text": "RT @BuonTAN: Je suis ce soir auprès des militants du #ComiteLocal #olympiades pour coconstruire le projet de moralisation de la vie publiqu…",
+        "created_at": "2017-05-25 21:27:25+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867854642721566720,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 65,
+                    "tag": "ComiteLocal"
+                },
+                {
+                    "start": 66,
+                    "end": 77,
+                    "tag": "olympiades"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867854380330045441",
+        "text": "RT @BuonTAN: La #Transparence de la vie Publique/Politique, un des grands chantiers du quinquennat. Diagnostic et propositions ⬇️https://t.…",
+        "created_at": "2017-05-25 21:26:22+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867854380330045441,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 29,
+                    "tag": "Transparence"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867437721920434184",
+        "text": "Je suis ce soir auprès des militants du #ComiteLocal #olympiades pour coconstruire le projet de moralisation de la vie publique. #7509 https://t.co/ZfgblqUyoq",
+        "created_at": "2017-05-24 17:50:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867437694779052036"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867437721920434184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 52,
+                    "tag": "ComiteLocal"
+                },
+                {
+                    "start": 53,
+                    "end": 64,
+                    "tag": "olympiades"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ZfgblqUyoq",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867437721920434184/photo/1",
+                    "display_url": "pic.twitter.com/ZfgblqUyoq",
+                    "media_key": "3_867437694779052036"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867365217730260992",
+        "text": "#Parité seulement 42,4% de candidates aux #legislatives2017 selon @HCEfh \n#EnMarchelaRepublique pour faire bouger les lignes @EllesMarchent https://t.co/AoFNIxSnrO",
+        "created_at": "2017-05-24 13:02:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867365207206752256"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867365217730260992,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "tag": "Parité"
+                },
+                {
+                    "start": 42,
+                    "end": 59,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 74,
+                    "end": 95,
+                    "tag": "EnMarchelaRepublique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 66,
+                    "end": 72,
+                    "username": "HCEfh",
+                    "id": "1321932164"
+                },
+                {
+                    "start": 125,
+                    "end": 139,
+                    "username": "EllesMarchent",
+                    "id": "832149029521911808"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/AoFNIxSnrO",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867365217730260992/photo/1",
+                    "display_url": "pic.twitter.com/AoFNIxSnrO",
+                    "media_key": "3_867365207206752256"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867333056859951104",
+        "text": "RT @CCastaner: \"Les français ont élu @EmmanuelMacron avec la volonté de libérer le travail.\" #Les4V",
+        "created_at": "2017-05-24 10:54:49+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867333056859951104,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 99,
+                    "tag": "Les4V"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "CCastaner",
+                    "id": "125727024"
+                },
+                {
+                    "start": 37,
+                    "end": 52,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867332451240218625",
+        "text": "La #Transparence de la vie Publique/Politique, un des grands chantiers du quinquennat. Diagnostic et propositions ⬇️https://t.co/fVPZqM1nxl",
+        "created_at": "2017-05-24 10:52:25+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867332451240218625,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "tag": "Transparence"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/fVPZqM1nxl",
+                    "expanded_url": "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique",
+                    "display_url": "en-marche.fr/emmanuel-macro…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867321726711078913",
+        "text": "@EmmanuelMacron fait de la #MoralisationViePublique un de ses 6 grands chantiers. Retrouvez diagnostic/propositions \nhttps://t.co/fVPZqM1nxl",
+        "created_at": "2017-05-24 10:09:48+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867321726711078913,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 51,
+                    "tag": "MoralisationViePublique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/fVPZqM1nxl",
+                    "expanded_url": "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique",
+                    "display_url": "en-marche.fr/emmanuel-macro…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1976143068,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867162719190908928",
+        "text": "RT @JeunesMacron: \"Continuons à marcher pour que dans 3 semaines ça soit l'espoir qui soit nos sillons\" @RichardFerrand #laRepubliqueEnMarc…",
+        "created_at": "2017-05-23 23:37:58+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867162719190908928,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "JeunesMacron",
+                    "id": "3341083283"
+                },
+                {
+                    "start": 104,
+                    "end": 119,
+                    "username": "RichardFerrand",
+                    "id": "438305534"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867121619994587136",
+        "text": "Buon TAN - Portes ouvertes à la Cité de la Mode et du Design https://t.co/c0ZaIplbyM",
+        "created_at": "2017-05-23 20:54:39+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867121619994587136,
+        "entities": {
+            "urls": [
+                {
+                    "start": 61,
+                    "end": 84,
+                    "url": "https://t.co/c0ZaIplbyM",
+                    "expanded_url": "http://www.buon-tan.fr/citedelamode?recruiter_id=12",
+                    "display_url": "buon-tan.fr/citedelamode?r…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "NationBuilder",
+        "withheld": null
+    },
+    {
+        "id": "867108986595758081",
+        "text": "Notre site de campagne est lancé. Rejoignez nous et suivez notre actualité  https://t.co/0DEY4MHpOl",
+        "created_at": "2017-05-23 20:04:27+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867108986595758081,
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/0DEY4MHpOl",
+                    "expanded_url": "http://www.buon-tan.fr/",
+                    "display_url": "buon-tan.fr"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867099973774704640",
+        "text": "Merci aux @JeunesMacron #Paris13 pour leur mobilisation durant la campagne législative ! #EnMarche #circo7509 https://t.co/Llaswk7VGh",
+        "created_at": "2017-05-23 19:28:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867099850223083527"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867099973774704640,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 32,
+                    "tag": "Paris13"
+                },
+                {
+                    "start": 89,
+                    "end": 98,
+                    "tag": "EnMarche"
+                },
+                {
+                    "start": 99,
+                    "end": 109,
+                    "tag": "circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 23,
+                    "username": "JeunesMacron",
+                    "id": "3341083283"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/Llaswk7VGh",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867099973774704640/photo/1",
+                    "display_url": "pic.twitter.com/Llaswk7VGh",
+                    "media_key": "3_867099850223083527"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 21,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867098364499947524",
+        "text": "Le #numérique est au cœur de notre projet de transformation. Nous comptons sur @mounir pr 1 numérique inclusif https://t.co/yVc311wMLW",
+        "created_at": "2017-05-23 19:22:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867098362763513856"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "827111688893652993",
+                    "name": "Sahra Wagenknecht",
+                    "description": "Sahra Wagenknecht"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "827111688893652993",
+                    "name": "Sahra Wagenknecht",
+                    "description": "Sahra Wagenknecht"
+                }
+            }
+        ],
+        "conversation_id": 867098364499947524,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "tag": "numérique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 86,
+                    "username": "mounir",
+                    "id": "80528373"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/yVc311wMLW",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867098364499947524/photo/1",
+                    "display_url": "pic.twitter.com/yVc311wMLW",
+                    "media_key": "3_867098362763513856"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867097400464355330",
+        "text": "RT @enmarcheparis17: Q. Position sur le dev. durable? R. @StanGuerini \"L'écologie dans le quotidien des gens associé à une dynamique économ…",
+        "created_at": "2017-05-23 19:18:24+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867097400464355330,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 69,
+                    "username": "StanGuerini",
+                    "id": "1911591212"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867097223234035712",
+        "text": "RT @EnMarcheParis12: Soirée de lancement de campagne de @PacomeRupin pour la #circo7507 ! Beaucoup de monde présent pour soutenir #laRepubl…",
+        "created_at": "2017-05-23 19:17:42+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 867097223234035712,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 77,
+                    "end": 87,
+                    "tag": "circo7507"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 56,
+                    "end": 68,
+                    "username": "PacomeRupin",
+                    "id": "72581817"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867094958397947906",
+        "text": "RT @chdeveyrac: Meeting de soutien aux candidats qui porteront le projet d'@enmarchefr. J-26 pour donner une majorité à notre Président @Em…",
+        "created_at": "2017-05-23 19:08:42+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867094958397947906,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "chdeveyrac",
+                    "id": "60052548"
+                },
+                {
+                    "start": 75,
+                    "end": 86,
+                    "username": "enmarchefr",
+                    "id": "4813171035"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867094908645015554",
+        "text": "RT @isabellejubelin: @celinecalvez @ClichyEnMarche @92enmarche @LREMacron2017 #ensemble  #EnMarche  vers la victoire !",
+        "created_at": "2017-05-23 19:08:30+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867094908645015554,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 34,
+                    "username": "celinecalvez",
+                    "id": "142632679"
+                },
+                {
+                    "start": 35,
+                    "end": 50,
+                    "username": "ClichyEnMarche",
+                    "id": "809780052980301829"
+                },
+                {
+                    "start": 51,
+                    "end": 62,
+                    "username": "92enmarche",
+                    "id": "811152156782981120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867092328477065217",
+        "text": "Fier d'être le candidat de notre projet sur #7509 #laRepubliqueEnMarche Fier de porter la force de l'optimisme et de l'espérance https://t.co/tT4dU08HuM",
+        "created_at": "2017-05-23 18:58:15+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867092319866155008"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867092328477065217,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 71,
+                    "tag": "laRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/tT4dU08HuM",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867092328477065217/photo/1",
+                    "display_url": "pic.twitter.com/tT4dU08HuM",
+                    "media_key": "3_867092319866155008"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867039739567845377",
+        "text": "Notre candidat présent aujourd'hui  à @citemodedesign pour la journée portes ouvertes. #artisanat #entreprendre #madeinFrance https://t.co/KScz2ElDt5",
+        "created_at": "2017-05-23 15:29:17+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867039730319454209"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867039739567845377,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 97,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 98,
+                    "end": 111,
+                    "tag": "entreprendre"
+                },
+                {
+                    "start": 112,
+                    "end": 125,
+                    "tag": "madeinFrance"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 38,
+                    "end": 53,
+                    "username": "citemodedesign",
+                    "id": "564854372"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 126,
+                    "end": 149,
+                    "url": "https://t.co/KScz2ElDt5",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867039739567845377/photo/1",
+                    "display_url": "pic.twitter.com/KScz2ElDt5",
+                    "media_key": "3_867039730319454209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867037413167837184",
+        "text": "RT @EnMarcheParis13: Les adhérents d'En Marche Paris 13 expriment leur solidarité aux victimes de l'attentat de Manchester, attaque contre…",
+        "created_at": "2017-05-23 15:20:02+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867037413167837184,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866982998306107392",
+        "text": "RT @MoDem75013: Tractage Olympiades #today #Circo7509 #legislatives2017 #BuonTan2017 cc @EnMarcheParis13 @BuonTAN @Alexandralaffi4 #LREM #M…",
+        "created_at": "2017-05-23 11:43:49+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 866982998306107392,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 42,
+                    "tag": "today"
+                },
+                {
+                    "start": 43,
+                    "end": 53,
+                    "tag": "Circo7509"
+                },
+                {
+                    "start": 54,
+                    "end": 71,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 72,
+                    "end": 84,
+                    "tag": "BuonTan2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "MoDem75013",
+                    "id": "2240364139"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866942212483031040",
+        "text": "RT @avecDeSarnez17: \"L'intérêt de Donald Trump est de travailler avec une Europe unie et soudée\" @desarnez #ClassiqueMatin #M2S2017 #TeamMa…",
+        "created_at": "2017-05-23 09:01:45+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 866942212483031040,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 122,
+                    "tag": "ClassiqueMatin"
+                },
+                {
+                    "start": 123,
+                    "end": 131,
+                    "tag": "M2S2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "avecDeSarnez17",
+                    "id": "866063958905675776"
+                },
+                {
+                    "start": 97,
+                    "end": 106,
+                    "username": "desarnez",
+                    "id": "303885267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866941975467102208",
+        "text": "RT @PatriceRoyTJ: La France sera au premier rang de lutte contre le terrorisme sur son sol, dit @EmmanuelMacron #Présidentielle2017 https:/…",
+        "created_at": "2017-05-23 09:00:48+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 866941975467102208,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 131,
+                    "tag": "Présidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "PatriceRoyTJ",
+                    "id": "180456951"
+                },
+                {
+                    "start": 96,
+                    "end": 111,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866932461284077568",
+        "text": "RT @Caroline_Roux: 🗨️ @CCastaner \"Il faut que les syndicats acceptent la nécessité de faire bouger les lignes notamment pour les artisans !…",
+        "created_at": "2017-05-23 08:23:00+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 866932461284077568,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Caroline_Roux",
+                    "id": "267084550"
+                },
+                {
+                    "start": 22,
+                    "end": 32,
+                    "username": "CCastaner",
+                    "id": "125727024"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866925926625550336",
+        "text": "l'Europe encore touchée par la folie meurtriere. Mes pensées vont aux victimes, à leurs proches et à tous les habitants de Manchester",
+        "created_at": "2017-05-23 07:57:02+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            }
+        ],
+        "conversation_id": 866925926625550336,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866897530461839361",
+        "text": "Le site internet de ma candidature est lancé. Rejoignez ns s/ buon-tan.fr pr suivre et participer à la campagne #LaRepubliqueEnMarche #7509 https://t.co/lM6bKyfr4u",
+        "created_at": "2017-05-23 06:04:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866897520827486208"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 866897530461839361,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 133,
+                    "tag": "LaRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/lM6bKyfr4u",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/866897530461839361/photo/1",
+                    "display_url": "pic.twitter.com/lM6bKyfr4u",
+                    "media_key": "3_866897520827486208"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866418030481477632",
+        "text": "RT @BuonTAN: Superbes rencontres sur la brocante de l'avenue d'Italie cet après-midi. Merci à toutes et tous pour votre accueil ! #LaRepubl…",
+        "created_at": "2017-05-21 22:18:50+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            }
+        ],
+        "conversation_id": 866418030481477632,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866332046104416257",
+        "text": "RT @MoDem75013: #legislatives2017 1er Tract de nos candidats #LREM @BuonTAN #Circo7509 et @AChristine_Lang #Circo7510 cc @EnMarcheParis13 @…",
+        "created_at": "2017-05-21 16:37:10+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866332046104416257,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 33,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 61,
+                    "end": 66,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 76,
+                    "end": 86,
+                    "tag": "Circo7509"
+                },
+                {
+                    "start": 107,
+                    "end": 117,
+                    "tag": "Circo7510"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "MoDem75013",
+                    "id": "2240364139"
+                },
+                {
+                    "start": 67,
+                    "end": 75,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                },
+                {
+                    "start": 90,
+                    "end": 106,
+                    "username": "AChristine_Lang",
+                    "id": "977015028"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866331878151901184",
+        "text": "RT @MoDem75013: Nos candidats et les équipes #LREM #MoDem #Circo7509 #Circo7510 pr @BuonTAN et @AChristine_Lang cc @fatkc @EnMarcheParis13…",
+        "created_at": "2017-05-21 16:36:30+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866331878151901184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 45,
+                    "end": 50,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 51,
+                    "end": 57,
+                    "tag": "MoDem"
+                },
+                {
+                    "start": 58,
+                    "end": 68,
+                    "tag": "Circo7509"
+                },
+                {
+                    "start": 69,
+                    "end": 79,
+                    "tag": "Circo7510"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "MoDem75013",
+                    "id": "2240364139"
+                },
+                {
+                    "start": 83,
+                    "end": 91,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                },
+                {
+                    "start": 95,
+                    "end": 111,
+                    "username": "AChristine_Lang",
+                    "id": "977015028"
+                },
+                {
+                    "start": 115,
+                    "end": 121,
+                    "username": "fatkc",
+                    "id": "17876854"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866033440168304640",
+        "text": "Superbes rencontres sur la brocante de l'avenue d'Italie cet après-midi. Merci à toutes et tous pour votre accueil ! #LaRepubliqueEnMarche https://t.co/W18TGCaVks",
+        "created_at": "2017-05-20 20:50:36+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866033432987672577",
+                "3_866033432970833920",
+                "3_866033432991862784"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            }
+        ],
+        "conversation_id": 866033440168304640,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 138,
+                    "tag": "LaRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/W18TGCaVks",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/866033440168304640/photo/1",
+                    "display_url": "pic.twitter.com/W18TGCaVks",
+                    "media_key": "3_866033432987672577"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/W18TGCaVks",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/866033440168304640/photo/1",
+                    "display_url": "pic.twitter.com/W18TGCaVks",
+                    "media_key": "3_866033432970833920"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/W18TGCaVks",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/866033440168304640/photo/1",
+                    "display_url": "pic.twitter.com/W18TGCaVks",
+                    "media_key": "3_866033432991862784"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 40,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866030136918978562",
+        "text": "RT @EnMarcheParis13: @BuonTan gravit les marches de la #BnF avant de s'attaquer à celles du Palais Bourbon ! https://t.co/5tePPJYZnB",
+        "created_at": "2017-05-20 20:37:29+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866029870924607488"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850401418141761536",
+                    "name": "Whiskey",
+                    "description": "Whiskey"
+                }
+            }
+        ],
+        "conversation_id": 866030136918978562,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 59,
+                    "tag": "BnF"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 29,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/5tePPJYZnB",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/866029873185398784/photo/1",
+                    "display_url": "pic.twitter.com/5tePPJYZnB",
+                    "media_key": "3_866029870924607488"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866028712562708480",
+        "text": "RT @philippezaouati: Avec @BuonTan, candidat #LREM aux élections législatives dans la 9ème circonscription de Paris. https://t.co/lNOOvQCmVM",
+        "created_at": "2017-05-20 20:31:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866028665041235973"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866028712562708480,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 45,
+                    "end": 50,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "philippezaouati",
+                    "id": "496159098"
+                },
+                {
+                    "start": 26,
+                    "end": 34,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/lNOOvQCmVM",
+                    "expanded_url": "https://twitter.com/philippezaouati/status/866028667444580352/photo/1",
+                    "display_url": "pic.twitter.com/lNOOvQCmVM",
+                    "media_key": "3_866028665041235973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865997889004347393",
+        "text": "RT @EnMarcheParis13: Une journée de campagne - Buon Tan / Alexandra Laffitte candidats dans la 9e circonscription de Paris.\nhttps://t.co/LC…",
+        "created_at": "2017-05-20 18:29:20+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865997889004347393,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865989683951673345",
+        "text": "Il faut aider les jeunes à créer, les inciter à fréquenter les musées et les bibliothèques. #AccèsALaCulture https://t.co/HDls3k62lO",
+        "created_at": "2017-05-20 17:56:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_865989255558045696"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865989683951673345,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 108,
+                    "tag": "AccèsALaCulture"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/HDls3k62lO",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865989683951673345/video/1",
+                    "display_url": "pic.twitter.com/HDls3k62lO",
+                    "media_key": "7_865989255558045696"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865987857181224960",
+        "text": "Avec ma suppléante Alexandra Laffitte, nous visitons la Manufacture des Gobelins pour la @NuitdesMusees. https://t.co/oJVn9qKPTN",
+        "created_at": "2017-05-20 17:49:29+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865987854366887936"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865987857181224960,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 103,
+                    "username": "NuitdesMusees",
+                    "id": "112716139"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/oJVn9qKPTN",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865987857181224960/photo/1",
+                    "display_url": "pic.twitter.com/oJVn9qKPTN",
+                    "media_key": "3_865987854366887936"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865986257121312768",
+        "text": "RT @EnMarcheParis13: Visite de @BuonTan à la Manufacture des Gobelins, trait d'union entre le passé et le futur de l'artisanat. #LREM https…",
+        "created_at": "2017-05-20 17:43:07+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865986257121312768,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 133,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 39,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865971307866972161",
+        "text": "RT @EnMarcheParis13: @BuonTan s'essaie à la nouvelle mode du #HandSpinner. Quel talent ! https://t.co/GJkClWLNoD",
+        "created_at": "2017-05-20 16:43:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_865964511932686336"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865971307866972161,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 73,
+                    "tag": "HandSpinner"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 29,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/GJkClWLNoD",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/865964613472583680/video/1",
+                    "display_url": "pic.twitter.com/GJkClWLNoD",
+                    "media_key": "7_865964511932686336"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865957891886415872",
+        "text": "Je visite la brocante de l'avenue d'Italie. A la rencontre des artisans et commerçants. #Legislatives2017 #LREM https://t.co/U1C7ySV6Kc",
+        "created_at": "2017-05-20 15:50:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865957889252483074"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            }
+        ],
+        "conversation_id": 865957891886415872,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 88,
+                    "end": 105,
+                    "tag": "Legislatives2017"
+                },
+                {
+                    "start": 106,
+                    "end": 111,
+                    "tag": "LREM"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/U1C7ySV6Kc",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865957891886415872/photo/1",
+                    "display_url": "pic.twitter.com/U1C7ySV6Kc",
+                    "media_key": "3_865957889252483074"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865939213807648769",
+        "text": "RT @EnMarcheParis13: Notre candidat dans la 9e @BuonTAN en séance photo sur la passerelle Simone de Beauvoir. #Legislatives2017 #LREM https…",
+        "created_at": "2017-05-20 14:36:11+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865939213807648769,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 127,
+                    "tag": "Legislatives2017"
+                },
+                {
+                    "start": 128,
+                    "end": 133,
+                    "tag": "LREM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 47,
+                    "end": 55,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865935500795924480",
+        "text": "RT @BuonTAN: Portons la force de l'optimisme : le sens de l'initiative, de la solidarité et du rassemblement #laRepubliqueEnMarche https://…",
+        "created_at": "2017-05-20 14:21:26+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865935500795924480,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 130,
+                    "tag": "laRepubliqueEnMarche"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865922764783439872",
+        "text": "Portons la force de l'optimisme : le sens de l'initiative, de la solidarité et du rassemblement #laRepubliqueEnMarche https://t.co/s7687Nat5c",
+        "created_at": "2017-05-20 13:30:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865922756948484097"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865922764783439872,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 117,
+                    "tag": "laRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 141,
+                    "url": "https://t.co/s7687Nat5c",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865922764783439872/photo/1",
+                    "display_url": "pic.twitter.com/s7687Nat5c",
+                    "media_key": "3_865922756948484097"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865913055074541569",
+        "text": "RT @EMParis15e: Ce matin, Week-End Première sur @BFMTV fait un gros plan sur la 13ème circonscription de Paris et notre candidat @huguesren…",
+        "created_at": "2017-05-20 12:52:14+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029055420",
+                    "name": "Week-end première"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865913055074541569,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 48,
+                    "end": 54,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865903486919200768",
+        "text": "@EnMarcheParis13 @MoDem75013 Une très belle matinée au cœur de notre bel arrondissement ! Merci à tous de votre enthousiasme",
+        "created_at": "2017-05-20 12:14:13+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865883024323465216,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 28,
+                    "username": "MoDem75013",
+                    "id": "2240364139"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 780131738592874497,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865903381470162944",
+        "text": "Je me rendrai ce soit à 19h à la Manufacture des Gobelins dans le cadre de @NuitdesMusees pour marquer l'importance de l'accès à la culture. https://t.co/gJEzHSP5BJ",
+        "created_at": "2017-05-20 12:13:48+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865903376810356736"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865903381470162944,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 89,
+                    "username": "NuitdesMusees",
+                    "id": "112716139"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/gJEzHSP5BJ",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865903381470162944/photo/1",
+                    "display_url": "pic.twitter.com/gJEzHSP5BJ",
+                    "media_key": "3_865903376810356736"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865903321109995521",
+        "text": "RT @EnMarcheParis13: Notre candidat Buon Tan sur le marché du boulevard Vincent Auriol ce matin. A le rencontre des habitant(e)s du 13ème !…",
+        "created_at": "2017-05-20 12:13:34+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865903321109995521,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865903242244497408",
+        "text": "La #culture doit être au cœur du projet républicain pr l'émancipation de ts. Ns serons ce soir au #MuseeDesGobelins #NuitdesMusees https://t.co/GpvMszFEgK",
+        "created_at": "2017-05-20 12:13:15+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865903110140682241"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "25",
+                    "name": "Events",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "10040529361",
+                    "name": "Discovery VCN - GameChangers"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865903242244497408,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "tag": "culture"
+                },
+                {
+                    "start": 98,
+                    "end": 115,
+                    "tag": "MuseeDesGobelins"
+                },
+                {
+                    "start": 116,
+                    "end": 130,
+                    "tag": "NuitdesMusees"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/GpvMszFEgK",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865903242244497408/photo/1",
+                    "display_url": "pic.twitter.com/GpvMszFEgK",
+                    "media_key": "3_865903110140682241"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865877168408190976",
+        "text": "Sur les marchés ce matin, j'ai échangé avec les habitants. Quel optimisme! Quelle volonté de faire bouger les lignes! #LaRepubliqueEnMarche https://t.co/tLqPNPUtPM",
+        "created_at": "2017-05-20 10:29:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865877160090849280"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865877168408190976,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 139,
+                    "tag": "LaRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/tLqPNPUtPM",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865877168408190976/photo/1",
+                    "display_url": "pic.twitter.com/tLqPNPUtPM",
+                    "media_key": "3_865877160090849280"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865874770340057088",
+        "text": "RT @PRG_75: Le @PRG_75 et @GEcologie soutiennent @BuonTAN pour les législatives #circo7509 #paris @EnMarcheParis13",
+        "created_at": "2017-05-20 10:20:07+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 865874770340057088,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 90,
+                    "tag": "circo7509"
+                },
+                {
+                    "start": 91,
+                    "end": 97,
+                    "tag": "paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "PRG_75",
+                    "id": "467878150"
+                },
+                {
+                    "start": 15,
+                    "end": 22,
+                    "username": "PRG_75",
+                    "id": "467878150"
+                },
+                {
+                    "start": 26,
+                    "end": 36,
+                    "username": "GEcologie",
+                    "id": "4899165189"
+                },
+                {
+                    "start": 49,
+                    "end": 57,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865865627805908993",
+        "text": "24 candidats dans la 9e circonscription de Paris #7509    un seul de #LaRepubliqueEnMarche  pour porter le projet presidentiel https://t.co/ps3POHrynE",
+        "created_at": "2017-05-20 09:43:47+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865865620507807745"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865865627805908993,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 90,
+                    "tag": "LaRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/ps3POHrynE",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865865627805908993/photo/1",
+                    "display_url": "pic.twitter.com/ps3POHrynE",
+                    "media_key": "3_865865620507807745"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865700880271761409",
+        "text": "RT @EnMarche93: LES VISAGES DU RENOUVELLEMENT ds @LEXPRESS avec @alexaidara @StanGuerini @Sach_He #LREM #laRepubliqueEnMarche #legislatives…",
+        "created_at": "2017-05-19 22:49:08+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865700880271761409,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 58,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865700846566297604",
+        "text": "RT @EmmanuelMacron: Notre action doit permettre le développement, qui aide les États du Sahel à vivre mieux pour assécher les raisons d'êtr…",
+        "created_at": "2017-05-19 22:49:00+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 865700846566297604,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 292,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865686678559641600",
+        "text": "RT @LREMacron2017: https://t.co/3N8pEeosyr",
+        "created_at": "2017-05-19 21:52:42+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865686678559641600,
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/3N8pEeosyr",
+                    "expanded_url": "http://fb.me/AXTtOlYw",
+                    "display_url": "fb.me/AXTtOlYw"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865684102095134720",
+        "text": "RT @BuonTAN: Etre candidat m'oblige envers tous. Alexandra et moi meme porterons votre voix : celle du courage et de l'audace #LaRepublique…",
+        "created_at": "2017-05-19 21:42:28+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865684102095134720,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865684074882519040",
+        "text": "RT @BuonTAN: Je serai samedi matin à partir de 10h30 sur le marché du boulevard Vincent Auriol, à la rencontre des habitant(e)s du 13ème. #…",
+        "created_at": "2017-05-19 21:42:21+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865684074882519040,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "BuonTAN",
+                    "id": "2495899075"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865679756699684865",
+        "text": "RT @EnMarcheParis13: Buon Tan remercie les militants du 13eme arrondissement pour leur travail du terrain. #legislatives2017 https://t.co/c…",
+        "created_at": "2017-05-19 21:25:12+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865679756699684865,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 124,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865679734373572608",
+        "text": "RT @EnMarcheParis13: Alexandra, suppléante de Buon Tan, militante du 13eme arrondissement active sur le terrain depuis des mois. https://t.…",
+        "created_at": "2017-05-19 21:25:06+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865679734373572608,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865677879341961217",
+        "text": "Je serai samedi matin à partir de 10h30 sur le marché du boulevard Vincent Auriol, à la rencontre des habitant(e)s du 13ème. #BuonTan2017",
+        "created_at": "2017-05-19 21:17:44+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865677879341961217,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 125,
+                    "end": 137,
+                    "tag": "BuonTan2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865658058927554564",
+        "text": "@EM_Arriere75 @EnMarcheParis13 Bienveillance avant tout, coquille corrigée 😉",
+        "created_at": "2017-05-19 19:58:59+00:00",
+        "attachments": null,
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 865656751558975488,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "EM_Arriere75",
+                    "id": "865649476215513091"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 865649476215513091,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865656027848376321",
+        "text": "Etre candidat m'oblige envers tous. Alexandra et moi meme porterons votre voix : celle du courage et de l'audace #LaRepubliqueEnMarche #7509 https://t.co/ithxvrDrOM",
+        "created_at": "2017-05-19 19:50:54+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865656011515756545"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865656027848376321,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 134,
+                    "tag": "LaRepubliqueEnMarche"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/ithxvrDrOM",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865656027848376321/photo/1",
+                    "display_url": "pic.twitter.com/ithxvrDrOM",
+                    "media_key": "3_865656011515756545"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

@@ -1,0 +1,2386 @@
+[
+    {
+        "id": "210680972281249792",
+        "text": "Retour sur mon meeting de mardi soir avec ma suppléante @fcarreyconte et, notamment, Lionel Jospin : http://t.co/J9x7x0fh #circo7515",
+        "created_at": "2012-06-07 10:33:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210680972281249792,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 56,
+                    "end": 69,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 121,
+                    "url": "http://t.co/J9x7x0fh",
+                    "expanded_url": "http://georgepaulangevin2012.fr/un-tres-beau-meeting-pour-la-15e-circonscription-en-ce-5-juin/",
+                    "display_url": "georgepaulangevin2012.fr/un-tres-beau-m…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 132,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210427112157483008",
+        "text": "Beaucoup de monde pour soutenir @Gilles_Alayrac et débattre sur l éducation. Dans le 15e aussi, #LCCM #circo7513 http://t.co/06DpMcxm",
+        "created_at": "2012-06-06 17:45:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_210427112165871617"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210427112157483008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 32,
+                    "end": 47,
+                    "username": "Gilles_Alayrac",
+                    "id": "2557913358"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 133,
+                    "url": "http://t.co/06DpMcxm",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/210427112157483008/photo/1",
+                    "display_url": "pic.twitter.com/06DpMcxm",
+                    "media_key": "3_210427112165871617"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 101,
+                    "tag": "LCCM"
+                },
+                {
+                    "start": 102,
+                    "end": 112,
+                    "tag": "circo7513"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "210401449576902657",
+        "text": "Samedi dernier j'ai rencontré des acteurs de la culture dans le 20e avec ma suppléante @fcarreyconte : http://t.co/JH1GAAHd #circo7515",
+        "created_at": "2012-06-06 16:03:09+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210401449576902657,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 100,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 123,
+                    "url": "http://t.co/JH1GAAHd",
+                    "expanded_url": "http://georgepaulangevin2012.fr/le-20e-bouillonne-de-culture/",
+                    "display_url": "georgepaulangevin2012.fr/le-20e-bouillo…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 134,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210114031011381250",
+        "text": "RT @FCarreyConte: Merci à tous les présents au meeting de mobilisation ce soir avec Lionel Jospin, gros succès ! #circo7515 #GPL2012",
+        "created_at": "2012-06-05 21:01:03+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210114031011381250,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 123,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 124,
+                    "end": 132,
+                    "tag": "GPL2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "210083745242423298",
+        "text": "RT @ClementBerndeB: .George @Pau_Langevin : avec une #majoritésocialiste et Francois Hollande on arretera de parler de couts en parlant  ...",
+        "created_at": "2012-06-05 19:00:42+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210083745242423298,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 72,
+                    "tag": "majoritésocialiste"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "210083719799783426",
+        "text": "RT @ClementBerndeB: George @Pau_Langevin: nous devons faire des efforts pour intégrer les jeunes à l'école et sur le marché du travail",
+        "created_at": "2012-06-05 19:00:36+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210083719799783426,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 27,
+                    "end": 40,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "210083688699002882",
+        "text": "RT @ClementBerndeB: George @Pau_Langevin Nous avons trop entendu de discours meprisants à l'égard de la jeunesse",
+        "created_at": "2012-06-05 19:00:29+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210083688699002882,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 27,
+                    "end": 40,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "210055761055842306",
+        "text": "RT @ps20eme: Le meeting pour George @Pau_Langevin et sa suppléante @fcarreyconte se remplit. #circo7515 #GPL2012 http://t.co/0i1Hz4Iw",
+        "created_at": "2012-06-05 17:09:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_210055069494816768"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 210055761055842306,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 36,
+                    "end": 49,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 67,
+                    "end": 80,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 133,
+                    "url": "http://t.co/0i1Hz4Iw",
+                    "expanded_url": "https://twitter.com/ps20eme/status/210055069486428161/photo/1",
+                    "display_url": "pic.twitter.com/0i1Hz4Iw",
+                    "media_key": "3_210055069494816768"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 103,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 104,
+                    "end": 112,
+                    "tag": "GPL2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "209993914445332481",
+        "text": "RT @ps20eme: Ce soir c'est meeting pour George @Pau_Langevin et sa suppléante @fcarreyconte avec Lionel Jospin : http://t.co/cJp6ChCK #G ...",
+        "created_at": "2012-06-05 13:03:45+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 209993914445332481,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 47,
+                    "end": 60,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 78,
+                    "end": 91,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 133,
+                    "url": "http://t.co/cJp6ChCK",
+                    "expanded_url": "http://georgepaulangevin2012.fr/595/",
+                    "display_url": "georgepaulangevin2012.fr/595/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "209956407376756736",
+        "text": "N'oubliez pas de venir ce soir à mon meeting avec ma suppléante @fcarreyconte et entre autres Lionel Jospin: http://t.co/7QpJeOEt #circo7515",
+        "created_at": "2012-06-05 10:34:42+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 209956407376756736,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 64,
+                    "end": 77,
+                    "username": "FCarreyConte",
+                    "id": "599975384"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 129,
+                    "url": "http://t.co/7QpJeOEt",
+                    "expanded_url": "http://georgepaulangevin2012.fr/595/",
+                    "display_url": "georgepaulangevin2012.fr/595/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 130,
+                    "end": 140,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "209654581586694145",
+        "text": "RT @GambettaVillage: http://t.co/EoK78Hyv #legislatives Interview de @Pau_Langevin , candidate #PS ds #circo7515 #PEAV @Menilmuche @ac_k ...",
+        "created_at": "2012-06-04 14:35:22+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 209654581586694145,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 69,
+                    "end": 82,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 119,
+                    "end": 130,
+                    "username": "Menilmuche",
+                    "id": "27797493"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 41,
+                    "url": "http://t.co/EoK78Hyv",
+                    "expanded_url": "http://minilien.fr/a0n5fx",
+                    "display_url": "minilien.fr/a0n5fx"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 55,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 95,
+                    "end": 98,
+                    "tag": "PS"
+                },
+                {
+                    "start": 102,
+                    "end": 112,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 113,
+                    "end": 118,
+                    "tag": "PEAV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "209613054810390528",
+        "text": "Demain soir c'est meeting avec Lionel Jospin : http://t.co/7QpJeOEt #circo7515 #changement",
+        "created_at": "2012-06-04 11:50:21+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 209613054810390528,
+        "entities": {
+            "urls": [
+                {
+                    "start": 47,
+                    "end": 67,
+                    "url": "http://t.co/7QpJeOEt",
+                    "expanded_url": "http://georgepaulangevin2012.fr/595/",
+                    "display_url": "georgepaulangevin2012.fr/595/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 78,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 79,
+                    "end": 90,
+                    "tag": "changement"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "209326356100689922",
+        "text": "RT @ps20eme: G. @Pau_Langevin parle jeunesse au belvédère de Belleville avec F. Carrey-Conte et @ThierryMB #GPL2012 #circo7515 http://t. ...",
+        "created_at": "2012-06-03 16:51:07+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 209326356100689922,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 96,
+                    "end": 106,
+                    "username": "thierrymb",
+                    "id": "963976192939393024"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 115,
+                    "tag": "GPL2012"
+                },
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "208672952122740736",
+        "text": "@DONSENE merci bcp",
+        "created_at": "2012-06-01 21:34:43+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 207068149907066880,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "DONSENE",
+                    "id": "443217389"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 443217389,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208672175278927872",
+        "text": "@bloglautremonde on n'est pas obligé de travailler le soir!",
+        "created_at": "2012-06-01 21:31:38+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208266087383564289,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "bloglautremonde",
+                    "id": "550857867"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 550857867,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208672011436826625",
+        "text": "@bloglautremonde",
+        "created_at": "2012-06-01 21:30:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208266087383564289,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "bloglautremonde",
+                    "id": "550857867"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 550857867,
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208541633044684800",
+        "text": "Ce matin ballade au marché de Sarcelles avec Charlotte Brun et Pupponi. Leçon d'implantation et de bonhommie. Il connaît tout le monde!",
+        "created_at": "2012-06-01 12:52:54+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208541633044684800,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208483628592795649",
+        "text": "Visite à Sarcelles pour soutenir @ch_brun. Nous avons besoin d elle pour donner une majorité au changement http://t.co/mihCyBpn",
+        "created_at": "2012-06-01 09:02:26+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_208483628601184257"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208483628592795649,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 41,
+                    "username": "ch_brun",
+                    "id": "255128617"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 127,
+                    "url": "http://t.co/mihCyBpn",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/208483628592795649/photo/1",
+                    "display_url": "pic.twitter.com/mihCyBpn",
+                    "media_key": "3_208483628601184257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "208262268264251392",
+        "text": "RT @ps20eme: @JeanMallot : \"il y a des mesures fortes qui seront prises sur l'éducation et notamment le recrutement de personnels\" #circ ...",
+        "created_at": "2012-05-31 18:22:48+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208262268264251392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 13,
+                    "end": 24,
+                    "username": "JeanMallot",
+                    "id": "285008558"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "208262235569655809",
+        "text": "RT @ps20eme: @JeanMallot \"on ne peut pas parler de services pub sans parler d'Europe, il faut les protéger de la concurrence totale\" #GP ...",
+        "created_at": "2012-05-31 18:22:40+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208262235569655809,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 13,
+                    "end": 24,
+                    "username": "JeanMallot",
+                    "id": "285008558"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "208261296913780736",
+        "text": "En direct du café politique services publics avec @jeanmallot #circo7515 http://t.co/dAVCoMaz",
+        "created_at": "2012-05-31 18:18:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_208261296917975043"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208261296913780736,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 50,
+                    "end": 61,
+                    "username": "JeanMallot",
+                    "id": "285008558"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 93,
+                    "url": "http://t.co/dAVCoMaz",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/208261296913780736/photo/1",
+                    "display_url": "pic.twitter.com/dAVCoMaz",
+                    "media_key": "3_208261296917975043"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "208251376235585536",
+        "text": "Le café politique avec @JeanMallot commence. Nous parlerons ce soir de l'avenir des services publics.",
+        "created_at": "2012-05-31 17:39:31+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208251376235585536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 34,
+                    "username": "JeanMallot",
+                    "id": "285008558"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "208226418818154496",
+        "text": "Aujourd hui j'ai assisté à un spectacle réalisé par des élèves de Segpa à Roubaix. Emouvant de voir  la danse changer le regard sur eux!",
+        "created_at": "2012-05-31 16:00:21+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208226418818154496,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208225163676893184",
+        "text": "@MereBordel il faudra que j'y passe!",
+        "created_at": "2012-05-31 15:55:22+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208175506930143232,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "MereBordel",
+                    "id": "162381592"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 162381592,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "208145768022945793",
+        "text": "N'oubliez pas, ce soir café politique sur l'avenir des services publics avec @JeanMallot : http://t.co/k4M1P4IA #circo7515",
+        "created_at": "2012-05-31 10:39:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208145768022945793,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 77,
+                    "end": 88,
+                    "username": "JeanMallot",
+                    "id": "285008558"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 111,
+                    "url": "http://t.co/k4M1P4IA",
+                    "expanded_url": "http://georgepaulangevin2012.fr/cafe-politique-les-services-publics-cest-maintenant/",
+                    "display_url": "georgepaulangevin2012.fr/cafe-politique…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 122,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "208095573012787201",
+        "text": "RT @julien_laurent: LaVillette ac @Pau_Langevin pr 1 échange sur les médiateurs culturels mis en place par la #Région #IledeFrance ds le ...",
+        "created_at": "2012-05-31 07:20:25+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 208095573012787201,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "julien_laurent",
+                    "id": "85798567"
+                },
+                {
+                    "start": 34,
+                    "end": 47,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 117,
+                    "tag": "Région"
+                },
+                {
+                    "start": 118,
+                    "end": 130,
+                    "tag": "IledeFrance"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "207396261308018688",
+        "text": "J’étais, samedi dernier, au tournoi International de Paris organise par la FSGL : http://t.co/S9wgUswv via @Yagg",
+        "created_at": "2012-05-29 09:01:36+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 207396261308018688,
+        "entities": {
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 102,
+                    "url": "http://t.co/S9wgUswv",
+                    "expanded_url": "http://tv.yagg.com/2012/05/28/la-ministre-george-pau-langevin-au-tournoi-international-de-paris/",
+                    "display_url": "tv.yagg.com/2012/05/28/la-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "207053087314149376",
+        "text": "Accueil très sympathique au Congrés de la FCPE.Des parents d'éléves déterminés, combatifs mais chaleureux. En plus il fait beau !",
+        "created_at": "2012-05-28 10:17:57+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 207053087314149376,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "207036672456663041",
+        "text": "RT @MChantecaille: À l'écoute ce matin des attentes et des espoirs de parents d'élèves avec @Pau_Langevin #FCPE http://t.co/fwF9Pdvr",
+        "created_at": "2012-05-28 09:12:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_207035320569561088"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 207036672456663041,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MChantecaille",
+                    "id": "449652232"
+                },
+                {
+                    "start": 92,
+                    "end": 105,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 132,
+                    "url": "http://t.co/fwF9Pdvr",
+                    "expanded_url": "https://twitter.com/MChantecaille/status/207035320561172480/photo/1",
+                    "display_url": "pic.twitter.com/fwF9Pdvr",
+                    "media_key": "3_207035320569561088"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 111,
+                    "tag": "FCPE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206868591772041217",
+        "text": "@amartignac1 et les hommes sont plus naturellement compétents que les femmes?",
+        "created_at": "2012-05-27 22:04:50+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205414823591284737,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "amartignac1",
+                    "id": "493405766"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 493405766,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "206864964907040771",
+        "text": "@DONSENE pourquoi opposer parité et compétence? Les hommes sont compétents par nature?",
+        "created_at": "2012-05-27 21:50:25+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 206619465453019136,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "DONSENE",
+                    "id": "443217389"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 443217389,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "205962288157569024",
+        "text": "Le CR de mon café politique égalité Femmes-Hommes de mercredi soir par Sylvie, une participante : http://t.co/bdFkwLNL #circo7515",
+        "created_at": "2012-05-25 10:03:30+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205962288157569024,
+        "entities": {
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 118,
+                    "url": "http://t.co/bdFkwLNL",
+                    "expanded_url": "http://georgepaulangevin2012.fr/egalite-femmes-hommes-tristes-realites-qui-appellent-le-changement-par-sylvie/",
+                    "display_url": "georgepaulangevin2012.fr/egalite-femmes…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 129,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205739736931901440",
+        "text": "RT @elisabethguigou: Réunion à Pantin avec Jacques Salvator @BertrandKern et @Pau_Langevin pour réussir le changement avec @fhollande !  ...",
+        "created_at": "2012-05-24 19:19:10+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205739736931901440,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "elisabethguigou",
+                    "id": "108999975"
+                },
+                {
+                    "start": 60,
+                    "end": 73,
+                    "username": "BertrandKern",
+                    "id": "425746524"
+                },
+                {
+                    "start": 77,
+                    "end": 90,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 123,
+                    "end": 133,
+                    "username": "fhollande",
+                    "id": "18814998"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "205679055817814016",
+        "text": "@hugo_jenny puisque malheureusement cette égalité n'est pas claire pour tout le monde, il faut en faire la démonstration.",
+        "created_at": "2012-05-24 15:18:02+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205665265143390208,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "hugo_jenny",
+                    "id": "262379311"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 262379311,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205678360070864896",
+        "text": "RT @ps20eme: Retrouvez les photos du rassemblement place des Rigoles avec @Pau_Langevin http://t.co/JyRDVT7y #GPL2012 #circo7515",
+        "created_at": "2012-05-24 15:15:17+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205678360070864896,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 74,
+                    "end": 87,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 108,
+                    "url": "http://t.co/JyRDVT7y",
+                    "expanded_url": "http://www.flickr.com/photos/ps_20/sets/72157629844564846/",
+                    "display_url": "flickr.com/photos/ps_20/s…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 117,
+                    "tag": "GPL2012"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205665053603659776",
+        "text": "@ATDQM je souhaiterais la concertation la plus large possible",
+        "created_at": "2012-05-24 14:22:24+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205223410840768512,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "ATDQM",
+                    "id": "94549979"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 94549979,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "205664325396987904",
+        "text": "@hugo_jenny je ne vois pas très bien en quoi les femmes députées ou ministres sont moins compétentes que leurs collègues hommes",
+        "created_at": "2012-05-24 14:19:30+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205423654912270337,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "hugo_jenny",
+                    "id": "262379311"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 262379311,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "205384799609831424",
+        "text": "\"il nous faut une majorité à l'assemblée pour mener une politique féministe.\" #circo7515",
+        "created_at": "2012-05-23 19:48:46+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205384799609831424,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 88,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 3,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "205382741905256448",
+        "text": "\"la parité au gouvernement c'est la démonstration que l'égalité est possible.\" #circo7515",
+        "created_at": "2012-05-23 19:40:36+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205382741905256448,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 79,
+                    "end": 89,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "205372216907546625",
+        "text": "@Circe_45 c'est évidemment l'une des questions que nous abordons.",
+        "created_at": "2012-05-23 18:58:46+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205357194454118400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "Circe_45",
+                    "id": "291613203"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 291613203,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "205355258237550592",
+        "text": "Le café politique égalité Femmes-Hommes est déjà un succès. #circo7515 #GPL2012 http://t.co/KCjQJcWe",
+        "created_at": "2012-05-23 17:51:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_205355258241744896"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205355258237550592,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 100,
+                    "url": "http://t.co/KCjQJcWe",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/205355258237550592/photo/1",
+                    "display_url": "pic.twitter.com/KCjQJcWe",
+                    "media_key": "3_205355258241744896"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 70,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 71,
+                    "end": 79,
+                    "tag": "GPL2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "205336135201849344",
+        "text": "N'oubliez pas, rendez-vous dans une heure au Bouillon Belge pour le café politique égalité Femmes-Hommes http://t.co/xgyOFuYN #circo7515",
+        "created_at": "2012-05-23 16:35:24+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 205336135201849344,
+        "entities": {
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 125,
+                    "url": "http://t.co/xgyOFuYN",
+                    "expanded_url": "http://georgepaulangevin2012.fr/cafe-politique-legalite-femmes-hommes-cest-maintenant/",
+                    "display_url": "georgepaulangevin2012.fr/cafe-politique…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 126,
+                    "end": 136,
+                    "tag": "circo7515"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "204593935912415235",
+        "text": "@Fier_gwada Merci à vous.",
+        "created_at": "2012-05-21 15:26:10+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 204538222041243648,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Fier_gwada",
+                    "id": "497802196"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 497802196,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "204593868518334464",
+        "text": "RT @Fier_gwada: Très belle intervention de la ministre déléguée à la réussite éducative @Pau_Langevin sur #rmc #ViveLaDiversité",
+        "created_at": "2012-05-21 15:25:54+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 204593868518334464,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Fier_gwada",
+                    "id": "497802196"
+                },
+                {
+                    "start": 88,
+                    "end": 101,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 110,
+                    "tag": "rmc"
+                },
+                {
+                    "start": 111,
+                    "end": 127,
+                    "tag": "ViveLaDiversité"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "204593261048893440",
+        "text": "Les ministres en campagne pour @fhollande avec moi dans le 20e http://t.co/yqmTobB7 cc @jeanmarcayrault @benoithamon @AVidalies @montebourg",
+        "created_at": "2012-05-21 15:23:29+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 204593261048893440,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 41,
+                    "username": "fhollande",
+                    "id": "18814998"
+                },
+                {
+                    "start": 87,
+                    "end": 103,
+                    "username": "jeanmarcayrault",
+                    "id": "28332028"
+                },
+                {
+                    "start": 104,
+                    "end": 116,
+                    "username": "benoithamon",
+                    "id": "14389177"
+                },
+                {
+                    "start": 117,
+                    "end": 127,
+                    "username": "AVidalies",
+                    "id": "425643814"
+                },
+                {
+                    "start": 128,
+                    "end": 139,
+                    "username": "montebourg",
+                    "id": "69255422"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 83,
+                    "url": "http://t.co/yqmTobB7",
+                    "expanded_url": "http://georgepaulangevin2012.fr/les-nouveaux-ministres-ont-fait-campagne-dans-le-20e-avec-george-pau-langevin/",
+                    "display_url": "georgepaulangevin2012.fr/les-nouveaux-m…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "203998430907990017",
+        "text": "@okpalabrad si un(e) député(e) est nommé(e) ministre son(sa) suppléant(e) le(la) remplace. Donc aucun cumul de ces fonctions n'est possible.",
+        "created_at": "2012-05-19 23:59:50+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203900081622102017,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "okpalabrad",
+                    "id": "46609585"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 46609585,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "203897883542556672",
+        "text": "Ma lettre aux habitants de la 15e circo pour expliquer ma nomination au gouv et le sens que prennent les législatives. http://t.co/ecyMjLjF",
+        "created_at": "2012-05-19 17:20:18+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203897883542556672,
+        "entities": {
+            "urls": [
+                {
+                    "start": 119,
+                    "end": 139,
+                    "url": "http://t.co/ecyMjLjF",
+                    "expanded_url": "http://georgepaulangevin2012.fr/george-pau-langevin-ministre-lettre-aux-habitants-de-la-15e-circonscription/",
+                    "display_url": "georgepaulangevin2012.fr/george-pau-lan…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 5,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "203835828621938689",
+        "text": "@andrea_malewa je vous rassure je ne suis pas maire et si un député devient ministre, son(sa) suppléant(e) prend sa place dans l'hémicycle.",
+        "created_at": "2012-05-19 13:13:43+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203546903256907776,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 181709580,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "203835459430907904",
+        "text": "@banshees999 c'est même la loi. Et c'est donc pour cela que si un député devient ministre, son(sa) suppléant(e) siège dans l'hémicycle.",
+        "created_at": "2012-05-19 13:12:15+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203546532937609216,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "banshees999",
+                    "id": "253711889"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 253711889,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "203803850904305665",
+        "text": "RT @ps20eme: .@Pau_Langevin en collectif avec les militants du 20e. #majoritéauchangement http://t.co/FrgKd6tF",
+        "created_at": "2012-05-19 11:06:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_203803762970722304"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203803850904305665,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 110,
+                    "url": "http://t.co/FrgKd6tF",
+                    "expanded_url": "https://twitter.com/ps20eme/status/203803762966528000/photo/1",
+                    "display_url": "pic.twitter.com/FrgKd6tF",
+                    "media_key": "3_203803762970722304"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 89,
+                    "tag": "majoritéauchangement"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "203742825282682880",
+        "text": "Hier un élu dans @le_Parisien_fr constate que je ne suis pas trés présente au Conseil de Paris. Normal, je n'y suis pas élue... #noncumul",
+        "created_at": "2012-05-19 07:04:09+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 203742825282682880,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 32,
+                    "username": "le_Parisien_fr",
+                    "id": "807439081"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 137,
+                    "tag": "noncumul"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 196,
+            "reply_count": 10,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202831278842712064",
+        "text": "Merci pour vos félicitations. Le travail commence maintenant pour le changement, la réussite de tous pour construire notre avenir collectif.",
+        "created_at": "2012-05-16 18:41:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202831278842712064,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 26,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202823865443958784",
+        "text": "@MARIKORSIKA merci. Le travail de changement commence maintenant.",
+        "created_at": "2012-05-16 18:12:32+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202818285727780865,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "MARIKORSIKA",
+                    "id": "285003494"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 285003494,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202823627320737792",
+        "text": "RT @MereBordel: +3000 ! RT @Menilmuche: Content que @victorinlurel soit aux Outre-mers et @pau_langevin entre aussi au gouvernement…",
+        "created_at": "2012-05-16 18:11:35+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202823627320737792,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "MereBordel",
+                    "id": "162381592"
+                },
+                {
+                    "start": 27,
+                    "end": 38,
+                    "username": "Menilmuche",
+                    "id": "27797493"
+                },
+                {
+                    "start": 52,
+                    "end": 66,
+                    "username": "VictorinLurel",
+                    "id": "30010590"
+                },
+                {
+                    "start": 90,
+                    "end": 103,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202823589433585664",
+        "text": "@didierannette merci. Je ferai tout pour être à la hauteur de vos attentes.",
+        "created_at": "2012-05-16 18:11:26+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202816705024638977,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "didierannette",
+                    "id": "41988934"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41988934,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202823372294471680",
+        "text": "RT @ClementBerndeB: Les jeunes du 20eme très fiers de leurs candidates dans la 15ème circo George @Pau_Langevin et Fanélie CC @MJSParis1 ...",
+        "created_at": "2012-05-16 18:10:34+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202823372294471680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 98,
+                    "end": 111,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "202084868291698689",
+        "text": "RT @ClementBerndeB: @MJSParis1920 et le @ps20eme gdes Rigoles pour préparer le lancement de campagne de @Pau_Langevin http://t.co/ZBL07Tl3",
+        "created_at": "2012-05-14 17:16:01+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 202084868291698689,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 20,
+                    "end": 33,
+                    "username": "MJSParis1920",
+                    "id": "414775946"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 104,
+                    "end": 117,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 138,
+                    "url": "http://t.co/ZBL07Tl3",
+                    "expanded_url": "http://yfrog.com/nywqexfj",
+                    "display_url": "yfrog.com/nywqexfj"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "200167631779672064",
+        "text": "RT @ps20eme: Les Jeunes socialistes du 20e en campagne. Donnons une majorité au changement avec @Pau_Langevin sur la 15e circo. - http:/ ...",
+        "created_at": "2012-05-09 10:17:37+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 200167631779672064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 96,
+                    "end": 109,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

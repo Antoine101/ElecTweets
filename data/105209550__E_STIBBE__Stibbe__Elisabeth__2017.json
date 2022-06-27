@@ -1,0 +1,107 @@
+[
+    {
+        "id": "873221034731765761",
+        "text": "Sur le terrain jusqu'au dernier tract ! #legistatives2017 https://t.co/gav8780YxA",
+        "created_at": "2017-06-09 16:51:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873221032089452545"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 873221034731765761,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 57,
+                    "tag": "legistatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/gav8780YxA",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/873221034731765761/photo/1",
+                    "display_url": "pic.twitter.com/gav8780YxA",
+                    "media_key": "3_873221032089452545"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873207376182202368",
+        "text": "#JeVote #legistatives2017 #paris13 #Circo7509 https://t.co/A1I5X0yAbN",
+        "created_at": "2017-06-09 15:57:16+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873207357047754752"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 873207376182202368,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "tag": "JeVote"
+                },
+                {
+                    "start": 8,
+                    "end": 25,
+                    "tag": "legistatives2017"
+                },
+                {
+                    "start": 26,
+                    "end": 34,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 35,
+                    "end": 45,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/A1I5X0yAbN",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/873207376182202368/photo/1",
+                    "display_url": "pic.twitter.com/A1I5X0yAbN",
+                    "media_key": "3_873207357047754752"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

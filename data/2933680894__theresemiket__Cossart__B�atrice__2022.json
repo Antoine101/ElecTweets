@@ -1,0 +1,380 @@
+[
+    {
+        "id": "1535339183220445186",
+        "text": "RT @onevoiceanimal: Yannis Ezziadi : «Je vous mets au défi de trouver une vidéo de corrida dans laquelle vous allez voir le taureau montrer…",
+        "created_at": "2022-06-10 19:12:41+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10028787744",
+                    "name": "Touche pas à mon poste !",
+                    "description": "L'actualité des médias, et plus particulièrement du petit écran, est commentée et analysée par une équipe de chroniqueurs. Sous la houlette de Cyril Hanouna."
+                }
+            }
+        ],
+        "conversation_id": 1535339183220445186,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "onevoiceanimal",
+                    "id": "121383284"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 50,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334876450365443",
+        "text": "RT @PartiAnimaliste: « Nous essayons seulement d’alerter les citoyens sensibles à la cause animale sur des éléments objectifs de comparaiso…",
+        "created_at": "2022-06-10 18:55:34+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334876450365443,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334865863954432",
+        "text": "RT @PartiAnimaliste: « En témoigne la fin de l’élevage intensif, laquelle était pourtant promise d’ici à dix ans par le candidat Yannick Ja…",
+        "created_at": "2022-06-10 18:55:31+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334865863954432,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334847857704960",
+        "text": "RT @PartiAnimaliste: « Nous regrettons également que l'objectif de réduction de la consommation de protéines animales de 50 % ait disparu d…",
+        "created_at": "2022-06-10 18:55:27+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334847857704960,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334830287863810",
+        "text": "RT @PartiAnimaliste: « Sur la chasse, Aymeric Caron estime que la Nupes porte des propositions ambitieuses. C’est faux. Dans leur programme…",
+        "created_at": "2022-06-10 18:55:23+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334830287863810,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334820368330752",
+        "text": "RT @PartiAnimaliste: « Des positions qui raisonnent d’ailleurs avec l’investiture du pro-corrida Nicolas Cadène sous la bénédiction d’Aymer…",
+        "created_at": "2022-06-10 18:55:20+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334820368330752,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334796477583360",
+        "text": "RT @PartiAnimaliste: « Notre parti est transpartisan. Pas question, donc, de nouer des accords nationaux avec la Nupes, ni avec aucun autre…",
+        "created_at": "2022-06-10 18:55:15+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334796477583360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535334766689624065",
+        "text": "RT @PartiAnimaliste: « À ceux qui nous accusent de contribuer au dispersement des voix, nous leur répondons que nos 500 000 voix aux europé…",
+        "created_at": "2022-06-10 18:55:08+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535334766689624065,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535331919889633282",
+        "text": "https://t.co/WUjxziWBHn",
+        "created_at": "2022-06-10 18:43:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1535331914353098752"
+            ]
+        },
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535331919889633282,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/WUjxziWBHn",
+                    "expanded_url": "https://twitter.com/theresemiket/status/1535331919889633282/photo/1",
+                    "display_url": "pic.twitter.com/WUjxziWBHn",
+                    "media_key": "3_1535331914353098752"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535331274512007173",
+        "text": "RT @PartiAnimaliste: « Il est important pour nous d'être présents sur tous les territoires, même ruraux. Nous pouvons faire un meilleur sco…",
+        "created_at": "2022-06-10 18:41:15+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535331274512007173,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535331102906269702",
+        "text": "RT @FBB_PorteParole: #AmiPasCobaye\nChaque année en France, 5000 chiens sont expérimentés, certains mourront pour tester des produits chimiq…",
+        "created_at": "2022-06-10 18:40:34+00:00",
+        "attachments": null,
+        "author_id": 2933680894,
+        "context_annotations": [],
+        "conversation_id": 1535331102906269702,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 34,
+                    "tag": "AmiPasCobaye"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "FBB_PorteParole",
+                    "id": "1232662797886087171"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 295,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

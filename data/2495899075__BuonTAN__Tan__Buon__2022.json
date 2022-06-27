@@ -1,0 +1,49 @@
+[
+    {
+        "id": "1535379683415556097",
+        "text": "https://t.co/A2U1AZmGFn",
+        "created_at": "2022-06-10 21:53:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1535379677572898817",
+                "3_1535379677573005312"
+            ]
+        },
+        "author_id": 2495899075,
+        "context_annotations": [],
+        "conversation_id": 1535379683415556097,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/A2U1AZmGFn",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/1535379683415556097/photo/1",
+                    "display_url": "pic.twitter.com/A2U1AZmGFn",
+                    "media_key": "3_1535379677572898817"
+                },
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/A2U1AZmGFn",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/1535379683415556097/photo/1",
+                    "display_url": "pic.twitter.com/A2U1AZmGFn",
+                    "media_key": "3_1535379677573005312"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 4,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

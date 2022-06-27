@@ -1,0 +1,3594 @@
+[
+    {
+        "id": "873525436508246017",
+        "text": "J'ai commis hier 1 pt vidéo très imparfaite sur mon Facebook, avant l'heure fatidique de fin de campagne. Si certain(e)s veulent la relayer…",
+        "created_at": "2017-06-10 13:01:08+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            }
+        ],
+        "conversation_id": 873525436508246017,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872808249313067008",
+        "text": "RT @ParisEnSelle: Merci aux candidats des circonscriptions 1 à 5 ayant répondu, toutes leurs réponses sur https://t.co/v2rmm9pnvx https://t…",
+        "created_at": "2017-06-08 13:31:17+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872808249313067008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "ParisEnSelle",
+                    "id": "2990263883"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/v2rmm9pnvx",
+                    "expanded_url": "https://www.parlons-velo.fr/resultats",
+                    "display_url": "parlons-velo.fr/resultats"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872583059945738241",
+        "text": "@Quentin_Laurent 1 autre affiche , 1 questionnement voisin (prénom) !\nEt en plus il est…véto\nBjr je suis leDr Seignan c'est moi qui opérerai votre chien ;-€) https://t.co/DRHcLEeb5h",
+        "created_at": "2017-06-07 22:36:27+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872583044770693120"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872076574186762240,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Quentin_Laurent",
+                    "id": "49078486"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/DRHcLEeb5h",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/872583059945738241/photo/1",
+                    "display_url": "pic.twitter.com/DRHcLEeb5h",
+                    "media_key": "3_872583044770693120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 49078486,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872569630132510720",
+        "text": "@CharzaShbd @ClaireMonod @yjadot @eelv13e @Yves_Contassot @BasileMch @sofianealsaar Dimanche je voterai pour #EELV #ecologie pour soutenir  @N_Hulot en votant pour moi-même &amp; pour @ClaireMonod #procuration #legislatives",
+        "created_at": "2017-06-07 21:43:06+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 871097258426728448,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "CharzaShbd",
+                    "id": "3032931088"
+                },
+                {
+                    "start": 12,
+                    "end": 24,
+                    "username": "ClaireMonod",
+                    "id": "249843341"
+                },
+                {
+                    "start": 25,
+                    "end": 32,
+                    "username": "yjadot",
+                    "id": "117761523"
+                },
+                {
+                    "start": 33,
+                    "end": 41,
+                    "username": "eelv13e",
+                    "id": "784517874"
+                },
+                {
+                    "start": 42,
+                    "end": 57,
+                    "username": "Yves_Contassot",
+                    "id": "296491383"
+                },
+                {
+                    "start": 58,
+                    "end": 68,
+                    "username": "BasileMch",
+                    "id": "327352648"
+                },
+                {
+                    "start": 69,
+                    "end": 83,
+                    "username": "sofianealsaar",
+                    "id": "392238064"
+                },
+                {
+                    "start": 140,
+                    "end": 148,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                },
+                {
+                    "start": 184,
+                    "end": 196,
+                    "username": "ClaireMonod",
+                    "id": "249843341"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 114,
+                    "tag": "EELV"
+                },
+                {
+                    "start": 115,
+                    "end": 124,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 197,
+                    "end": 209,
+                    "tag": "procuration"
+                },
+                {
+                    "start": 210,
+                    "end": 223,
+                    "tag": "legislatives"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3032931088,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872567437622947840",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie ! @VicBarigant @gillesseignan @adriendelassus #legislatives2017 #circo7501 #circo7502 #circo7503 @…",
+        "created_at": "2017-06-07 21:34:23+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872567437622947840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 43,
+                    "end": 55,
+                    "username": "VicBarigant",
+                    "id": "2895671331"
+                },
+                {
+                    "start": 56,
+                    "end": 70,
+                    "username": "gillesseignan",
+                    "id": "912146623"
+                },
+                {
+                    "start": 71,
+                    "end": 86,
+                    "username": "adriendelassus",
+                    "id": "363643177"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 87,
+                    "end": 104,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "circo7501"
+                },
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 127,
+                    "end": 137,
+                    "tag": "circo7503"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872567174916964353",
+        "text": "RT @bourmeau: Parce que parfois 140 signes ce n'est pas suffisant pour dire le pathétique dans le politique https://t.co/K58yZCfp1Y",
+        "created_at": "2017-06-07 21:33:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870516902501556225",
+                "3_870516902497406979"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872567174916964353,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "bourmeau",
+                    "id": "233505453"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/K58yZCfp1Y",
+                    "expanded_url": "https://twitter.com/bourmeau/status/870516909384413186/photo/1",
+                    "display_url": "pic.twitter.com/K58yZCfp1Y",
+                    "media_key": "3_870516902501556225"
+                },
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/K58yZCfp1Y",
+                    "expanded_url": "https://twitter.com/bourmeau/status/870516909384413186/photo/1",
+                    "display_url": "pic.twitter.com/K58yZCfp1Y",
+                    "media_key": "3_870516902497406979"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566702223044610",
+        "text": "RT @EELV_Paris8et9: Plutôt que des ordonnances \"El Khomri bis\", une loi santé au travail !par @VicBarigant #circo7501 #maisoncommune https:…",
+        "created_at": "2017-06-07 21:31:27+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566702223044610,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 94,
+                    "end": 106,
+                    "username": "VicBarigant",
+                    "id": "2895671331"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 117,
+                    "tag": "circo7501"
+                },
+                {
+                    "start": 118,
+                    "end": 132,
+                    "tag": "maisoncommune"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566640088625152",
+        "text": "RT @ManoueMarie: L'écologie tjs plus haut @Thom_astro L'écologie s'élève à l'assemblée tjs + loin tjs + fort pr la victoire #legislatives20…",
+        "created_at": "2017-06-07 21:31:13+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566640088625152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 53,
+                    "username": "Thom_astro",
+                    "id": "437520768"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566546798968832",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie !  @Sybille_14 @f_letissier France Talandier #circo7510 #circo7511 #circo7512 #legislatives2017 @A…",
+        "created_at": "2017-06-07 21:30:50+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 872566546798968832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 44,
+                    "end": 55,
+                    "username": "Sybille_14",
+                    "id": "422948723"
+                },
+                {
+                    "start": 56,
+                    "end": 68,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 86,
+                    "end": 96,
+                    "tag": "circo7510"
+                },
+                {
+                    "start": 97,
+                    "end": 107,
+                    "tag": "circo7511"
+                },
+                {
+                    "start": 108,
+                    "end": 118,
+                    "tag": "circo7512"
+                },
+                {
+                    "start": 119,
+                    "end": 136,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566383397261312",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie ! @danlert @EcoloLogique @carolinedehaas #circo7516 #circo7517 #circo7518 #legislatives2017 @Avecl…",
+        "created_at": "2017-06-07 21:30:11+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566383397261312,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 43,
+                    "end": 51,
+                    "username": "danlert",
+                    "id": "18098631"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566348936863748",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie ! @CorineFaugeron @ManoueMarie @ClaireMonod #circo7507 #circo7508 #circo7509 #legislatives2017 @Av…",
+        "created_at": "2017-06-07 21:30:03+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566348936863748,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 43,
+                    "end": 58,
+                    "username": "CorineFaugeron",
+                    "id": "1474616480"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566317135671300",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie ! @HClairire @julienbayou @CecileDuflot #circo7504 #circo7505 #circo7506 @AveclEcologie #legislati…",
+        "created_at": "2017-06-07 21:29:56+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566317135671300,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 43,
+                    "end": 53,
+                    "username": "HClairire",
+                    "id": "355010877"
+                },
+                {
+                    "start": 54,
+                    "end": 66,
+                    "username": "julienbayou",
+                    "id": "14830116"
+                },
+                {
+                    "start": 67,
+                    "end": 80,
+                    "username": "CecileDuflot",
+                    "id": "17508660"
+                },
+                {
+                    "start": 114,
+                    "end": 128,
+                    "username": "AveclEcologie",
+                    "id": "862241839356792832"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 81,
+                    "end": 91,
+                    "tag": "circo7504"
+                },
+                {
+                    "start": 92,
+                    "end": 102,
+                    "tag": "circo7505"
+                },
+                {
+                    "start": 103,
+                    "end": 113,
+                    "tag": "circo7506"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566287645519873",
+        "text": "RT @EELV_Paris: Dimanche votez #ecologie !  @ThibautBrage @remylete @antoinetteguhl #circo7513 #circo7514 #circo7515 #legislatives2017 @Ave…",
+        "created_at": "2017-06-07 21:29:49+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872566287645519873,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                },
+                {
+                    "start": 44,
+                    "end": 57,
+                    "username": "ThibautBrage",
+                    "id": "2763036702"
+                },
+                {
+                    "start": 58,
+                    "end": 67,
+                    "username": "remylete",
+                    "id": "2998422940"
+                },
+                {
+                    "start": 68,
+                    "end": 83,
+                    "username": "antoinetteguhl",
+                    "id": "493483010"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 40,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 84,
+                    "end": 94,
+                    "tag": "circo7513"
+                },
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "circo7514"
+                },
+                {
+                    "start": 106,
+                    "end": 116,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 117,
+                    "end": 134,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872566118657003522",
+        "text": "RT @La18citoyenne: Alliance pro #Macron qui renforce le rassemblement de la gauche &amp; des écologistes autour de @carolinedehaas #Circo18 htt…",
+        "created_at": "2017-06-07 21:29:08+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872566118657003522,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "La18citoyenne",
+                    "id": "831488165923999745"
+                },
+                {
+                    "start": 115,
+                    "end": 130,
+                    "username": "carolinedehaas",
+                    "id": "188840584"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 32,
+                    "end": 39,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 131,
+                    "end": 139,
+                    "tag": "Circo18"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872565414747942912",
+        "text": "RT @ecoloParis: Lettre ouverte des élu-es écologistes de @Paris à @N_Hulot\n#Environnement #Climat #Fiscalité #Diesel #Pollution \nhttps://t.…",
+        "created_at": "2017-06-07 21:26:21+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872565414747942912,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "ecoloParis",
+                    "id": "2517744906"
+                },
+                {
+                    "start": 57,
+                    "end": 63,
+                    "username": "Paris",
+                    "id": "71016845"
+                },
+                {
+                    "start": 66,
+                    "end": 74,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 75,
+                    "end": 89,
+                    "tag": "Environnement"
+                },
+                {
+                    "start": 90,
+                    "end": 97,
+                    "tag": "Climat"
+                },
+                {
+                    "start": 98,
+                    "end": 108,
+                    "tag": "Fiscalité"
+                },
+                {
+                    "start": 109,
+                    "end": 116,
+                    "tag": "Diesel"
+                },
+                {
+                    "start": 117,
+                    "end": 127,
+                    "tag": "Pollution"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872565356572938240",
+        "text": "RT @C_Najdovski: L'Ecologie à l'Assemblée ! Dimanche 11 juin je vote @ManoueMarie Une femme engagée, de terrain, sincère, qui sera votre vo…",
+        "created_at": "2017-06-07 21:26:07+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872565356572938240,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "C_Najdovski",
+                    "id": "225464287"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872565261840330753",
+        "text": "RT @carolinedehaas: Plus gros porte à porte EVER 💪#Circo18 @La18citoyenne https://t.co/tiU0aIbtok",
+        "created_at": "2017-06-07 21:25:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872502501051957248"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872565261840330753,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "carolinedehaas",
+                    "id": "188840584"
+                },
+                {
+                    "start": 59,
+                    "end": 73,
+                    "username": "La18citoyenne",
+                    "id": "831488165923999745"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 58,
+                    "tag": "Circo18"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/tiU0aIbtok",
+                    "expanded_url": "https://twitter.com/carolinedehaas/status/872502518433054726/photo/1",
+                    "display_url": "pic.twitter.com/tiU0aIbtok",
+                    "media_key": "3_872502501051957248"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872565083305631744",
+        "text": "#législative #75-02 #eelv photo de campagne : Elise …et Moi !!! https://t.co/BZnvQwLo0O",
+        "created_at": "2017-06-07 21:25:01+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872565069523152896"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872565083305631744,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "tag": "législative"
+                },
+                {
+                    "start": 20,
+                    "end": 25,
+                    "tag": "eelv"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/BZnvQwLo0O",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/872565083305631744/photo/1",
+                    "display_url": "pic.twitter.com/BZnvQwLo0O",
+                    "media_key": "3_872565069523152896"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872563225392492544",
+        "text": "@Quentin_Laurent \n\"Votez vegan votez Seignan\" on y pensait…@lobs dommage texte un peu paresseux peu de fantaisie ;-€) https://t.co/eGuv3TgDA0",
+        "created_at": "2017-06-07 21:17:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872563223429558277"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872563225392492544,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Quentin_Laurent",
+                    "id": "49078486"
+                },
+                {
+                    "start": 59,
+                    "end": 64,
+                    "username": "lobs",
+                    "id": "21313364"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 141,
+                    "url": "https://t.co/eGuv3TgDA0",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/872563225392492544/photo/1",
+                    "display_url": "pic.twitter.com/eGuv3TgDA0",
+                    "media_key": "3_872563223429558277"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 49078486,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872562585463345153",
+        "text": "@Quentin_Laurent Votez vegan votez Seignan on y pensait. @lobs Un peu déçu par https://t.co/igZ6BC5Lcr",
+        "created_at": "2017-06-07 21:15:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872562582770638849"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 872562585463345153,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Quentin_Laurent",
+                    "id": "49078486"
+                },
+                {
+                    "start": 57,
+                    "end": 62,
+                    "username": "lobs",
+                    "id": "21313364"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/igZ6BC5Lcr",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/872562585463345153/photo/1",
+                    "display_url": "pic.twitter.com/igZ6BC5Lcr",
+                    "media_key": "3_872562582770638849"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 49078486,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872146682049417216",
+        "text": "@juliegtrd Bien entendu\nJe suis disponible pour un échange en fonction de mes disponibilités.\nCordialement GS",
+        "created_at": "2017-06-06 17:42:27+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870624555152396288,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "juliegtrd",
+                    "id": "839223889213415424"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 839223889213415424,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870779802558574593",
+        "text": "Pour voter les Dimanches  11 et 18 juin Faites une procuration #legislatives #75-02 #eelv https://t.co/mGA1SuAfcR",
+        "created_at": "2017-06-02 23:10:57+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870779802558574593,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 76,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 84,
+                    "end": 89,
+                    "tag": "eelv"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/mGA1SuAfcR",
+                    "expanded_url": "http://aveclecologie.fr/faire-une-procuration/",
+                    "display_url": "aveclecologie.fr/faire-une-proc…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870653485813043201",
+        "text": "RT @memoristic: Quand t'es fier de porter l'écologie sur la commune normande la plus connue au monde #circo6102 https://t.co/xhW8lL0CF1 htt…",
+        "created_at": "2017-06-02 14:49:01+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870653485813043201,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "memoristic",
+                    "id": "865361"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 111,
+                    "tag": "circo6102"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/xhW8lL0CF1",
+                    "expanded_url": "http://ift.tt/2qwlTgm",
+                    "display_url": "ift.tt/2qwlTgm"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870602850358919169",
+        "text": "#législatives @franceinter #13h #abbeville #Somme SOUTIEN A @Francois_Ruffin il nous faut un député explosif hors-norme poil-a-gratter VOTEZ",
+        "created_at": "2017-06-02 11:27:49+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870602850358919169,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 26,
+                    "username": "franceinter",
+                    "id": "34867057"
+                },
+                {
+                    "start": 60,
+                    "end": 76,
+                    "username": "Francois_Ruffin",
+                    "id": "801822323825410049"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 27,
+                    "end": 31,
+                    "tag": "13h"
+                },
+                {
+                    "start": 32,
+                    "end": 42,
+                    "tag": "abbeville"
+                },
+                {
+                    "start": 43,
+                    "end": 49,
+                    "tag": "Somme"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870568811640041472",
+        "text": "RT @Csagaspe: Pr 80% des Français inscrits sur les listes électorales, la cause animale est un enjeu important, montrant une forte progress…",
+        "created_at": "2017-06-02 09:12:33+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870568811640041472,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Csagaspe",
+                    "id": "507402496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870410804092428293",
+        "text": "Ce soir 1débat @ENS méprise l'écologie politique &amp; l'ensemencement 2 la politique française des 30 dernières années \nhttps://t.co/f3nYrUgnwF",
+        "created_at": "2017-06-01 22:44:41+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 870410804092428293,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 19,
+                    "username": "ens",
+                    "id": "13942042"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 121,
+                    "end": 144,
+                    "url": "https://t.co/f3nYrUgnwF",
+                    "expanded_url": "https://www.facebook.com/gilles.seignan",
+                    "display_url": "facebook.com/gilles.seignan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870270719762063360",
+        "text": "RT @Reporterre: Vendredi 2 juin, à 17, sur Facebook, Reporterre répond à vos questions https://t.co/THloCP74nD https://t.co/300KweotvA",
+        "created_at": "2017-06-01 13:28:03+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_870241517432184832"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            }
+        ],
+        "conversation_id": 870270719762063360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Reporterre",
+                    "id": "810446802"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/THloCP74nD",
+                    "expanded_url": "https://reporterre.net/En-direct-de-la-redaction-de-Reporterre",
+                    "display_url": "reporterre.net/En-direct-de-l…"
+                },
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/300KweotvA",
+                    "expanded_url": "https://twitter.com/Reporterre/status/870241885050294272/video/1",
+                    "display_url": "pic.twitter.com/300KweotvA",
+                    "media_key": "7_870241517432184832"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869605388265684993",
+        "text": "#RolandGarros prix spécial 2 connerie crasse @hamou.En ce domaine au moins c'est \"une belle tête de champion\"\n#harcelement #sexisme #respect",
+        "created_at": "2017-05-30 17:24:15+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029940559",
+                    "name": "Live: The French Open Tennis",
+                    "description": "Coverage of the latest tennis action."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10037592806",
+                    "name": "French Open"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10040367934",
+                    "name": "ATPテニス "
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10044199208",
+                    "name": "French Open 2016 (Roland Garros)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10044433439",
+                    "name": "Roland Garros"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10049609722",
+                    "name": "2017 French Open Tennis"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049603637",
+                    "name": "First-round play"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049611563",
+                    "name": "Day 3",
+                    "description": "John Inverdale presents live coverage from Paris as the first round of the 2017 French Open concludes, with analysis from Jim Courier, Marion Bartoli, and Fabrice Santoro."
+                }
+            }
+        ],
+        "conversation_id": 869605388265684993,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 45,
+                    "end": 51,
+                    "username": "hamou",
+                    "id": "17406195"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "tag": "RolandGarros"
+                },
+                {
+                    "start": 110,
+                    "end": 122,
+                    "tag": "harcelement"
+                },
+                {
+                    "start": 123,
+                    "end": 131,
+                    "tag": "sexisme"
+                },
+                {
+                    "start": 132,
+                    "end": 140,
+                    "tag": "respect"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869263275548192768",
+        "text": "Prix des cantines  seul curseur aux dépens de la qualité : + de maires &amp; + députés #EELV pr créer des filières @JacquesBoutault @f_letissier",
+        "created_at": "2017-05-29 18:44:49+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 869263275548192768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 115,
+                    "end": 131,
+                    "username": "JacquesBoutault",
+                    "id": "72301588"
+                },
+                {
+                    "start": 132,
+                    "end": 144,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 92,
+                    "tag": "EELV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869260540115378176",
+        "text": "En fin de journée @Voltuan au rassemblement Anti #Poutine par #resistancesyrienne https://t.co/pdUeeAyCJ6",
+        "created_at": "2017-05-29 18:33:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869260511820558336"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 869260540115378176,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 26,
+                    "username": "Voltuan",
+                    "id": "72506570"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 57,
+                    "tag": "Poutine"
+                },
+                {
+                    "start": 62,
+                    "end": 81,
+                    "tag": "resistancesyrienne"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/pdUeeAyCJ6",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/869260540115378176/photo/1",
+                    "display_url": "pic.twitter.com/pdUeeAyCJ6",
+                    "media_key": "3_869260511820558336"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869260107267407872",
+        "text": "https://t.co/szt97KBheI",
+        "created_at": "2017-05-29 18:32:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869260088296570880"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 869260107267407872,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/szt97KBheI",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/869260107267407872/photo/1",
+                    "display_url": "pic.twitter.com/szt97KBheI",
+                    "media_key": "3_869260088296570880"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869259838785822721",
+        "text": "Génération Cobaye à la soirée #alimentation #Legislatives @f_letissier #EELV https://t.co/JRh6c1RGC8",
+        "created_at": "2017-05-29 18:31:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869259828149059584"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 869259838785822721,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 58,
+                    "end": 70,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 43,
+                    "tag": "alimentation"
+                },
+                {
+                    "start": 44,
+                    "end": 57,
+                    "tag": "Legislatives"
+                },
+                {
+                    "start": 71,
+                    "end": 76,
+                    "tag": "EELV"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/JRh6c1RGC8",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/869259838785822721/photo/1",
+                    "display_url": "pic.twitter.com/JRh6c1RGC8",
+                    "media_key": "3_869259828149059584"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869258815518191620",
+        "text": "Gaspillage alimentaire #ESS valorisation dechets @f_letissier @JacquesBoutault #excellentsexcedents Surfaces agricoles perdues #éducation https://t.co/ovSMnAnYaM",
+        "created_at": "2017-05-29 18:27:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869258747620847617"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 869258815518191620,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 61,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                },
+                {
+                    "start": 62,
+                    "end": 78,
+                    "username": "JacquesBoutault",
+                    "id": "72301588"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 23,
+                    "end": 27,
+                    "tag": "ESS"
+                },
+                {
+                    "start": 79,
+                    "end": 99,
+                    "tag": "excellentsexcedents"
+                },
+                {
+                    "start": 127,
+                    "end": 137,
+                    "tag": "éducation"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/ovSMnAnYaM",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/869258815518191620/photo/1",
+                    "display_url": "pic.twitter.com/ovSMnAnYaM",
+                    "media_key": "3_869258747620847617"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868156078286155776",
+        "text": "#desenfumage #harcelement #Baupin \n https://t.co/9yTX8e2wKu via @libe",
+        "created_at": "2017-05-26 17:25:13+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 868156078286155776,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 64,
+                    "end": 69,
+                    "username": "libe",
+                    "id": "68440549"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "tag": "desenfumage"
+                },
+                {
+                    "start": 13,
+                    "end": 25,
+                    "tag": "harcelement"
+                },
+                {
+                    "start": 26,
+                    "end": 33,
+                    "tag": "Baupin"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 36,
+                    "end": 59,
+                    "url": "https://t.co/9yTX8e2wKu",
+                    "expanded_url": "http://www.liberation.fr/france/2017/05/26/harcelement-sexuel-la-communication-douteuse-de-denis-baupin_1572321",
+                    "display_url": "liberation.fr/france/2017/05…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867361116736946176",
+        "text": "RT @ParisEnSelle: Merci @gillesseignan pour vos réponses au questionnaire #Parlonsvélo2017 ! On continue ! @parlonsvelo2017 #legislatives20…",
+        "created_at": "2017-05-24 12:46:19+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 867361116736946176,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "ParisEnSelle",
+                    "id": "2990263883"
+                },
+                {
+                    "start": 24,
+                    "end": 38,
+                    "username": "gillesseignan",
+                    "id": "912146623"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 74,
+                    "end": 90,
+                    "tag": "Parlonsvélo2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867320209044119553",
+        "text": "RT @fredbadina: Merci @ZeroWasteFR de dénoncer cette hallucinante gabegie orchestrée par @McDonalds #ZeroDechet https://t.co/m4V4S8K5a7",
+        "created_at": "2017-05-24 10:03:46+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597017083904",
+                    "name": "QSR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026319212",
+                    "name": "McDonald's"
+                }
+            }
+        ],
+        "conversation_id": 867320209044119553,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "fredbadina",
+                    "id": "18098189"
+                },
+                {
+                    "start": 22,
+                    "end": 34,
+                    "username": "ZeroWasteFR",
+                    "id": "2315768366"
+                },
+                {
+                    "start": 89,
+                    "end": 99,
+                    "username": "McDonalds",
+                    "id": "71026122"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 111,
+                    "tag": "ZeroDechet"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/m4V4S8K5a7",
+                    "expanded_url": "https://twitter.com/latribune/status/867066142770286593",
+                    "display_url": "twitter.com/latribune/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867320062558031873",
+        "text": "RT @seashepherd: An injured #SeaTurtle rescues by the @SeaShepherdBob crew during #OpSolaStella: https://t.co/n41Tpr9MEd #WorldTurtleDay #S…",
+        "created_at": "2017-05-24 10:03:11+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852638925591949314",
+                    "name": "Reptiles",
+                    "description": "Reptiles"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852658483748941824",
+                    "name": "Turtles",
+                    "description": "Turtles"
+                }
+            }
+        ],
+        "conversation_id": 867320062558031873,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "seashepherd",
+                    "id": "17156000"
+                },
+                {
+                    "start": 54,
+                    "end": 69,
+                    "username": "SeaShepherdBob",
+                    "id": "725775710"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 28,
+                    "end": 38,
+                    "tag": "SeaTurtle"
+                },
+                {
+                    "start": 82,
+                    "end": 95,
+                    "tag": "OpSolaStella"
+                },
+                {
+                    "start": 121,
+                    "end": 136,
+                    "tag": "WorldTurtleDay"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/n41Tpr9MEd",
+                    "expanded_url": "http://facebook.com/seashepherdglobal/posts/10155387531683259",
+                    "display_url": "facebook.com/seashepherdglo…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 65,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867260241150455808",
+        "text": "RT @RemiZinck: Faut voter pour les candidats-es écologistes.  .. Même le figaro le dit. 😁 \nhttps://t.co/kdy6JzxJMt via @Le_Scan",
+        "created_at": "2017-05-24 06:05:29+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867260241150455808,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "RemiZinck",
+                    "id": "454953882"
+                },
+                {
+                    "start": 119,
+                    "end": 127,
+                    "username": "le_scan",
+                    "id": "1211576220451622912"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/kdy6JzxJMt",
+                    "expanded_url": "http://www.lefigaro.fr/politique/le-scan/decryptages/2014/08/06/25003-20140806ARTFIG00129-les-deputes-verts-sont-de-loin-les-plus-actifs-a-l-assemblee-nationale.php",
+                    "display_url": "lefigaro.fr/politique/le-s…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865619395506319360",
+        "text": "Conférence Résistance indigène aux #gazdeshiste aux USA @ENS @ecocampus #amisdelaterre #ecologie #solidarité #écocides #COP21 https://t.co/eEkAk5h8dK",
+        "created_at": "2017-05-19 17:25:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865619336920264704"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 865619395506319360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 56,
+                    "end": 60,
+                    "username": "ens",
+                    "id": "13942042"
+                },
+                {
+                    "start": 61,
+                    "end": 71,
+                    "username": "ecocampus",
+                    "id": "113780137"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 35,
+                    "end": 47,
+                    "tag": "gazdeshiste"
+                },
+                {
+                    "start": 72,
+                    "end": 86,
+                    "tag": "amisdelaterre"
+                },
+                {
+                    "start": 87,
+                    "end": 96,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 97,
+                    "end": 108,
+                    "tag": "solidarité"
+                },
+                {
+                    "start": 109,
+                    "end": 118,
+                    "tag": "écocides"
+                },
+                {
+                    "start": 119,
+                    "end": 125,
+                    "tag": "COP21"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 126,
+                    "end": 149,
+                    "url": "https://t.co/eEkAk5h8dK",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/865619395506319360/photo/1",
+                    "display_url": "pic.twitter.com/eEkAk5h8dK",
+                    "media_key": "3_865619336920264704"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865298638163103744",
+        "text": "Conférence  @YvesCochet @ens @ecoo https://t.co/KSV0udZNmK",
+        "created_at": "2017-05-18 20:10:46+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865298636128882689"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 865298638163103744,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 23,
+                    "username": "YvesCochet",
+                    "id": "1951148185"
+                },
+                {
+                    "start": 24,
+                    "end": 28,
+                    "username": "ens",
+                    "id": "13942042"
+                },
+                {
+                    "start": 29,
+                    "end": 34,
+                    "username": "ecoo",
+                    "id": "264448278"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/KSV0udZNmK",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/865298638163103744/photo/1",
+                    "display_url": "pic.twitter.com/KSV0udZNmK",
+                    "media_key": "3_865298636128882689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864182268675358720",
+        "text": "@EmilyLoizeau et Marie-Monique Robin @CinemaLaClef Pour une projection-débat-concert  Qu'est-ce qu'on Attend ?\"#ecologie #75-02 #BienVivre https://t.co/VqKqS2tHuA",
+        "created_at": "2017-05-15 18:14:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_864182258374148097"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864182268675358720,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "EmilyLoizeau",
+                    "id": "706888867807436800"
+                },
+                {
+                    "start": 37,
+                    "end": 50,
+                    "username": "CinemaLaClef",
+                    "id": "498037348"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 120,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 128,
+                    "end": 138,
+                    "tag": "BienVivre"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/VqKqS2tHuA",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/864182268675358720/photo/1",
+                    "display_url": "pic.twitter.com/VqKqS2tHuA",
+                    "media_key": "3_864182258374148097"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 706888867807436800,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864129977993834496",
+        "text": "RT @Politis_fr: [ACCÈS LIBRE] Avec la nomination d'E. #Philippe, l’ambiguïté est levée : #Macron est bien ni de gauche ni de gauche https:/…",
+        "created_at": "2017-05-15 14:46:56+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864129977993834496,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Politis_fr",
+                    "id": "498267865"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 63,
+                    "tag": "Philippe"
+                },
+                {
+                    "start": 89,
+                    "end": 96,
+                    "tag": "Macron"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 140,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864129832325664768",
+        "text": "RT @michel_delean: La transparence le barbe.\nhttps://t.co/KFNAuk7zxI",
+        "created_at": "2017-05-15 14:46:21+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864129832325664768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "michel_delean",
+                    "id": "359907212"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/KFNAuk7zxI",
+                    "expanded_url": "https://www.mediapart.fr/journal/france/120517/le-juppeiste-edouard-philippe-mauvais-eleve-de-la-transparence",
+                    "display_url": "mediapart.fr/journal/france…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864129780987420672",
+        "text": "RT @MaximCombes: Précisons\n@EPhilippe_LH a voté CONTRE les projets de loi\n- pour la transition énergétique\n- pour la \"reconquête\" de la bio…",
+        "created_at": "2017-05-15 14:46:09+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864129780987420672,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "MaximCombes",
+                    "id": "80122680"
+                },
+                {
+                    "start": 27,
+                    "end": 40,
+                    "username": "EPhilippe_LH",
+                    "id": "1110890216"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 143,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864129633717035008",
+        "text": "RT @DavidCormand: .@EPhilippe_LH  : Dir. des aff. publiques #Areva (en clair, lobbyiste), pour la centrale charbon du Havre. Mauvaise nouve…",
+        "created_at": "2017-05-15 14:45:34+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864129633717035008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "DavidCormand",
+                    "id": "525436041"
+                },
+                {
+                    "start": 19,
+                    "end": 32,
+                    "username": "EPhilippe_LH",
+                    "id": "1110890216"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 66,
+                    "tag": "Areva"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 85,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864075613816184832",
+        "text": "RT @ClaireMonod: Soif d'écologie... Le bonheur ce matin au marché V. Auriol #circo7509 c'est parti très fort ! Et toujours le soleil 🌞 http…",
+        "created_at": "2017-05-15 11:10:54+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864075613816184832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ClaireMonod",
+                    "id": "249843341"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 86,
+                    "tag": "circo7509"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864075579934613504",
+        "text": "RT @AvecDuflot: Des volontaires mobilisés pour que l'écologie soit entendue dans les 5 ans et représentée à l'Assemblée!\n#EnCampagne #AvecD…",
+        "created_at": "2017-05-15 11:10:46+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864075579934613504,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "AvecDuflot",
+                    "id": "755752740593266688"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 132,
+                    "tag": "EnCampagne"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864075509944156160",
+        "text": "RT @sandraregol: Soutien et témoignage d'un citoyen engagé : @gruffat_claude , président de @Biocoop et suppléant de @antoinetteguhl . #CF…",
+        "created_at": "2017-05-15 11:10:29+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864075509944156160,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "sandraregol",
+                    "id": "16787206"
+                },
+                {
+                    "start": 61,
+                    "end": 76,
+                    "username": "gruffat_claude",
+                    "id": "2972937868"
+                },
+                {
+                    "start": 92,
+                    "end": 100,
+                    "username": "Biocoop",
+                    "id": "343922907"
+                },
+                {
+                    "start": 117,
+                    "end": 132,
+                    "username": "antoinetteguhl",
+                    "id": "493483010"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 135,
+                    "end": 138,
+                    "tag": "CF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864075267198898177",
+        "text": "RT @yjadot: En campagne avec @antoinetteguhl pour que le XXème arrondissement élise comme députée une écologiste qui agit depuis des années…",
+        "created_at": "2017-05-15 11:09:32+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 864075267198898177,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "yjadot",
+                    "id": "117761523"
+                },
+                {
+                    "start": 29,
+                    "end": 44,
+                    "username": "antoinetteguhl",
+                    "id": "493483010"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "864075228464467971",
+        "text": "RT @f_letissier: J-27 avant le 1er tour des #législatives2017. La campagne s'accélère ! #Circo11Paris #Paris14 #Paris6 https://t.co/LdzIZ7K…",
+        "created_at": "2017-05-15 11:09:22+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864075228464467971,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 61,
+                    "tag": "législatives2017"
+                },
+                {
+                    "start": 88,
+                    "end": 101,
+                    "tag": "Circo11Paris"
+                },
+                {
+                    "start": 102,
+                    "end": 110,
+                    "tag": "Paris14"
+                },
+                {
+                    "start": 111,
+                    "end": 118,
+                    "tag": "Paris6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "863166525305495552",
+        "text": "RVs 13/05 11h-17h : stopper le Glyphosate, protéger biodiversité &amp; pollinisation…&amp; rencontrer vos candidats #BienVivre  #Législatives #75-02 https://t.co/zRfZx7CfrO",
+        "created_at": "2017-05-12 22:58:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_863165721102221317"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 863166525305495552,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "BienVivre"
+                },
+                {
+                    "start": 128,
+                    "end": 141,
+                    "tag": "Législatives"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 149,
+                    "end": 172,
+                    "url": "https://t.co/zRfZx7CfrO",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/863166525305495552/photo/1",
+                    "display_url": "pic.twitter.com/zRfZx7CfrO",
+                    "media_key": "3_863165721102221317"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "862731062023254016",
+        "text": "Début réunion Reconnaître l'Etat Pakestinien @edgarmorinparis @dominiquevidal @EstherBenbassa @PascalBoniface @PascalDurand @veroniquenahoum https://t.co/juEeoJbTiz",
+        "created_at": "2017-05-11 18:08:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862731007446921217"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 862731062023254016,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 45,
+                    "end": 61,
+                    "username": "edgarmorinparis",
+                    "id": "1230868171"
+                },
+                {
+                    "start": 62,
+                    "end": 77,
+                    "username": "dominiquevidal",
+                    "id": "142130842"
+                },
+                {
+                    "start": 78,
+                    "end": 93,
+                    "username": "EstherBenbassa",
+                    "id": "414024815"
+                },
+                {
+                    "start": 94,
+                    "end": 109,
+                    "username": "PascalBoniface",
+                    "id": "211836488"
+                },
+                {
+                    "start": 110,
+                    "end": 123,
+                    "username": "PascalDurand",
+                    "id": "120783997"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/juEeoJbTiz",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/862731062023254016/photo/1",
+                    "display_url": "pic.twitter.com/juEeoJbTiz",
+                    "media_key": "3_862731007446921217"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862387876813828096",
+        "text": "Annonce de la semaine #écocampusienne #ens la semaine prochaine #75005 #Ecologie lors des échanges #GREENPEACE #BienVivre",
+        "created_at": "2017-05-10 19:24:26+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043140126",
+                    "name": "Greenpeace"
+                }
+            }
+        ],
+        "conversation_id": 862387876813828096,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 22,
+                    "end": 37,
+                    "tag": "écocampusienne"
+                },
+                {
+                    "start": 38,
+                    "end": 42,
+                    "tag": "ens"
+                },
+                {
+                    "start": 71,
+                    "end": 80,
+                    "tag": "Ecologie"
+                },
+                {
+                    "start": 99,
+                    "end": 110,
+                    "tag": "GREENPEACE"
+                },
+                {
+                    "start": 111,
+                    "end": 121,
+                    "tag": "BienVivre"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862381795995766786",
+        "text": "1 semaine aprs avr ranimé la symbolique #démocratie et #écologie d la #presidentielle, #GREENPEACE à la rencontre des étudiants #numérique",
+        "created_at": "2017-05-10 19:00:17+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043140126",
+                    "name": "Greenpeace"
+                }
+            }
+        ],
+        "conversation_id": 862381795995766786,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 51,
+                    "tag": "démocratie"
+                },
+                {
+                    "start": 55,
+                    "end": 64,
+                    "tag": "écologie"
+                },
+                {
+                    "start": 70,
+                    "end": 85,
+                    "tag": "presidentielle"
+                },
+                {
+                    "start": 87,
+                    "end": 98,
+                    "tag": "GREENPEACE"
+                },
+                {
+                    "start": 128,
+                    "end": 138,
+                    "tag": "numérique"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862379560788254720",
+        "text": "Pousser les GAFAS @ faire fonctionner leurs datacenters aux #énergiesrenouvelables  #GREENPEACE #numérique #écologie https://t.co/iN2fpB0OSf",
+        "created_at": "2017-05-10 18:51:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862379558535933952"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043140126",
+                    "name": "Greenpeace"
+                }
+            }
+        ],
+        "conversation_id": 862379560788254720,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 82,
+                    "tag": "énergiesrenouvelables"
+                },
+                {
+                    "start": 84,
+                    "end": 95,
+                    "tag": "GREENPEACE"
+                },
+                {
+                    "start": 96,
+                    "end": 106,
+                    "tag": "numérique"
+                },
+                {
+                    "start": 107,
+                    "end": 116,
+                    "tag": "écologie"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/iN2fpB0OSf",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/862379560788254720/photo/1",
+                    "display_url": "pic.twitter.com/iN2fpB0OSf",
+                    "media_key": "3_862379558535933952"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862378477475037189",
+        "text": "Si les data center étaient un pays ce serait le 6e émetteur de #GES #bonnespratiques éliminer ses courriels #GREENPEACE",
+        "created_at": "2017-05-10 18:47:05+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043140126",
+                    "name": "Greenpeace"
+                }
+            }
+        ],
+        "conversation_id": 862378477475037189,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 67,
+                    "tag": "GES"
+                },
+                {
+                    "start": 68,
+                    "end": 84,
+                    "tag": "bonnespratiques"
+                },
+                {
+                    "start": 108,
+                    "end": 119,
+                    "tag": "GREENPEACE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862378062478028802",
+        "text": "#greenpeace à l'heure du numérique questions-réponses @ecoletelecomparistech #climat #numerique #cop21 https://t.co/iY0SeXN38g",
+        "created_at": "2017-05-10 18:45:26+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862378045369397248"
+            ]
+        },
+        "author_id": 912146623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043140126",
+                    "name": "Greenpeace"
+                }
+            }
+        ],
+        "conversation_id": 862378062478028802,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "greenpeace"
+                },
+                {
+                    "start": 77,
+                    "end": 84,
+                    "tag": "climat"
+                },
+                {
+                    "start": 85,
+                    "end": 95,
+                    "tag": "numerique"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "cop21"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/iY0SeXN38g",
+                    "expanded_url": "https://twitter.com/gillesseignan/status/862378062478028802/photo/1",
+                    "display_url": "pic.twitter.com/iY0SeXN38g",
+                    "media_key": "3_862378045369397248"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862376808666234880",
+        "text": "Diffusion et discussion #amap #75005 #Legislatives #75-02\n#BienVivre",
+        "created_at": "2017-05-10 18:40:28+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 862376808666234880,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 29,
+                    "tag": "amap"
+                },
+                {
+                    "start": 37,
+                    "end": 50,
+                    "tag": "Legislatives"
+                },
+                {
+                    "start": 58,
+                    "end": 68,
+                    "tag": "BienVivre"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "862218273949184000",
+        "text": "Ah zut, on ne voit pas il faut cliquer sur l'image",
+        "created_at": "2017-05-10 08:10:30+00:00",
+        "attachments": null,
+        "author_id": 912146623,
+        "context_annotations": [],
+        "conversation_id": 861941626385596416,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 912146623,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

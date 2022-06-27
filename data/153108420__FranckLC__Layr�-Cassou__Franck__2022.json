@@ -1,0 +1,1909 @@
+[
+    {
+        "id": "1535359104822263808",
+        "text": "Dimanche on vote et on fait voter @Reconquete_off  ! Dans toutes les circos et dans la 11e de Paris (6e et 14e arrondissements) ce sera ce bulletin. Nous devons montrer qu'en France il reste des personnes qui veulent sauver leur pays !\n@AvecFranck \n#ReconqueteLegislatives2022 https://t.co/uPIVvbAuHc",
+        "created_at": "2022-06-10 20:31:50+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1535359082554605568"
+            ]
+        },
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1535359104822263808,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 249,
+                    "end": 276,
+                    "tag": "ReconqueteLegislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 49,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                },
+                {
+                    "start": 236,
+                    "end": 247,
+                    "username": "AvecFranck",
+                    "id": "1495371886649298950"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 277,
+                    "end": 300,
+                    "url": "https://t.co/uPIVvbAuHc",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1535359104822263808/photo/1",
+                    "display_url": "pic.twitter.com/uPIVvbAuHc",
+                    "media_key": "3_1535359082554605568"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1534968413919006752",
+        "text": "Dimanche on vote et on fait voter @Reconquete_off  ! Dans toutes les circos et dans la 11e de Paris (6e et 14e arrondissements) ce sera ce bulletin. Nous devons montrer qu'en France il reste des personnes qui veulent sauver leur pays !\n@AvecFranck \n#ReconqueteLegislatives2022 https://t.co/Qa1gxiunnn",
+        "created_at": "2022-06-09 18:39:22+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1534968375469821980"
+            ]
+        },
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1534968413919006752,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 249,
+                    "end": 276,
+                    "tag": "ReconqueteLegislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 49,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                },
+                {
+                    "start": 236,
+                    "end": 247,
+                    "username": "AvecFranck",
+                    "id": "1495371886649298950"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 277,
+                    "end": 300,
+                    "url": "https://t.co/Qa1gxiunnn",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1534968413919006752/photo/1",
+                    "display_url": "pic.twitter.com/Qa1gxiunnn",
+                    "media_key": "3_1534968375469821980"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 1,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1534583359455780867",
+        "text": "RT @Ligne__Droite: 🔴EXCLU\n🗣️@FranckLC révèle que certains de ses militants se sont retrouvés face à un homme en possession d'une arme à feu…",
+        "created_at": "2022-06-08 17:09:18+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1534583359455780867,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Ligne__Droite",
+                    "id": "1457342380911349760"
+                },
+                {
+                    "start": 28,
+                    "end": 37,
+                    "username": "FranckLC",
+                    "id": "153108420"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 35,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1534572012412215296",
+        "text": "RT @Ligne__Droite: 🤜\"Je n'ai jamais connu un tel niveau de violence !\"\n🗣️@FranckLC, candidat @Reconquete_off dans la 11ème circonscription…",
+        "created_at": "2022-06-08 16:24:13+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1534572012412215296,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Ligne__Droite",
+                    "id": "1457342380911349760"
+                },
+                {
+                    "start": 73,
+                    "end": 82,
+                    "username": "FranckLC",
+                    "id": "153108420"
+                },
+                {
+                    "start": 93,
+                    "end": 108,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1534571985300336641",
+        "text": "Vous pouvez retrouver ci-dessous mon entretien de ce matin sur @radiocourtoisie dans la #LigneDroite . Je reviens sur les législatives, mais aussi et surtout sur les violences que subissent les candidats et les militants @Reconquete_off !\nhttps://t.co/TR3CmIqjno\n#legislatives2022 https://t.co/lMAiOZU2Nl",
+        "created_at": "2022-06-08 16:24:06+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1534571985300336641,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 88,
+                    "end": 100,
+                    "tag": "LigneDroite"
+                },
+                {
+                    "start": 263,
+                    "end": 280,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 79,
+                    "username": "radiocourtoisie",
+                    "id": "430401252"
+                },
+                {
+                    "start": 221,
+                    "end": 236,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 239,
+                    "end": 262,
+                    "url": "https://t.co/TR3CmIqjno",
+                    "expanded_url": "http://youtu.be/XktSPi15iFA",
+                    "display_url": "youtu.be/XktSPi15iFA"
+                },
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/lMAiOZU2Nl",
+                    "expanded_url": "https://twitter.com/Ligne__Droite/status/1534534737678815233",
+                    "display_url": "twitter.com/Ligne__Droite/…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1534471469383749632",
+        "text": "Ces attaques, ces violences, ces menaces sont quotidiennes vis à vis des militants et candidats @Reconquete_off ! Et bien entendu personnes ne dit rien ? @morandiniblog , @CNEWS @BFMTV @PascalPraud @TPMP @LCI vous attendez quoi pour en parler, un réel drame ?\nÇa doit s'arrêter ! https://t.co/E7kPcgqOyG",
+        "created_at": "2022-06-08 09:44:42+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1103713072722526208",
+                    "name": "BFMTV",
+                    "description": "BFMTV"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106266683625234437",
+                    "name": "CNEWS",
+                    "description": "CNEWS"
+                }
+            }
+        ],
+        "conversation_id": 1534471469383749632,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 111,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                },
+                {
+                    "start": 154,
+                    "end": 168,
+                    "username": "morandiniblog",
+                    "id": "35287180"
+                },
+                {
+                    "start": 171,
+                    "end": 177,
+                    "username": "CNEWS",
+                    "id": "18396319"
+                },
+                {
+                    "start": 178,
+                    "end": 184,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                },
+                {
+                    "start": 185,
+                    "end": 197,
+                    "username": "PascalPraud",
+                    "id": "416221365"
+                },
+                {
+                    "start": 198,
+                    "end": 203,
+                    "username": "TPMP",
+                    "id": "832766641"
+                },
+                {
+                    "start": 204,
+                    "end": 208,
+                    "username": "LCI",
+                    "id": "26110930"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/E7kPcgqOyG",
+                    "expanded_url": "https://twitter.com/marieflcn/status/1534297517550075904",
+                    "display_url": "twitter.com/marieflcn/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1534246558102847491",
+        "text": "RT @Ligne__Droite: ⌚️Demain 7h10\n🗣️Nous recevrons @FranckLC, candidat @Reconquete_off  dans la 11ème circonscription de Paris, qui nous par…",
+        "created_at": "2022-06-07 18:50:59+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1534246558102847491,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Ligne__Droite",
+                    "id": "1457342380911349760"
+                },
+                {
+                    "start": 50,
+                    "end": 59,
+                    "username": "FranckLC",
+                    "id": "153108420"
+                },
+                {
+                    "start": 70,
+                    "end": 85,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1533973459906306054",
+        "text": "Je serai ce mardi à 11h sur @Gerardinfo1 pour parler de l'actualité, et bien évidemment des législatives !\nhttps://t.co/c4H5qcl7cg",
+        "created_at": "2022-06-07 00:45:47+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1533973459906306054,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 40,
+                    "username": "Gerardinfo1",
+                    "id": "248687610"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/c4H5qcl7cg",
+                    "expanded_url": "https://youtu.be/0J0YqdF4Qq4",
+                    "display_url": "youtu.be/0J0YqdF4Qq4"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1533494365318000642",
+        "text": "@RafaelNadal tu es ÉTERNEL ! D'aucuns t'ont enterré mais voilà tu t'es emparé des deux premiers GC de la saison, cet après-midi ton 14e @rolandgarros, 22e Grand Chelem !\nTu auras le droit au repos du plus grand des champions, ce jour-là, un seul mot sortira, MERCI !\n#Nadal https://t.co/kEmEO8TVc6",
+        "created_at": "2022-06-05 17:02:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1533494362646237185"
+            ]
+        },
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1510896182872084482",
+                    "name": "2022 French Open"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1510896182872084482",
+                    "name": "2022 French Open"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "809498405894373376",
+                    "name": "Rafael Nadal",
+                    "description": "Rafael Nadal"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "809498405894373376",
+                    "name": "Rafael Nadal",
+                    "description": "Rafael Nadal"
+                }
+            }
+        ],
+        "conversation_id": 1533494365318000642,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 267,
+                    "end": 273,
+                    "tag": "Nadal"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RafaelNadal",
+                    "id": "344634424"
+                },
+                {
+                    "start": 136,
+                    "end": 149,
+                    "username": "rolandgarros",
+                    "id": "42220353"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/kEmEO8TVc6",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1533494365318000642/photo/1",
+                    "display_url": "pic.twitter.com/kEmEO8TVc6",
+                    "media_key": "3_1533494362646237185"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 344634424,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1532777420188790784",
+        "text": "Retrouvez-moi dans le nouveau @Causeur. Je reviens sur mon engagement chez @Reconquete_off, aux côtés de @ZemmourEric, sur ma candidature aux législatives dans la #11ecircoParis, et sur le futur.\nMerci à @ELevyCauseur et #CyrilBennasar pour l'itw!\n#legislatives \n#Circo7511\n#Futur https://t.co/935Pr1lFMU",
+        "created_at": "2022-06-03 17:33:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1532777299543719938",
+                "3_1532777416799698946"
+            ]
+        },
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1532777420188790784,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 163,
+                    "end": 177,
+                    "tag": "11ecircoParis"
+                },
+                {
+                    "start": 221,
+                    "end": 235,
+                    "tag": "CyrilBennasar"
+                },
+                {
+                    "start": 248,
+                    "end": 261,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 263,
+                    "end": 273,
+                    "tag": "Circo7511"
+                },
+                {
+                    "start": 274,
+                    "end": 280,
+                    "tag": "Futur"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "username": "Causeur",
+                    "id": "19856081"
+                },
+                {
+                    "start": 75,
+                    "end": 90,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                },
+                {
+                    "start": 105,
+                    "end": 117,
+                    "username": "ZemmourEric",
+                    "id": "1183418538285027329"
+                },
+                {
+                    "start": 204,
+                    "end": 217,
+                    "username": "ELevyCauseur",
+                    "id": "2912784123"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/935Pr1lFMU",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1532777420188790784/photo/1",
+                    "display_url": "pic.twitter.com/935Pr1lFMU",
+                    "media_key": "3_1532777299543719938"
+                },
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/935Pr1lFMU",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1532777420188790784/photo/1",
+                    "display_url": "pic.twitter.com/935Pr1lFMU",
+                    "media_key": "3_1532777416799698946"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 108,
+            "reply_count": 3,
+            "like_count": 136,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1532541748760698880",
+        "text": "RT @ReconqueteParis: Et ce sont les mêmes qui viennent volontiers donner des leçons de tolérance et d'ouverture d'esprit... Jamais des mili…",
+        "created_at": "2022-06-03 01:56:40+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1532541748760698880,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "ReconqueteParis",
+                    "id": "1472560912770994185"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1532336152459591681",
+        "text": "@saccageparis14 @FranckBauny @ReconqueteParis @FranceInsoumise Vous n'êtes pour personne mais vous retweetez tout ce qui émane de Maud Gatel !",
+        "created_at": "2022-06-02 12:19:42+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1532014925626875907,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "saccageparis14",
+                    "id": "1473585876638871554"
+                },
+                {
+                    "start": 16,
+                    "end": 28,
+                    "username": "FranckBauny",
+                    "id": "1360867266175377408"
+                },
+                {
+                    "start": 29,
+                    "end": 45,
+                    "username": "ReconqueteParis",
+                    "id": "1472560912770994185"
+                },
+                {
+                    "start": 46,
+                    "end": 62,
+                    "username": "FranceInsoumise",
+                    "id": "4897361049"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1473585876638871554,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1532184054069608448",
+        "text": "RT @ReconqueteParis: Sous couvert du bien connu #saccageparis, vous faites ouvertement la campagne pour maud gatel de Renaissance et c'est…",
+        "created_at": "2022-06-02 02:15:19+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1532184054069608448,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 61,
+                    "tag": "saccageparis"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "ReconqueteParis",
+                    "id": "1472560912770994185"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 48,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1531798347354451968",
+        "text": "RT @WeAreTennisFR: MONUMENTAL NADAL !!! \n\nAlors qu'il ne partait pas favori, Rafa s'est transcendé dans son jardin de @rolandgarros pour re…",
+        "created_at": "2022-06-01 00:42:40+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1510896182872084482",
+                    "name": "2022 French Open"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1510896182872084482",
+                    "name": "2022 French Open"
+                }
+            }
+        ],
+        "conversation_id": 1531798347354451968,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "WeAreTennisFR",
+                    "id": "573803807"
+                },
+                {
+                    "start": 118,
+                    "end": 131,
+                    "username": "rolandgarros",
+                    "id": "42220353"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 549,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1530860072225624066",
+        "text": "C'est reparti, 5 ans de manip par @GDarmanin et toute l'équipe. Leur aveuglement, leur couardise nous abîment ! \nÀ l'assemblée je proposerai une loi sur l'immigration et la sécurité afin que notre pays retrouve son calme!\n#legislative2022 \n@AvecFranck \n@Reconquete_off \n#Circo7511 https://t.co/0nHS0nMDNe",
+        "created_at": "2022-05-29 10:34:17+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1530860072225624066,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 222,
+                    "end": 238,
+                    "tag": "legislative2022"
+                },
+                {
+                    "start": 270,
+                    "end": 280,
+                    "tag": "Circo7511"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 44,
+                    "username": "GDarmanin",
+                    "id": "209825928"
+                },
+                {
+                    "start": 240,
+                    "end": 251,
+                    "username": "AvecFranck",
+                    "id": "1495371886649298950"
+                },
+                {
+                    "start": 253,
+                    "end": 268,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/0nHS0nMDNe",
+                    "expanded_url": "https://twitter.com/GDarmanin/status/1530666495290011648",
+                    "display_url": "twitter.com/GDarmanin/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1529584738826067970",
+        "text": "RT @DavidAttia5: Annonce des candidats @ReconqueteParis !\n\n@isagilbert76\n@Cec_Fischer\n@GarenShn\n@Yann__Gautier\n@MeldenerVictor\n@CoDeletang…",
+        "created_at": "2022-05-25 22:06:34+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1529584738826067970,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "DavidAttia5",
+                    "id": "1223159853994201088"
+                },
+                {
+                    "start": 39,
+                    "end": 55,
+                    "username": "ReconqueteParis",
+                    "id": "1472560912770994185"
+                },
+                {
+                    "start": 59,
+                    "end": 72,
+                    "username": "isagilbert76",
+                    "id": "2966767666"
+                },
+                {
+                    "start": 73,
+                    "end": 85,
+                    "username": "Cec_Fischer",
+                    "id": "1466103841359904777"
+                },
+                {
+                    "start": 86,
+                    "end": 95,
+                    "username": "GarenShn",
+                    "id": "1640655372"
+                },
+                {
+                    "start": 96,
+                    "end": 110,
+                    "username": "Yann__Gautier",
+                    "id": "1469983823777648643"
+                },
+                {
+                    "start": 111,
+                    "end": 126,
+                    "username": "MeldenerVictor",
+                    "id": "1521441510914408448"
+                },
+                {
+                    "start": 127,
+                    "end": 138,
+                    "username": "CoDeletang",
+                    "id": "848720843400245248"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1529162650625744900",
+        "text": "RT @DavidAttia5: En réunion législative avec @G_Peltier pour @ReconqueteParis et @ZemmourEric !\n\n#Legislatives2022  \n#Paris1 \n#Paris2 \n#Par…",
+        "created_at": "2022-05-24 18:09:21+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1529162650625744900,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 114,
+                    "tag": "Legislatives2022"
+                },
+                {
+                    "start": 117,
+                    "end": 124,
+                    "tag": "Paris1"
+                },
+                {
+                    "start": 126,
+                    "end": 133,
+                    "tag": "Paris2"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "DavidAttia5",
+                    "id": "1223159853994201088"
+                },
+                {
+                    "start": 45,
+                    "end": 55,
+                    "username": "G_Peltier",
+                    "id": "239867102"
+                },
+                {
+                    "start": 61,
+                    "end": 77,
+                    "username": "ReconqueteParis",
+                    "id": "1472560912770994185"
+                },
+                {
+                    "start": 81,
+                    "end": 93,
+                    "username": "ZemmourEric",
+                    "id": "1183418538285027329"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1527742057963524097",
+        "text": "Électeurs de droite, patriotes, désespérés, vous avez une nouvelle preuve de la destruction annoncée de notre pays avec le gouvernement de #Macron #Borne ! À Paris la @Reconquete_off est possible avec tous vos candidats ! Pour moi ce sera sur la #11ecirco \n#legislatives2022 https://t.co/LjYiBpHwcS",
+        "created_at": "2022-05-20 20:04:25+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1527742039596613634"
+            ]
+        },
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1526493927968083969",
+                    "name": "Élisabeth Borne"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1526493927968083969",
+                    "name": "Élisabeth Borne"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1527742057963524097,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 139,
+                    "end": 146,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 147,
+                    "end": 153,
+                    "tag": "Borne"
+                },
+                {
+                    "start": 246,
+                    "end": 255,
+                    "tag": "11ecirco"
+                },
+                {
+                    "start": 257,
+                    "end": 274,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 167,
+                    "end": 182,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/LjYiBpHwcS",
+                    "expanded_url": "https://twitter.com/FranckLC/status/1527742057963524097/photo/1",
+                    "display_url": "pic.twitter.com/LjYiBpHwcS",
+                    "media_key": "3_1527742039596613634"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 100,
+            "reply_count": 1,
+            "like_count": 177,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1527737987454447616",
+        "text": "Ce gouvernement en plus de laisser la place au carriéristes LR et à la gauche, fait entrer dans nos écoles la déconstruction de notre pays, le wokisme, le racialisme !\nIl est temps de se lever! Aux législatives on vote @Reconquete_off !\n#papndiaye https://t.co/9kUhMcFsKP",
+        "created_at": "2022-05-20 19:48:14+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1527737987454447616,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 237,
+                    "end": 247,
+                    "tag": "papndiaye"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 219,
+                    "end": 234,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 248,
+                    "end": 271,
+                    "url": "https://t.co/9kUhMcFsKP",
+                    "expanded_url": "https://etudiant.lefigaro.fr/article/qui-est-pap-ndiaye-nomme-ministre-de-l-education-nationale_82406428-d844-11ec-af9c-9e41e8d13fc4/",
+                    "display_url": "etudiant.lefigaro.fr/article/qui-es…",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1527659887408427010/WJONKOVo?format=jpg&name=orig",
+                            "width": 805,
+                            "height": 453
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1527659887408427010/WJONKOVo?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Qui est Pap Ndiaye, nommé ministre de l’Éducation nationale?",
+                    "description": "L’historien spécialiste des minorités est le nouveau ministre de l’Éducation nationale. C’est la première fois qu’il fait son entrée au gouvernement.",
+                    "unwound_url": "https://etudiant.lefigaro.fr/article/qui-est-pap-ndiaye-nomme-ministre-de-l-education-nationale_82406428-d844-11ec-af9c-9e41e8d13fc4/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1527736056447131649",
+        "text": "RT @ZemmourEric: Olivier Véran, la machine à mentir d'Emmanuel Macron, est nommé responsable de la Vie Démocratique. Sa mission : confiner…",
+        "created_at": "2022-05-20 19:40:34+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1483773221681844225",
+                    "name": "Olivier Véran"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1483773221681844225",
+                    "name": "Olivier Véran"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1527736056447131649,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ZemmourEric",
+                    "id": "1183418538285027329"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2008,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1527720414373462016",
+        "text": "RT @ZemmourEric: Emmanuel Macron avait dit qu’il fallait déconstruire l’Histoire de France. Pap Ndiaye va s’en charger.\n\n#remaniement #nouv…",
+        "created_at": "2022-05-20 18:38:25+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1527720414373462016,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 133,
+                    "tag": "remaniement"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ZemmourEric",
+                    "id": "1183418538285027329"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6064,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1525145107476914177",
+        "text": "RT @philippeizraele: Je suis heureux de vous présenter la liste des candidats Reconquête pour Paris pour les élections législatives de juin…",
+        "created_at": "2022-05-13 16:05:04+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1525145107476914177,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "philippeizraele",
+                    "id": "1419995679838113812"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1525143699012845576",
+        "text": "RT @GenerationZIDF: SUITE (3) : \n\n#circo7510 : @AnneSophieDesir \n#circo7511 : @FranckLC \n#circo7512 : @BenoitDCL2022 \n#circo7513 : @Ornella…",
+        "created_at": "2022-05-13 15:59:28+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [],
+        "conversation_id": 1525143699012845576,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 34,
+                    "end": 44,
+                    "tag": "circo7510"
+                },
+                {
+                    "start": 65,
+                    "end": 75,
+                    "tag": "circo7511"
+                },
+                {
+                    "start": 89,
+                    "end": 99,
+                    "tag": "circo7512"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "circo7513"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "GenerationZIDF",
+                    "id": "1388103160120725504"
+                },
+                {
+                    "start": 47,
+                    "end": 63,
+                    "username": "AnneSophieDesir",
+                    "id": "485805144"
+                },
+                {
+                    "start": 78,
+                    "end": 87,
+                    "username": "FranckLC",
+                    "id": "153108420"
+                },
+                {
+                    "start": 102,
+                    "end": 116,
+                    "username": "BenoitDCL2022",
+                    "id": "1521545537119567873"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "1524791784051994624",
+        "text": "Les législatives commencent, je serai bien entendu présent quotidiennement sur la 11e circo Paris pour faire gagner nos valeurs et l'union de tous les patriotes !\n@Reconquete_off \nVous pouvez également m'aider pour financer cette campagne, c'est par ici :\nhttps://t.co/CcuiFfVvA7",
+        "created_at": "2022-05-12 16:41:05+00:00",
+        "attachments": null,
+        "author_id": 153108420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1524791784051994624,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 163,
+                    "end": 178,
+                    "username": "Reconquete_off",
+                    "id": "1466151854425923585"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/CcuiFfVvA7",
+                    "expanded_url": "https://www.avecfranck2022.fr/je-donne",
+                    "display_url": "avecfranck2022.fr/je-donne"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

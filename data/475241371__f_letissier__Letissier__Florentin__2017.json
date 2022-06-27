@@ -1,0 +1,158 @@
+[
+    {
+        "id": "873282235029434370",
+        "text": "Dernier message de campagne pour la #Circo7511. Dimanche faisons gagner l'écologie 🌱  https://t.co/7S8Xhlui6X https://t.co/6Wbggcjh54",
+        "created_at": "2017-06-09 20:54:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873282212661211136"
+            ]
+        },
+        "author_id": 475241371,
+        "context_annotations": [],
+        "conversation_id": 873282235029434370,
+        "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/7S8Xhlui6X",
+                    "expanded_url": "https://m.facebook.com/story.php?story_fbid=10154603241506551&id=705626550",
+                    "display_url": "m.facebook.com/story.php?stor…"
+                },
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/6Wbggcjh54",
+                    "expanded_url": "https://twitter.com/f_letissier/status/873282235029434370/photo/1",
+                    "display_url": "pic.twitter.com/6Wbggcjh54",
+                    "media_key": "3_873282212661211136"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 46,
+                    "tag": "Circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873235491243651075",
+        "text": "En exclusivité, les deux derniers tracts Verts de la #Circo7511 ! #OnaToutDonnéPourlÉcologie #FaireRespirerLaPolitique 🌱 🌱🌱 https://t.co/WK7lnHg5Oy",
+        "created_at": "2017-06-09 17:48:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873235464618168320"
+            ]
+        },
+        "author_id": 475241371,
+        "context_annotations": [],
+        "conversation_id": 873235491243651075,
+        "entities": {
+            "urls": [
+                {
+                    "start": 124,
+                    "end": 147,
+                    "url": "https://t.co/WK7lnHg5Oy",
+                    "expanded_url": "https://twitter.com/f_letissier/status/873235491243651075/photo/1",
+                    "display_url": "pic.twitter.com/WK7lnHg5Oy",
+                    "media_key": "3_873235464618168320"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 63,
+                    "tag": "Circo7511"
+                },
+                {
+                    "start": 66,
+                    "end": 92,
+                    "tag": "OnaToutDonnéPourlÉcologie"
+                },
+                {
+                    "start": 93,
+                    "end": 118,
+                    "tag": "FaireRespirerLaPolitique"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873220759870726144",
+        "text": "RT @AndrRebelo2: https://t.co/xoyvTLSyez\nVoir les vidéos de @f_letissier pour imaginer enfin une nouvelle manière de faire de la politique…",
+        "created_at": "2017-06-09 16:50:27+00:00",
+        "attachments": null,
+        "author_id": 475241371,
+        "context_annotations": [],
+        "conversation_id": 873220759870726144,
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/xoyvTLSyez",
+                    "expanded_url": "https://youtu.be/XTQFB5Ag4rE",
+                    "display_url": "youtu.be/XTQFB5Ag4rE",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=XTQFB5Ag4rE&feature=youtu.be"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "AndrRebelo2",
+                    "id": "814651572907102209"
+                },
+                {
+                    "start": 60,
+                    "end": 72,
+                    "username": "f_letissier",
+                    "id": "475241371"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

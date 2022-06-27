@@ -1,0 +1,368 @@
+[
+    {
+        "id": "873525019858620418",
+        "text": "@PhPejo @mtbsqn Félicitations!",
+        "created_at": "2017-06-10 12:59:28+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 869903163855384577,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "PhPejo",
+                    "id": "551891134"
+                },
+                {
+                    "start": 8,
+                    "end": 15,
+                    "username": "mtbsqn",
+                    "id": "521235158"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 551891134,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873524522217074691",
+        "text": "Merci à ma magnifique équipe de campagne !A dimanche! #circo7511",
+        "created_at": "2017-06-10 12:57:30+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873524522217074691,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 64,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 1,
+            "like_count": 19,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873450105638187008",
+        "text": "RT @FranckNouchi: \"François Bayrou à l'appareil\": comment le Garde des Sceaux a fait pression sur Radio France, par @michel_delean  https:/…",
+        "created_at": "2017-06-10 08:01:47+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 873450105638187008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "FranckNouchi",
+                    "id": "4172164353"
+                },
+                {
+                    "start": 116,
+                    "end": 130,
+                    "username": "michel_delean",
+                    "id": "359907212"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873448854628311040",
+        "text": "RT @nicoleodera: https://t.co/740AVASPLy",
+        "created_at": "2017-06-10 07:56:49+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873448854628311040,
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/740AVASPLy",
+                    "expanded_url": "http://www.lemonde.fr/politique/article/2009/12/07/francois-bayrou-et-marielle-de-sarnez-le-miroir-des-ambitions_1277116_823448.html",
+                    "display_url": "lemonde.fr/politique/arti…",
+                    "status": 200,
+                    "unwound_url": "https://www.lemonde.fr/politique/article/2009/12/07/francois-bayrou-et-marielle-de-sarnez-le-miroir-des-ambitions_1277116_823448.html"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "nicoleodera",
+                    "id": "560425542"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873329755889827841",
+        "text": "RT @lesRepublicains: .@GeorgesFENECH \"@bayrou en situation flagrante de conflit d'intérêt\" https://t.co/ptyuBc0P0p",
+        "created_at": "2017-06-10 00:03:34+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873329755889827841,
+        "entities": {
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/ptyuBc0P0p",
+                    "expanded_url": "https://www.republicains.fr/actualites_francois_bayrou_en_situation_flagrante_de_conflit_d_interet_20170609",
+                    "display_url": "republicains.fr/actualites_fra…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "lesRepublicains",
+                    "id": "95455794"
+                },
+                {
+                    "start": 22,
+                    "end": 36,
+                    "username": "GeorgesFENECH",
+                    "id": "388805808"
+                },
+                {
+                    "start": 38,
+                    "end": 45,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 235,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873207208544276480",
+        "text": "RT @opasselecq: Aux journées d'amitié Saint Sulpice avec @fszpiner candidat #LR #UDI  #circo7511 et @ariellebeaucamp Maire adj 6ème https:/…",
+        "created_at": "2017-06-09 15:56:36+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873207208544276480,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 79,
+                    "tag": "LR"
+                },
+                {
+                    "start": 80,
+                    "end": 84,
+                    "tag": "UDI"
+                },
+                {
+                    "start": 86,
+                    "end": 96,
+                    "tag": "circo7511"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "opasselecq",
+                    "id": "544342341"
+                },
+                {
+                    "start": 57,
+                    "end": 66,
+                    "username": "fszpiner",
+                    "id": "3348869505"
+                },
+                {
+                    "start": 100,
+                    "end": 116,
+                    "username": "ariellebeaucamp",
+                    "id": "2982635921"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873206785599037440",
+        "text": "RT @lesRepublicains: Affaires #Ferrand et #Modem : l'exécutif ne peut continuer à se réfugier dans une ambiguïté coupable https://t.co/i8iA…",
+        "created_at": "2017-06-09 15:54:55+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873206785599037440,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "Ferrand"
+                },
+                {
+                    "start": 42,
+                    "end": 48,
+                    "tag": "Modem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "lesRepublicains",
+                    "id": "95455794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 317,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873158985200828418",
+        "text": "RT @MarcLeplongeon: URGENT. Affaire des assistants parlementaires du #Modem : ouverture d'une enquête préliminaire @LePoint",
+        "created_at": "2017-06-09 12:44:59+00:00",
+        "attachments": null,
+        "author_id": 3348869505,
+        "context_annotations": [],
+        "conversation_id": 873158985200828418,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 75,
+                    "tag": "Modem"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "MarcLeplongeon",
+                    "id": "475855309"
+                },
+                {
+                    "start": 115,
+                    "end": 123,
+                    "username": "LePoint",
+                    "id": "8460572"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

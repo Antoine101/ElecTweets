@@ -1,0 +1,448 @@
+[
+    {
+        "id": "872916317338300416",
+        "text": "RT @GFillon: A l'Inspection 13C et au Rectorat de Paris: Non à la fermeture d'une classe à l'école maternell... https://t.co/ns0JbyWXsr via…",
+        "created_at": "2017-06-08 20:40:42+00:00",
+        "attachments": null,
+        "author_id": 247241547,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872916317338300416,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "GFillon",
+                    "id": "53101892"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/ns0JbyWXsr",
+                    "expanded_url": "https://www.change.org/p/a-l-inspection-13c-et-au-rectorat-de-paris-non-%C3%A0-la-fermeture-d-une-classe-%C3%A0-l-%C3%A9cole-maternelle-ricaut-paris-13?recruiter=47578679&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition",
+                    "display_url": "change.org/p/a-l-inspecti…",
+                    "status": 200,
+                    "unwound_url": "https://www.change.org/p/a-l-inspection-13c-et-au-rectorat-de-paris-non-%C3%A0-la-fermeture-d-une-classe-%C3%A0-l-%C3%A9cole-maternelle-ricaut-paris-13?recruiter=47578679&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "872916030259175427",
+        "text": "RT @GFillon: Laure Esquieu candidate LR-UDI sur la #Circo7509 de Paris. Merci 😂 https://t.co/LNIEXhoCZh",
+        "created_at": "2017-06-08 20:39:34+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872914838183444480"
+            ]
+        },
+        "author_id": 247241547,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872916030259175427,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 51,
+                    "end": 61,
+                    "tag": "Circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "GFillon",
+                    "id": "53101892"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/LNIEXhoCZh",
+                    "expanded_url": "https://twitter.com/GFillon/status/872914847813558272/photo/1",
+                    "display_url": "pic.twitter.com/LNIEXhoCZh",
+                    "media_key": "3_872914838183444480"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "868740289833439232",
+        "text": "Les 10 km pour elles, c'est parti ! Sous un soleil de plomb, bon courage à elles…#CourirCbonPourLaSanté https://t.co/72t8hIrEGH",
+        "created_at": "2017-05-28 08:06:40+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868740276264873984"
+            ]
+        },
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 868740289833439232,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 81,
+                    "end": 103,
+                    "tag": "CourirCbonPourLaSanté"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/72t8hIrEGH",
+                    "expanded_url": "https://twitter.com/nathalielav/status/868740289833439232/photo/1",
+                    "display_url": "pic.twitter.com/72t8hIrEGH",
+                    "media_key": "3_868740276264873984"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868177019074482177",
+        "text": "@Bookynette Les écolos défendent depuis longtemps le libre… Et c'est tant mieux !",
+        "created_at": "2017-05-26 18:48:25+00:00",
+        "attachments": null,
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 867842991754543104,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Bookynette",
+                    "id": "286216554"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 286216554,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868176125574488065",
+        "text": "@laville2017.fr_Confiture &amp; compote de rhubarbe bio et maison à déguster le 4 juin sur les quais#pique-nique https://t.co/TH5m1zDmDv",
+        "created_at": "2017-05-26 18:44:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868175534563500032"
+            ]
+        },
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 868176125574488065,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/TH5m1zDmDv",
+                    "expanded_url": "https://twitter.com/nathalielav/status/868176125574488065/photo/1",
+                    "display_url": "pic.twitter.com/TH5m1zDmDv",
+                    "media_key": "3_868175534563500032"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868114819332886532",
+        "text": "La charte éthique d'Anticor et les législatives https://t.co/sphyVNXUgG via @anticor_org",
+        "created_at": "2017-05-26 14:41:16+00:00",
+        "attachments": null,
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 868114819332886532,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 88,
+                    "username": "anticor_org",
+                    "id": "113462371"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/sphyVNXUgG",
+                    "expanded_url": "http://www.anticor.org/2017/05/12/la-charte-ethique-danticor-et-les-legislatives/",
+                    "display_url": "anticor.org/2017/05/12/la-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867686140853317633",
+        "text": "RT @GFillon: #circo7509 avec @nathalielav  On est là et depuis longtemps 😉 #unautreFillonestpossible https://t.co/vc0BoNw2yU",
+        "created_at": "2017-05-25 10:17:51+00:00",
+        "attachments": null,
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 867686140853317633,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 23,
+                    "tag": "circo7509"
+                },
+                {
+                    "start": 75,
+                    "end": 100,
+                    "tag": "unautreFillonestpossible"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "GFillon",
+                    "id": "53101892"
+                },
+                {
+                    "start": 29,
+                    "end": 41,
+                    "username": "nathalielav",
+                    "id": "247241547"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/vc0BoNw2yU",
+                    "expanded_url": "https://www.laville2017.fr/a-la-une",
+                    "display_url": "laville2017.fr/a-la-une"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "864406380958162944",
+        "text": "RT @GFillon: #legislatives2017 @nathalielav sur la #7509, apporte tout son soutien au Maire @jerome_coumet pour qu'il continue de soutenir…",
+        "created_at": "2017-05-16 09:05:15+00:00",
+        "attachments": null,
+        "author_id": 247241547,
+        "context_annotations": [],
+        "conversation_id": 864406380958162944,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 30,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "GFillon",
+                    "id": "53101892"
+                },
+                {
+                    "start": 31,
+                    "end": 43,
+                    "username": "nathalielav",
+                    "id": "247241547"
+                },
+                {
+                    "start": 92,
+                    "end": 106,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "863058486397153280",
+        "text": "@GFillon_C feutré l'Intérieur, mais ça n'empêche pas la prise de tête pour candidater hors de France. On y est arrivés ! #Chili_Vietnam https://t.co/V3pexQu4hI",
+        "created_at": "2017-05-12 15:49:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_863057871986208770"
+            ]
+        },
+        "author_id": 247241547,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 863058486397153280,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 135,
+                    "tag": "Chili_Vietnam"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/V3pexQu4hI",
+                    "expanded_url": "https://twitter.com/nathalielav/status/863058486397153280/photo/1",
+                    "display_url": "pic.twitter.com/V3pexQu4hI",
+                    "media_key": "3_863057871986208770"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

@@ -1,0 +1,677 @@
+[
+    {
+        "id": "873250391315673089",
+        "text": "RT @MOREAUNic: #circo9210 @Nouvelle_Donne\nParlons #logement : nouvelles constructions !\n#reprendrelamain\n\n#11juin VOTEZ #nouvelleDONNE http…",
+        "created_at": "2017-06-09 18:48:12+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 873250391315673089,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MOREAUNic",
+                    "id": "1311473833"
+                },
+                {
+                    "start": 26,
+                    "end": 41,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 25,
+                    "tag": "circo9210"
+                },
+                {
+                    "start": 50,
+                    "end": 59,
+                    "tag": "logement"
+                },
+                {
+                    "start": 88,
+                    "end": 104,
+                    "tag": "reprendrelamain"
+                },
+                {
+                    "start": 106,
+                    "end": 113,
+                    "tag": "11juin"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "tag": "nouvelleDONNE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "873250261485203457",
+        "text": "RT @MOREAUNic: #circo9210 @Nouvelle_Donne #1min\nNouveau #PartageDuTempsDeTravail\nNouvel #Equilibre\n#reprendrelamain\n\n#11juin VOTEZ #nouvell…",
+        "created_at": "2017-06-09 18:47:41+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 873250261485203457,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MOREAUNic",
+                    "id": "1311473833"
+                },
+                {
+                    "start": 26,
+                    "end": 41,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 25,
+                    "tag": "circo9210"
+                },
+                {
+                    "start": 42,
+                    "end": 47,
+                    "tag": "1min"
+                },
+                {
+                    "start": 56,
+                    "end": 80,
+                    "tag": "PartageDuTempsDeTravail"
+                },
+                {
+                    "start": 88,
+                    "end": 98,
+                    "tag": "Equilibre"
+                },
+                {
+                    "start": 99,
+                    "end": 115,
+                    "tag": "reprendrelamain"
+                },
+                {
+                    "start": 117,
+                    "end": 124,
+                    "tag": "11juin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "873249805354577921",
+        "text": "RT @Nouvelle_Donne: Clip de campagne officiel de #NouvelleDonne pour les législatives.\n#reprendrelamain #unemploipourchacun #unavenirpourto…",
+        "created_at": "2017-06-09 18:45:52+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 873249805354577921,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 63,
+                    "tag": "NouvelleDonne"
+                },
+                {
+                    "start": 87,
+                    "end": 103,
+                    "tag": "reprendrelamain"
+                },
+                {
+                    "start": 104,
+                    "end": 123,
+                    "tag": "unemploipourchacun"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872862065114918912",
+        "text": "RT @SofiaFlores_ND: Savez vous qu'on pourrait créer 150.000 emplois et faire baisser les loyers de 200€ par mois par foyer sans cout pour l…",
+        "created_at": "2017-06-08 17:05:07+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 872862065114918912,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SofiaFlores_ND",
+                    "id": "867695950793461760"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871423922495008768",
+        "text": "RT @Simsim03764914: Avec @anne_hessel @larrouturou #legislatives2017 #7516 face @jccambadelis @mounir débat public jeudi 8 juin 19heures 67…",
+        "created_at": "2017-06-04 17:50:28+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 871423922495008768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Simsim03764914",
+                    "id": "739883639626944513"
+                },
+                {
+                    "start": 25,
+                    "end": 37,
+                    "username": "anne_hessel",
+                    "id": "791934046183890944"
+                },
+                {
+                    "start": 38,
+                    "end": 50,
+                    "username": "larrouturou",
+                    "id": "18578222"
+                },
+                {
+                    "start": 80,
+                    "end": 93,
+                    "username": "jccambadelis",
+                    "id": "14658057"
+                },
+                {
+                    "start": 94,
+                    "end": 101,
+                    "username": "mounir",
+                    "id": "80528373"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 51,
+                    "end": 68,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869902488123658240",
+        "text": "RT @SofiaFlores_ND: #circo7705 Le président Macron pense que les Banques sont trop régulées https://t.co/mCMcpsAoPq Et vous ? https://t.co/…",
+        "created_at": "2017-05-31 13:04:49+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 869902488123658240,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SofiaFlores_ND",
+                    "id": "867695950793461760"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 30,
+                    "tag": "circo7705"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/mCMcpsAoPq",
+                    "expanded_url": "https://www.lesechos.fr/idees-debats/cercle/cercle-167328-monsieur-macron-et-le-moins-disant-reglementaire-en-matiere-bancaire-2071054.php",
+                    "display_url": "lesechos.fr/idees-debats/c…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869658475093262338",
+        "text": "RT @BenjBressolette: Réunion publique @Nouvelle_Donne autour du logement avec @larrouturou @anne_hessel et les candidats d'IDF ! #Reprendre…",
+        "created_at": "2017-05-30 20:55:12+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 869658475093262338,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 38,
+                    "end": 53,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                },
+                {
+                    "start": 78,
+                    "end": 90,
+                    "username": "larrouturou",
+                    "id": "18578222"
+                },
+                {
+                    "start": 91,
+                    "end": 103,
+                    "username": "anne_hessel",
+                    "id": "791934046183890944"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869658315994931201",
+        "text": "RT @SofiaFlores_ND: 1000 Milliards pour sauver le climat ! @nouvelledonne propose des solutions concrètes pour dessiner un avenir désirable…",
+        "created_at": "2017-05-30 20:54:34+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 869658315994931201,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SofiaFlores_ND",
+                    "id": "867695950793461760"
+                },
+                {
+                    "start": 59,
+                    "end": 73,
+                    "username": "nouvelledonne",
+                    "id": "37396971"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869658118501871617",
+        "text": "RT @MariaAlex_ND: Soirée conférence sur le programme @Nouvelle_Donne . @larrouturou explique comment créer 200 000 emplois et baisser les l…",
+        "created_at": "2017-05-30 20:53:47+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 869658118501871617,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "MariaAlex_ND",
+                    "id": "869614147197169664"
+                },
+                {
+                    "start": 53,
+                    "end": 68,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                },
+                {
+                    "start": 71,
+                    "end": 83,
+                    "username": "larrouturou",
+                    "id": "18578222"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868909212381962241",
+        "text": "RT @NDParis13: Législatives : Mardi 30 mai, réunion publique chez Trassoudaine, avec @JEzaoui , @anne_hessel et @larrouturou \nhttps://t.co/…",
+        "created_at": "2017-05-28 19:17:54+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 868909212381962241,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "NDParis13",
+                    "id": "2766854604"
+                },
+                {
+                    "start": 85,
+                    "end": 93,
+                    "username": "JEzaoui",
+                    "id": "2440362695"
+                },
+                {
+                    "start": 96,
+                    "end": 108,
+                    "username": "anne_hessel",
+                    "id": "791934046183890944"
+                },
+                {
+                    "start": 112,
+                    "end": 124,
+                    "username": "larrouturou",
+                    "id": "18578222"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868130962386890752",
+        "text": "@Bookynette J'ai signé et envoyé par mail le pacte.",
+        "created_at": "2017-05-26 15:45:25+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 867838870695534592,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Bookynette",
+                    "id": "286216554"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 286216554,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868065936749858816",
+        "text": "@Bookynette A Nouvelle Donne nous utilisons les logiciels libres et certains de nos membres travail dans ce domaine.",
+        "created_at": "2017-05-26 11:27:01+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 867838870695534592,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Bookynette",
+                    "id": "286216554"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 286216554,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "867715239202226176",
+        "text": "RT @SofiaFlores_ND: Avec @Nouvelle_Donne, nous proposons de partager le travail pour mieux vivre et créer des emplois, pas de faciliter les…",
+        "created_at": "2017-05-25 12:13:29+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 867715239202226176,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SofiaFlores_ND",
+                    "id": "867695950793461760"
+                },
+                {
+                    "start": 25,
+                    "end": 40,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867715139751092224",
+        "text": "RT @SofiaFlores_ND: Je suis candidate dans la #circo7705 pour porter le programme social, écologiste et citoyen de @Nouvelle_Donne",
+        "created_at": "2017-05-25 12:13:05+00:00",
+        "attachments": null,
+        "author_id": 2440362695,
+        "context_annotations": [],
+        "conversation_id": 867715139751092224,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SofiaFlores_ND",
+                    "id": "867695950793461760"
+                },
+                {
+                    "start": 115,
+                    "end": 130,
+                    "username": "Nouvelle_Donne",
+                    "id": "1678726447"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 56,
+                    "tag": "circo7705"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

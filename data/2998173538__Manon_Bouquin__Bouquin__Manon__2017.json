@@ -1,0 +1,2573 @@
+[
+    {
+        "id": "873652536066154496",
+        "text": "@KhagnibAlex @GeorgesDuroy85 @Nikos_Isnardy Souffrances infligées à soi-même et à ses proches, contribution à l'alimentation des trafic souterrains, coût de la sécurité sociale...",
+        "created_at": "2017-06-10 21:26:10+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873567716875042817,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "KhagnibAlex",
+                    "id": "910609421092495361"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 455288275,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873650360178659330",
+        "text": "RT @lopinion_fr: Et si Macron permettait surtout à une jeune génération d’apparatchiks PS d’accéder plus vite aux responsabilités ? https:/…",
+        "created_at": "2017-06-10 21:17:32+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597218340864",
+                    "name": "Video Games"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027048853",
+                    "name": "PlayStation"
+                }
+            }
+        ],
+        "conversation_id": 873650360178659330,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "lopinion_fr",
+                    "id": "1283588581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 320,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873640883547197440",
+        "text": "@Dan_Auguste @LisandroCuxi Misères de la période de réserve électorale: Dany réduit à commenter The Voice. Le jour le plus long...",
+        "created_at": "2017-06-10 20:39:52+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10028396103",
+                    "name": "The Voice : la plus belle voix",
+                    "description": "Découvrez les coulisses : le débrief du prime, les réactions à chaud, le bêtisier et des images exclusives des coachs, dans un late show à l'américaine. Nikos mènera les discussions avec les coachs dans une proximité et une franchise inédites."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029393804",
+                    "name": "The Voice"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049901826",
+                    "name": "The Voice : la plus belle voix"
+                }
+            }
+        ],
+        "conversation_id": 873632424571408390,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "dan_auguste",
+                    "id": "1321032822212251648"
+                },
+                {
+                    "start": 13,
+                    "end": 26,
+                    "username": "LisandroCuxi",
+                    "id": "3207443175"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1951626373,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "873614768107663360",
+        "text": "@Dan_Auguste Avoir @Dan_Auguste dans sa TL, ça veut dire voir défiler des photos de mojitos tous les soirs.",
+        "created_at": "2017-06-10 18:56:06+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850399423867650048",
+                    "name": "Cocktails",
+                    "description": "Cocktails"
+                }
+            }
+        ],
+        "conversation_id": 873612079302942722,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "dan_auguste",
+                    "id": "1321032822212251648"
+                },
+                {
+                    "start": 19,
+                    "end": 31,
+                    "username": "dan_auguste",
+                    "id": "1321032822212251648"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1951626373,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873563272410271744",
+        "text": "#NouvellePhotoDeProfil https://t.co/Ci0nXPhIO2",
+        "created_at": "2017-06-10 15:31:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873563263350575106"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873563272410271744,
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/Ci0nXPhIO2",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873563272410271744/photo/1",
+                    "display_url": "pic.twitter.com/Ci0nXPhIO2",
+                    "media_key": "3_873563263350575106"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 22,
+                    "tag": "NouvellePhotoDeProfil"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 10,
+            "like_count": 121,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873532734358122496",
+        "text": "RT @BFMTV: Paris: en une heure, des bénévoles ramassent 15.000 mégots près du Canal Saint-Martin https://t.co/PhJnjWVvLm https://t.co/0oPKp…",
+        "created_at": "2017-06-10 13:30:07+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 873532734358122496,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/PhJnjWVvLm",
+                    "expanded_url": "http://www.bfmtv.com/actualite/paris-en-une-heure-des-benevoles-ramassent-15-000-megots-pres-du-canal-saint-martin-1182545.html",
+                    "display_url": "bfmtv.com/actualite/pari…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873525552677875714",
+        "text": "RT @tvlofficiel: Des néoruraux \"bobo\" font condamner un éleveur à déplacer ses vaches car elles sentent mauvais et font du bruit..\n\nhttps:/…",
+        "created_at": "2017-06-10 13:01:35+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873525552677875714,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "tvlofficiel",
+                    "id": "2329034473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 244,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873491769576611841",
+        "text": "RT @LaManifPourTous: Né(e?) femme devenu(e?) homme, il sera mère, avec son apparence d'homme, pour le bien de son enfant\n\n#IdeologieQueer\nh…",
+        "created_at": "2017-06-10 10:47:21+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873491769576611841,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "LaManifPourTous",
+                    "id": "875696023"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 137,
+                    "tag": "IdeologieQueer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873290471824666624",
+        "text": "😄😄😄\n#DefendreLaFrance\n#Circo7502 https://t.co/0rUOH2N81Z",
+        "created_at": "2017-06-09 21:27:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873290465373769728"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873290471824666624,
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/0rUOH2N81Z",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873290471824666624/photo/1",
+                    "display_url": "pic.twitter.com/0rUOH2N81Z",
+                    "media_key": "3_873290465373769728"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 4,
+                    "end": 21,
+                    "tag": "DefendreLaFrance"
+                },
+                {
+                    "start": 22,
+                    "end": 32,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873263146995245056",
+        "text": "Derniers passages aux boîtes aux lettres avant le que le gong ne sonne! ...\n\n#Circo7502 https://t.co/6ZCAJUqKkO",
+        "created_at": "2017-06-09 19:38:53+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873263112719392768",
+                "3_873263132797526016"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873263146995245056,
+        "entities": {
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/6ZCAJUqKkO",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873263146995245056/photo/1",
+                    "display_url": "pic.twitter.com/6ZCAJUqKkO",
+                    "media_key": "3_873263112719392768"
+                },
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/6ZCAJUqKkO",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873263146995245056/photo/1",
+                    "display_url": "pic.twitter.com/6ZCAJUqKkO",
+                    "media_key": "3_873263132797526016"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 77,
+                    "end": 87,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 1,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873261734143938560",
+        "text": "@Au_Legrand @wdesaintjust Pareil 😏 https://t.co/yRpSEpkVSg",
+        "created_at": "2017-06-09 19:33:16+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873261723578486784"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872863295623094275,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Au_Legrand",
+                    "id": "2795465310"
+                },
+                {
+                    "start": 12,
+                    "end": 25,
+                    "username": "wdesaintjust",
+                    "id": "469248037"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/yRpSEpkVSg",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873261734143938560/photo/1",
+                    "display_url": "pic.twitter.com/yRpSEpkVSg",
+                    "media_key": "3_873261723578486784"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2795465310,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873248645151416320",
+        "text": "Avec l'adorable Laurent, DPS, militant au FN depuis 32 ans, venu apporter son aide. La jeunesse et l'expérience, combo toujours gagnant! 😉 https://t.co/hVWsO7bJlB",
+        "created_at": "2017-06-09 18:41:15+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873248622254727169"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873248645151416320,
+        "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/hVWsO7bJlB",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873248645151416320/photo/1",
+                    "display_url": "pic.twitter.com/hVWsO7bJlB",
+                    "media_key": "3_873248622254727169"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873245634110918656",
+        "text": "Dernière action militante de la campagne du 1er tour, rue Cler. Merci à tous ceux qui se sont mobilisés pour ma candidature!\n#Circo7502 https://t.co/lnPyzFFZ1x",
+        "created_at": "2017-06-09 18:29:17+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873245552531656704",
+                "3_873245579593351169",
+                "3_873245606529167360"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873245634110918656,
+        "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/lnPyzFFZ1x",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873245634110918656/photo/1",
+                    "display_url": "pic.twitter.com/lnPyzFFZ1x",
+                    "media_key": "3_873245552531656704"
+                },
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/lnPyzFFZ1x",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873245634110918656/photo/1",
+                    "display_url": "pic.twitter.com/lnPyzFFZ1x",
+                    "media_key": "3_873245579593351169"
+                },
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/lnPyzFFZ1x",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873245634110918656/photo/1",
+                    "display_url": "pic.twitter.com/lnPyzFFZ1x",
+                    "media_key": "3_873245606529167360"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 125,
+                    "end": 135,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 1,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873213726144507904",
+        "text": "Un peu de propreté svp, les équipes de @jp_lecoq 😒\n\n#Circo7502 https://t.co/QBSHWT1etB",
+        "created_at": "2017-06-09 16:22:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873212890811072517",
+                "3_873213614760632320",
+                "3_873213692497854466",
+                "3_873213708591394818"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873213726144507904,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 39,
+                    "end": 48,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/QBSHWT1etB",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873213726144507904/photo/1",
+                    "display_url": "pic.twitter.com/QBSHWT1etB",
+                    "media_key": "3_873212890811072517"
+                },
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/QBSHWT1etB",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873213726144507904/photo/1",
+                    "display_url": "pic.twitter.com/QBSHWT1etB",
+                    "media_key": "3_873213614760632320"
+                },
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/QBSHWT1etB",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873213726144507904/photo/1",
+                    "display_url": "pic.twitter.com/QBSHWT1etB",
+                    "media_key": "3_873213692497854466"
+                },
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/QBSHWT1etB",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873213726144507904/photo/1",
+                    "display_url": "pic.twitter.com/QBSHWT1etB",
+                    "media_key": "3_873213708591394818"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 62,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873189880205127680",
+        "text": "RT @Valeurs: L’Autriche interdit le voile dans les lieux publics &gt; &gt; https://t.co/8oOJpCZQXx https://t.co/67aaNHOwCl",
+        "created_at": "2017-06-09 14:47:45+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873188809185386496"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426533112008704",
+                    "name": "Austria",
+                    "description": "Austria"
+                }
+            }
+        ],
+        "conversation_id": 873189880205127680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Valeurs",
+                    "id": "112754792"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/8oOJpCZQXx",
+                    "expanded_url": "http://bit.ly/2rIPAtR",
+                    "display_url": "bit.ly/2rIPAtR"
+                },
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/67aaNHOwCl",
+                    "expanded_url": "https://twitter.com/Valeurs/status/873188863333863425/photo/1",
+                    "display_url": "pic.twitter.com/67aaNHOwCl",
+                    "media_key": "3_873188809185386496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 580,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873189133988110336",
+        "text": "RT @f_philippot: Ferrand, Sarnez, Bayrou, Goulard,...Il n'y a pas à dire le gouvernement Macron est exemplaire... 😉Dimanche votons !",
+        "created_at": "2017-06-09 14:44:47+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 873189133988110336,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "f_philippot",
+                    "id": "472412809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 350,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873188994888192000",
+        "text": "RT @MLP_officiel: Qu'une ancienne Ministre fasse campagne voilée en dit long sur l'affaissement moral de notre classe politique. MLP https:…",
+        "created_at": "2017-06-09 14:44:14+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 873188994888192000,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "MLP_officiel",
+                    "id": "217749896"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 945,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873155369106845701",
+        "text": "RT @LePoint: Élisabeth Guigou mène campagne voilée à la mosquée de Pantin https://t.co/qXLZ1jJ4he https://t.co/O4bT3Ax5v8",
+        "created_at": "2017-06-09 12:30:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873110155864358912"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873155369106845701,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LePoint",
+                    "id": "8460572"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/qXLZ1jJ4he",
+                    "expanded_url": "http://bit.ly/2sJR71j",
+                    "display_url": "bit.ly/2sJR71j"
+                },
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/O4bT3Ax5v8",
+                    "expanded_url": "https://twitter.com/LePoint/status/873110158456496128/photo/1",
+                    "display_url": "pic.twitter.com/O4bT3Ax5v8",
+                    "media_key": "3_873110155864358912"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 434,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873135462143143936",
+        "text": "Au marché Monge, ce matin. Ugo et Abou, mes deux vaillants 😍\n#Circo7502 https://t.co/IvwaVXYExO",
+        "created_at": "2017-06-09 11:11:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873135394656841728",
+                "3_873135421831729152",
+                "3_873135432183287808"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873135462143143936,
+        "entities": {
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/IvwaVXYExO",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873135462143143936/photo/1",
+                    "display_url": "pic.twitter.com/IvwaVXYExO",
+                    "media_key": "3_873135394656841728"
+                },
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/IvwaVXYExO",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873135462143143936/photo/1",
+                    "display_url": "pic.twitter.com/IvwaVXYExO",
+                    "media_key": "3_873135421831729152"
+                },
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/IvwaVXYExO",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873135462143143936/photo/1",
+                    "display_url": "pic.twitter.com/IvwaVXYExO",
+                    "media_key": "3_873135432183287808"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 71,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 1,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873083076942774272",
+        "text": "RT @FN_officiel: 🖋 « Nous ne préserverons pas notre sécurité en sacrifiant notre liberté ! » | Notre communiqué : https://t.co/WELF7GMJHb #…",
+        "created_at": "2017-06-09 07:43:21+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 873083076942774272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "FN_officiel",
+                    "id": "1002609596513562624"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/WELF7GMJHb",
+                    "expanded_url": "http://www.frontnational.com/2017/06/nous-ne-preserverons-pas-notre-securite-en-sacrifiant-notre-liberte/",
+                    "display_url": "frontnational.com/2017/06/nous-n…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 156,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "873080354059337730",
+        "text": "RT @MarianneleMag: Augmentation de la CSG : comment les retraites seront impactées https://t.co/zKmKOFaxav https://t.co/XtbKVETOsy",
+        "created_at": "2017-06-09 07:32:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873067666008756224"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 873080354059337730,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MarianneleMag",
+                    "id": "15823722"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/zKmKOFaxav",
+                    "expanded_url": "http://www.marianne.net/economie/augmentation-de-la-csg-de-macron-baisse-des-cotisations-salaries-retraites-qui-va-gagner-combien",
+                    "display_url": "marianne.net/economie/augme…"
+                },
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/XtbKVETOsy",
+                    "expanded_url": "https://twitter.com/MarianneleMag/status/873072672351105024/photo/1",
+                    "display_url": "pic.twitter.com/XtbKVETOsy",
+                    "media_key": "3_873067666008756224"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872957794395279360",
+        "text": "RT @_AgnesMarion: 🎬 Découvrez mon clip de campagne !\n\"Je veux mettre mon bon sens et ma conviction de Française qui partage votre quotidien…",
+        "created_at": "2017-06-08 23:25:31+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872957794395279360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "_AgnesMarion",
+                    "id": "1875944024"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 103,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872885993615097856",
+        "text": "Un tract pour les gouverner tous https://t.co/iw1Mv05byM",
+        "created_at": "2017-06-08 18:40:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872885958705905665"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872885993615097856,
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/iw1Mv05byM",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872885993615097856/photo/1",
+                    "display_url": "pic.twitter.com/iw1Mv05byM",
+                    "media_key": "3_872885958705905665"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 7,
+            "like_count": 97,
+            "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872862984355409921",
+        "text": "RT @avec_marine: Sylvie Goulard, Ministre de Armées, aurait employé fictivement des assistants parlementaires pour le compte du MoDem. http…",
+        "created_at": "2017-06-08 17:08:47+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872862984355409921,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "avec_marine",
+                    "id": "4884663951"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 333,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872862485509963777",
+        "text": "RT @Valeurs: Législatives : candidats épinglés, et pourtant toujours en Marche...  &gt;&gt; https://t.co/zO3g6hgx6W https://t.co/G6AenbOars",
+        "created_at": "2017-06-08 17:06:48+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872847842020401152"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872862485509963777,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Valeurs",
+                    "id": "112754792"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/zO3g6hgx6W",
+                    "expanded_url": "http://bit.ly/2sHu07s",
+                    "display_url": "bit.ly/2sHu07s"
+                },
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/G6AenbOars",
+                    "expanded_url": "https://twitter.com/Valeurs/status/872847852954951682/photo/1",
+                    "display_url": "pic.twitter.com/G6AenbOars",
+                    "media_key": "3_872847842020401152"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 126,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872861094121013254",
+        "text": "RT @f_philippot: Les illuminés de l'UE comme la ministre des Armées veulent tout casser. Jusqu'à notre industrie de Défense. Nous on choisi…",
+        "created_at": "2017-06-08 17:01:16+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872861094121013254,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "f_philippot",
+                    "id": "472412809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 150,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872860860057780225",
+        "text": "RT @JBollee: Il aura fallu moins de 3 semaines à Sylvie Goulard pour me donner raison. La France plus que jamais menacée ! Urgence de déput…",
+        "created_at": "2017-06-08 17:00:20+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 872860860057780225,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "JBollee",
+                    "id": "612451912"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872859559416791040",
+        "text": "@NicoMDoy @FranzInTheSky FN &gt; DLF &gt; vote blanc &gt; abstention &gt; FI &gt; PCF &gt; PS 😛",
+        "created_at": "2017-06-08 16:55:10+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872578491925106692,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 4560482355,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872854943996227584",
+        "text": "Les petits plaisirs militants.\n\n#circo7502 https://t.co/CRBTncAWmM",
+        "created_at": "2017-06-08 16:36:50+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872854924853469189"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872854943996227584,
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/CRBTncAWmM",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872854943996227584/photo/1",
+                    "display_url": "pic.twitter.com/CRBTncAWmM",
+                    "media_key": "3_872854924853469189"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 32,
+                    "end": 42,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 2,
+            "like_count": 26,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872765362382798848",
+        "text": "Rencontre avec les commerçants du marché Maubert. Beaucoup de manifestations de sympathie!\n#Circo7502 https://t.co/jMqZlT8aZ7",
+        "created_at": "2017-06-08 10:40:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872765323824562177",
+                "3_872765337657389056",
+                "3_872765345974681600",
+                "3_872765353767686144"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872765362382798848,
+        "entities": {
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/jMqZlT8aZ7",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872765362382798848/photo/1",
+                    "display_url": "pic.twitter.com/jMqZlT8aZ7",
+                    "media_key": "3_872765323824562177"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/jMqZlT8aZ7",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872765362382798848/photo/1",
+                    "display_url": "pic.twitter.com/jMqZlT8aZ7",
+                    "media_key": "3_872765337657389056"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/jMqZlT8aZ7",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872765362382798848/photo/1",
+                    "display_url": "pic.twitter.com/jMqZlT8aZ7",
+                    "media_key": "3_872765345974681600"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/jMqZlT8aZ7",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872765362382798848/photo/1",
+                    "display_url": "pic.twitter.com/jMqZlT8aZ7",
+                    "media_key": "3_872765353767686144"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 91,
+                    "end": 101,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 1,
+            "like_count": 26,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872631555180679172",
+        "text": "@FranzInTheSky Front national 😘",
+        "created_at": "2017-06-08 01:49:10+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872578491925106692,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 965072840,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872536980025995265",
+        "text": "#Circo7502 😘 https://t.co/rpF4vaXdJ4",
+        "created_at": "2017-06-07 19:33:21+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872536921335111680",
+                "3_872536933024616448",
+                "3_872536945087393795",
+                "3_872536958224003072"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872536980025995265,
+        "entities": {
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/rpF4vaXdJ4",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872536980025995265/photo/1",
+                    "display_url": "pic.twitter.com/rpF4vaXdJ4",
+                    "media_key": "3_872536921335111680"
+                },
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/rpF4vaXdJ4",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872536980025995265/photo/1",
+                    "display_url": "pic.twitter.com/rpF4vaXdJ4",
+                    "media_key": "3_872536933024616448"
+                },
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/rpF4vaXdJ4",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872536980025995265/photo/1",
+                    "display_url": "pic.twitter.com/rpF4vaXdJ4",
+                    "media_key": "3_872536945087393795"
+                },
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/rpF4vaXdJ4",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872536980025995265/photo/1",
+                    "display_url": "pic.twitter.com/rpF4vaXdJ4",
+                    "media_key": "3_872536958224003072"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 24,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872534164867862528",
+        "text": "@Qofficiel @michel_denisot Mr LeLys, candidat royaliste dans la 2ème circonscription de Paris 🙂\nC'est plutôt joli. https://t.co/XBNh0bfZze",
+        "created_at": "2017-06-07 19:22:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872534138087247874"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046026135",
+                    "name": "Quotidien",
+                    "description": "Un décryptage de l'actualité et du monde qui nous entoure : politique nationale et internationale, musique, cinéma, culture, médias, questions de société ou sport."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049750845",
+                    "name": "Quotidien"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872512284580601856,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "Qofficiel",
+                    "id": "743432061088899073"
+                },
+                {
+                    "start": 11,
+                    "end": 26,
+                    "username": "michel_denisot",
+                    "id": "437547229"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/XBNh0bfZze",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872534164867862528/photo/1",
+                    "display_url": "pic.twitter.com/XBNh0bfZze",
+                    "media_key": "3_872534138087247874"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 743432061088899073,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872512459134861321",
+        "text": "@AdrienJolly @ugo_flcn @Dan_Auguste Viens à Paris, on débattra libéralisme et Union européenne autour d'un verre 🍸",
+        "created_at": "2017-06-07 17:55:55+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872506018755903488,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "AdrienJolly",
+                    "id": "117349634"
+                },
+                {
+                    "start": 13,
+                    "end": 22,
+                    "username": "ugo_flcn",
+                    "id": "475998716"
+                },
+                {
+                    "start": 23,
+                    "end": 35,
+                    "username": "dan_auguste",
+                    "id": "1321032822212251648"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 117349634,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872499056194531331",
+        "text": "@_F_JR @FedeFNParis Je ne colle que sur des surfaces légales ou bien sur les affiches des autres adversaires. Ren de mal...",
+        "created_at": "2017-06-07 17:02:39+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872327851269386240,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "_f_jr",
+                    "id": "1305517603033690115"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 501150065,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872494539482726400",
+        "text": "RT @T_Leost: Collage cette nuit #Circo7510 #DéfendreLaFrance, merci @Manon_Bouquin https://t.co/WsB54fMfzG",
+        "created_at": "2017-06-07 16:44:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872358958043934720",
+                "3_872358958039805953",
+                "3_872358958039789569"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872494539482726400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "T_Leost",
+                    "id": "2274903058"
+                },
+                {
+                    "start": 68,
+                    "end": 82,
+                    "username": "Manon_Bouquin",
+                    "id": "2998173538"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/WsB54fMfzG",
+                    "expanded_url": "https://twitter.com/T_Leost/status/872358965933486080/photo/1",
+                    "display_url": "pic.twitter.com/WsB54fMfzG",
+                    "media_key": "3_872358958043934720"
+                },
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/WsB54fMfzG",
+                    "expanded_url": "https://twitter.com/T_Leost/status/872358965933486080/photo/1",
+                    "display_url": "pic.twitter.com/WsB54fMfzG",
+                    "media_key": "3_872358958039805953"
+                },
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/WsB54fMfzG",
+                    "expanded_url": "https://twitter.com/T_Leost/status/872358965933486080/photo/1",
+                    "display_url": "pic.twitter.com/WsB54fMfzG",
+                    "media_key": "3_872358958039789569"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 32,
+                    "end": 42,
+                    "tag": "Circo7510"
+                },
+                {
+                    "start": 43,
+                    "end": 60,
+                    "tag": "DéfendreLaFrance"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872354670773235713",
+        "text": "RT @SteeveBriois: Sondage Hénin-Beaumont : la baudruche Tondelier est 2 % 😂! Mieux vaut être soutenu par le peuple que par les journalistes…",
+        "created_at": "2017-06-07 07:28:55+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872354670773235713,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "SteeveBriois",
+                    "id": "498983436"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872327851269386240",
+        "text": "De retour au lever du jour après une nuit de collage 😪\n\n#circo7502 https://t.co/cjDbe8Wdhh",
+        "created_at": "2017-06-07 05:42:21+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872327766317944833",
+                "3_872327787234963456",
+                "3_872327812635668481",
+                "3_872327833900765185"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872327851269386240,
+        "entities": {
+            "urls": [
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/cjDbe8Wdhh",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872327851269386240/photo/1",
+                    "display_url": "pic.twitter.com/cjDbe8Wdhh",
+                    "media_key": "3_872327766317944833"
+                },
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/cjDbe8Wdhh",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872327851269386240/photo/1",
+                    "display_url": "pic.twitter.com/cjDbe8Wdhh",
+                    "media_key": "3_872327787234963456"
+                },
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/cjDbe8Wdhh",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872327851269386240/photo/1",
+                    "display_url": "pic.twitter.com/cjDbe8Wdhh",
+                    "media_key": "3_872327812635668481"
+                },
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/cjDbe8Wdhh",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872327851269386240/photo/1",
+                    "display_url": "pic.twitter.com/cjDbe8Wdhh",
+                    "media_key": "3_872327833900765185"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 66,
+                    "tag": "circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 5,
+            "like_count": 41,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872204887324475392",
+        "text": "RT @PaulLarrouturou: Macron veut une femme LR pour présider l'Assemblée et pense à NKM (si elle gagne...)ou la Le Mairiste Laure de La Raud…",
+        "created_at": "2017-06-06 21:33:44+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872204887324475392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PaulLarrouturou",
+                    "id": "49393889"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872168499694759938",
+        "text": "RT @leLab_E1: Comme un air d'opération \"il faut sauver le soldat NKM\"... https://t.co/PSNduopjZs https://t.co/XmiBqr0I6H",
+        "created_at": "2017-06-06 19:09:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872164086703894529",
+                "3_872164111622254592"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872168499694759938,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "leLab_E1",
+                    "id": "376812938"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/PSNduopjZs",
+                    "expanded_url": "http://lelab.europe1.fr/tres-silencieux-depuis-sa-defaite-francois-fillon-reitere-son-soutien-a-nkm-face-a-des-candidats-dissidents-3352919",
+                    "display_url": "lelab.europe1.fr/tres-silencieu…"
+                },
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/XmiBqr0I6H",
+                    "expanded_url": "https://twitter.com/leLab_E1/status/872165927563014144/photo/1",
+                    "display_url": "pic.twitter.com/XmiBqr0I6H",
+                    "media_key": "3_872164086703894529"
+                },
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/XmiBqr0I6H",
+                    "expanded_url": "https://twitter.com/leLab_E1/status/872165927563014144/photo/1",
+                    "display_url": "pic.twitter.com/XmiBqr0I6H",
+                    "media_key": "3_872164111622254592"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872163142138200064",
+        "text": "RT @LeParisien_77: Messy : l’arrivée de 120 caravanes au stade provoque le ras-le-bol des habitants https://t.co/cayU8Xfsib",
+        "created_at": "2017-06-06 18:47:51+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872163142138200064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "leparisien_77",
+                    "id": "551814498"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/cayU8Xfsib",
+                    "expanded_url": "http://l.leparisien.fr/iamN-NxeC",
+                    "display_url": "l.leparisien.fr/iamN-NxeC"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872159808983629824",
+        "text": "RT @smahrane: \"Le plus grand défi de santé publique\". L'addiction aux écrans, maladie grave chez les enfants https://t.co/E6PpFn2Iuw via @s…",
+        "created_at": "2017-06-06 18:34:37+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872159808983629824,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "smahrane",
+                    "id": "410813633"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/E6PpFn2Iuw",
+                    "expanded_url": "http://www.slate.fr/story/146586/addictions-ecrans-maladie-grave-enfant",
+                    "display_url": "slate.fr/story/146586/a…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872157701719117825",
+        "text": "RT @PompiersParis: #CétaitPasPrévu mais je suis pompiers de Paris 😀 https://t.co/gcNe3XJDr2",
+        "created_at": "2017-06-06 18:26:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "13_871982600537202688"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872157701719117825,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "PompiersParis",
+                    "id": "1342191438"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/gcNe3XJDr2",
+                    "expanded_url": "https://twitter.com/PompiersParis/status/871983121234898945/video/1",
+                    "display_url": "pic.twitter.com/gcNe3XJDr2",
+                    "media_key": "13_871982600537202688"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 34,
+                    "tag": "CétaitPasPrévu"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872153457112887302",
+        "text": "@laurentgamet @PaulineBetton75 Traiter d'ennemis de la République tous les gens avec qui tu n'es pas d'accord ne te fera pas davantage exister, tu sais...",
+        "created_at": "2017-06-06 18:09:22+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872148212878061569,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "laurentgamet",
+                    "id": "496212632"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 496212632,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872152175572652034",
+        "text": "RT @RLZ82: J'ai exposé mes solutions pour soutenir l'artisanat local devant la Capeb82. \n#circo8202 #TarnetGaronne #Legislatives2017 https:…",
+        "created_at": "2017-06-06 18:04:17+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872152175572652034,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "RLZ82",
+                    "id": "2291342491"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 99,
+                    "tag": "circo8202"
+                },
+                {
+                    "start": 100,
+                    "end": 114,
+                    "tag": "TarnetGaronne"
+                },
+                {
+                    "start": 115,
+                    "end": 132,
+                    "tag": "Legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872127301890306049",
+        "text": "RT @f_philippot: Attaque à Notre Dame : le professionnalisme des forces de l'ordre doit être salué. Courage et sang froid admirables.",
+        "created_at": "2017-06-06 16:25:26+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872127301890306049,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "f_philippot",
+                    "id": "472412809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 277,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872125513862705153",
+        "text": "RT @Jonathan_RTfr: La cathédrale #NotreDame sonne ses cloches après l'attaque https://t.co/eLeXuWcJhm",
+        "created_at": "2017-06-06 16:18:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_872115498514882561"
+            ]
+        },
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872125513862705153,
+        "entities": {
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/eLeXuWcJhm",
+                    "expanded_url": "https://twitter.com/Jonathan_RTfr/status/872115600113508352/video/1",
+                    "display_url": "pic.twitter.com/eLeXuWcJhm",
+                    "media_key": "7_872115498514882561"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 43,
+                    "tag": "NotreDame"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 62,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872122746477699072",
+        "text": "@EhrMick_ @AloisNavarro Bah juger qq à partir d'un extrait de son FB c'est totalitaire. J'ai un pote accusé de pétainisme alors qu'il a de Gaulle partout chez lui 😔",
+        "created_at": "2017-06-06 16:07:20+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            }
+        ],
+        "conversation_id": 872009628900577281,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 1696537898,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872120289173413888",
+        "text": "@EhrMick_ @AloisNavarro Tu paries combien que d'ici 5 ans, dire que l'immigration est nuisible à la société, ce sera considéré comme un dérapage? 😩",
+        "created_at": "2017-06-06 15:57:34+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872009628900577281,
+        "entities": null,
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 2998173538,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872120032809164800",
+        "text": "@EhrMick_ @AloisNavarro Ok je comprends. Mais ce qui me fait flipper, c'est que d'ici qq années, on ne puisse plus rien dire du tout avec ces méthodes totalitaires.",
+        "created_at": "2017-06-06 15:56:33+00:00",
+        "attachments": null,
+        "author_id": 2998173538,
+        "context_annotations": [],
+        "conversation_id": 872009628900577281,
+        "entities": null,
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 1696537898,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

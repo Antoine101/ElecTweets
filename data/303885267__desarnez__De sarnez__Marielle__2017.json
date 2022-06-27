@@ -1,0 +1,55 @@
+[
+    {
+        "id": "873163591775596544",
+        "text": "RT @francediplo: Marielle @desarnez s'est entretenu cet après-midi avec les représentants français @EUparliament https://t.co/2kriUsnI87 ht…",
+        "created_at": "2017-06-09 13:03:17+00:00",
+        "attachments": null,
+        "author_id": 303885267,
+        "context_annotations": [],
+        "conversation_id": 873163591775596544,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/2kriUsnI87",
+                    "expanded_url": "https://goo.gl/oZlJ6v",
+                    "display_url": "goo.gl/oZlJ6v"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "francediplo",
+                    "id": "29701712"
+                },
+                {
+                    "start": 26,
+                    "end": 35,
+                    "username": "desarnez",
+                    "id": "303885267"
+                },
+                {
+                    "start": 99,
+                    "end": 112,
+                    "username": "EUparliament",
+                    "id": "1299237188"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

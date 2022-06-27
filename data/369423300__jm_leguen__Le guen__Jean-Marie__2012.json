@@ -1,0 +1,103 @@
+[
+    {
+        "id": "210082837657948160",
+        "text": "Forte mobilisation pour le changement à l'école rouge de la place Jeanne d'Arc.  #circo7509",
+        "created_at": "2012-06-05 18:57:06+00:00",
+        "attachments": null,
+        "author_id": 369423300,
+        "context_annotations": [],
+        "conversation_id": 210082837657948160,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 81,
+                    "end": 91,
+                    "tag": "circo7509"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "208506097223483392",
+        "text": "Très bon accueil au marché Blanqui avec @jphuchon , Donnons une majorité au Président  #circo7509",
+        "created_at": "2012-06-01 10:31:42+00:00",
+        "attachments": null,
+        "author_id": 369423300,
+        "context_annotations": [],
+        "conversation_id": 208506097223483392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 40,
+                    "end": 49,
+                    "username": "jphuchon",
+                    "id": "19618747"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 97,
+                    "tag": "circo7509"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "204627485038612480",
+        "text": "#Mediator : je regrette que Servier fuie ses responsabilités et se cache derrière des vices de procédure pour ne pas affronter la justice.",
+        "created_at": "2012-05-21 17:39:28+00:00",
+        "attachments": null,
+        "author_id": 369423300,
+        "context_annotations": [],
+        "conversation_id": 204627485038612480,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "tag": "Mediator"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 4,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

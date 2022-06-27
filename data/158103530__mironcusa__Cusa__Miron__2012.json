@@ -1,0 +1,1534 @@
+[
+    {
+        "id": "211380687972990976",
+        "text": "Sylvie Bouche pour la cause animale : http://t.co/ljQzma0I via @UnionArdennais",
+        "created_at": "2012-06-09 08:54:17+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211380687972990976,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 78,
+                    "username": "UnionArdennais",
+                    "id": "46127230"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 38,
+                    "end": 58,
+                    "url": "http://t.co/ljQzma0I",
+                    "expanded_url": "http://www.lunion.presse.fr/article/legislatives-2012/legislatives-sylvie-bouche-pour-la-cause-animale#comment-353211",
+                    "display_url": "lunion.presse.fr/article/legisl…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211378182098653184",
+        "text": "@Berthault_Greg Les candidats, la chèvre et la Belette : http://t.co/BxLm0Huv",
+        "created_at": "2012-06-09 08:44:20+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211378182098653184,
+        "entities": {
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 77,
+                    "url": "http://t.co/BxLm0Huv",
+                    "expanded_url": "http://www.leparisien.fr/espace-premium/paris-75/les-candidats-la-chevre-et-la-belette-09-06-2012-2039084.php",
+                    "display_url": "leparisien.fr/espace-premium…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 594522627,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "211376475255996416",
+        "text": "Les candidats, la chèvre et la belette, article du jour sur Grégory de l'AEI et moi-même du MHAN : http://t.co/BxLm0Huv via @le_parisien_fr",
+        "created_at": "2012-06-09 08:37:33+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211376475255996416,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 124,
+                    "end": 139,
+                    "username": "le_Parisien_fr",
+                    "id": "807439081"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 119,
+                    "url": "http://t.co/BxLm0Huv",
+                    "expanded_url": "http://www.leparisien.fr/espace-premium/paris-75/les-candidats-la-chevre-et-la-belette-09-06-2012-2039084.php",
+                    "display_url": "leparisien.fr/espace-premium…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211372747375394816",
+        "text": "Alerte sur les boissons énergisantes : jusqu'où iront les industrielles?! http://t.co/fW72xwHB via @la_Parisienne_",
+        "created_at": "2012-06-09 08:22:44+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211372747375394816,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 114,
+                    "username": "La_Parisienne_",
+                    "id": "3253748379"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 94,
+                    "url": "http://t.co/fW72xwHB",
+                    "expanded_url": "http://bit.ly/Kg58eX",
+                    "display_url": "bit.ly/Kg58eX"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211371423720144896",
+        "text": "@VMornay bienvenue à toi viviane, c'est très sympa ici, convivial, il se passe pleins de choses dans les rue, comme la fête des thermopyles",
+        "created_at": "2012-06-09 08:17:29+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 184903265195012097,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "VMornay",
+                    "id": "538097340"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 538097340,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "211244171145650176",
+        "text": "Dernière vidéo de campagne : optimisme pour l'avenir de la planète et des enfants de la Terre http://t.co/cTUMjzPA",
+        "created_at": "2012-06-08 23:51:49+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211244171145650176,
+        "entities": {
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 114,
+                    "url": "http://t.co/cTUMjzPA",
+                    "expanded_url": "http://0z.fr/bFwnf",
+                    "display_url": "0z.fr/bFwnf"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "211235412285456387",
+        "text": "Jah Rastafarai- Rainbow Song. Jah you are I salvation! Shimshai with Assi Rose: http://t.co/YsovsJ1P via @youtube",
+        "created_at": "2012-06-08 23:17:01+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211235412285456387,
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "probability": 0.8622,
+                    "type": "Person",
+                    "normalized_text": "Jah Rastafarai"
+                },
+                {
+                    "start": 69,
+                    "end": 77,
+                    "probability": 0.7807,
+                    "type": "Person",
+                    "normalized_text": "Assi Rose"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 113,
+                    "username": "YouTube",
+                    "id": "10228272"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 100,
+                    "url": "http://t.co/YsovsJ1P",
+                    "expanded_url": "http://youtu.be/Q3kPvDwP7xY",
+                    "display_url": "youtu.be/Q3kPvDwP7xY"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211207149840367616",
+        "text": "notre circonscription sur http://t.co/Ae7RdGNq",
+        "created_at": "2012-06-08 21:24:43+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211207149840367616,
+        "entities": {
+            "urls": [
+                {
+                    "start": 26,
+                    "end": 46,
+                    "url": "http://t.co/Ae7RdGNq",
+                    "expanded_url": "http://info.francetelevisions.fr/video-info/index-fr.php?id-video=VANV_1687139_080620121411_F3",
+                    "display_url": "info.francetelevisions.fr/video-info/ind…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211182630778056705",
+        "text": "Dites à @PMOIndia et @BarackObama de boycotter le fournisseur d'armes n°1 de la #Syrie. Signez la pétition @Avaaz: http://t.co/hDKu73Xb",
+        "created_at": "2012-06-08 19:47:17+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211182630778056705,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 86,
+                    "tag": "Syrie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 8,
+                    "end": 17,
+                    "username": "PMOIndia",
+                    "id": "471741741"
+                },
+                {
+                    "start": 21,
+                    "end": 33,
+                    "username": "BarackObama",
+                    "id": "813286"
+                },
+                {
+                    "start": 107,
+                    "end": 113,
+                    "username": "Avaaz",
+                    "id": "2553151"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 135,
+                    "url": "http://t.co/hDKu73Xb",
+                    "expanded_url": "http://www.avaaz.org/fr/inde_et_etatsunis_/?wiLVGab",
+                    "display_url": "avaaz.org/fr/inde_et_eta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "211141725241085954",
+        "text": "RT @Berthault_Greg: Les animaleries dans le 1er arrondissement sont à fermer le plus vite possible ! Les animaux y vivent l'enfer... htt ...",
+        "created_at": "2012-06-08 17:04:44+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211141725241085954,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "211141683843301378",
+        "text": "bonne chance pour dimanche! les animaux ont des droits, vive les animaux! @Berthault_Greg",
+        "created_at": "2012-06-08 17:04:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211141683843301378,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "211141384047046656",
+        "text": "@Disizfr c'est la soirée maraude",
+        "created_at": "2012-06-08 17:03:23+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 211133345676001280,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 126656601,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210872506687561728",
+        "text": "Retour sur une semaine de campagne électorale http://0z.fr/cek1N",
+        "created_at": "2012-06-07 23:14:58+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 210872506687561728,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "210860515830923264",
+        "text": "RT @josebove: Paul Watson,  le Parlement européen applaudit en plénière contre son risque d'extradition au Costa Rica",
+        "created_at": "2012-06-07 22:27:19+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 210860515830923264,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "josebove",
+                    "id": "23339387"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210860171096891392",
+        "text": "Dernière réunion publique ce soir au café \"chez max\", ambiance chaleureuse et belle rencontre. Dernière affiches collés, demain dernier trac",
+        "created_at": "2012-06-07 22:25:57+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 210860171096891392,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210852287537614848",
+        "text": "viens d'acheter sa place pour le trabendo et surtout les arênes d'evry! ça va vibrer dans ce grand temple urbain local! @Disizfr",
+        "created_at": "2012-06-07 21:54:37+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 210852287537614848,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 120,
+                    "end": 128,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210851905910480897",
+        "text": "@Disizfr coooooool",
+        "created_at": "2012-06-07 21:53:06+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208594976223920129,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 126656601,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210511668449509376",
+        "text": "@jplecoq2012 l'UMP agit-il vraiment différement?!! j'en doute ...",
+        "created_at": "2012-06-06 23:21:07+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 209669258815344640,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 539156968,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "210507924559237121",
+        "text": "Le cacao bientôt en voie de disparition http://t.co/dQbhOzsI via @20minutes",
+        "created_at": "2012-06-06 23:06:14+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 210507924559237121,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 65,
+                    "end": 75,
+                    "username": "20Minutes",
+                    "id": "2649991"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 40,
+                    "end": 60,
+                    "url": "http://t.co/dQbhOzsI",
+                    "expanded_url": "http://20min.fr/a/947393",
+                    "display_url": "20min.fr/a/947393"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "209756449524555778",
+        "text": "Les positions des partis par rapport aux animaux: http://t.co/vgCVQHJK",
+        "created_at": "2012-06-04 21:20:09+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 209756449524555778,
+        "entities": {
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 70,
+                    "url": "http://t.co/vgCVQHJK",
+                    "expanded_url": "http://www.politique-animaux.fr/partis",
+                    "display_url": "politique-animaux.fr/partis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "209332812996808704",
+        "text": "clipcampagneMiron: http://t.co/SlcTwmHz via @youtube",
+        "created_at": "2012-06-03 17:16:46+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 209332812996808704,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 52,
+                    "username": "YouTube",
+                    "id": "10228272"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 39,
+                    "url": "http://t.co/SlcTwmHz",
+                    "expanded_url": "http://youtu.be/av38HzVqcpM",
+                    "display_url": "youtu.be/av38HzVqcpM"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "209318306748968961",
+        "text": "Alessandro Di Giuseppe candidat de l'Eglise de la très sainte consommation : http://t.co/IWi08Xd6 via @youtube",
+        "created_at": "2012-06-03 16:19:07+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 209318306748968961,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 102,
+                    "end": 110,
+                    "username": "YouTube",
+                    "id": "10228272"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 97,
+                    "url": "http://t.co/IWi08Xd6",
+                    "expanded_url": "http://youtu.be/HE3MDSTaK2o",
+                    "display_url": "youtu.be/HE3MDSTaK2o"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "208301023423508480",
+        "text": "RT @Denis_Baupin: La bonne nouvelle du jour : le chanteur Renaud, \"séparatiste du 14ème\", \"autonomiste de la Pte d'Orléans\" m'apporte so ...",
+        "created_at": "2012-05-31 20:56:48+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208301023423508480,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Denis_Baupin",
+                    "id": "17271007"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "208295580756230147",
+        "text": "Campagne officielle radio-télévisée du MHAN et du Trèfle pour les élections législatives du 10 juin http://t.co/E0IRspPV",
+        "created_at": "2012-05-31 20:35:11+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208295580756230147,
+        "entities": {
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 120,
+                    "url": "http://t.co/E0IRspPV",
+                    "expanded_url": "http://0z.fr/SX9t1",
+                    "display_url": "0z.fr/SX9t1"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "208294335563825152",
+        "text": "Liste des candidats MHAN / Le Trèfle dans toute la France http://t.co/k5DfnBtZ",
+        "created_at": "2012-05-31 20:30:14+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208294335563825152,
+        "entities": {
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 78,
+                    "url": "http://t.co/k5DfnBtZ",
+                    "expanded_url": "http://0z.fr/LCIOn",
+                    "display_url": "0z.fr/LCIOn"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "208288051808571392",
+        "text": "réception des affiches électoral du MHAN demain, besoin d'aide pour les coller demain soir / tracter dimanche matin au marché bio de raspail",
+        "created_at": "2012-05-31 20:05:16+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208288051808571392,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "208263786237403137",
+        "text": "Mon affiche électoral sur le site de l'express : les meilleures affiches des législatives - L'EXPRESS http://t.co/iJIxbBG2 via @Lexpress",
+        "created_at": "2012-05-31 18:28:50+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208263786237403137,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 136,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 122,
+                    "url": "http://t.co/iJIxbBG2",
+                    "expanded_url": "http://www.lexpress.fr/diaporama/diapo-photo/actualite/politique/aidez-nous-a-denicher-les-meilleures-affiches-des-legislatives_1120299.html?p=5",
+                    "display_url": "lexpress.fr/diaporama/diap…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "208255164388347904",
+        "text": "mon affiche électoral affiché sur LOLgislatives 2012: http://t.co/BUal8aa3 via @TommeBlur",
+        "created_at": "2012-05-31 17:54:35+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 208255164388347904,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 89,
+                    "username": "TommeBlur",
+                    "id": "476603101"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 54,
+                    "end": 74,
+                    "url": "http://t.co/BUal8aa3",
+                    "expanded_url": "http://lolgislatives2012.tumblr.com/post/24124236247/oh-la-jolie-suppleante-fab#.T8ewBKbqv2I.twitter",
+                    "display_url": "lolgislatives2012.tumblr.com/post/241242362…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "207218421966970880",
+        "text": "Communiqué de presse : déclaration de candidature aux élections législatives dans la 11e circonscription de Paris http://t.co/Os3WR6km",
+        "created_at": "2012-05-28 21:14:56+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 207218421966970880,
+        "entities": {
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 134,
+                    "url": "http://t.co/Os3WR6km",
+                    "expanded_url": "http://0z.fr/MVVvp",
+                    "display_url": "0z.fr/MVVvp"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "206648169336029184",
+        "text": "part tracter au marché bio de raspail, 6e arrondissement de paris #circo7511",
+        "created_at": "2012-05-27 07:28:57+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206648169336029184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 76,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206516761913344000",
+        "text": "@Denis_Baupin bouche à bouche ou bouche à oreille?! denis coquin",
+        "created_at": "2012-05-26 22:46:47+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206424978751619073,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "Denis_Baupin",
+                    "id": "17271007"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17271007,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206408187707011072",
+        "text": "Je signe “Santé naturelle - Pétition à faire circuler” sur @epanews_fr - http://t.co/ImOXR2DP",
+        "created_at": "2012-05-26 15:35:21+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206408187707011072,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 59,
+                    "end": 70,
+                    "username": "epanews_fr",
+                    "id": "100445429"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 93,
+                    "url": "http://t.co/ImOXR2DP",
+                    "expanded_url": "http://ning.it/KsAdZk",
+                    "display_url": "ning.it/KsAdZk"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "206277877216460800",
+        "text": "Institut pour la Protection de la Santé Naturelle : Le droit de se soigner autrement : http://t.co/9aOL716s",
+        "created_at": "2012-05-26 06:57:33+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206277877216460800,
+        "entities": {
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 107,
+                    "url": "http://t.co/9aOL716s",
+                    "expanded_url": "http://institut-protection-sante-naturelle.eu/rubrique/newsletter/",
+                    "display_url": "institut-protection-sante-naturelle.eu/rubrique/newsl…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206130303503314944",
+        "text": "Au delà des clichés médiatiques et de Brigitte Bardot, la compassion envers les animaux très présente dans l'Islam : http://t.co/ckH8f3Av",
+        "created_at": "2012-05-25 21:11:08+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206130303503314944,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 137,
+                    "url": "http://t.co/ckH8f3Av",
+                    "expanded_url": "http://www.droitsdesanimaux.net/images/back5.jpg",
+                    "display_url": "droitsdesanimaux.net/images/back5.j…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206112038542516224",
+        "text": "RT @DineAdine: Tout le monde veut sauver le monde mais personne ne veut sortir les poubelles...",
+        "created_at": "2012-05-25 19:58:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206112038542516224,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "DineAdine",
+                    "id": "318512720"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "206063739634593793",
+        "text": "Autolib' testé lors des journées d'essai : silencieuse, conduite agréable, dommage qu'elle fonctionne au nucléaire au lieu d'enercoop!",
+        "created_at": "2012-05-25 16:46:38+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 206063739634593793,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "205425945149059072",
+        "text": "Renaud - Societé tu m'auras pas: http://t.co/nKY1WzPZ via @youtube",
+        "created_at": "2012-05-23 22:32:16+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 205425945149059072,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 58,
+                    "end": 66,
+                    "username": "YouTube",
+                    "id": "10228272"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 53,
+                    "url": "http://t.co/nKY1WzPZ",
+                    "expanded_url": "http://youtu.be/fxOGpwnWcEQ",
+                    "display_url": "youtu.be/fxOGpwnWcEQ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "205106532176769027",
+        "text": "Paris - 11e circonscription - Candidats: http://t.co/bBfJZltb",
+        "created_at": "2012-05-23 01:23:02+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 205106532176769027,
+        "entities": {
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 61,
+                    "url": "http://t.co/bBfJZltb",
+                    "expanded_url": "http://bit.ly/JvIPS8",
+                    "display_url": "bit.ly/JvIPS8"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "205067218147479552",
+        "text": "En train de lire : http://t.co/eGSdmI0x",
+        "created_at": "2012-05-22 22:46:49+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 205067218147479552,
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 39,
+                    "url": "http://t.co/eGSdmI0x",
+                    "expanded_url": "http://www.politique-animaux.fr/",
+                    "display_url": "politique-animaux.fr"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "204636017934864385",
+        "text": "Un ptit clic pour aider les animaux! http://t.co/Qec4s04M",
+        "created_at": "2012-05-21 18:13:23+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 204636017934864385,
+        "entities": {
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 57,
+                    "url": "http://t.co/Qec4s04M",
+                    "expanded_url": "http://www.clicanimaux.com",
+                    "display_url": "clicanimaux.com"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "204243677994942465",
+        "text": "Pétition sur \"Halte à la prostitution des orangs-outans en Asie!!!\" : Site de pétitions en ligne: http://t.co/WY6gPoxE",
+        "created_at": "2012-05-20 16:14:22+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 204243677994942465,
+        "entities": {
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 118,
+                    "url": "http://t.co/WY6gPoxE",
+                    "expanded_url": "http://www.mesopinions.com/Halte-a-la-prostitution-des-orangs-outans-en-Asie----petition-petitions-55ca6c59a8adcdf4238850f47f0c8643.html#.T7kYSIfQ25k.twitter",
+                    "display_url": "mesopinions.com/Halte-a-la-pro…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "203975493463187459",
+        "text": "« On peut juger de la grandeur d'une nation par la façon dont les animaux y sont traités» Gandhi",
+        "created_at": "2012-05-19 22:28:41+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 203975493463187459,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "203925253792071680",
+        "text": "Tranche d'impôts à 75%: Yannick Noah sera «content de payer» - Yahoo! Actualités France http://t.co/hBZJ1iQS via @YahooActuFR",
+        "created_at": "2012-05-19 19:09:03+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 203925253792071680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 113,
+                    "end": 125,
+                    "username": "YahooActuFR",
+                    "id": "52328349"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 108,
+                    "url": "http://t.co/hBZJ1iQS",
+                    "expanded_url": "http://fr.news.yahoo.com/tranche-dimp%C3%B4ts-%C3%A0-75-yannick-noah-sera-content-181441533.html",
+                    "display_url": "fr.news.yahoo.com/tranche-dimp%C…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "203264388860354561",
+        "text": "candidature pour les législatives déposée en préfecture de paris!",
+        "created_at": "2012-05-17 23:23:01+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 203264388860354561,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "200688993145327617",
+        "text": "Fichier géant : le cadeau de départ de Claude Guéant http://t.co/0alkLqjl via @LePoint",
+        "created_at": "2012-05-10 20:49:19+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 200688993145327617,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 86,
+                    "username": "LePoint",
+                    "id": "8460572"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 73,
+                    "url": "http://t.co/0alkLqjl",
+                    "expanded_url": "http://www.lepoint.fr/tiny/1-1460063",
+                    "display_url": "lepoint.fr/tiny/1-1460063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    }
+]
