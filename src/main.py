@@ -10,6 +10,7 @@ psycopg2.extensions.register_adapter(np.int64, psycopg2._psycopg.AsIs)
 
 # Create a connection to the database
 conn = psycopg2.connect(dbname="twitter_elections", user="admin", host="database", password="password")
+#conn = psycopg2.connect(dbname="ElecTweets", user="postgres", host="localhost")
 
 # Create a cursor to perform database operations
 cur = conn.cursor()
@@ -18,7 +19,7 @@ cur = conn.cursor()
 cur.execute("""
     DROP SCHEMA public CASCADE;
     CREATE SCHEMA public;
-    GRANT ALL ON SCHEMA public TO admin;
+    GRANT ALL ON SCHEMA public TO postgres;
     GRANT ALL ON SCHEMA public TO public;
 """)
 
