@@ -11,8 +11,8 @@ host="database"
 password="password"
 
 # Create a connection to the database
-#conn = psycopg2.connect(dbname=dbname, user=user, host=host, password=password)
-conn = psycopg2.connect(dbname="twitter_elections", user="admin", host="database", password="password")
+conn = psycopg2.connect(dbname=dbname, user=user, host=host, password=password)
+#conn = psycopg2.connect(dbname="ElecTweets", user="postgres", host="localhost")
 
 candidates_df = pd.read_sql_query(
 """SELECT 
