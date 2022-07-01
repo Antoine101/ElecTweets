@@ -1,0 +1,1739 @@
+C:\Users\debat\OneDrive\Bureau\Formations\01_UTT\Cours\28_Babiga\Projet\Github_projet\tweetExtractor\venv\Scripts\python.exe C:/Users/debat/OneDrive/Bureau/Formations/01_UTT/Cours/28_Babiga/Projet/Github_projet/tweetExtractor/tweetExtractor_UTT.py
+
+=== CUSTOM TWEET EXTRACTOR - SPOT DEBAT V1.1 ===
+
+Total number of necessary loops :  31
+
+Synthèse fichier 'candidats.csv' : 
+	 -> Nombre de députés : 175
+		 ... dont 90 avec un ID Twitter
+
+
+======  1 . Traitement de Marie-Josee Boulaire  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  1
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1130169982917185537__boulairejosee__Boulaire__Marie-Josee__2022.json
+
+
+======  2 . Traitement de François-Marie Didier  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  2
+		Nombre de nouveaux tweets récupérés :  90
+
+	    🐤 Sauvegarde du fichier : 1207401907129659397__fmdidier__Didier__François-Marie__2022.json
+
+
+======  3 . Traitement de Lamia El Aaraje  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  9
+		Nombre de nouveaux tweets récupérés :  641
+
+	    🐤 Sauvegarde du fichier : 943672818__lamiaela__El Aaraje__Lamia__2022.json
+
+
+======  4 . Traitement de Mohamad-Lamine Gassama  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  14
+		Nombre de nouveaux tweets récupérés :  497
+
+	    🐤 Sauvegarde du fichier : 376865423__MohamadParis20__Gassama__Mohamad-Lamine__2022.json
+
+
+======  5 . Traitement de Philippe Houplain  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		next token : 7140dibdnow9c7btw421t6q5eczbf34bkj15elc1n8ke1
+		API : 20
+		len : 98
+
+		next token : 7140dibdnow9c7btw421ebr8ikt6q2gstz7nyrzdh5yyh
+		API : 30
+		len : 100
+
+		Nombre total de requêtes API :  35
+		Nombre de nouveaux tweets récupérés :  2051
+
+	    🐤 Sauvegarde du fichier : 3255832605__HouplainPh__Houplain__Philippe__2022.json
+
+
+======  6 . Traitement de Danielle Simonnet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		next token : 7140dibdnow9c7btw421e7i3awpebn7vwntmwslay4col
+		API : 40
+		len : 100
+
+		Nombre total de requêtes API :  43
+		Nombre de nouveaux tweets récupérés :  734
+
+	    🐤 Sauvegarde du fichier : 329686497__Simonnet2__Simonnet__Danielle__2022.json
+
+
+======  7 . Traitement de Apolline Tyburczy  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  49
+		Nombre de nouveaux tweets récupérés :  501
+
+	    🐤 Sauvegarde du fichier : 1489995966132412422__ApollineTyburzy__Tyburczy__Apolline__2022.json
+
+
+======  8 . Traitement de Christophe Versini  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  50
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1009368668579516416__Ch_Versini__Versini__Christophe__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  9 . Traitement de Hélène Testud  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  52
+		Nombre de nouveaux tweets récupérés :  119
+
+	    🐤 Sauvegarde du fichier : 29447272__helenetestud__Testud__Hélène__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  10 . Traitement de Adil Touaimia-Kabbouch  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  54
+		Nombre de nouveaux tweets récupérés :  153
+
+	    🐤 Sauvegarde du fichier : 3417457690__adil_de_paris__Touaimia-Kabbouch__Adil__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  11 . Traitement de Florence Castillon  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  55
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1326458542266736642____Castillon__Florence__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  12 . Traitement de Hicham Fassi Fihri  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  56
+		Nombre de nouveaux tweets récupérés :  80
+
+	    🐤 Sauvegarde du fichier : 68457158__hichamfassifihr__Fassi Fihri__Hicham__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  13 . Traitement de Mehdi Kemoune  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  59
+		Nombre de nouveaux tweets récupérés :  252
+
+	    🐤 Sauvegarde du fichier : 377865606__kemounemehdi__Kemoune__Mehdi__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  14 . Traitement de Olivier Cohen  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  60
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 58584212__olivier_cohen__Cohen__Olivier__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  15 . Traitement de Atanase Périfan  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  61
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 2188765218__AtanasePerifan__Périfan__Atanase__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  16 . Traitement de Antoinette Guhl  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  62
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 493483010__antoinetteguhl__Guhl__Antoinette__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  17 . Traitement de George Pau-Langevin  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  64
+		Nombre de nouveaux tweets récupérés :  140
+
+	    🐤 Sauvegarde du fichier : 81063019__pau_langevin__Pau-Langevin__George__2012.json
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  67
+		Nombre de nouveaux tweets récupérés :  229
+
+	    🐤 Sauvegarde du fichier : 81063019__pau_langevin__Pau-Langevin__George__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  18 . Traitement de Philippe Aragon  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  69
+		Nombre de nouveaux tweets récupérés :  134
+
+	    🐤 Sauvegarde du fichier : 1728425251__aragon_paris20__Aragon__Philippe__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  19 . Traitement de Dalila Lasfar  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  70
+		Nombre de nouveaux tweets récupérés :  31
+
+	    🐤 Sauvegarde du fichier : 869912215691960320__DalilaLasfar__Lasfar__Dalila__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  20 . Traitement de Jacques Baudrier  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  71
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 3362289555__jacquesbaudrier__Baudrier__Jacques__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  21 . Traitement de Ariane Dreyfus  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  72
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1054417619338620929__EmmDreyfus__Dreyfus__Ariane__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  22 . Traitement de Arlette Zilberg  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  73
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 475208227__arlette_zilberg__Zilberg__Arlette__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  23 . Traitement de Sonia Ouertani  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  75
+		Nombre de nouveaux tweets récupérés :  103
+
+	    🐤 Sauvegarde du fichier : 73968763__soniaoue__Ouertani__Sonia__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  24 . Traitement de Elisabeth Jaskulke  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  76
+		Nombre de nouveaux tweets récupérés :  1
+
+	    🐤 Sauvegarde du fichier : 392528127__btoplanet__Jaskulke__Elisabeth__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  25 . Traitement de Nathalie Fanfant  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  77
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 85285173__nathfanfant__Fanfant__Nathalie__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  26 . Traitement de Didier Le Reste  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  78
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 780405831930089472__didierlereste__Le Reste__Didier__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  27 . Traitement de Pierre Mounier  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  79
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 14233770__piotrr70__Mounier__Pierre__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  28 . Traitement de Claude Trannet  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  80
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 223038322__TRANNET__Trannet__Claude__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  29 . Traitement de Quitterie de Villepin  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  86
+		Nombre de nouveaux tweets récupérés :  554
+
+	    🐤 Sauvegarde du fichier : 49627758__Quitt3rie__de Villepin__Quitterie__2022.json
+
+
+======  30 . Traitement de Karine Dreyfuss  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  87
+		Nombre de nouveaux tweets récupérés :  28
+
+	    🐤 Sauvegarde du fichier : 1203299532655779841__DreyfussLevy__Dreyfuss__Karine__2022.json
+
+
+======  31 . Traitement de Jean-Pierre Lecoq  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  88
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 539156968__jp_lecoq__Lecoq__Jean-Pierre__2012.json
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  89
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 539156968__jp_lecoq__Lecoq__Jean-Pierre__2017.json
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  92
+		Nombre de nouveaux tweets récupérés :  206
+
+	    🐤 Sauvegarde du fichier : 539156968__jp_lecoq__Lecoq__Jean-Pierre__2022.json
+
+
+======  32 . Traitement de Marine Rosset  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  93
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 425231735__MarineRosset__Rosset__Marine__2017.json
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  96
+		Nombre de nouveaux tweets récupérés :  277
+
+	    🐤 Sauvegarde du fichier : 425231735__MarineRosset__Rosset__Marine__2022.json
+
+
+======  33 . Traitement de André Rougé  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  99
+		Nombre de nouveaux tweets récupérés :  223
+
+	    🐤 Sauvegarde du fichier : 1156135942660460544__andrerougeoff__Rougé__André__2022.json
+
+
+======  34 . Traitement de Béatrice Cossart  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  109
+		Nombre de nouveaux tweets récupérés :  930
+
+	    🐤 Sauvegarde du fichier : 2933680894__theresemiket__Cossart__Béatrice__2022.json
+
+
+======  35 . Traitement de Sandrine Rousseau  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  114
+		Nombre de nouveaux tweets récupérés :  451
+
+	    🐤 Sauvegarde du fichier : 371381075__sandrousseau__Rousseau__Sandrine__2022.json
+
+
+======  36 . Traitement de Buon Tan  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  115
+		Nombre de nouveaux tweets récupérés :  89
+
+	    🐤 Sauvegarde du fichier : 2495899075__BuonTAN__Tan__Buon__2017.json
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  116
+		Nombre de nouveaux tweets récupérés :  81
+
+	    🐤 Sauvegarde du fichier : 2495899075__BuonTAN__Tan__Buon__2022.json
+
+
+======  37 . Traitement de Marie-Claire Carrère-Gée  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  117
+		Nombre de nouveaux tweets récupérés :  67
+
+	    🐤 Sauvegarde du fichier : 15719595__mccg__Carrère-Gée__Marie-Claire__2022.json
+
+
+======  38 . Traitement de Maud Gatel  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  119
+		Nombre de nouveaux tweets récupérés :  181
+
+	    🐤 Sauvegarde du fichier : 17747931__maudgatel__Gatel__Maud__2022.json
+
+
+======  39 . Traitement de Franck Layré-Cassou  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  120
+		Nombre de nouveaux tweets récupérés :  70
+
+	    🐤 Sauvegarde du fichier : 153108420__FranckLC__Layré-Cassou__Franck__2022.json
+
+
+======  40 . Traitement de Nolwenn Le Gac  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  121
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 28308363__mllepikpik__Le Gac__Nolwenn__2022.json
+
+
+======  41 . Traitement de Olivia Polski  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Pas candidat en  2017
+
+	 -> Candidat en  2022  !
+		Start time :  2022-04-11T00:00:00Z  - End time :  2022-06-11T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  126
+		Nombre de nouveaux tweets récupérés :  418
+
+	    🐤 Sauvegarde du fichier : 392792965__OliviaPolski__Polski__Olivia__2022.json
+
+
+======  42 . Traitement de Henri Guaino  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  127
+		Nombre de nouveaux tweets récupérés :  73
+
+	    🐤 Sauvegarde du fichier : 742985276495122432__Guaino_Henri__Guaino__Henri__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  43 . Traitement de Nathalie Kosciusko-morizet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		next token : zldjwdz3w6sba13nnsdl3jo5q4lx6tfifwzdaevkw1c
+		API : 130
+		len : 79
+
+		Nombre total de requêtes API :  130
+		Nombre de nouveaux tweets récupérés :  279
+
+	    🐤 Sauvegarde du fichier : 20702279__nk_m__Kosciusko-morizet__Nathalie__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  44 . Traitement de Gilles Seignan  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  133
+		Nombre de nouveaux tweets récupérés :  203
+
+	    🐤 Sauvegarde du fichier : 912146623__gillesseignan__Seignan__Gilles__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  45 . Traitement de Manon Bouquin  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  134
+		Nombre de nouveaux tweets récupérés :  40
+
+	    🐤 Sauvegarde du fichier : 2998173538__Manon_Bouquin__Bouquin__Manon__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  46 . Traitement de Fabien Lassalle-humez  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  135
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 553016169__FabienLassalle__Lassalle-humez__Fabien__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  47 . Traitement de Laurent Gamet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  137
+		Nombre de nouveaux tweets récupérés :  166
+
+	    🐤 Sauvegarde du fichier : 496212632__laurentgamet__Gamet__Laurent__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  48 . Traitement de Edmond Coulot  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  138
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 3295535303__edmondcoulot__Coulot__Edmond__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  49 . Traitement de Nicolas Rousseaux  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  139
+		Nombre de nouveaux tweets récupérés :  1
+
+	    🐤 Sauvegarde du fichier : 40967152__nicomilan__Rousseaux__Nicolas__2012.json
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  140
+		Nombre de nouveaux tweets récupérés :  5
+
+	    🐤 Sauvegarde du fichier : 40967152__nicomilan__Rousseaux__Nicolas__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  50 . Traitement de Lorraine Questiaux  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  141
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1113034581765128193__QuestiauxLorra1__Questiaux__Lorraine__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  51 . Traitement de Fanny Benard  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  143
+		Nombre de nouveaux tweets récupérés :  144
+
+	    🐤 Sauvegarde du fichier : 455605167__FannyBnrd__Benard__Fanny__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  52 . Traitement de Benoit Chazerand  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  144
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1198653171834462209__ChazerandB__Chazerand__Benoit__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  53 . Traitement de Joel Ezaoui  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  145
+		Nombre de nouveaux tweets récupérés :  17
+
+	    🐤 Sauvegarde du fichier : 2440362695__JEzaoui__Ezaoui__Joel__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  54 . Traitement de David Flacher  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  146
+		Nombre de nouveaux tweets récupérés :  7
+
+	    🐤 Sauvegarde du fichier : 852329877357416448__DavidFlacher__Flacher__David__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  55 . Traitement de Nathalie Laville  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  147
+		Nombre de nouveaux tweets récupérés :  10
+
+	    🐤 Sauvegarde du fichier : 247241547__nathalielav__Laville__Nathalie__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  56 . Traitement de Anne Limoge  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  148
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1470413187350732806__AnneLimogeUPR__Limoge__Anne__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  57 . Traitement de Raphael Qnouch  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  149
+		Nombre de nouveaux tweets récupérés :  95
+
+	    🐤 Sauvegarde du fichier : 387618120__RaphaelQnouch__Qnouch__Raphael__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  58 . Traitement de Claire Monod  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  150
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 249843341__ClaireMonod__Monod__Claire__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  59 . Traitement de Franck Bonot  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  152
+		Nombre de nouveaux tweets récupérés :  194
+
+	    🐤 Sauvegarde du fichier : 113740016__franckbonot__Bonot__Franck__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  60 . Traitement de Benjamin Requet  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  153
+		Nombre de nouveaux tweets récupérés :  3
+
+	    🐤 Sauvegarde du fichier : 865214330492641280__BenjaminRequet__Requet__Benjamin__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  61 . Traitement de Martin Lagane  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  155
+		Nombre de nouveaux tweets récupérés :  98
+
+	    🐤 Sauvegarde du fichier : 3439765943__martinlagane__Lagane__Martin__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  62 . Traitement de Chrystelle Pellegrino  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  156
+		Nombre de nouveaux tweets récupérés :  19
+
+	    🐤 Sauvegarde du fichier : 483237532__Chrystelle_D__Pellegrino__Chrystelle__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  63 . Traitement de Elisabeth Stibbe  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  157
+		Nombre de nouveaux tweets récupérés :  63
+
+	    🐤 Sauvegarde du fichier : 105209550__E_STIBBE__Stibbe__Elisabeth__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  64 . Traitement de Armelle Malvoisin  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  158
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1408546440__ARTscriptor__Malvoisin__Armelle__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  65 . Traitement de Anissa Ghaidi  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		next token : zldjwdz3w6sba13nnssqqdpcels9ouwaruz8djro7jn
+		API : 160
+		len : 94
+
+		Nombre total de requêtes API :  165
+		Nombre de nouveaux tweets récupérés :  635
+
+	    🐤 Sauvegarde du fichier : 711139442__AnissaGhaidi__Ghaidi__Anissa__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  66 . Traitement de Miron Cusa  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  166
+		Nombre de nouveaux tweets récupérés :  62
+
+	    🐤 Sauvegarde du fichier : 158103530__mironcusa__Cusa__Miron__2012.json
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  167
+		Nombre de nouveaux tweets récupérés :  82
+
+	    🐤 Sauvegarde du fichier : 158103530__mironcusa__Cusa__Miron__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  67 . Traitement de Francis Szpiner  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  169
+		Nombre de nouveaux tweets récupérés :  184
+
+	    🐤 Sauvegarde du fichier : 3348869505__fszpiner__Szpiner__Francis__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  68 . Traitement de Jean-Roch Sergent  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  170
+		Nombre de nouveaux tweets récupérés :  93
+
+	    🐤 Sauvegarde du fichier : 3171514846__JRSergent_PRO__Sergent__Jean-Roch__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  69 . Traitement de Marielle De sarnez  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  172
+		Nombre de nouveaux tweets récupérés :  179
+
+	    🐤 Sauvegarde du fichier : 303885267__desarnez__De sarnez__Marielle__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  70 . Traitement de Pascal Cherki  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  173
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 405919523__pascalcherki__Cherki__Pascal__2012.json
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		next token : zldjwdz3w6sba13nnryhnirhr7zc35u3vvvitt4ulh0
+		API : 180
+		len : 2
+
+		Nombre total de requêtes API :  180
+		Nombre de nouveaux tweets récupérés :  570
+
+	    🐤 Sauvegarde du fichier : 405919523__pascalcherki__Cherki__Pascal__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  71 . Traitement de Florentin Letissier  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  182
+		Nombre de nouveaux tweets récupérés :  143
+
+	    🐤 Sauvegarde du fichier : 475241371__f_letissier__Letissier__Florentin__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  72 . Traitement de Jean-Pierre Coulomb  ======
+
+	 -> Pas candidat en  2012
+
+	 -> Candidat en  2017  !
+		Start time :  2017-04-10T00:00:00Z  - End time :  2017-06-10T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  183
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1181535044__jpcoulomb__Coulomb__Jean-Pierre__2017.json
+
+	 -> Pas candidat en  2022
+
+
+======  73 . Traitement de Axel Kahn  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  184
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 514602810__axelkahn__Kahn__Axel__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  74 . Traitement de Véronique Bover sayous  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  185
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1079371261875232768__VeroniqueBover__Bover sayous__Véronique__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  75 . Traitement de Yvan Blot  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  186
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1731949717__yvanmichelblot__Blot__Yvan__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  76 . Traitement de Amar Bellal  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  187
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 2715139650__Progressistes21__Bellal__Amar__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  77 . Traitement de Christophe Darmangeat  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  188
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 494102722__CDarmangeat__Darmangeat__Christophe__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  78 . Traitement de Anne-Sophie Godfroy-genin  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  189
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 54262687__AnneSoGodfroy__Godfroy-genin__Anne-Sophie__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  79 . Traitement de Laurent Audouin  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  190
+		Nombre de nouveaux tweets récupérés :  24
+
+	    🐤 Sauvegarde du fichier : 113982114__LaurentAudouin__Audouin__Laurent__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  80 . Traitement de François Fillon  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  191
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 551669623__FrancoisFillon__Fillon__François__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  81 . Traitement de Farid Debah  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  192
+		Nombre de nouveaux tweets récupérés :  4
+
+	    🐤 Sauvegarde du fichier : 43882956__FaridDMSDEBAH__Debah__Farid__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  82 . Traitement de Jean-Marie Le guen  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  193
+		Nombre de nouveaux tweets récupérés :  31
+
+	    🐤 Sauvegarde du fichier : 369423300__jm_leguen__Le guen__Jean-Marie__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  83 . Traitement de Guillaume Fillon  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  194
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 53101892__GFillon__Fillon__Guillaume__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  84 . Traitement de Emmanuelle Becker  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  195
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 23807076__ManuBecker__Becker__Emmanuelle__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  85 . Traitement de Fadila Mehal  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  196
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 341249031__fmehal__Mehal__Fadila__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  86 . Traitement de Mariz Lechesne  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  197
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 1259868648__mariz_lechesne__Lechesne__Mariz__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  87 . Traitement de Philippe Pejo  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  198
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 551891134__PhPejo__Pejo__Philippe__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  88 . Traitement de Célia Blauel  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  199
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 484013613__Celia_Blauel__Blauel__Célia__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  89 . Traitement de Jean-François Martins  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  200
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 16735892__jfmartins__Martins__Jean-François__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+
+======  90 . Traitement de Dominique Mahe  ======
+
+	 -> Candidat en  2012  !
+		Start time :  2012-04-09T00:00:00Z  - End time :  2012-06-09T23:59:59Z
+		Nouveau député
+
+		Lancement de la fonction API en cours... 
+
+		Nombre total de requêtes API :  201
+		Nombre de nouveaux tweets récupérés :  0
+
+	    🐤 Sauvegarde du fichier : 3235903504__dominique_mahe__Mahe__Dominique__2012.json
+
+	 -> Pas candidat en  2017
+
+	 -> Pas candidat en  2022
+
+90 Comptes parcourus sur 90
+
+Nombre total de requêtes API : 201
+
+Nombre total de Tweets récupérés : 12755
+
+Nombre de candidats sans élections : 0
+	 -> errorNbCandidatSansElection : []
+
+===! CUSTOM TWEET EXTRACTOR - SPOT DEBAT V1.1  !===
+
+
+Process finished with exit code 0
