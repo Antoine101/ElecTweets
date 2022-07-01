@@ -1,0 +1,157 @@
+[
+    {
+        "id": "872021086090801152",
+        "text": "Le clip de campagne est dans les bacs! 💪💪\n#legislatives2017 #9ecirco #allonsenfants #11juin\n\n👉👉https://t.co/7j3T82JD10",
+        "created_at": "2017-06-06 09:23:22+00:00",
+        "attachments": null,
+        "author_id": 865214330492641280,
+        "context_annotations": [],
+        "conversation_id": 872021086090801152,
+        "entities": {
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/7j3T82JD10",
+                    "expanded_url": "https://www.facebook.com/benjaminrequet2017/videos/358381307898481/?autoplay_reason=all_page_organic_allowed&video_container_type=0&video_creator_product_type=2&app_id=2392950137&live_video_guests=0",
+                    "display_url": "facebook.com/benjaminrequet…",
+                    "status": 200,
+                    "unwound_url": "https://www.facebook.com/benjaminrequet2017/videos/vid%C3%A9o-de-campagne-benjamin-requet/358381307898481/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 59,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 60,
+                    "end": 68,
+                    "tag": "9ecirco"
+                },
+                {
+                    "start": 69,
+                    "end": 83,
+                    "tag": "allonsenfants"
+                },
+                {
+                    "start": 84,
+                    "end": 91,
+                    "tag": "11juin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866694152876163073",
+        "text": "A lire ou relire, cet article du Figaro explique et présente le parti des jeunes, Allons Enfants ! \n\nhttps://t.co/bScdzgwaIx",
+        "created_at": "2017-05-22 16:36:03+00:00",
+        "attachments": null,
+        "author_id": 865214330492641280,
+        "context_annotations": [],
+        "conversation_id": 866694152876163073,
+        "entities": {
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/bScdzgwaIx",
+                    "expanded_url": "http://www.lefigaro.fr/politique/2017/01/17/01002-20170117ARTFIG00295-allons-enfants-le-parti-des-jeunes-a-l-assaut-des-legislatives.php",
+                    "display_url": "lefigaro.fr/politique/2017…",
+                    "status": 200,
+                    "unwound_url": "https://www.lefigaro.fr/politique/2017/01/17/01002-20170117ARTFIG00295-allons-enfants-le-parti-des-jeunes-a-l-assaut-des-legislatives.php"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866692939438837761",
+        "text": "Clip de campagne Allons Enfants ! Faites entrer les jeunes à l'Assemblée! #legislatives2017 #AE #AllonsEnfants https://t.co/LNrjQhLbzQ",
+        "created_at": "2017-05-22 16:31:13+00:00",
+        "attachments": null,
+        "author_id": 865214330492641280,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866692939438837761,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/LNrjQhLbzQ",
+                    "expanded_url": "https://twitter.com/all0nsenfants/status/864158807257219072",
+                    "display_url": "twitter.com/all0nsenfants/…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 74,
+                    "end": 91,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 92,
+                    "end": 95,
+                    "tag": "AE"
+                },
+                {
+                    "start": 96,
+                    "end": 110,
+                    "tag": "AllonsEnfants"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

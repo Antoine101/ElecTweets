@@ -1,1 +1,4057 @@
-[]
+[
+    {
+        "id": "1535346773232914439",
+        "text": "Il a l’expérience, la sagesse, la stature et la vision pour l’avenir: un immense merci à ⁦@MichelBarnier⁩ pour son soutien si précieux👏👏👏 \n\nJe m’en montrerai digne.\n\nDimanche, un seul vote utile pour vous, pour #Paris, pour la 🇫🇷!\n\n#Paris14 #Paris6 ⁦@Paul_Maria_⁩ https://t.co/hTHmRaMIXW",
+        "created_at": "2022-06-10 19:42:50+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1535346709395562496"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1518748592487366656",
+                    "name": "Austria vs France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "733756536430809088",
+                    "name": "Soccer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "12",
+                    "name": "Sports Team",
+                    "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                },
+                "entity": {
+                    "id": "731226231832633344",
+                    "name": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "26",
+                    "name": "Sports League",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "731226237394243584",
+                    "name": "International - Soccer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "26",
+                    "name": "Sports League",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1110634312943099904",
+                    "name": "UEFA Nations League"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1518748592487366656",
+                    "name": "Austria vs France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "43",
+                    "name": "Soccer Match",
+                    "description": "Sports Event specific to Soccer matches"
+                },
+                "entity": {
+                    "id": "1518748592487366656",
+                    "name": "Austria vs France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "733774353590943745",
+                    "name": "Lucas Digne"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "733774353590943745",
+                    "name": "Lucas Digne"
+                }
+            }
+        ],
+        "conversation_id": 1535346773232914439,
+        "entities": {
+            "urls": [
+                {
+                    "start": 264,
+                    "end": 287,
+                    "url": "https://t.co/hTHmRaMIXW",
+                    "expanded_url": "https://twitter.com/MCCG/status/1535346773232914439/video/1",
+                    "display_url": "pic.twitter.com/hTHmRaMIXW",
+                    "media_key": "7_1535346709395562496"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 90,
+                    "end": 104,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                },
+                {
+                    "start": 250,
+                    "end": 262,
+                    "username": "Paul_Maria_",
+                    "id": "1323632099203702789"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 211,
+                    "end": 217,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 232,
+                    "end": 240,
+                    "tag": "Paris14"
+                },
+                {
+                    "start": 241,
+                    "end": 248,
+                    "tag": "Paris6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 2,
+            "like_count": 47,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1534975035076755489",
+        "text": "RT @nouscestparis: Elle portera au Parlement le rétablissement d’une grande politique familiale et défendra les droits et les ressources de…",
+        "created_at": "2022-06-09 19:05:41+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1534975035076755489,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "nouscestparis",
+                    "id": "1032286488"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533880902404685827",
+        "text": "Oh merci 🙏@phdelorme27 https://t.co/w3NH9kSA2U",
+        "created_at": "2022-06-06 18:37:59+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1533880902404685827,
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/w3NH9kSA2U",
+                    "expanded_url": "https://twitter.com/phdelorme27/status/1533861573034385410",
+                    "display_url": "twitter.com/phdelorme27/st…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 22,
+                    "username": "phdelorme27",
+                    "id": "997343761"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533785250127564800",
+        "text": "RT @IsaMadesclaire: Nous sommes heureux de l'intervention de @MCCG pour la sauvegarde du #CouventReille, suivie de celle d'@emilemeunier. N…",
+        "created_at": "2022-06-06 12:17:54+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1533785250127564800,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "IsaMadesclaire",
+                    "id": "242476422"
+                },
+                {
+                    "start": 61,
+                    "end": 66,
+                    "username": "MCCG",
+                    "id": "15719595"
+                },
+                {
+                    "start": 123,
+                    "end": 136,
+                    "username": "emilemeunier",
+                    "id": "350388650"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 103,
+                    "tag": "CouventReille"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533065013384077312",
+        "text": "L’excellent accueil des habitants du 14e et du 6e, je le dois peut-être à la constance de mon travail de proximité\n\nJe le dois aussi à l’équipe qui m’entoure depuis longtemps, et à ceux qui nous rejoignent. \n\n🚀Si fière de tte l’équipe.\n\n#Pourvous #PourParis\n\n⁦@Paul_Maria_⁩ https://t.co/NCDFQtITK2",
+        "created_at": "2022-06-04 12:35:56+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1533064998674735105",
+                "3_1533065006178308098"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1533065013384077312,
+        "entities": {
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/NCDFQtITK2",
+                    "expanded_url": "https://twitter.com/MCCG/status/1533065013384077312/photo/1",
+                    "display_url": "pic.twitter.com/NCDFQtITK2",
+                    "media_key": "3_1533064998674735105"
+                },
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/NCDFQtITK2",
+                    "expanded_url": "https://twitter.com/MCCG/status/1533065013384077312/photo/1",
+                    "display_url": "pic.twitter.com/NCDFQtITK2",
+                    "media_key": "3_1533065006178308098"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 260,
+                    "end": 272,
+                    "username": "Paul_Maria_",
+                    "id": "1323632099203702789"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 237,
+                    "end": 246,
+                    "tag": "Pourvous"
+                },
+                {
+                    "start": 247,
+                    "end": 257,
+                    "tag": "PourParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 2,
+            "like_count": 31,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532676765096763394",
+        "text": "RT @nouscestparis: 🇫🇷 « Je suis et reste une gaulliste sociale. Ma famille politique porte une grande idée de la France. »\n\n🗳 Aux élections…",
+        "created_at": "2022-06-03 10:53:11+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532676765096763394,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "nouscestparis",
+                    "id": "1032286488"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532436841588215829",
+        "text": "En sortant du #ConseildeParis 🌞 \n\n#Pourvous #PourParis\n\n(Merci au photographe😉) https://t.co/VDoLk5db4X",
+        "created_at": "2022-06-02 18:59:48+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1532436833845530629"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532436841588215829,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/VDoLk5db4X",
+                    "expanded_url": "https://twitter.com/MCCG/status/1532436841588215829/photo/1",
+                    "display_url": "pic.twitter.com/VDoLk5db4X",
+                    "media_key": "3_1532436833845530629"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 29,
+                    "tag": "ConseildeParis"
+                },
+                {
+                    "start": 34,
+                    "end": 43,
+                    "tag": "Pourvous"
+                },
+                {
+                    "start": 44,
+                    "end": 54,
+                    "tag": "PourParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 24,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532431214648369152",
+        "text": "RT @GpeChangerParis: .@MCCG est intervenue pour demander la révision du projet immobilier situé sur le jardin de la maison du Carrier (14e)…",
+        "created_at": "2022-06-02 18:37:27+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532431214648369152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 22,
+                    "end": 27,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532431164232847370",
+        "text": "RT @GpeChangerParis: Intervention de @MCCG relative à la révision du projet Oasis (14e, 15e) #ConseildeParis https://t.co/ozsXifi4M5",
+        "created_at": "2022-06-02 18:37:15+00:00",
+        "attachments": {
+            "media_keys": [
+                "13_1532390307882582018"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532431164232847370,
+        "entities": {
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/ozsXifi4M5",
+                    "expanded_url": "https://twitter.com/GpeChangerParis/status/1532404755829489667/video/1",
+                    "display_url": "pic.twitter.com/ozsXifi4M5",
+                    "media_key": "13_1532390307882582018"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 37,
+                    "end": 42,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 108,
+                    "tag": "ConseildeParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532430864080064513",
+        "text": "RT @GpeChangerParis: .@MCCG a pris la parole pour défendre la préservation de l'ilot du convent Reille. #ConseildeParis https://t.co/lpRxzb…",
+        "created_at": "2022-06-02 18:36:03+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532430864080064513,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 22,
+                    "end": 27,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 104,
+                    "end": 119,
+                    "tag": "ConseildeParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532400345229533184",
+        "text": "RT @vpecresse: J’ai présenté ce matin aux associations de solidarité le bouclier social que nous avons voté à la Région @iledefrance pour a…",
+        "created_at": "2022-06-02 16:34:47+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            }
+        ],
+        "conversation_id": 1532400345229533184,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "vpecresse",
+                    "id": "49969223"
+                },
+                {
+                    "start": 120,
+                    "end": 132,
+                    "username": "iledefrance",
+                    "id": "40848062"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532305852325150720",
+        "text": "RT @MichelBarnier: Il n’y a pas d’influence internationale durable de la France sans l’expertise, le professionnalisme et la compréhension…",
+        "created_at": "2022-06-02 10:19:18+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532305852325150720,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 122,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532270737997938689",
+        "text": "RT @nouscestparis: 🌍 L'#écologie est trop importante pour être le monopole des verts, surtout ceux de Paris qui 🧱bétonisent, 🏗densifient, e…",
+        "created_at": "2022-06-02 07:59:46+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1532270737997938689,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "nouscestparis",
+                    "id": "1032286488"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 23,
+                    "end": 32,
+                    "tag": "écologie"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531947138665652224",
+        "text": "RT @brigitte_kuster: Au #ConseildeParis, quel plaisir de retrouver 5 de mes collègues du @GpeChangerParis candidats aux #legislatives2022 !…",
+        "created_at": "2022-06-01 10:33:54+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1531947138665652224,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "brigitte_kuster",
+                    "id": "59800834"
+                },
+                {
+                    "start": 89,
+                    "end": 105,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 39,
+                    "tag": "ConseildeParis"
+                },
+                {
+                    "start": 120,
+                    "end": 137,
+                    "tag": "legislatives2022"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531885380252884994",
+        "text": "RT @nouscestparis: Pour les #Législatives2022, choisissez une députée mobilisée contre les projets catastrophiques d'#Hidalgo dans nos quar…",
+        "created_at": "2022-06-01 06:28:30+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1531885380252884994,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "nouscestparis",
+                    "id": "1032286488"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 28,
+                    "end": 45,
+                    "tag": "Législatives2022"
+                },
+                {
+                    "start": 117,
+                    "end": 125,
+                    "tag": "Hidalgo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531722822686593024",
+        "text": "RT @mtwit75: #AnneHidalgo a comptabilisé 40.000€ de plantations d'arbres dans les \"dépenses Covid\" et a encaissé 267M€ de recettes de stati…",
+        "created_at": "2022-05-31 19:42:33+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1531722822686593024,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "mtwit75",
+                    "id": "1396347558"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 25,
+                    "tag": "AnneHidalgo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531712588895113217",
+        "text": "RT @JeunesLR14e: 🚀 Encore un magnifique accueil sur le terrain à Denfert Rochereau et Saint Jacques pour la candidature de Marie-Claire CAR…",
+        "created_at": "2022-05-31 19:01:53+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1112780448738893824",
+                    "name": "Marie Claire"
+                }
+            }
+        ],
+        "conversation_id": 1531712588895113217,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "JeunesLR14e",
+                    "id": "1480219246420443136"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531687154707046401",
+        "text": "RT @E_la_nave_va: Toujours impeccable @MCCG Présidente de la Commission Finances\n#ConseildeParis",
+        "created_at": "2022-05-31 17:20:49+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1531687154707046401,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "E_la_nave_va",
+                    "id": "217822634"
+                },
+                {
+                    "start": 38,
+                    "end": 43,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 81,
+                    "end": 96,
+                    "tag": "ConseildeParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531657499950063618",
+        "text": "@Pierre_crnc Merciiii",
+        "created_at": "2022-05-31 15:22:59+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1531651502443573250,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "Pierre_crnc",
+                    "id": "1702610930"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1702610930,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531646734123909120",
+        "text": "@E_la_nave_va Merci!",
+        "created_at": "2022-05-31 14:40:12+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1531646384444690433,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "E_la_nave_va",
+                    "id": "217822634"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 217822634,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531627350823256065",
+        "text": "RT @GpeChangerParis: L’heure du bilan a sonné pour les #finances parisiennes: les prévisions budgétaires de la Ville de #Paris pour 2021 on…",
+        "created_at": "2022-05-31 13:23:11+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1531627350823256065,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 64,
+                    "tag": "finances"
+                },
+                {
+                    "start": 120,
+                    "end": 126,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1531362085879390215",
+        "text": "MERCI Steph JF Pascal Patrick JMarie Paul Pierre Marcoul Nadim Jordan Pierre-André Aurore Marie-Lou Malo Titouan Benoit Adrien Linh Tristan Danièle MarieLou Bruno Nicole Didier et tous ceux qui s’activent dans les rues et devant leur ordi\n\n🚀On va le faire! \n\n#Pourvous #PourParis https://t.co/v0jPZuMJqM",
+        "created_at": "2022-05-30 19:49:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1531362071778148352"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1531362085879390215,
+        "entities": {
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/v0jPZuMJqM",
+                    "expanded_url": "https://twitter.com/MCCG/status/1531362085879390215/photo/1",
+                    "display_url": "pic.twitter.com/v0jPZuMJqM",
+                    "media_key": "3_1531362071778148352"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 259,
+                    "end": 268,
+                    "tag": "Pourvous"
+                },
+                {
+                    "start": 269,
+                    "end": 279,
+                    "tag": "PourParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 2,
+            "like_count": 31,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1530638916029652992",
+        "text": ".@Anne_Hidalgo Le sort réservé depuis des années aux habitants de Mouchotte dépasse le « dommage anormal et spécial » qui fonde une indemnisation.\n\nOn est désormais dans le registre de la MALTRAITANCE.\n\nIl faut RESPECTER PARIS ET LES PARISIENS.\n\n#Montparnasse #Gaite #Catalogne https://t.co/Qg7eCLbmSu",
+        "created_at": "2022-05-28 19:55:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1530638887051218945",
+                "3_1530638887042928647",
+                "3_1530638887047024647",
+                "3_1530638887051268097"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1530638916029652992,
+        "entities": {
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/Qg7eCLbmSu",
+                    "expanded_url": "https://twitter.com/MCCG/status/1530638916029652992/photo/1",
+                    "display_url": "pic.twitter.com/Qg7eCLbmSu",
+                    "media_key": "3_1530638887051218945"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/Qg7eCLbmSu",
+                    "expanded_url": "https://twitter.com/MCCG/status/1530638916029652992/photo/1",
+                    "display_url": "pic.twitter.com/Qg7eCLbmSu",
+                    "media_key": "3_1530638887042928647"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/Qg7eCLbmSu",
+                    "expanded_url": "https://twitter.com/MCCG/status/1530638916029652992/photo/1",
+                    "display_url": "pic.twitter.com/Qg7eCLbmSu",
+                    "media_key": "3_1530638887047024647"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/Qg7eCLbmSu",
+                    "expanded_url": "https://twitter.com/MCCG/status/1530638916029652992/photo/1",
+                    "display_url": "pic.twitter.com/Qg7eCLbmSu",
+                    "media_key": "3_1530638887051268097"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 1,
+                    "end": 14,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 246,
+                    "end": 259,
+                    "tag": "Montparnasse"
+                },
+                {
+                    "start": 260,
+                    "end": 266,
+                    "tag": "Gaite"
+                },
+                {
+                    "start": 267,
+                    "end": 277,
+                    "tag": "Catalogne"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 9,
+            "like_count": 89,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1529819657024294912",
+        "text": "RT @GpeChangerParis: Certification des comptes de la Ville : ce que la Maire de #Paris et son équipe ne vous diront pas… À dérouler 🧵⤵️ #St…",
+        "created_at": "2022-05-26 13:40:03+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1529819657024294912,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 86,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1528264507591733248",
+        "text": ".⁦@MairieParis14⁩, merci de nous dire le nom de la maladie dont souffraient ces deux grands platanes abattus à l’angle du boulevard Brune et de la rue Didot. https://t.co/Rxl32aatZ8",
+        "created_at": "2022-05-22 06:40:27+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1528264493003943936",
+                "3_1528264500876558336"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1528264507591733248,
+        "entities": {
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/Rxl32aatZ8",
+                    "expanded_url": "https://twitter.com/MCCG/status/1528264507591733248/photo/1",
+                    "display_url": "pic.twitter.com/Rxl32aatZ8",
+                    "media_key": "3_1528264493003943936"
+                },
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/Rxl32aatZ8",
+                    "expanded_url": "https://twitter.com/MCCG/status/1528264507591733248/photo/1",
+                    "display_url": "pic.twitter.com/Rxl32aatZ8",
+                    "media_key": "3_1528264500876558336"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 2,
+                    "end": 16,
+                    "username": "MairieParis14",
+                    "id": "95198644"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 797,
+            "reply_count": 279,
+            "like_count": 2312,
+            "quote_count": 69
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1527565260785319937",
+        "text": "RT @lemondefr: La triste mue de la Gaîté-Montparnasse, ou les limites de la politique des stars | par @IsabRegnier\nhttps://t.co/osmA1GyQol",
+        "created_at": "2022-05-20 08:21:53+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1527565260785319937,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/osmA1GyQol",
+                    "expanded_url": "https://www.lemonde.fr/culture/article/2022/05/19/la-triste-mue-de-la-gaite-montparnasse-ou-les-limites-de-la-politique-des-stars_6126831_3246.html?utm_medium=Social&utm_source=Twitter#Echobox=1652982102-1",
+                    "display_url": "lemonde.fr/culture/articl…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                },
+                {
+                    "start": 102,
+                    "end": 114,
+                    "username": "IsabRegnier",
+                    "id": "29742205"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1527403124591304704",
+        "text": "📣 Oyez, oyez, chers Parisiens et habitants du 14e ! \n\nBientôt chez vous, grâce à @anne_hidalgo,  le recyclage et la valorisation des urines des habitants du futur quartier Saint-Vincent-de-Paul! \n\nLA réponse à un « enjeu géopolitique important » (sic).\n\n#ParisIsTheNewZAD https://t.co/bRj8llXveK",
+        "created_at": "2022-05-19 21:37:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1527402971365003272"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1527403124591304704,
+        "entities": {
+            "urls": [
+                {
+                    "start": 272,
+                    "end": 295,
+                    "url": "https://t.co/bRj8llXveK",
+                    "expanded_url": "https://twitter.com/MCCG/status/1527403124591304704/video/1",
+                    "display_url": "pic.twitter.com/bRj8llXveK",
+                    "media_key": "7_1527402971365003272"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 94,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 254,
+                    "end": 271,
+                    "tag": "ParisIsTheNewZAD"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 9,
+            "like_count": 45,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1527189188021473282",
+        "text": "RT @Paul_Maria_: Quelques raisons qui font que je soutiens Marie-Claire Carrère-Gée @MCCG :\n➡️Une élue locale de notre circonscription ;\n➡️…",
+        "created_at": "2022-05-19 07:27:30+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1112780448738893824",
+                    "name": "Marie Claire"
+                }
+            }
+        ],
+        "conversation_id": 1527189188021473282,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Paul_Maria_",
+                    "id": "1323632099203702789"
+                },
+                {
+                    "start": 84,
+                    "end": 89,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1527007740430012416",
+        "text": ".@Anne_Hidalgo, une vidéo avec un zoom sur 3 plantes vertes n’y changera rien: le 14e, c’est toujours plus de béton, toujours plus de bazar sur l’espace public, des équipements hideux et votre urbanisme ZAD-style qui détruit toujours plus l’harmonie de notre arrondissement. https://t.co/HKkAkUcKIC",
+        "created_at": "2022-05-18 19:26:30+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597226799105",
+                    "name": "B2B"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597172203520",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10040912121",
+                    "name": "Zoom"
+                }
+            }
+        ],
+        "conversation_id": 1527007740430012416,
+        "entities": {
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/HKkAkUcKIC",
+                    "expanded_url": "https://twitter.com/Anne_Hidalgo/status/1526983338812121088",
+                    "display_url": "twitter.com/Anne_Hidalgo/s…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 1,
+                    "end": 14,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 58,
+            "reply_count": 9,
+            "like_count": 125,
+            "quote_count": 5
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526978333577191434",
+        "text": "RT @vpecresse: Aujourd'hui, nous sommes à nouveau là pour dire au grand peuple ukrainien qu’il n’est pas seul.\n\nEn présence de @OmelchenkoV…",
+        "created_at": "2022-05-18 17:29:39+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1526978333577191434,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "vpecresse",
+                    "id": "49969223"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 117,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526867246399868929",
+        "text": "RT @patrickhetzel: @MCCG Excellente proposition chère @MCCG et si j’ai la chance d’être réélu je soutiendrai très fortement cette initiativ…",
+        "created_at": "2022-05-18 10:08:14+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1526867246399868929,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "patrickhetzel",
+                    "id": "4733398756"
+                },
+                {
+                    "start": 19,
+                    "end": 24,
+                    "username": "MCCG",
+                    "id": "15719595"
+                },
+                {
+                    "start": 54,
+                    "end": 59,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526674992708079617",
+        "text": "@NicolasBauquet Oh merci @NicolasBauquet 🙏",
+        "created_at": "2022-05-17 21:24:17+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1526250641722597376,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "NicolasBauquet",
+                    "id": "338635079"
+                },
+                {
+                    "start": 25,
+                    "end": 40,
+                    "username": "NicolasBauquet",
+                    "id": "338635079"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 338635079,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526673643949932544",
+        "text": "Au Conseil du 14e arrondissement, en réponse à un vœu de la majorité, je me suis engagée si je suis élue députée de #Paris à modifier la loi pour une école de la confiance de juillet 2019, afin de pérenniser les jardins d’enfants pédagogiques de la Ville de #Paris. https://t.co/BR0WijT3t8",
+        "created_at": "2022-05-17 21:18:55+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1526673638954569728"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1526673643949932544,
+        "entities": {
+            "urls": [
+                {
+                    "start": 266,
+                    "end": 289,
+                    "url": "https://t.co/BR0WijT3t8",
+                    "expanded_url": "https://twitter.com/MCCG/status/1526673643949932544/photo/1",
+                    "display_url": "pic.twitter.com/BR0WijT3t8",
+                    "media_key": "3_1526673638954569728"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 122,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 258,
+                    "end": 264,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 3,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526520356302995456",
+        "text": "@YvesPDB @francoisbaroin @jp_lecoq Merciiiii !",
+        "created_at": "2022-05-17 11:09:48+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1526061598892347392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "YvesPDB",
+                    "id": "2365378849"
+                },
+                {
+                    "start": 9,
+                    "end": 24,
+                    "username": "francoisbaroin",
+                    "id": "96093611"
+                },
+                {
+                    "start": 25,
+                    "end": 34,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2365378849,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526516891291992064",
+        "text": "RT @Paul_Maria_: Heureux et honoré d'être aux côtés de Marie-Claire Carrère-Gée (@MCCG) pour les élections législatives dans la 11e circons…",
+        "created_at": "2022-05-17 10:56:02+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1112780448738893824",
+                    "name": "Marie Claire"
+                }
+            }
+        ],
+        "conversation_id": 1526516891291992064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Paul_Maria_",
+                    "id": "1323632099203702789"
+                },
+                {
+                    "start": 81,
+                    "end": 86,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526102713381134337",
+        "text": "@BSainte_Rose @francoisbaroin @jp_lecoq 🤪",
+        "created_at": "2022-05-16 07:30:15+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1526061598892347392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "BSainte_Rose",
+                    "id": "2347864192"
+                },
+                {
+                    "start": 14,
+                    "end": 29,
+                    "username": "francoisbaroin",
+                    "id": "96093611"
+                },
+                {
+                    "start": 30,
+                    "end": 39,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2347864192,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526097260731416577",
+        "text": "@geoffroyboulard @francoisbaroin @jp_lecoq Merci!",
+        "created_at": "2022-05-16 07:08:35+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1526061598892347392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "geoffroyboulard",
+                    "id": "85040540"
+                },
+                {
+                    "start": 17,
+                    "end": 32,
+                    "username": "francoisbaroin",
+                    "id": "96093611"
+                },
+                {
+                    "start": 33,
+                    "end": 42,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 85040540,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526061598892347392",
+        "text": "Je suis candidate pour faire entendre la voix des habitants du 14e et du 6e à l’Assemblée nationale\n\nMon suppléant:Paul Maria. Comme moi, un élu de terrain, fidèle de @francoisbaroin \n\n🙏Merci à @jp_lecoq pour son soutien précieux\n\n#PourVous #PourParis #legislatives2022 #11ecirco https://t.co/14Xjl49qH3",
+        "created_at": "2022-05-16 04:46:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1526061586103803904",
+                "3_1526061586103914501",
+                "3_1526061586317729792"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "915329693569630208",
+                    "name": "French #QAG",
+                    "description": "French #QAG"
+                }
+            }
+        ],
+        "conversation_id": 1526061598892347392,
+        "entities": {
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/14Xjl49qH3",
+                    "expanded_url": "https://twitter.com/MCCG/status/1526061598892347392/photo/1",
+                    "display_url": "pic.twitter.com/14Xjl49qH3",
+                    "media_key": "3_1526061586103803904"
+                },
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/14Xjl49qH3",
+                    "expanded_url": "https://twitter.com/MCCG/status/1526061598892347392/photo/1",
+                    "display_url": "pic.twitter.com/14Xjl49qH3",
+                    "media_key": "3_1526061586103914501"
+                },
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/14Xjl49qH3",
+                    "expanded_url": "https://twitter.com/MCCG/status/1526061598892347392/photo/1",
+                    "display_url": "pic.twitter.com/14Xjl49qH3",
+                    "media_key": "3_1526061586317729792"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 167,
+                    "end": 182,
+                    "username": "francoisbaroin",
+                    "id": "96093611"
+                },
+                {
+                    "start": 194,
+                    "end": 203,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 231,
+                    "end": 240,
+                    "tag": "PourVous"
+                },
+                {
+                    "start": 241,
+                    "end": 251,
+                    "tag": "PourParis"
+                },
+                {
+                    "start": 252,
+                    "end": 269,
+                    "tag": "legislatives2022"
+                },
+                {
+                    "start": 270,
+                    "end": 279,
+                    "tag": "11ecirco"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 3,
+            "like_count": 79,
+            "quote_count": 6
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1524796786405437440",
+        "text": "RT @InstitutFrance: [🏆 #GrandsPrix ]\n\n🤝 Le Grand Prix humanitaire 2022 de la Fondation Charles Defforey–Institut de France, doté d'un monta…",
+        "created_at": "2022-05-12 17:00:57+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1524796786405437440,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "InstitutFrance",
+                    "id": "1055844592782884864"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 23,
+                    "end": 34,
+                    "tag": "GrandsPrix"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523624463064920064",
+        "text": "RT @E_la_nave_va: Aucun risque de voter pour l'adjointe au commerce d'Hidalgo !\nDans la 11e, c'est @MCCG notre candidate !",
+        "created_at": "2022-05-09 11:22:34+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1523624463064920064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "E_la_nave_va",
+                    "id": "217822634"
+                },
+                {
+                    "start": 99,
+                    "end": 104,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523222964141178881",
+        "text": "RT @AssoQSVP: Mairie de paris abat tous les arbres. 45 arbres sains et matures coupés sur site St Vincent de Paul. Idem à Tour Eiffel. Alli…",
+        "created_at": "2022-05-08 08:47:09+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1523222964141178881,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "AssoQSVP",
+                    "id": "2416370839"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1523058862408237057",
+        "text": "Faire ainsi une énorme pile d’énormément de torchons et de serviettes est …énormément tendancieux, de même que votre conclusion implicite -on dépenserait bcp trop pour l’emploi-.\n\nLa bonne question= quid de la qualité des actions pour que les chômeurs retrouvent vite un emploi. https://t.co/GC6LvWhcRk",
+        "created_at": "2022-05-07 21:55:04+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1523058862408237057,
+        "entities": {
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/GC6LvWhcRk",
+                    "expanded_url": "https://twitter.com/ecallefipeco/status/1522603839148466182",
+                    "display_url": "twitter.com/ecallefipeco/s…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522990080171950080",
+        "text": "@jblide75 @gloupsback @aurelien_veron @datirachida Merci pour votre confiance. On y arrivera!",
+        "created_at": "2022-05-07 17:21:45+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1522843816599896064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "jblide75",
+                    "id": "1319575825264594944"
+                },
+                {
+                    "start": 10,
+                    "end": 21,
+                    "username": "gloupsback",
+                    "id": "1318279088939872257"
+                },
+                {
+                    "start": 22,
+                    "end": 37,
+                    "username": "aurelien_veron",
+                    "id": "17448148"
+                },
+                {
+                    "start": 38,
+                    "end": 50,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1319575825264594944,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521422380027023363",
+        "text": "RT @MCCG: Avec la bétonisation et la densification de #Paris, Anne #Hidalgo va léguer aux Parisiens une extravagante dette écologique: plus…",
+        "created_at": "2022-05-03 09:32:16+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521422380027023363,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 8,
+                    "username": "MCCG",
+                    "id": "15719595"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 60,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 67,
+                    "end": 75,
+                    "tag": "Hidalgo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 112,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1521240478917746688",
+        "text": "Allô @EELV_Paris, dans le 14e, on a plein idées de projets que vous avez approuvés et qui pourraient être «mis en sous-sol»:\n❌🙈Saint-Vincent-de-Paul (🌳 de Chateaubriand)\n❌🙈Oasis\n❌🙈Couvent Reille\n❌🙈maison du Carrier\n❌🙈centre commercial géant à Montparnasse \n#TourEiffel https://t.co/zsgeqM4zbg",
+        "created_at": "2022-05-02 21:29:28+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1521240478917746688,
+        "entities": {
+            "urls": [
+                {
+                    "start": 269,
+                    "end": 292,
+                    "url": "https://t.co/zsgeqM4zbg",
+                    "expanded_url": "https://twitter.com/renaudpila/status/1521164497515388930",
+                    "display_url": "twitter.com/renaudpila/sta…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 5,
+                    "end": 16,
+                    "username": "EELV_Paris",
+                    "id": "565396191"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 257,
+                    "end": 268,
+                    "tag": "TourEiffel"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 2,
+            "like_count": 36,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521118675620741121",
+        "text": "RT @AssoQSVP: @DuprDominique2 @FNE_Paris @SOSParis @jhsemelle @AmisChamp2Mars @B_Lecouturier @Philippe_Goujon Le même problème existe sur l…",
+        "created_at": "2022-05-02 13:25:27+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1521118675620741121,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "AssoQSVP",
+                    "id": "2416370839"
+                },
+                {
+                    "start": 14,
+                    "end": 29,
+                    "username": "DuprDominique2",
+                    "id": "1314182158513299457"
+                },
+                {
+                    "start": 30,
+                    "end": 40,
+                    "username": "FNE_Paris",
+                    "id": "943520663293382657"
+                },
+                {
+                    "start": 41,
+                    "end": 50,
+                    "username": "SOSParis",
+                    "id": "888137061626195969"
+                },
+                {
+                    "start": 51,
+                    "end": 61,
+                    "username": "jhsemelle",
+                    "id": "3651570376"
+                },
+                {
+                    "start": 62,
+                    "end": 77,
+                    "username": "AmisChamp2Mars",
+                    "id": "3306658815"
+                },
+                {
+                    "start": 78,
+                    "end": 92,
+                    "username": "B_Lecouturier",
+                    "id": "1377846451"
+                },
+                {
+                    "start": 93,
+                    "end": 109,
+                    "username": "Philippe_Goujon",
+                    "id": "54531424"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520886513596354562",
+        "text": "RT @PompiersParis: 🟥 Cela suffit ! Honte à la sauvagerie, incompréhensible cette nouvelle agression vis à vis des sapeurs-pompiers de Paris…",
+        "created_at": "2022-05-01 22:02:56+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1520886513596354562,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "PompiersParis",
+                    "id": "1342191438"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11306,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520672084921397249",
+        "text": "Bonne fête 1er mai à tous! \n\nFavoriser le travail -mieux rémunéré- en 🇫🇷 et la production en 🇫🇷 sont une priorité absolue.\n\nNotre cohesion sociale est en jeu, tout comme notre rang éco.\n\nPour cela, ⁦⁩donnons tte sa place au #dialoguesocial, pas seulement pendant les crises. https://t.co/okH6Dhpbks",
+        "created_at": "2022-05-01 07:50:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520672079640772608"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1520672084921397249,
+        "entities": {
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/okH6Dhpbks",
+                    "expanded_url": "https://twitter.com/MCCG/status/1520672084921397249/photo/1",
+                    "display_url": "pic.twitter.com/okH6Dhpbks",
+                    "media_key": "3_1520672079640772608"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 224,
+                    "end": 239,
+                    "tag": "dialoguesocial"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 1,
+            "like_count": 36,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520400830796554241",
+        "text": "RT @datirachida: Merci @brutofficiel de dénoncer le cynisme de #AnneHidalgo et de ses alliés #Verts qui ont décidé le projet #TourEiffelTro…",
+        "created_at": "2022-04-30 13:53:00+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1520400830796554241,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 23,
+                    "end": 36,
+                    "username": "brutofficiel",
+                    "id": "765849247262633984"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 75,
+                    "tag": "AnneHidalgo"
+                },
+                {
+                    "start": 93,
+                    "end": 99,
+                    "tag": "Verts"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 536,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520317792939094016",
+        "text": "https://t.co/ZjIfzldZkq\nInsta @soundofedmond https://t.co/HFqYqGbTZP",
+        "created_at": "2022-04-30 08:23:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1520317689805381632"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1520317792939094016,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/ZjIfzldZkq",
+                    "expanded_url": "https://linktr.ee/soundofedmond",
+                    "display_url": "linktr.ee/soundofedmond",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1520315228784889856/Wl_BgAih?format=jpg&name=orig",
+                            "width": 450,
+                            "height": 450
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1520315228784889856/Wl_BgAih?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "EDMOND | Linktree",
+                    "description": "entre ici ami de mon coeurrrrr",
+                    "unwound_url": "https://linktr.ee/soundofedmond"
+                },
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/HFqYqGbTZP",
+                    "expanded_url": "https://twitter.com/MCCG/status/1520317792939094016/video/1",
+                    "display_url": "pic.twitter.com/HFqYqGbTZP",
+                    "media_key": "7_1520317689805381632"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 2,
+            "like_count": 7,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520315227853705216",
+        "text": "Mon fils Edmond vient de sortir une chanson ! Vous pouvez aller l'écouter sur ce lien https://t.co/ZjIfzldZkq\n\net le suivre sur son instagram (soundofedmond)",
+        "created_at": "2022-04-30 08:12:51+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1520315227853705216,
+        "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/ZjIfzldZkq",
+                    "expanded_url": "https://linktr.ee/soundofedmond",
+                    "display_url": "linktr.ee/soundofedmond",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1520315228784889856/Wl_BgAih?format=jpg&name=orig",
+                            "width": 450,
+                            "height": 450
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1520315228784889856/Wl_BgAih?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "EDMOND | Linktree",
+                    "description": "entre ici ami de mon coeurrrrr",
+                    "unwound_url": "https://linktr.ee/soundofedmond"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 2,
+            "like_count": 12,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1520286656003289094",
+        "text": "RT @datirachida: De la glycine de Montmartre au Champ de Mars, en passant par les arbres des boulevards, + de 15000 arbres ont été abattus…",
+        "created_at": "2022-04-30 06:19:19+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1520286656003289094,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 623,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520283957404839940",
+        "text": "RT @vpecresse: .@IDFmobilites a demandé à la RATP de faire la transparence sur les causes de l’incendie du bus de la ligne 71. \n\nPar mesure…",
+        "created_at": "2022-04-30 06:08:35+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "165",
+                    "name": "Technology",
+                    "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            }
+        ],
+        "conversation_id": 1520283957404839940,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "vpecresse",
+                    "id": "49969223"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "IDFmobilites",
+                    "id": "805797645197463554"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520109743850852356",
+        "text": "@edouardparis14 @Anne_Hidalgo Elle est d’ailleurs en train de rouiller.",
+        "created_at": "2022-04-29 18:36:19+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1520004429264662534,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "edouardparis14",
+                    "id": "1214856716078194688"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1214856716078194688,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520109201326022658",
+        "text": "RT @edouardparis14: Malgré les contestations des riverains, les recours face à la non concertation. @Anne_Hidalgo et @carine_petit ont déci…",
+        "created_at": "2022-04-29 18:34:10+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1520109201326022658,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "edouardparis14",
+                    "id": "1214856716078194688"
+                },
+                {
+                    "start": 100,
+                    "end": 113,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                },
+                {
+                    "start": 117,
+                    "end": 130,
+                    "username": "carine_petit",
+                    "id": "623975433"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520109129322405888",
+        "text": "RT @edouardparis14: Cette passerelle permettait aux piétons de traverser de la rue losserand à la poste Vaugirard sans traverser de route a…",
+        "created_at": "2022-04-29 18:33:53+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1520109129322405888,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "edouardparis14",
+                    "id": "1214856716078194688"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519292341055598594",
+        "text": "@legislative2022 🙏Merci! 🚀🚀🚀",
+        "created_at": "2022-04-27 12:28:15+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1519251999757381633,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 1379384378376265737,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518312879463841794",
+        "text": "RT @MichelBarnier: Le choix clair des Français en faveur d'@EmmanuelMacron est une bonne nouvelle pour notre pays et sa place en Europe et…",
+        "created_at": "2022-04-24 19:36:14+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1518312879463841794,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                },
+                {
+                    "start": 59,
+                    "end": 74,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 142,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518312872522223617",
+        "text": "RT @MichelBarnier: Le score inédit de Mme Le Pen oblige également toutes les forces républicaines à entendre le message envoyé par tous ceu…",
+        "created_at": "2022-04-24 19:36:12+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 1518312872522223617,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516541113506709505",
+        "text": "RT @Villepin: 19 avril 2022 https://t.co/JPDySrUuc6",
+        "created_at": "2022-04-19 22:15:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1516457484491366402"
+            ]
+        },
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1516541113506709505,
+        "entities": {
+            "urls": [
+                {
+                    "start": 28,
+                    "end": 51,
+                    "url": "https://t.co/JPDySrUuc6",
+                    "expanded_url": "https://twitter.com/Villepin/status/1516457489138692100/photo/1",
+                    "display_url": "pic.twitter.com/JPDySrUuc6",
+                    "media_key": "3_1516457484491366402"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Villepin",
+                    "id": "29499020"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "tr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7875,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516125324236529665",
+        "text": "Tribune si juste de @Villepin. https://t.co/cOYHpujwja",
+        "created_at": "2022-04-18 18:43:40+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1516125324236529665,
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/cOYHpujwja",
+                    "expanded_url": "https://twitter.com/Villepin/status/1515616690683453445",
+                    "display_url": "twitter.com/Villepin/statu…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 29,
+                    "username": "Villepin",
+                    "id": "29499020"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516092683177148416",
+        "text": "RT @MichelBarnier: Une diplomatie efficace et influente exige en effet des diplomates professionnels . Cette réforme est une erreur.",
+        "created_at": "2022-04-18 16:33:57+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1516092683177148416,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 451,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513505631373774848",
+        "text": "RT @MichelBarnier: Il faut entendre et répondre au sentiment populaire qui s’exprime dans notre pays, redonner confiance aux jeunes, faire…",
+        "created_at": "2022-04-11 13:13:56+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1513505631373774848,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513505625908695050",
+        "text": "RT @MichelBarnier: Demain, il faudra aussi garantir le pluralisme et l’équilibre dans le débat politique de notre pays. Pour cela, la droit…",
+        "created_at": "2022-04-11 13:13:55+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1513505625908695050,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513505312032149507",
+        "text": "RT @MichelBarnier: .@vpecresse a mené une campagne digne et courageuse. Aujourd’hui, il nous faut choisir entre l’extrême droite et E. Macr…",
+        "created_at": "2022-04-11 13:12:40+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466465464691822594",
+                    "name": "Valérie Pécresse"
+                }
+            }
+        ],
+        "conversation_id": 1513505312032149507,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                },
+                {
+                    "start": 20,
+                    "end": 30,
+                    "username": "vpecresse",
+                    "id": "49969223"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 95,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513485561222287371",
+        "text": "RT @franceinter: .@MichelBarnier : \"C'est une défaite très grave pour la droite républicaine (...) un tel score doit conduire à l'humilité…",
+        "created_at": "2022-04-11 11:54:11+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [],
+        "conversation_id": 1513485561222287371,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "franceinter",
+                    "id": "34867057"
+                },
+                {
+                    "start": 18,
+                    "end": 32,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513485528716488712",
+        "text": "RT @franceinter: .@MichelBarnier : \"Une partie de la droite est partie chez Zemmour, peut-être chez Le Pen et une grande partie chez Macron…",
+        "created_at": "2022-04-11 11:54:03+00:00",
+        "attachments": null,
+        "author_id": 15719595,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466053355365548040",
+                    "name": "Éric Zemmour"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1513485528716488712,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "franceinter",
+                    "id": "34867057"
+                },
+                {
+                    "start": 18,
+                    "end": 32,
+                    "username": "MichelBarnier",
+                    "id": "17487476"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

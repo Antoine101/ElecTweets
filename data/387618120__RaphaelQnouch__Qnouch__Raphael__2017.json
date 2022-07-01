@@ -3420,7 +3420,9 @@
                     "end": 132,
                     "url": "https://t.co/mrYMxsh7PW",
                     "expanded_url": "https://youtu.be/LlZMnyE9RUE",
-                    "display_url": "youtu.be/LlZMnyE9RUE"
+                    "display_url": "youtu.be/LlZMnyE9RUE",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=LlZMnyE9RUE&feature=youtu.be"
                 }
             ],
             "mentions": [
@@ -3762,7 +3764,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 755,
+            "retweet_count": 754,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -4573,6 +4575,1520 @@
             "retweet_count": 2,
             "reply_count": 0,
             "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861482424571658243",
+        "text": "RT @mathieugallard: sondage @Kantar_FR sur les élections législatives :\n\nEM !-MoDem 24%\nLR-UDI 22%\nFN 21%\nPG-FI 15%\nPS 9% https://t.co/jYgQ…",
+        "created_at": "2017-05-08 07:26:30+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861482424571658243,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mathieugallard",
+                    "id": "47091549"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861334945196904449",
+        "text": "RT @mbompard: Ce soir une majorité CONTRE Le Pen. Aux élections législatives construisons une majorité POUR un avenir en commun @FranceInso…",
+        "created_at": "2017-05-07 21:40:28+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861334945196904449,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "mbompard",
+                    "id": "250323361"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 290,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860238090522198016",
+        "text": "je m'engage sur les 15 propositions!\n\nConsultez leurs 15 propositions https://t.co/dcNYaPwdzD\n\n#legislatives2017 #Franceinsoumise",
+        "created_at": "2017-05-04 21:01:57+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 860238090522198016,
+        "entities": {
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/dcNYaPwdzD",
+                    "expanded_url": "http://solidarite2017.org/nos-15-propositions-pour-une-france-solidaire-dans-le-monde-en-2017",
+                    "display_url": "solidarite2017.org/nos-15-proposi…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 112,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 113,
+                    "end": 129,
+                    "tag": "Franceinsoumise"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858354636054560773",
+        "text": "RT @AlecxJPS: Avec @jlmelenchon envoyons un max de députés #FranceInsoumise à l'AN\nRDV 11 &amp; 18 juin\n#Lorient #Lanester #Ploemeur #LarmorPla…",
+        "created_at": "2017-04-29 16:17:47+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 858354636054560773,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "AlecxJPS",
+                    "id": "2191323566"
+                },
+                {
+                    "start": 19,
+                    "end": 31,
+                    "username": "JLMelenchon",
+                    "id": "80820758"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 75,
+                    "tag": "FranceInsoumise"
+                },
+                {
+                    "start": 104,
+                    "end": 112,
+                    "tag": "Lorient"
+                },
+                {
+                    "start": 113,
+                    "end": 122,
+                    "tag": "Lanester"
+                },
+                {
+                    "start": 123,
+                    "end": 132,
+                    "tag": "Ploemeur"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 263,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858275082631864320",
+        "text": "@etienne_gg Merci etienne!",
+        "created_at": "2017-04-29 11:01:40+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [],
+        "conversation_id": 858234510957260800,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "etienne_gg",
+                    "id": "18448385"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 18448385,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856961863866871810",
+        "text": "RT @InsoumisJeunes: https://t.co/4eXwjS0AUx\nAvis aux jeunes insoumis : N'oubliez pas de participer à la consultation sur le 2ème tour ! Faî…",
+        "created_at": "2017-04-25 20:03:24+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 856961863866871810,
+        "entities": {
+            "urls": [
+                {
+                    "start": 20,
+                    "end": 43,
+                    "url": "https://t.co/4eXwjS0AUx",
+                    "expanded_url": "http://f-i.jlm2017.fr/consultation_2nd_tour",
+                    "display_url": "f-i.jlm2017.fr/consultation_2…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "InsoumisJeunes",
+                    "id": "789067312552960000"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856945101129617412",
+        "text": "J'ai participé à la consultation de la France insoumise sur le 2e tour de l'élection présidentielle. #ConsultationFi https://t.co/dFNr8jv0Vo",
+        "created_at": "2017-04-25 18:56:48+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10030626444",
+                    "name": "Elysée 2017"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049175004",
+                    "name": "Elysée 2017"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 856945101129617412,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/dFNr8jv0Vo",
+                    "expanded_url": "http://f-i.jlm2017.fr/consultation_2nd_tour?recruiter_id=618740",
+                    "display_url": "f-i.jlm2017.fr/consultation_2…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 116,
+                    "tag": "ConsultationFi"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "NationBuilder",
+        "withheld": null
+    },
+    {
+        "id": "856466216688525313",
+        "text": "RT @alexiscorbiere: Quelle est belle cette jeunesse de France ! Merci à elle... #JLM2017 https://t.co/slQWvoFjHj",
+        "created_at": "2017-04-24 11:13:53+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_856466103006003200"
+            ]
+        },
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 856466216688525313,
+        "entities": {
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/slQWvoFjHj",
+                    "expanded_url": "https://twitter.com/alexiscorbiere/status/856466110950105089/photo/1",
+                    "display_url": "pic.twitter.com/slQWvoFjHj",
+                    "media_key": "3_856466103006003200"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "alexiscorbiere",
+                    "id": "266215308"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 88,
+                    "tag": "JLM2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2348,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "855291735634714625",
+        "text": "RT @franceinter: #15MinutesPourConvaincre : La conclusion de Jean-Luc Mélenchon https://t.co/I8lxri9UcK",
+        "created_at": "2017-04-21 05:26:54+00:00",
+        "attachments": {
+            "media_keys": [
+                "13_855173868935417856"
+            ]
+        },
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 855291735634714625,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/I8lxri9UcK",
+                    "expanded_url": "https://twitter.com/franceinter/status/855174102453301248/video/1",
+                    "display_url": "pic.twitter.com/I8lxri9UcK",
+                    "media_key": "13_855173868935417856"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "franceinter",
+                    "id": "34867057"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 41,
+                    "tag": "15MinutesPourConvaincre"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 923,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "854391646284328960",
+        "text": "RT @abrahamslaurent: D'autres ont du mal à remplir une salle, les insoumis.e.s en remplissent 7 d'un coup #JLMHologramme #LePetitTailleur h…",
+        "created_at": "2017-04-18 17:50:16+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [],
+        "conversation_id": 854391646284328960,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "abrahamslaurent",
+                    "id": "897646340"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 120,
+                    "tag": "JLMHologramme"
+                },
+                {
+                    "start": 121,
+                    "end": 137,
+                    "tag": "LePetitTailleur"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "854096599001305088",
+        "text": "RT @jlm_2017: Beaucoup de monde devant la BNF pour accueillir la #PenicheInsoumise !! #JLM2017  #FranceInsoumise https://t.co/GLUxMxhoE7",
+        "created_at": "2017-04-17 22:17:52+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_854021192436645890"
+            ]
+        },
+        "author_id": 387618120,
+        "context_annotations": [],
+        "conversation_id": 854096599001305088,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/GLUxMxhoE7",
+                    "expanded_url": "https://twitter.com/jlm_2017/status/854021209985601537/photo/1",
+                    "display_url": "pic.twitter.com/GLUxMxhoE7",
+                    "media_key": "3_854021192436645890"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "JLM_2017",
+                    "id": "858464089638621184"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 82,
+                    "tag": "PenicheInsoumise"
+                },
+                {
+                    "start": 86,
+                    "end": 94,
+                    "tag": "JLM2017"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "tag": "FranceInsoumise"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 195,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "853346170961317888",
+        "text": "Veuillez RSVP : La Péniche insoumise à la Bibliothèque François Mitterrand ! https://t.co/ddzwObGuIo",
+        "created_at": "2017-04-15 20:35:56+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [],
+        "conversation_id": 853346170961317888,
+        "entities": {
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/ddzwObGuIo",
+                    "expanded_url": "http://f-i.jlm2017.fr/la_p_niche_insoumise_la_biblioth_que_fran_ois_mitterrand?recruiter_id=618740",
+                    "display_url": "f-i.jlm2017.fr/la_p_niche_ins…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "NationBuilder",
+        "withheld": null
+    },
+    {
+        "id": "853154491612499968",
+        "text": "Ce lundi 17 avril, la péniche insoumise fait le tour de l'Île-de-France avec Jean-Luc Mélenchon ! #AuTourDuPeuple https://t.co/D2TFkjNGMn",
+        "created_at": "2017-04-15 07:54:16+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 853154491612499968,
+        "entities": {
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/D2TFkjNGMn",
+                    "expanded_url": "http://f-i.jlm2017.fr/la_peniche_insoumise?recruiter_id=618740",
+                    "display_url": "f-i.jlm2017.fr/la_peniche_ins…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 113,
+                    "tag": "AuTourDuPeuple"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "NationBuilder",
+        "withheld": null
+    },
+    {
+        "id": "853133880970412035",
+        "text": "RT @francoisedegois: #Melenchon convaincant ce soir  sur la relance des carnets de commande,  la laïcité et l'#Alba. Casser les caricatures…",
+        "created_at": "2017-04-15 06:32:22+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 853133880970412035,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "francoisedegois",
+                    "id": "57652561"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 31,
+                    "tag": "Melenchon"
+                },
+                {
+                    "start": 110,
+                    "end": 115,
+                    "tag": "Alba"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 319,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852885949210136576",
+        "text": "RT @pbezian: #sondage #Presidentielle2017 @lemondefr\nMarge erreur 2,7pts\n#LePen 19,3 à 24,7\n#Macron 19,3 à 24,7\n#Melenchon 17,3 à 22,7\n\nTou…",
+        "created_at": "2017-04-14 14:07:10+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029216472",
+                    "name": "I Simpson"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049158570",
+                    "name": "Politicamente inetto con Homer Simpson",
+                    "description": "Homer si lamenta per il trattamento subito dagli agenti di sorveglianza all'areporto e diventa un 'caso' su internet. La cosa gli dà la possibilità di creare un suo talk show in tv e, nel contempo, fornisce il giusto supporto a Ted Nugent in qualità di candidato presidenziale per le prossime elezioni."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049158571",
+                    "name": "Il doh-cial network",
+                    "description": "Lisa crea un social network sul web chiamato SpringFace che ottiene un successo strepitoso, rendendo tutti gli abitanti di Springfield dipendenti dal nuovo strumento sulla rete. Nel frattempo, Patty e Selma si ritrovano a competere contro i gemelli Winklevoss per le Olimpiadi."
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 852885949210136576,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 52,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 21,
+                    "tag": "sondage"
+                },
+                {
+                    "start": 22,
+                    "end": 41,
+                    "tag": "Presidentielle2017"
+                },
+                {
+                    "start": 73,
+                    "end": 79,
+                    "tag": "LePen"
+                },
+                {
+                    "start": 92,
+                    "end": 99,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 112,
+                    "end": 122,
+                    "tag": "Melenchon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852640279257636865",
+        "text": "RT @MiAldon: @JJBourdin_RMC @opiamPG @JLMelenchon @EmmanuelMacron @benoithamon Le programme #AvenirEnCommun #JLM2017 passé au crible des or…",
+        "created_at": "2017-04-13 21:50:58+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029170290",
+                    "name": "Bourdin et Co"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            }
+        ],
+        "conversation_id": 852640279257636865,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "MiAldon",
+                    "id": "340435921"
+                },
+                {
+                    "start": 13,
+                    "end": 27,
+                    "username": "JJBourdin_RMC",
+                    "id": "101664219"
+                },
+                {
+                    "start": 28,
+                    "end": 36,
+                    "username": "opiamPG",
+                    "id": "854662140"
+                },
+                {
+                    "start": 37,
+                    "end": 49,
+                    "username": "JLMelenchon",
+                    "id": "80820758"
+                },
+                {
+                    "start": 50,
+                    "end": 65,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                },
+                {
+                    "start": 66,
+                    "end": 78,
+                    "username": "benoithamon",
+                    "id": "14389177"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 107,
+                    "tag": "AvenirEnCommun"
+                },
+                {
+                    "start": 108,
+                    "end": 116,
+                    "tag": "JLM2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852559710574309376",
+        "text": "RT @JLMelenchon: Mission possible 😎 - Sortie le 23 avril #UnFilmPourMélenchon",
+        "created_at": "2017-04-13 16:30:49+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 852559710574309376,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "JLMelenchon",
+                    "id": "80820758"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 77,
+                    "tag": "UnFilmPourMélenchon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1187,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852412927470698496",
+        "text": "RT @JLMelenchon: Continuez à me taper dessus. Rien que pour vous embêter, les gens iront voter pour moi. #JLMLille https://t.co/1SXqFGNelE",
+        "created_at": "2017-04-13 06:47:33+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 852412927470698496,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/1SXqFGNelE",
+                    "expanded_url": "https://youtu.be/ifEhkqG3Vzw",
+                    "display_url": "youtu.be/ifEhkqG3Vzw"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "JLMelenchon",
+                    "id": "80820758"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 114,
+                    "tag": "JLMLille"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 400,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852192719720116226",
+        "text": "RT @lioneltxr: .@elabe_fr Candidat qui incarne le mieux le changement :\n#Mélenchon 24%\n#Macron 23%\n#LePen 16%\n#Fillon 10%\nSondage @elabe_fr",
+        "created_at": "2017-04-12 16:12:32+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 852192719720116226,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "lioneltxr",
+                    "id": "1876470020"
+                },
+                {
+                    "start": 16,
+                    "end": 25,
+                    "username": "elabe_fr",
+                    "id": "3180612999"
+                },
+                {
+                    "start": 130,
+                    "end": 139,
+                    "username": "elabe_fr",
+                    "id": "3180612999"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 82,
+                    "tag": "Mélenchon"
+                },
+                {
+                    "start": 87,
+                    "end": 94,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 99,
+                    "end": 105,
+                    "tag": "LePen"
+                },
+                {
+                    "start": 110,
+                    "end": 117,
+                    "tag": "Fillon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852043194544017408",
+        "text": "\"il y a des simplifications, des falsifications qui conduisent à regarder le tribun et pas le programme \" Hollande sur #jlm2017 . 😂 gagné!",
+        "created_at": "2017-04-12 06:18:22+00:00",
+        "attachments": null,
+        "author_id": 387618120,
+        "context_annotations": [],
+        "conversation_id": 852043194544017408,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 127,
+                    "tag": "jlm2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
             "quote_count": 0
         },
         "reply_settings": "everyone",

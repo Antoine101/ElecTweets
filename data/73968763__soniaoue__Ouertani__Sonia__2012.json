@@ -40,13 +40,12 @@
         "context_annotations": [],
         "conversation_id": 211212578465128448,
         "entities": {
-            "urls": [
+            "mentions": [
                 {
-                    "start": 94,
-                    "end": 114,
-                    "url": "http://t.co/2sFeMU7J",
-                    "expanded_url": "http://goo.gl/fb/j6sGg",
-                    "display_url": "goo.gl/fb/j6sGg"
+                    "start": 3,
+                    "end": 13,
+                    "username": "le75020fr",
+                    "id": "62142573"
                 }
             ],
             "hashtags": [
@@ -56,12 +55,13 @@
                     "tag": "paris20"
                 }
             ],
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 13,
-                    "username": "le75020fr",
-                    "id": "62142573"
+                    "start": 94,
+                    "end": 114,
+                    "url": "http://t.co/2sFeMU7J",
+                    "expanded_url": "http://goo.gl/fb/j6sGg",
+                    "display_url": "goo.gl/fb/j6sGg"
                 }
             ]
         },
@@ -120,28 +120,6 @@
         "context_annotations": [],
         "conversation_id": 211211039935692800,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 15,
-                    "end": 36,
-                    "tag": "LeCentrePourLaFrance"
-                },
-                {
-                    "start": 53,
-                    "end": 63,
-                    "tag": "circo7510"
-                },
-                {
-                    "start": 73,
-                    "end": 83,
-                    "tag": "Circo7509"
-                },
-                {
-                    "start": 102,
-                    "end": 112,
-                    "tag": "Circo7515"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -172,6 +150,28 @@
                     "end": 129,
                     "username": "arnaudblesse",
                     "id": "111289427"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 36,
+                    "tag": "LeCentrePourLaFrance"
+                },
+                {
+                    "start": 53,
+                    "end": 63,
+                    "tag": "circo7510"
+                },
+                {
+                    "start": 73,
+                    "end": 83,
+                    "tag": "Circo7509"
+                },
+                {
+                    "start": 102,
+                    "end": 112,
+                    "tag": "Circo7515"
                 }
             ]
         },
@@ -386,22 +386,6 @@
         "context_annotations": [],
         "conversation_id": 211094277105782784,
         "entities": {
-            "urls": [
-                {
-                    "start": 81,
-                    "end": 101,
-                    "url": "http://t.co/CxrPJtkH",
-                    "expanded_url": "https://twitter.com/CatlyneH/status/211079592830709760/photo/1",
-                    "display_url": "pic.twitter.com/CxrPJtkH"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 80,
-                    "tag": "LeCentrePourLaFrance"
-                }
-            ],
             "mentions": [
                 {
                     "start": 12,
@@ -420,6 +404,22 @@
                     "end": 58,
                     "username": "SoniaOuertani",
                     "id": "2897586513"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 80,
+                    "tag": "LeCentrePourLaFrance"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 101,
+                    "url": "http://t.co/CxrPJtkH",
+                    "expanded_url": "https://twitter.com/CatlyneH/status/211079592830709760/photo/1",
+                    "display_url": "pic.twitter.com/CxrPJtkH"
                 }
             ]
         },
@@ -446,6 +446,14 @@
         "context_annotations": [],
         "conversation_id": 210992662201901056,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Kazansky1",
+                    "id": "343264102"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 40,
@@ -456,14 +464,6 @@
                     "start": 54,
                     "end": 64,
                     "tag": "circo7515"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "Kazansky1",
-                    "id": "343264102"
                 }
             ]
         },
@@ -554,6 +554,13 @@
         "context_annotations": [],
         "conversation_id": 210715422662733825,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 69,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 0,
@@ -561,13 +568,6 @@
                     "url": "http://t.co/9Ry1bNIK",
                     "expanded_url": "http://soniaouertani.lecentrepourlafrance.fr/actus/discours-public-je-suis-face-a-vous-et-je-me-presente-partie-22/",
                     "display_url": "soniaouertani.lecentrepourlafrance.fr/actus/discours…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 69,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -617,6 +617,14 @@
         "context_annotations": [],
         "conversation_id": 210516256737067008,
         "entities": {
+            "mentions": [
+                {
+                    "start": 130,
+                    "end": 137,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ],
             "urls": [
                 {
                     "start": 105,
@@ -624,14 +632,6 @@
                     "url": "http://t.co/P4sy6r6k",
                     "expanded_url": "http://www.bayrou.fr/article/120506-nous-sommes-une-force-dapaisement-de-la-societe-francaise-constructive-et-cooperative",
                     "display_url": "bayrou.fr/article/120506…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 130,
-                    "end": 137,
-                    "username": "bayrou",
-                    "id": "17211968"
                 }
             ]
         },
@@ -658,15 +658,6 @@
         "context_annotations": [],
         "conversation_id": 210480210498437121,
         "entities": {
-            "urls": [
-                {
-                    "start": 100,
-                    "end": 120,
-                    "url": "http://t.co/iciz5rkT",
-                    "expanded_url": "http://soniaouertani.lecentrepourlafrance.fr/contact/",
-                    "display_url": "soniaouertani.lecentrepourlafrance.fr/contact/"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -679,6 +670,15 @@
                     "end": 135,
                     "username": "SoniaOuertani",
                     "id": "2897586513"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 120,
+                    "url": "http://t.co/iciz5rkT",
+                    "expanded_url": "http://soniaouertani.lecentrepourlafrance.fr/contact/",
+                    "display_url": "soniaouertani.lecentrepourlafrance.fr/contact/"
                 }
             ]
         },
@@ -769,6 +769,14 @@
         "context_annotations": [],
         "conversation_id": 210402561541423104,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "bodyspacesoc",
+                    "id": "2743838457"
+                }
+            ],
             "urls": [
                 {
                     "start": 98,
@@ -776,14 +784,6 @@
                     "url": "http://t.co/Fer0tSdm",
                     "expanded_url": "http://www.youtube.com/watch?v=D_4s4knfuoU",
                     "display_url": "youtube.com/watch?v=D_4s4k…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 16,
-                    "username": "bodyspacesoc",
-                    "id": "2743838457"
                 }
             ]
         },
@@ -1260,6 +1260,14 @@
         "context_annotations": [],
         "conversation_id": 209231512669921280,
         "entities": {
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 22,
+                    "username": "JDemParis",
+                    "id": "104962422"
+                }
+            ],
             "urls": [
                 {
                     "start": 56,
@@ -1267,14 +1275,6 @@
                     "url": "https://t.co/uvFu4oK5",
                     "expanded_url": "https://twitter.com/Jhonpariss/status/209231512669921280/photo/1",
                     "display_url": "pic.twitter.com/uvFu4oK5"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 12,
-                    "end": 22,
-                    "username": "JDemParis",
-                    "id": "104962422"
                 }
             ]
         },
@@ -1301,13 +1301,18 @@
         "context_annotations": [],
         "conversation_id": 209417582225276929,
         "entities": {
-            "urls": [
+            "mentions": [
                 {
-                    "start": 21,
-                    "end": 41,
-                    "url": "http://t.co/2UblaJ2h",
-                    "expanded_url": "http://minilien.fr/a0n4sx",
-                    "display_url": "minilien.fr/a0n4sx"
+                    "start": 69,
+                    "end": 83,
+                    "username": "SoniaOuertani",
+                    "id": "2897586513"
+                },
+                {
+                    "start": 125,
+                    "end": 136,
+                    "username": "Menilmuche",
+                    "id": "27797493"
                 }
             ],
             "hashtags": [
@@ -1332,18 +1337,13 @@
                     "tag": "PEAV"
                 }
             ],
-            "mentions": [
+            "urls": [
                 {
-                    "start": 69,
-                    "end": 83,
-                    "username": "SoniaOuertani",
-                    "id": "2897586513"
-                },
-                {
-                    "start": 125,
-                    "end": 136,
-                    "username": "Menilmuche",
-                    "id": "27797493"
+                    "start": 21,
+                    "end": 41,
+                    "url": "http://t.co/2UblaJ2h",
+                    "expanded_url": "http://minilien.fr/a0n4sx",
+                    "display_url": "minilien.fr/a0n4sx"
                 }
             ]
         },
@@ -1824,13 +1824,6 @@
         "context_annotations": [],
         "conversation_id": 206191151240314880,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 23,
-                    "tag": "FF"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1873,6 +1866,13 @@
                     "end": 116,
                     "username": "menard2012",
                     "id": "583892044"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 23,
+                    "tag": "FF"
                 }
             ]
         },
@@ -2025,13 +2025,6 @@
         "context_annotations": [],
         "conversation_id": 206044434930991104,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 15,
-                    "end": 18,
-                    "tag": "FF"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2093,11 +2086,18 @@
                     "username": "oanthore",
                     "id": "245050446"
                 }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 18,
+                    "tag": "FF"
+                }
             ]
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "qme",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 1,
@@ -2118,13 +2118,6 @@
         "context_annotations": [],
         "conversation_id": 206044412998983682,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 21,
-                    "end": 24,
-                    "tag": "FF"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2186,6 +2179,13 @@
                     "username": "oanthore",
                     "id": "245050446"
                 }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 24,
+                    "tag": "FF"
+                }
             ]
         },
         "geo": null,
@@ -2234,13 +2234,6 @@
         "context_annotations": [],
         "conversation_id": 205938652570857472,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 21,
-                    "end": 27,
-                    "tag": "anéfé"
-                }
-            ],
             "mentions": [
                 {
                     "start": 0,
@@ -2253,6 +2246,13 @@
                     "end": 20,
                     "username": "muftinomaan",
                     "id": "3987942143"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 27,
+                    "tag": "anéfé"
                 }
             ]
         },
@@ -2317,18 +2317,6 @@
         "context_annotations": [],
         "conversation_id": 205740674530807808,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 85,
-                    "end": 92,
-                    "tag": "benali"
-                },
-                {
-                    "start": 135,
-                    "end": 139,
-                    "tag": "ump"
-                }
-            ],
             "mentions": [
                 {
                     "start": 0,
@@ -2341,6 +2329,18 @@
                     "end": 22,
                     "username": "MAM",
                     "id": "297890559"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 92,
+                    "tag": "benali"
+                },
+                {
+                    "start": 135,
+                    "end": 139,
+                    "tag": "ump"
                 }
             ]
         },
@@ -2524,13 +2524,6 @@
         "context_annotations": [],
         "conversation_id": 205427268732985344,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 40,
-                    "tag": "LeCentrepourlaFrance"
-                }
-            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2579,6 +2572,13 @@
                     "end": 132,
                     "username": "SoniaOuertani",
                     "id": "2897586513"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 40,
+                    "tag": "LeCentrepourlaFrance"
                 }
             ]
         },
@@ -2643,15 +2643,6 @@
         "context_annotations": [],
         "conversation_id": 205285150374899712,
         "entities": {
-            "urls": [
-                {
-                    "start": 84,
-                    "end": 104,
-                    "url": "http://t.co/fiXhGZuP",
-                    "expanded_url": "http://fr.news.yahoo.com/scrutin-pr%C3%A9sidentiel-historique-en-egypte-052726317.html",
-                    "display_url": "fr.news.yahoo.com/scrutin-pr%C3%…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 3,
@@ -2662,6 +2653,15 @@
                     "start": 16,
                     "end": 26,
                     "tag": "Egyptiens"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 104,
+                    "url": "http://t.co/fiXhGZuP",
+                    "expanded_url": "http://fr.news.yahoo.com/scrutin-pr%C3%A9sidentiel-historique-en-egypte-052726317.html",
+                    "display_url": "fr.news.yahoo.com/scrutin-pr%C3%…"
                 }
             ]
         },
@@ -2722,7 +2722,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": 29061823,
-        "lang": "und",
+        "lang": "qam",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -2855,13 +2855,6 @@
         "context_annotations": [],
         "conversation_id": 205082793640857601,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 56,
-                    "end": 62,
-                    "tag": "MoDem"
-                }
-            ],
             "mentions": [
                 {
                     "start": 14,
@@ -2880,6 +2873,13 @@
                     "end": 91,
                     "username": "bayrou",
                     "id": "17211968"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 62,
+                    "tag": "MoDem"
                 }
             ]
         },
@@ -3077,15 +3077,6 @@
         "context_annotations": [],
         "conversation_id": 204415125107650561,
         "entities": {
-            "urls": [
-                {
-                    "start": 114,
-                    "end": 134,
-                    "url": "http://t.co/SeJR4HRu",
-                    "expanded_url": "http://youtu.be/Muu7FxdCG4U",
-                    "display_url": "youtu.be/Muu7FxdCG4U"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 17,
@@ -3111,6 +3102,15 @@
                     "start": 104,
                     "end": 111,
                     "tag": "Centre"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 134,
+                    "url": "http://t.co/SeJR4HRu",
+                    "expanded_url": "http://youtu.be/Muu7FxdCG4U",
+                    "display_url": "youtu.be/Muu7FxdCG4U"
                 }
             ]
         },
@@ -3283,6 +3283,14 @@
         "context_annotations": [],
         "conversation_id": 203952637794725888,
         "entities": {
+            "mentions": [
+                {
+                    "start": 47,
+                    "end": 54,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 11,
@@ -3303,14 +3311,6 @@
                     "start": 125,
                     "end": 138,
                     "tag": "Législatives"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 47,
-                    "end": 54,
-                    "username": "bayrou",
-                    "id": "17211968"
                 }
             ]
         },
@@ -3337,19 +3337,19 @@
         "context_annotations": [],
         "conversation_id": 203541649463324672,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 117,
-                    "end": 136,
-                    "tag": "centrepourlafrance"
-                }
-            ],
             "mentions": [
                 {
                     "start": 0,
                     "end": 14,
                     "username": "SoniaOuertani",
                     "id": "2897586513"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 136,
+                    "tag": "centrepourlafrance"
                 }
             ]
         },
@@ -3451,7 +3451,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": 124566651,
-        "lang": "und",
+        "lang": "qam",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -3651,6 +3651,14 @@
         "context_annotations": [],
         "conversation_id": 203541649463324672,
         "entities": {
+            "mentions": [
+                {
+                    "start": 132,
+                    "end": 139,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 25,
@@ -3661,14 +3669,6 @@
                     "start": 41,
                     "end": 49,
                     "tag": "Paris20"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 132,
-                    "end": 139,
-                    "username": "bayrou",
-                    "id": "17211968"
                 }
             ]
         },
@@ -3684,6 +3684,416 @@
         },
         "reply_settings": "everyone",
         "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "199277892369268736",
+        "text": "RT @Eberretta: Une pensée ce soir pour Nafissatou Diallo qui, en changeant les draps de la 2806, a surtout changé le destin de la France.",
+        "created_at": "2012-05-06 23:22:06+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 199277892369268736,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Eberretta",
+                    "id": "44214196"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 955,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "199170397487374336",
+        "text": "@edwyplenel http://t.co/hqp7nRse Discours de Suède, 1957 - Albert Camus :) (elle est bien aussi celle-là)",
+        "created_at": "2012-05-06 16:14:57+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 199165321762971648,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "edwyplenel",
+                    "id": "47399805"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 32,
+                    "url": "http://t.co/hqp7nRse",
+                    "expanded_url": "http://lecomptoirdelaprospective.blogspot.fr/2012/04/citation-dalbert-camus.html",
+                    "display_url": "lecomptoirdelaprospective.blogspot.fr/2012/04/citati…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 47399805,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "199146302901190658",
+        "text": "@Fk_MeyR Libérée mais loin d'être sauvée ! #Bayrou nous aura prévenus",
+        "created_at": "2012-05-06 14:39:13+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 199145433631698944,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 43,
+                    "end": 50,
+                    "tag": "Bayrou"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 135615461,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "197840298427162625",
+        "text": "@Salome_L Haha c'est le manque de vrai débat qui me frustre et fait que je me rabats sur les cacahuètes !",
+        "created_at": "2012-05-03 00:09:37+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 197788462072602625,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "SALOME_L",
+                    "id": "1463495322202685447"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 19233676,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195273030795132928",
+        "text": "#Elections http://t.co/5fqha5dJ A 100% d'ac, et 0 report de mes voix sur le doute - \"La vertu est le juste milieu entre 2 vices\", #Aristote",
+        "created_at": "2012-04-25 22:08:13+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 195273030795132928,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "Elections"
+                },
+                {
+                    "start": 130,
+                    "end": 139,
+                    "tag": "Aristote"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 11,
+                    "end": 31,
+                    "url": "http://t.co/5fqha5dJ",
+                    "expanded_url": "http://bit.ly/Im8mWH",
+                    "display_url": "bit.ly/Im8mWH"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195158158354825216",
+        "text": "RT @arnaud_thurudev: On est adolescent de 10 ans à 24 ans http://t.co/AscmVtr5",
+        "created_at": "2012-04-25 14:31:45+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 195158158354825216,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "arnaud_thurudev",
+                    "id": "41093168"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 78,
+                    "url": "http://t.co/AscmVtr5",
+                    "expanded_url": "http://bit.ly/I1nY3A",
+                    "display_url": "bit.ly/I1nY3A"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "194395377192026112",
+        "text": "Bayrou 2012 - Si les jeux sont en partie faits, c'est dans son discours d'après 1er tour que tout est dit. François @bayrou : Respect!",
+        "created_at": "2012-04-23 12:00:44+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 194395377192026112,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 116,
+                    "end": 123,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "194231639646285825",
+        "text": "@JeanPhilippe75 Merci ! mais pas d'accès à l'article :(",
+        "created_at": "2012-04-23 01:10:06+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 194227749391568896,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "jeanphilippe75",
+                    "id": "804788828972154880"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 120797906,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "194227066785378304",
+        "text": "@AudreySalor Merci pour le suivi pas à pas ! On sera là pour la suite, et de + en + motivés, n'en déplaise aux derniers pourcentages! #MoDem",
+        "created_at": "2012-04-23 00:51:55+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 194113162457526272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "AudreySalor",
+                    "id": "171025132"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 134,
+                    "end": 140,
+                    "tag": "MoDem"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 171025132,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "194224679106510848",
+        "text": "RT @AudreySalor: Sonia, chef de projet dans la com, sympathisante #modem: \"#Bayrou est le seul a tenir des propos cohérents\" http://t.co ...",
+        "created_at": "2012-04-23 00:42:26+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 194224679106510848,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "AudreySalor",
+                    "id": "171025132"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 72,
+                    "tag": "modem"
+                },
+                {
+                    "start": 75,
+                    "end": 82,
+                    "tag": "Bayrou"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "192575920282931200",
+        "text": "Discover my social constellation powered by @TigerlilyApps http://t.co/eizkv1pO",
+        "created_at": "2012-04-18 11:30:51+00:00",
+        "attachments": null,
+        "author_id": 73968763,
+        "context_annotations": [],
+        "conversation_id": 192575920282931200,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 58,
+                    "username": "TigerlilyApps",
+                    "id": "1203963114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 79,
+                    "url": "http://t.co/eizkv1pO",
+                    "expanded_url": "http://socialconstellation.net/infography/73968763",
+                    "display_url": "socialconstellation.net/infography/739…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
         "withheld": null
     }
 ]

@@ -20,7 +20,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -41,6 +41,13 @@
         "context_annotations": [],
         "conversation_id": 873061156356620288,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 26,
+                    "tag": "Wikipedia"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -53,13 +60,6 @@
                     "end": 122,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 16,
-                    "end": 26,
-                    "tag": "Wikipedia"
                 }
             ]
         },
@@ -86,19 +86,19 @@
         "context_annotations": [],
         "conversation_id": 873061042745622529,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "CivicTech"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 15,
                     "username": "CivicTechFR",
                     "id": "4773336023"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 121,
-                    "end": 131,
-                    "tag": "CivicTech"
                 }
             ]
         },
@@ -129,14 +129,6 @@
         "context_annotations": [],
         "conversation_id": 873060610677784576,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "anticor_org",
-                    "id": "113462371"
-                }
-            ],
             "urls": [
                 {
                     "start": 17,
@@ -146,14 +138,22 @@
                     "display_url": "pic.twitter.com/bBHOETLcHA",
                     "media_key": "3_872373949757304833"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "anticor_org",
+                    "id": "113462371"
+                }
             ]
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 175,
+            "retweet_count": 174,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -171,14 +171,6 @@
         "context_annotations": [],
         "conversation_id": 873060457497546755,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "la_chouet",
-                    "id": "2874068475"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 15,
@@ -204,6 +196,14 @@
                     "start": 85,
                     "end": 105,
                     "tag": "violencespolicieres"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "la_chouet",
+                    "id": "2874068475"
                 }
             ]
         },
@@ -322,7 +322,7 @@
         "lang": "en",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 9956,
+            "retweet_count": 9947,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -353,6 +353,18 @@
         ],
         "conversation_id": 873059998435164160,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 70,
+                    "end": 76,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 120,
+                    "end": 137,
+                    "tag": "Législatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -365,18 +377,6 @@
                     "end": 67,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 70,
-                    "end": 76,
-                    "tag": "Paris"
-                },
-                {
-                    "start": 120,
-                    "end": 137,
-                    "tag": "Législatives2017"
                 }
             ]
         },
@@ -403,14 +403,6 @@
         "context_annotations": [],
         "conversation_id": 873059887034519554,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "PartiPirate",
-                    "id": "47348084"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 84,
@@ -421,6 +413,14 @@
                     "start": 99,
                     "end": 116,
                     "tag": "Législatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PartiPirate",
+                    "id": "47348084"
                 }
             ]
         },
@@ -491,7 +491,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -594,14 +594,6 @@
         "context_annotations": [],
         "conversation_id": 872362042778427392,
         "entities": {
-            "mentions": [
-                {
-                    "start": 92,
-                    "end": 103,
-                    "username": "franceinfo",
-                    "id": "38395124"
-                }
-            ],
             "urls": [
                 {
                     "start": 64,
@@ -609,6 +601,14 @@
                     "url": "https://t.co/W5mmgYX3Pr",
                     "expanded_url": "http://www.francetvinfo.fr/politique/affaire/affaire-richard-ferrand/legislatives-26-candidats-pour-un-seul-fauteuil-a-l-assemblee_2222079.html#xtor=CS2-765-[twitter]-",
                     "display_url": "francetvinfo.fr/politique/affa…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 103,
+                    "username": "franceinfo",
+                    "id": "38395124"
                 }
             ]
         },
@@ -639,21 +639,6 @@
         "context_annotations": [],
         "conversation_id": 872108538709106688,
         "entities": {
-            "mentions": [
-                {
-                    "start": 134,
-                    "end": 144,
-                    "username": "idltweets",
-                    "id": "3122240513"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 73,
-                    "tag": "netneutrality"
-                }
-            ],
             "urls": [
                 {
                     "start": 82,
@@ -669,6 +654,21 @@
                     "expanded_url": "https://twitter.com/fightfortheftr/status/872057703614607365/photo/1",
                     "display_url": "pic.twitter.com/6zZb5mB5kc",
                     "media_key": "3_872057366442778627"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 73,
+                    "tag": "netneutrality"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 134,
+                    "end": 144,
+                    "username": "idltweets",
+                    "id": "3122240513"
                 }
             ]
         },
@@ -695,6 +695,18 @@
         "context_annotations": [],
         "conversation_id": 871955943646429184,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 77,
+                    "end": 92,
+                    "tag": "VotonsCitoyens"
+                },
+                {
+                    "start": 93,
+                    "end": 110,
+                    "tag": "Législatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -707,18 +719,6 @@
                     "end": 32,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 77,
-                    "end": 92,
-                    "tag": "VotonsCitoyens"
-                },
-                {
-                    "start": 93,
-                    "end": 110,
-                    "tag": "Législatives2017"
                 }
             ]
         },
@@ -815,12 +815,13 @@
         "context_annotations": [],
         "conversation_id": 871671919174725632,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 11,
-                    "username": "FunMooc",
-                    "id": "3012435040"
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/o5v44SF7a4",
+                    "expanded_url": "https://www.fun-mooc.fr/courses/course-v1:inria+41012+session02/about",
+                    "display_url": "fun-mooc.fr/courses/course…"
                 }
             ],
             "hashtags": [
@@ -840,13 +841,12 @@
                     "tag": "MOOC"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 116,
-                    "end": 139,
-                    "url": "https://t.co/o5v44SF7a4",
-                    "expanded_url": "https://www.fun-mooc.fr/courses/course-v1:inria+41012+session02/about",
-                    "display_url": "fun-mooc.fr/courses/course…"
+                    "start": 3,
+                    "end": 11,
+                    "username": "FunMooc",
+                    "id": "3012435040"
                 }
             ]
         },
@@ -873,19 +873,19 @@
         "context_annotations": [],
         "conversation_id": 871671807241330688,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 57,
+                    "tag": "Rennes"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 15,
                     "username": "MarCharlott",
                     "id": "1567664221"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 50,
-                    "end": 57,
-                    "tag": "Rennes"
                 }
             ]
         },
@@ -912,14 +912,6 @@
         "context_annotations": [],
         "conversation_id": 871671434761965568,
         "entities": {
-            "mentions": [
-                {
-                    "start": 28,
-                    "end": 38,
-                    "username": "Pinterest",
-                    "id": "106837463"
-                }
-            ],
             "urls": [
                 {
                     "start": 0,
@@ -928,11 +920,19 @@
                     "expanded_url": "http://pin.it/p_X7NIk",
                     "display_url": "pin.it/p_X7NIk"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "Pinterest",
+                    "id": "106837463"
+                }
             ]
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -957,14 +957,6 @@
         "context_annotations": [],
         "conversation_id": 871595765382213632,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "Natbricks",
-                    "id": "2859300167"
-                }
-            ],
             "urls": [
                 {
                     "start": 66,
@@ -980,6 +972,14 @@
                     "expanded_url": "https://twitter.com/Natbricks/status/870646981944672257/photo/1",
                     "display_url": "pic.twitter.com/KxYHqrBfJE",
                     "media_key": "3_870646978861977601"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Natbricks",
+                    "id": "2859300167"
                 }
             ],
             "annotations": [
@@ -1072,19 +1072,19 @@
         ],
         "conversation_id": 871592331534884864,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 119,
+                    "tag": "ToutVaBien"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 13,
                     "username": "ludovicbu",
                     "id": "27032395"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 108,
-                    "end": 119,
-                    "tag": "ToutVaBien"
                 }
             ]
         },
@@ -1111,14 +1111,6 @@
         "context_annotations": [],
         "conversation_id": 871255275570962438,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "Florielvm",
-                    "id": "160489259"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 22,
@@ -1139,6 +1131,14 @@
                     "start": 126,
                     "end": 136,
                     "tag": "circo9306"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Florielvm",
+                    "id": "160489259"
                 }
             ]
         },
@@ -1177,7 +1177,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -1221,14 +1221,6 @@
         ],
         "conversation_id": 871087936640516097,
         "entities": {
-            "mentions": [
-                {
-                    "start": 71,
-                    "end": 79,
-                    "username": "YouTube",
-                    "id": "10228272"
-                }
-            ],
             "urls": [
                 {
                     "start": 43,
@@ -1236,6 +1228,14 @@
                     "url": "https://t.co/z4llJHwt62",
                     "expanded_url": "https://youtu.be/vSyT6SfjkMg",
                     "display_url": "youtu.be/vSyT6SfjkMg"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 71,
+                    "end": 79,
+                    "username": "YouTube",
+                    "id": "10228272"
                 }
             ]
         },
@@ -1262,14 +1262,6 @@
         "context_annotations": [],
         "conversation_id": 870881707511205888,
         "entities": {
-            "mentions": [
-                {
-                    "start": 72,
-                    "end": 81,
-                    "username": "LEXPRESS",
-                    "id": "13353862"
-                }
-            ],
             "urls": [
                 {
                     "start": 44,
@@ -1277,6 +1269,14 @@
                     "url": "https://t.co/kp6F0KSPgx",
                     "expanded_url": "http://po.st/fUmTbV",
                     "display_url": "po.st/fUmTbV"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 72,
+                    "end": 81,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
                 }
             ]
         },
@@ -1336,14 +1336,6 @@
         "context_annotations": [],
         "conversation_id": 870723263630069761,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 12,
-                    "username": "Senficon",
-                    "id": "14861745"
-                }
-            ],
             "urls": [
                 {
                     "start": 115,
@@ -1351,6 +1343,14 @@
                     "url": "https://t.co/nEpdTwiw6O",
                     "expanded_url": "https://juliareda.eu/2017/05/societe-civile-exige-abolition-geoblocage-2/",
                     "display_url": "juliareda.eu/2017/05/societ…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Senficon",
+                    "id": "14861745"
                 }
             ]
         },
@@ -1377,12 +1377,13 @@
         "context_annotations": [],
         "conversation_id": 870722814940196870,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 15,
-                    "username": "PartiPirate",
-                    "id": "47348084"
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/D9HrTcZfW7",
+                    "expanded_url": "https://partipirate.fr",
+                    "display_url": "partipirate.fr"
                 }
             ],
             "hashtags": [
@@ -1397,13 +1398,12 @@
                     "tag": "Législatives2017"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 108,
-                    "end": 131,
-                    "url": "https://t.co/D9HrTcZfW7",
-                    "expanded_url": "https://partipirate.fr",
-                    "display_url": "partipirate.fr"
+                    "start": 3,
+                    "end": 15,
+                    "username": "PartiPirate",
+                    "id": "47348084"
                 }
             ]
         },
@@ -1556,7 +1556,7 @@
         "lang": "en",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 193569,
+            "retweet_count": 193333,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -1574,12 +1574,13 @@
         "context_annotations": [],
         "conversation_id": 870361460177764354,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 11,
-                    "username": "Idverre",
-                    "id": "324884488"
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/FpjPmsvARK",
+                    "expanded_url": "http://culturebox.francetvinfo.fr/le-blog-de-thierry-hay/2017/05/31/les-formidables-dentelles-de-verre-de-kim-kototamalune-a-la-galerie-da-end.html",
+                    "display_url": "culturebox.francetvinfo.fr/le-blog-de-thi…"
                 }
             ],
             "hashtags": [
@@ -1589,13 +1590,12 @@
                     "tag": "verre"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 79,
-                    "end": 102,
-                    "url": "https://t.co/FpjPmsvARK",
-                    "expanded_url": "http://culturebox.francetvinfo.fr/le-blog-de-thierry-hay/2017/05/31/les-formidables-dentelles-de-verre-de-kim-kototamalune-a-la-galerie-da-end.html",
-                    "display_url": "culturebox.francetvinfo.fr/le-blog-de-thi…"
+                    "start": 3,
+                    "end": 11,
+                    "username": "Idverre",
+                    "id": "324884488"
                 }
             ]
         },
@@ -1622,6 +1622,15 @@
         "context_annotations": [],
         "conversation_id": 870361366691028992,
         "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/sQrVLsljpg",
+                    "expanded_url": "http://po.st/oaumDK",
+                    "display_url": "po.st/oaumDK"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1635,15 +1644,6 @@
                     "username": "LEXPRESS",
                     "id": "13353862"
                 }
-            ],
-            "urls": [
-                {
-                    "start": 68,
-                    "end": 91,
-                    "url": "https://t.co/sQrVLsljpg",
-                    "expanded_url": "http://po.st/oaumDK",
-                    "display_url": "po.st/oaumDK"
-                }
             ]
         },
         "geo": null,
@@ -1651,7 +1651,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 24,
+            "retweet_count": 23,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -1719,7 +1719,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 525,
+            "retweet_count": 524,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -1737,12 +1737,13 @@
         "context_annotations": [],
         "conversation_id": 870175340555063296,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 73,
-                    "end": 84,
-                    "username": "RepondonsP",
-                    "id": "839842972023861251"
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/3A5c5KMJss",
+                    "expanded_url": "https://www.appel-des-solidarites.fr/",
+                    "display_url": "appel-des-solidarites.fr"
                 }
             ],
             "hashtags": [
@@ -1752,13 +1753,12 @@
                     "tag": "RépondonsPrésent"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 103,
-                    "end": 126,
-                    "url": "https://t.co/3A5c5KMJss",
-                    "expanded_url": "https://www.appel-des-solidarites.fr/",
-                    "display_url": "appel-des-solidarites.fr"
+                    "start": 73,
+                    "end": 84,
+                    "username": "RepondonsP",
+                    "id": "839842972023861251"
                 }
             ]
         },
@@ -1785,6 +1785,15 @@
         "context_annotations": [],
         "conversation_id": 870172027977650177,
         "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/Bs0TnvyHt9",
+                    "expanded_url": "https://www.youtube.com/watch?v=amm3TSw32No&feature=youtu.be",
+                    "display_url": "youtube.com/watch?v=amm3TS…"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1797,15 +1806,6 @@
                     "end": 73,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 76,
-                    "end": 99,
-                    "url": "https://t.co/Bs0TnvyHt9",
-                    "expanded_url": "https://www.youtube.com/watch?v=amm3TSw32No&feature=youtu.be",
-                    "display_url": "youtube.com/watch?v=amm3TS…"
                 }
             ]
         },
@@ -1870,6 +1870,15 @@
         "context_annotations": [],
         "conversation_id": 870153129945427972,
         "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/KBvObAXgm7",
+                    "expanded_url": "https://www.partipirate.org/mailing/romanphoto.pdf",
+                    "display_url": "partipirate.org/mailing/romanp…"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1882,15 +1891,6 @@
                     "end": 112,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 115,
-                    "end": 138,
-                    "url": "https://t.co/KBvObAXgm7",
-                    "expanded_url": "https://www.partipirate.org/mailing/romanphoto.pdf",
-                    "display_url": "partipirate.org/mailing/romanp…"
                 }
             ]
         },
@@ -1917,6 +1917,18 @@
         "context_annotations": [],
         "conversation_id": 870153011364016128,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 84,
+                    "tag": "VotonsCitoyens"
+                },
+                {
+                    "start": 85,
+                    "end": 102,
+                    "tag": "Législatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1929,18 +1941,6 @@
                     "end": 32,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 69,
-                    "end": 84,
-                    "tag": "VotonsCitoyens"
-                },
-                {
-                    "start": 85,
-                    "end": 102,
-                    "tag": "Législatives2017"
                 }
             ]
         },
@@ -1990,6 +1990,15 @@
         ],
         "conversation_id": 870140497712566272,
         "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/vTfqcB1db2",
+                    "expanded_url": "https://goo.gl/4IDnr2",
+                    "display_url": "goo.gl/4IDnr2"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2008,15 +2017,6 @@
                     "end": 78,
                     "username": "simplonco",
                     "id": "1374547314"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 111,
-                    "end": 134,
-                    "url": "https://t.co/vTfqcB1db2",
-                    "expanded_url": "https://goo.gl/4IDnr2",
-                    "display_url": "goo.gl/4IDnr2"
                 }
             ]
         },
@@ -2198,14 +2198,6 @@
         ],
         "conversation_id": 869184370418036736,
         "entities": {
-            "mentions": [
-                {
-                    "start": 128,
-                    "end": 140,
-                    "username": "Cap_Digital",
-                    "id": "21290877"
-                }
-            ],
             "urls": [
                 {
                     "start": 100,
@@ -2213,6 +2205,14 @@
                     "url": "https://t.co/9wA8JKb21Y",
                     "expanded_url": "http://go.shr.lc/2sdF6Qq",
                     "display_url": "go.shr.lc/2sdF6Qq"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 140,
+                    "username": "Cap_Digital",
+                    "id": "21290877"
                 }
             ]
         },
@@ -2285,6 +2285,18 @@
         "context_annotations": [],
         "conversation_id": 868884879030747136,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 29,
+                    "tag": "3Dprinting"
+                },
+                {
+                    "start": 64,
+                    "end": 68,
+                    "tag": "EEG"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2303,18 +2315,6 @@
                     "end": 103,
                     "username": "art_a_hack",
                     "id": "3131678716"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 18,
-                    "end": 29,
-                    "tag": "3Dprinting"
-                },
-                {
-                    "start": 64,
-                    "end": 68,
-                    "tag": "EEG"
                 }
             ]
         },
@@ -2341,19 +2341,19 @@
         "context_annotations": [],
         "conversation_id": 868884679704948737,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 29,
+                    "tag": "fens2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 37,
                     "end": 48,
                     "username": "LaVillette",
                     "id": "48669146"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 29,
-                    "tag": "fens2017"
                 }
             ]
         },
@@ -2446,14 +2446,6 @@
         "context_annotations": [],
         "conversation_id": 868174204067336192,
         "entities": {
-            "mentions": [
-                {
-                    "start": 54,
-                    "end": 63,
-                    "username": "allocine",
-                    "id": "16202455"
-                }
-            ],
             "urls": [
                 {
                     "start": 26,
@@ -2461,6 +2453,14 @@
                     "url": "https://t.co/DYlQnwi6ID",
                     "expanded_url": "http://www.allocine.fr/film/fichefilm_gen_cfilm=245592.html",
                     "display_url": "allocine.fr/film/fichefilm…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 54,
+                    "end": 63,
+                    "username": "allocine",
+                    "id": "16202455"
                 }
             ]
         },
@@ -2519,6 +2519,15 @@
         "context_annotations": [],
         "conversation_id": 867320643846631424,
         "entities": {
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/PlS3EggEfm",
+                    "expanded_url": "https://twitter.com/RegardsCitoyens/status/866904498664611840",
+                    "display_url": "twitter.com/RegardsCitoyen…"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2531,15 +2540,6 @@
                     "end": 76,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 77,
-                    "end": 100,
-                    "url": "https://t.co/PlS3EggEfm",
-                    "expanded_url": "https://twitter.com/RegardsCitoyens/status/866904498664611840",
-                    "display_url": "twitter.com/RegardsCitoyen…"
                 }
             ]
         },
@@ -2599,14 +2599,6 @@
         "context_annotations": [],
         "conversation_id": 867319235403448321,
         "entities": {
-            "mentions": [
-                {
-                    "start": 76,
-                    "end": 88,
-                    "username": "anticor_org",
-                    "id": "113462371"
-                }
-            ],
             "urls": [
                 {
                     "start": 48,
@@ -2614,6 +2606,14 @@
                     "url": "https://t.co/QaMWhp6Fza",
                     "expanded_url": "http://www.anticor.org/2017/05/12/la-charte-ethique-danticor-et-les-legislatives/",
                     "display_url": "anticor.org/2017/05/12/la-…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 88,
+                    "username": "anticor_org",
+                    "id": "113462371"
                 }
             ]
         },
@@ -2640,14 +2640,6 @@
         "context_annotations": [],
         "conversation_id": 867318874127167489,
         "entities": {
-            "mentions": [
-                {
-                    "start": 128,
-                    "end": 139,
-                    "username": "franceinfo",
-                    "id": "38395124"
-                }
-            ],
             "urls": [
                 {
                     "start": 100,
@@ -2655,6 +2647,14 @@
                     "url": "https://t.co/uZ8GisxXVr",
                     "expanded_url": "http://www.francetvinfo.fr/politique/moralisation-de-la-vie-politique/moralisation-de-la-vie-publique-la-fausse-bonne-idee-qui-pourrait-doubler-le-revenu-des-deputes_2202570.html#xtor=CS2-765-[twitter]-",
                     "display_url": "francetvinfo.fr/politique/mora…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 139,
+                    "username": "franceinfo",
+                    "id": "38395124"
                 }
             ]
         },
@@ -2727,19 +2727,19 @@
         ],
         "conversation_id": 867269283323281409,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "tag": "LégislativesCitoyennes"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 12,
                     "username": "Make_org",
                     "id": "711600634819170304"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 86,
-                    "end": 109,
-                    "tag": "LégislativesCitoyennes"
                 }
             ]
         },
@@ -2778,7 +2778,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -2849,20 +2849,6 @@
         "context_annotations": [],
         "conversation_id": 867241103967346688,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 16,
-                    "username": "citizenlabfr",
-                    "id": "831091873448095748"
-                },
-                {
-                    "start": 105,
-                    "end": 114,
-                    "username": "WietseVR",
-                    "id": "2862255635"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 21,
@@ -2878,6 +2864,20 @@
                     "start": 116,
                     "end": 139,
                     "tag": "ParticipationCitoyenne"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "citizenlabfr",
+                    "id": "831091873448095748"
+                },
+                {
+                    "start": 105,
+                    "end": 114,
+                    "username": "WietseVR",
+                    "id": "2862255635"
                 }
             ]
         },
@@ -3091,6 +3091,23 @@
         "context_annotations": [],
         "conversation_id": 867002070620151809,
         "entities": {
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/6HkhxiczcP",
+                    "expanded_url": "https://twitter.com/pirateexpat/status/866762601144963072/photo/1",
+                    "display_url": "pic.twitter.com/6HkhxiczcP",
+                    "media_key": "3_866762545272696832"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 47,
+                    "tag": "extcirco07"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3103,23 +3120,6 @@
                     "end": 71,
                     "username": "liondelf",
                     "id": "303981295"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 36,
-                    "end": 47,
-                    "tag": "extcirco07"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 72,
-                    "end": 95,
-                    "url": "https://t.co/6HkhxiczcP",
-                    "expanded_url": "https://twitter.com/pirateexpat/status/866762601144963072/photo/1",
-                    "display_url": "pic.twitter.com/6HkhxiczcP",
-                    "media_key": "3_866762545272696832"
                 }
             ]
         },
@@ -3179,14 +3179,6 @@
         "context_annotations": [],
         "conversation_id": 866893947557249025,
         "entities": {
-            "mentions": [
-                {
-                    "start": 84,
-                    "end": 94,
-                    "username": "guillitte",
-                    "id": "165061886"
-                }
-            ],
             "urls": [
                 {
                     "start": 95,
@@ -3194,6 +3186,14 @@
                     "url": "https://t.co/KdOUcnESSW",
                     "expanded_url": "http://sco.lt/93LjBx",
                     "display_url": "sco.lt/93LjBx"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 84,
+                    "end": 94,
+                    "username": "guillitte",
+                    "id": "165061886"
                 }
             ]
         },
@@ -3233,14 +3233,6 @@
         ],
         "conversation_id": 866883698985234432,
         "entities": {
-            "mentions": [
-                {
-                    "start": 104,
-                    "end": 114,
-                    "username": "20Minutes",
-                    "id": "2649991"
-                }
-            ],
             "urls": [
                 {
                     "start": 76,
@@ -3248,6 +3240,14 @@
                     "url": "https://t.co/3hqtSDTEzb",
                     "expanded_url": "http://www.20minutes.fr/monde/1951607-20161029-islande-quoi-pourrait-ressembler-pays-gouverne-parti-pirate",
                     "display_url": "20minutes.fr/monde/1951607-…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 114,
+                    "username": "20Minutes",
+                    "id": "2649991"
                 }
             ]
         },
@@ -3330,14 +3330,6 @@
         ],
         "conversation_id": 866223355858477056,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "seeraiwer",
-                    "id": "457520347"
-                }
-            ],
             "urls": [
                 {
                     "start": 108,
@@ -3345,6 +3337,14 @@
                     "url": "https://t.co/NPStOT9gzx",
                     "expanded_url": "https://mastodon.social/web/accounts/33023",
                     "display_url": "mastodon.social/web/accounts/3…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "seeraiwer",
+                    "id": "457520347"
                 }
             ]
         },
@@ -3371,14 +3371,6 @@
         "context_annotations": [],
         "conversation_id": 866182870217392128,
         "entities": {
-            "mentions": [
-                {
-                    "start": 117,
-                    "end": 125,
-                    "username": "Europe1",
-                    "id": "34570323"
-                }
-            ],
             "urls": [
                 {
                     "start": 89,
@@ -3386,6 +3378,14 @@
                     "url": "https://t.co/EXNShdPhpD",
                     "expanded_url": "http://eur1.fr/nADLloQ",
                     "display_url": "eur1.fr/nADLloQ"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 125,
+                    "username": "Europe1",
+                    "id": "34570323"
                 }
             ]
         },
@@ -3412,14 +3412,6 @@
         "context_annotations": [],
         "conversation_id": 866176436062781440,
         "entities": {
-            "mentions": [
-                {
-                    "start": 68,
-                    "end": 72,
-                    "username": "LCI",
-                    "id": "26110930"
-                }
-            ],
             "urls": [
                 {
                     "start": 40,
@@ -3427,6 +3419,14 @@
                     "url": "https://t.co/wHNLa05T6b",
                     "expanded_url": "http://www.lci.fr/high-tech/5-trucs-qui-prouvent-que-vous-etes-geek-1511519.html",
                     "display_url": "lci.fr/high-tech/5-tr…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 68,
+                    "end": 72,
+                    "username": "LCI",
+                    "id": "26110930"
                 }
             ]
         },
@@ -3453,14 +3453,6 @@
         "context_annotations": [],
         "conversation_id": 865877858874519552,
         "entities": {
-            "mentions": [
-                {
-                    "start": 28,
-                    "end": 38,
-                    "username": "Pinterest",
-                    "id": "106837463"
-                }
-            ],
             "urls": [
                 {
                     "start": 0,
@@ -3469,11 +3461,19 @@
                     "expanded_url": "http://pin.it/XZRgOxo",
                     "display_url": "pin.it/XZRgOxo"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "Pinterest",
+                    "id": "106837463"
+                }
             ]
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -3530,14 +3530,6 @@
         "context_annotations": [],
         "conversation_id": 865821313528737793,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "franceculture",
-                    "id": "36383320"
-                }
-            ],
             "urls": [
                 {
                     "start": 55,
@@ -3553,6 +3545,14 @@
                     "expanded_url": "https://twitter.com/franceculture/status/864750107627048960/photo/1",
                     "display_url": "pic.twitter.com/EUujuV5Bq8",
                     "media_key": "3_864750105466998784"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "franceculture",
+                    "id": "36383320"
                 }
             ]
         },
@@ -3616,19 +3616,19 @@
         ],
         "conversation_id": 865821081189462016,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 103,
+                    "tag": "Macron"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "TERRIENNESTV5",
                     "id": "1156846290"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 96,
-                    "end": 103,
-                    "tag": "Macron"
                 }
             ]
         },
@@ -3734,19 +3734,19 @@
         ],
         "conversation_id": 865614084326268928,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 127,
+                    "tag": "Legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 15,
                     "username": "PartiPirate",
                     "id": "47348084"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 110,
-                    "end": 127,
-                    "tag": "Legislatives2017"
                 }
             ]
         },
@@ -3796,14 +3796,6 @@
         ],
         "conversation_id": 865203701698396160,
         "entities": {
-            "mentions": [
-                {
-                    "start": 105,
-                    "end": 116,
-                    "username": "eventbrite",
-                    "id": "5625972"
-                }
-            ],
             "urls": [
                 {
                     "start": 77,
@@ -3811,6 +3803,14 @@
                     "url": "https://t.co/OoOQZDbUtm",
                     "expanded_url": "https://www.eventbrite.com/e/inscription-tech-it-easy-less-sempare-du-numerique-33889868509?aff=estw",
                     "display_url": "eventbrite.com/e/inscription-…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 116,
+                    "username": "eventbrite",
+                    "id": "5625972"
                 }
             ]
         },
@@ -3837,12 +3837,13 @@
         "context_annotations": [],
         "conversation_id": 864462095907262464,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 11,
-                    "username": "FINYEAR",
-                    "id": "42380653"
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/5janBw3QrN",
+                    "expanded_url": "http://www.blockchaindailynews.com/Top-250-blockchain-companies-startups_a24712.html",
+                    "display_url": "blockchaindailynews.com/Top-250-blockc…"
                 }
             ],
             "hashtags": [
@@ -3867,13 +3868,12 @@
                     "tag": "trustnomics"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 100,
-                    "end": 123,
-                    "url": "https://t.co/5janBw3QrN",
-                    "expanded_url": "http://www.blockchaindailynews.com/Top-250-blockchain-companies-startups_a24712.html",
-                    "display_url": "blockchaindailynews.com/Top-250-blockc…"
+                    "start": 3,
+                    "end": 11,
+                    "username": "FINYEAR",
+                    "id": "42380653"
                 }
             ]
         },
@@ -3913,19 +3913,19 @@
         ],
         "conversation_id": 864460113498820609,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 126,
+                    "end": 136,
+                    "tag": "consensus"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Chemicall_Drums",
                     "id": "575667631"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 126,
-                    "end": 136,
-                    "tag": "consensus"
                 }
             ]
         },
@@ -3952,14 +3952,6 @@
         "context_annotations": [],
         "conversation_id": 864390641446506496,
         "entities": {
-            "mentions": [
-                {
-                    "start": 24,
-                    "end": 37,
-                    "username": "helenetestud",
-                    "id": "29447272"
-                }
-            ],
             "urls": [
                 {
                     "start": 39,
@@ -3967,6 +3959,14 @@
                     "url": "https://t.co/biKpwdQhIx",
                     "expanded_url": "https://twitter.com/i/moments/863312319102803969",
                     "display_url": "twitter.com/i/moments/8633…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "helenetestud",
+                    "id": "29447272"
                 }
             ]
         },
@@ -4030,12 +4030,14 @@
         "context_annotations": [],
         "conversation_id": 864075965495947264,
         "entities": {
-            "mentions": [
+            "urls": [
                 {
-                    "start": 3,
-                    "end": 13,
-                    "username": "GARREAU75",
-                    "id": "92739201"
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/BpEec5OWhV",
+                    "expanded_url": "https://twitter.com/GARREAU75/status/864007302596218881/photo/1",
+                    "display_url": "pic.twitter.com/BpEec5OWhV",
+                    "media_key": "3_864007291519066112"
                 }
             ],
             "hashtags": [
@@ -4055,14 +4057,12 @@
                     "tag": "things"
                 }
             ],
-            "urls": [
+            "mentions": [
                 {
-                    "start": 84,
-                    "end": 107,
-                    "url": "https://t.co/BpEec5OWhV",
-                    "expanded_url": "https://twitter.com/GARREAU75/status/864007302596218881/photo/1",
-                    "display_url": "pic.twitter.com/BpEec5OWhV",
-                    "media_key": "3_864007291519066112"
+                    "start": 3,
+                    "end": 13,
+                    "username": "GARREAU75",
+                    "id": "92739201"
                 }
             ]
         },
@@ -4093,21 +4093,6 @@
         "context_annotations": [],
         "conversation_id": 864013194561556480,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "COMELLIStephan",
-                    "id": "862843656"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 54,
-                    "end": 69,
-                    "tag": "RéseauxSociaux"
-                }
-            ],
             "urls": [
                 {
                     "start": 72,
@@ -4117,6 +4102,21 @@
                     "display_url": "pic.twitter.com/HO2XZLax0p",
                     "media_key": "3_862583026760519680"
                 }
+            ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 69,
+                    "tag": "RéseauxSociaux"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "COMELLIStephan",
+                    "id": "862843656"
+                }
             ]
         },
         "geo": null,
@@ -4124,7 +4124,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 44,
+            "retweet_count": 43,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -4142,14 +4142,6 @@
         "context_annotations": [],
         "conversation_id": 864008128035254273,
         "entities": {
-            "mentions": [
-                {
-                    "start": 34,
-                    "end": 43,
-                    "username": "MeetupFR",
-                    "id": "2851318221"
-                }
-            ],
             "urls": [
                 {
                     "start": 44,
@@ -4157,6 +4149,14 @@
                     "url": "https://t.co/mgIJ26kjRd",
                     "expanded_url": "http://meetu.ps/39jxnn",
                     "display_url": "meetu.ps/39jxnn"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 43,
+                    "username": "MeetupFR",
+                    "id": "2851318221"
                 }
             ]
         },
@@ -4245,6 +4245,27 @@
         "context_annotations": [],
         "conversation_id": 863323971445567488,
         "entities": {
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/i1wOvSZBRP",
+                    "expanded_url": "http://bit.ly/2qRGSXH",
+                    "display_url": "bit.ly/2qRGSXH"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 23,
+                    "tag": "ITW"
+                },
+                {
+                    "start": 43,
+                    "end": 53,
+                    "tag": "CivicTech"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4269,27 +4290,6 @@
                     "end": 138,
                     "username": "itespressofr",
                     "id": "23066382"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 23,
-                    "tag": "ITW"
-                },
-                {
-                    "start": 43,
-                    "end": 53,
-                    "tag": "CivicTech"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 97,
-                    "end": 120,
-                    "url": "https://t.co/i1wOvSZBRP",
-                    "expanded_url": "http://bit.ly/2qRGSXH",
-                    "display_url": "bit.ly/2qRGSXH"
                 }
             ]
         },
@@ -4328,7 +4328,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -4349,14 +4349,6 @@
         "context_annotations": [],
         "conversation_id": 863314286738907136,
         "entities": {
-            "mentions": [
-                {
-                    "start": 21,
-                    "end": 34,
-                    "username": "helenetestud",
-                    "id": "29447272"
-                }
-            ],
             "urls": [
                 {
                     "start": 36,
@@ -4364,6 +4356,14 @@
                     "url": "https://t.co/biKpwdQhIx",
                     "expanded_url": "https://twitter.com/i/moments/863312319102803969",
                     "display_url": "twitter.com/i/moments/8633…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 34,
+                    "username": "helenetestud",
+                    "id": "29447272"
                 }
             ]
         },
@@ -4446,6 +4446,15 @@
         ],
         "conversation_id": 863309257311232001,
         "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/XukZMD6N3H",
+                    "expanded_url": "https://medium.com/open-source-politics",
+                    "display_url": "medium.com/open-source-po…"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4458,17 +4467,6 @@
                     "end": 111,
                     "username": "Medium",
                     "id": "571202103"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 112,
-                    "end": 135,
-                    "url": "https://t.co/XukZMD6N3H",
-                    "expanded_url": "https://medium.com/open-source-politics",
-                    "display_url": "medium.com/open-source-po…",
-                    "status": 200,
-                    "unwound_url": "https://medium.com/open-source-politics"
                 }
             ]
         },
@@ -4495,14 +4493,6 @@
         "context_annotations": [],
         "conversation_id": 863304308992991233,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 12,
-                    "username": "Make_org",
-                    "id": "711600634819170304"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 14,
@@ -4513,6 +4503,14 @@
                     "start": 111,
                     "end": 121,
                     "tag": "CivicTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Make_org",
+                    "id": "711600634819170304"
                 }
             ]
         },
@@ -4611,14 +4609,6 @@
         ],
         "conversation_id": 862898773193887745,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "LFDChangement",
-                    "id": "2472285834"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 19,
@@ -4644,6 +4634,14 @@
                     "start": 104,
                     "end": 115,
                     "tag": "challenges"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "LFDChangement",
+                    "id": "2472285834"
                 }
             ]
         },
@@ -4740,6 +4738,13 @@
         "context_annotations": [],
         "conversation_id": 862898387112402944,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 28,
+                    "tag": "LaFabNantes"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4752,13 +4757,6 @@
                     "end": 123,
                     "username": "karim_hasnaoui",
                     "id": "2473185905"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 16,
-                    "end": 28,
-                    "tag": "LaFabNantes"
                 }
             ]
         },
@@ -4842,7 +4840,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -5105,6 +5103,723 @@
             "retweet_count": 17,
             "reply_count": 0,
             "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861666834411651073",
+        "text": "RT @franckbataille: Ce qu'Emmanuel Macron a promis pour le numérique https://t.co/PnGzSap4yH",
+        "created_at": "2017-05-08 19:39:16+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861666834411651073,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "franckbataille",
+                    "id": "460499281"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/PnGzSap4yH",
+                    "expanded_url": "http://mashable.france24.com/tech-business/20170507-emmanuel-macron-programme-promesses-numeriques",
+                    "display_url": "mashable.france24.com/tech-business/…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860022910110633984",
+        "text": "Le Parti Pirate cherche des candidat(e)s pour les législatives https://t.co/QToinMjKpE via @cnewsmatin",
+        "created_at": "2017-05-04 06:46:54+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 860022910110633984,
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/QToinMjKpE",
+                    "expanded_url": "http://www.cnewsmatin.fr/france/2017-05-02/le-parti-pirate-cherche-des-candidates-pour-les-legislatives-754526",
+                    "display_url": "cnewsmatin.fr/france/2017-05…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859302377710604288",
+        "text": "RT @SorbonneParis1: La justice à l’heure des algorithmes et du big data https://t.co/i4Q7L8Rbjj avec Bruno Dondero #ProfUP1 via le @CNRS #D…",
+        "created_at": "2017-05-02 07:03:46+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 859302377710604288,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SorbonneParis1",
+                    "id": "115711568"
+                },
+                {
+                    "start": 131,
+                    "end": 136,
+                    "username": "CNRS",
+                    "id": "143909021"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 123,
+                    "tag": "ProfUP1"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/i4Q7L8Rbjj",
+                    "expanded_url": "http://bit.ly/2pCxWah",
+                    "display_url": "bit.ly/2pCxWah"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859301573964509185",
+        "text": "RT @PartiPirateRA: « Tais toi, t’as Tor ! » - Atelier d’initiation à l’utilisation de Tor\n\nRDV à #LaBifurk à #Grenoble le 5/05 - 20h\n\nhttps…",
+        "created_at": "2017-05-02 07:00:34+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 859301573964509185,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "PartiPirateRA",
+                    "id": "109316422"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 106,
+                    "tag": "LaBifurk"
+                },
+                {
+                    "start": 109,
+                    "end": 118,
+                    "tag": "Grenoble"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859301385002725377",
+        "text": "RT @PiratePartyHI: La démocratie liquide, c'est quoi ? Thomas, Porte Parole du @PartiPirate! https://t.co/mC9wFnl9Th #LibérezVous #PPI http…",
+        "created_at": "2017-05-02 06:59:49+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 859301385002725377,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 91,
+                    "username": "PartiPirate",
+                    "id": "47348084"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 129,
+                    "tag": "LibérezVous"
+                },
+                {
+                    "start": 130,
+                    "end": 134,
+                    "tag": "PPI"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 93,
+                    "end": 116,
+                    "url": "https://t.co/mC9wFnl9Th",
+                    "expanded_url": "https://www.youtube.com/watch?v=NFje6338oas",
+                    "display_url": "youtube.com/watch?v=NFje63…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859300717160529920",
+        "text": "RT @axelkahn: Mon cri s'adresse à toutes et tous. Cependant, parce que la gauche est ma famille depuis 56 ans, c'est à elle que je m'adress…",
+        "created_at": "2017-05-02 06:57:10+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 859300717160529920,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "axelkahn",
+                    "id": "514602810"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 141,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857903586294083584",
+        "text": "Les Japonais prennent des bains de forêt. Et on ferait bien de s’en inspirer https://t.co/0NKNz9Fi0B via @ThePOSITIVR",
+        "created_at": "2017-04-28 10:25:28+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 857903586294083584,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 117,
+                    "username": "ThePOSITIVR",
+                    "id": "2367460290"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/0NKNz9Fi0B",
+                    "expanded_url": "http://positivr.fr/?p=65027",
+                    "display_url": "positivr.fr/?p=65027"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857368876040015872",
+        "text": "BREAKING @AjitPaiFCC is moving to kill #netneutrality +let Comcast censor the web https://t.co/oAVhJREu1l https://t.co/86XBriW9t8 @idltweets",
+        "created_at": "2017-04-26 23:00:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_857294141482553344"
+            ]
+        },
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596165640192",
+                    "name": "Telco"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026876715",
+                    "name": "Comcast"
+                }
+            }
+        ],
+        "conversation_id": 857368876040015872,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 130,
+                    "end": 140,
+                    "username": "idltweets",
+                    "id": "3122240513"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 53,
+                    "tag": "netneutrality"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 65,
+                    "probability": 0.6468,
+                    "type": "Organization",
+                    "normalized_text": "Comcast"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/oAVhJREu1l",
+                    "expanded_url": "https://www.gofundme.com/lets-save-net-neutrality-again",
+                    "display_url": "gofundme.com/lets-save-net-…"
+                },
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/86XBriW9t8",
+                    "expanded_url": "https://twitter.com/fightfortheftr/status/857294148331868161/photo/1",
+                    "display_url": "pic.twitter.com/86XBriW9t8",
+                    "media_key": "3_857294141482553344"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Internet Defense League",
+        "withheld": null
+    },
+    {
+        "id": "857223761380159490",
+        "text": "Un nouveau FabLab Solidaire à Paris !  https://t.co/Dwhf0OocI6 via @fondationorange",
+        "created_at": "2017-04-26 13:24:05+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 857223761380159490,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 67,
+                    "end": 83,
+                    "username": "FondationOrange",
+                    "id": "605392738"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 39,
+                    "end": 62,
+                    "url": "https://t.co/Dwhf0OocI6",
+                    "expanded_url": "https://www.fondationorange.com/Un-nouveau-FabLab-Solidaire-a-Paris",
+                    "display_url": "fondationorange.com/Un-nouveau-Fab…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856800165834969089",
+        "text": "[DIRECT] Hommage à Xavier Jugelé de Paris à Romorantin https://t.co/ua59bgND6f #nouvellerepublique",
+        "created_at": "2017-04-25 09:20:52+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 856800165834969089,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 79,
+                    "end": 98,
+                    "tag": "nouvellerepublique"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 55,
+                    "end": 78,
+                    "url": "https://t.co/ua59bgND6f",
+                    "expanded_url": "http://orig.lanouvellerepublique.fr/Loir-et-Cher/Actualite/Faits-divers-justice/n/Contenus/Articles/2017/04/25/DIRECT-Hommage-a-Xavier-Jugele-de-Paris-a-Romorantin-3078987",
+                    "display_url": "orig.lanouvellerepublique.fr/Loir-et-Cher/A…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854978796545605632",
+        "text": "RT @WVTPartiPirate: Rien à attendre du #culteduchef #avantdevoter, rappelez vous que vous pouvez être candidat aux #législatives @PartiPira…",
+        "created_at": "2017-04-20 08:43:24+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 854978796545605632,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 51,
+                    "tag": "culteduchef"
+                },
+                {
+                    "start": 52,
+                    "end": 65,
+                    "tag": "avantdevoter"
+                },
+                {
+                    "start": 115,
+                    "end": 128,
+                    "tag": "législatives"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854978739310125056",
+        "text": "RT @WVTPartiPirate: Rien à attendre de ce #ProduitBancaire #avantdevoter, rappelez vous que vous pouvez être candidat aux #législatives @Pa…",
+        "created_at": "2017-04-20 08:43:10+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [],
+        "conversation_id": 854978739310125056,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 58,
+                    "tag": "ProduitBancaire"
+                },
+                {
+                    "start": 59,
+                    "end": 72,
+                    "tag": "avantdevoter"
+                },
+                {
+                    "start": 122,
+                    "end": 135,
+                    "tag": "législatives"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "853544792734785536",
+        "text": "Facebook: Contre le massacre des ours,loups et leurs progénitures en Alaska mit en place par Trump https://t.co/CwO3R66VL4 via @ChangeFrance",
+        "created_at": "2017-04-16 09:45:11+00:00",
+        "attachments": null,
+        "author_id": 29447272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            }
+        ],
+        "conversation_id": 853544792734785536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 140,
+                    "username": "ChangeFrance",
+                    "id": "603139314"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/CwO3R66VL4",
+                    "expanded_url": "https://www.change.org/p/facebook-contre-le-massacre-des-ours-loups-et-leurs-prog%C3%A9nitures-en-alaska-mit-en-place-par-trump?recruiter=52092880&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition",
+                    "display_url": "change.org/p/facebook-con…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
             "quote_count": 0
         },
         "reply_settings": "everyone",

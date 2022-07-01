@@ -1,1 +1,4031 @@
-[]
+[
+    {
+        "id": "872562123246850050",
+        "text": "RT @Eliottthefox: Quelle note pour les partis ? Législatives 2017 | Politique &amp; animaux https://t.co/cV4gG8cLNt",
+        "created_at": "2017-06-07 21:13:16+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 872562123246850050,
+        "entities": {
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/cV4gG8cLNt",
+                    "expanded_url": "https://www.politique-animaux.fr/legislatives-2017",
+                    "display_url": "politique-animaux.fr/legislatives-2…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Eliottthefox",
+                    "id": "504341484"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872561108049174528",
+        "text": "RT @gouvernementFR: #Législatives2017\n🏛️Les 11 et 18 juin vous allez voter pour élire votre député-e à l’@AssembleeNat ! #OuiJeVote🗳️\nhttps…",
+        "created_at": "2017-06-07 21:09:14+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 872561108049174528,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 37,
+                    "tag": "Législatives2017"
+                },
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "OuiJeVote"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "gouvernementFR",
+                    "id": "951480480"
+                },
+                {
+                    "start": 105,
+                    "end": 118,
+                    "username": "AssembleeNat",
+                    "id": "242694507"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871726120177152000",
+        "text": "@pascalcherki @CometFr @psparis6 @Anne_Hidalgo @egregoire @carine_petit @EmmanuelPierrat @AmineBouabbas @melodytonolli @maayanepralus @ElusPSParis Tu nous paye l'apéro Pascal? on trinquera à la santé des animaux ;-)",
+        "created_at": "2017-06-05 13:51:17+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 871605597707390976,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "pascalcherki",
+                    "id": "405919523"
+                },
+                {
+                    "start": 14,
+                    "end": 22,
+                    "username": "CometFr",
+                    "id": "414871591"
+                },
+                {
+                    "start": 23,
+                    "end": 32,
+                    "username": "psparis6",
+                    "id": "107676041"
+                },
+                {
+                    "start": 33,
+                    "end": 46,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                },
+                {
+                    "start": 47,
+                    "end": 57,
+                    "username": "egregoire",
+                    "id": "18737885"
+                },
+                {
+                    "start": 58,
+                    "end": 71,
+                    "username": "carine_petit",
+                    "id": "623975433"
+                },
+                {
+                    "start": 72,
+                    "end": 88,
+                    "username": "EmmanuelPierrat",
+                    "id": "30831763"
+                },
+                {
+                    "start": 89,
+                    "end": 103,
+                    "username": "AmineBouabbas",
+                    "id": "239550185"
+                },
+                {
+                    "start": 104,
+                    "end": 118,
+                    "username": "melodytonolli",
+                    "id": "92490635"
+                },
+                {
+                    "start": 119,
+                    "end": 133,
+                    "username": "maayanepralus",
+                    "id": "2900624352"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 405919523,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871661935787462656",
+        "text": "RT @Pierre_Cluzel: Règne Animal, ce livre si époustouflant couronné par le Prix Inter 2017 ! Félicitations à Jean Baptiste Del Amo, et viii…",
+        "created_at": "2017-06-05 09:36:14+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871661935787462656,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Pierre_Cluzel",
+                    "id": "4778242643"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871661398014787586",
+        "text": "La cause animale à l'honneur en ce moment! bravo pour ce prix et merci France Inter! #droitdesanimaux #Vegan #antispecisme https://t.co/aXHMqoTuS4",
+        "created_at": "2017-06-05 09:34:06+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 871661398014787586,
+        "entities": {
+            "urls": [
+                {
+                    "start": 123,
+                    "end": 146,
+                    "url": "https://t.co/aXHMqoTuS4",
+                    "expanded_url": "https://twitter.com/zoodanslatete/status/871656891415449604",
+                    "display_url": "twitter.com/zoodanslatete/…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 101,
+                    "tag": "droitdesanimaux"
+                },
+                {
+                    "start": 102,
+                    "end": 108,
+                    "tag": "Vegan"
+                },
+                {
+                    "start": 109,
+                    "end": 122,
+                    "tag": "antispecisme"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871510848094818304",
+        "text": "@nicolasgregoire merci! :)",
+        "created_at": "2017-06-04 23:35:52+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871299227498008577,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 75716063,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871510522046369793",
+        "text": "En présence d' @Anne_Hidalgo, nuit sacrée inter-religieuse en direct live depuis l’église saint Merry  https://t.co/ibBbPzQ4zV",
+        "created_at": "2017-06-04 23:34:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 871510522046369793,
+        "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/ibBbPzQ4zV",
+                    "expanded_url": "https://www.youtube.com/watch?v=UHqZBd3hTco",
+                    "display_url": "youtube.com/watch?v=UHqZBd…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 28,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871492543120277505",
+        "text": "@nicolasgregoire ok je les imprime demain avant d'aller à son street apéro/débat sur la moralisation de la vie publique! je te raconterai! #circo7511",
+        "created_at": "2017-06-04 22:23:08+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871299227498008577,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 139,
+                    "end": 149,
+                    "tag": "circo7511"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 75716063,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871483774625828864",
+        "text": "@nicolasgregoire ok je vais essayer de les trouver sur ton site!",
+        "created_at": "2017-06-04 21:48:17+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871299227498008577,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 75716063,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871303800065318912",
+        "text": "@nicolasgregoire Ah dommage! Ok, je n'y manquerai pas, je suis candidat dans la même circonscription :-)",
+        "created_at": "2017-06-04 09:53:08+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871299227498008577,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 75716063,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871293194411048960",
+        "text": "@NTM_FN sans compte l'investiture à la torera!",
+        "created_at": "2017-06-04 09:11:00+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870924840160690176,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "NTM_FN",
+                    "id": "818459942634012676"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 818459942634012676,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871292740008595456",
+        "text": "@VanityFairFR @askolovitchC il n'a plus qu'à partager sa fortune de banquier avec les réfugiés pour se faire pardonner, mais ce pognon on ne sait pas où il est passé",
+        "created_at": "2017-06-04 09:09:11+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870991121769537536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "VanityFairFR",
+                    "id": "1156532173"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "askolovitchC",
+                    "id": "22276825"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1156532173,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871291896127254528",
+        "text": "@nicolasgregoire oserais-tu venir débattre sur la place publique sur la moralisation de la vie politique?! https://t.co/Re7YtgXGwj",
+        "created_at": "2017-06-04 09:05:50+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871291896127254528,
+        "entities": {
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/Re7YtgXGwj",
+                    "expanded_url": "https://twitter.com/avecDeSarnez17/status/870816475984080896",
+                    "display_url": "twitter.com/avecDeSarnez17…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 75716063,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871003204548513792",
+        "text": "Cette blague douteuse de Macron sur les Comoriens n'est pas passée @EmmanuelMacron https://t.co/9m5VKjtCDA via @yahooactufr",
+        "created_at": "2017-06-03 13:58:41+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 871003204548513792,
+        "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/9m5VKjtCDA",
+                    "expanded_url": "https://fr.news.yahoo.com/blague-douteuse-macron-comoriens-n-070900460.html?soc_src=social-sh&soc_trk=tw",
+                    "display_url": "fr.news.yahoo.com/blague-douteus…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 67,
+                    "end": 82,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                },
+                {
+                    "start": 111,
+                    "end": 123,
+                    "username": "YahooActuFR",
+                    "id": "52328349"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871001221695496193",
+        "text": "Retrouvez ma profession de foi pour législatives dans la #circo7511 sur le site du ministère de l'intérieur https://t.co/sK5kti34Y7",
+        "created_at": "2017-06-03 13:50:48+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 871001221695496193,
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/sK5kti34Y7",
+                    "expanded_url": "https://programme-candidats.interieur.gouv.fr/data-pdf-propagandes/cb2b5e4e564f62f734e698fc2ff716650a19a280f1fc5ebbf4c0fc4e514da8fd-profession-de-foi.pdf",
+                    "display_url": "programme-candidats.interieur.gouv.fr/data-pdf-propa…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 67,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870998140685611008",
+        "text": "Bon accueil ce matin au marché bio Brancusi. Rdv demain au marché bio  de Raspail pour parler écologie et du sort des animaux #circo7511",
+        "created_at": "2017-06-03 13:38:33+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870998140685611008,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 126,
+                    "end": 136,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870927405887762432",
+        "text": "RT @anne_sinclair: Les sénateurs qui ont poussé à quitter l'accord de Paris ont touché 10 millions de dollars du lobby pétrolier https://t.…",
+        "created_at": "2017-06-03 08:57:29+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870927405887762432,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "anne_sinclair",
+                    "id": "463153841"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3092,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870926607346696192",
+        "text": "RT @lemondefr: Législatives : comment sont élus nos députés ? Quel est leur rôle à l’Assemblée nationale ? Explications en BD https://t.co/…",
+        "created_at": "2017-06-03 08:54:18+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870926607346696192,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870924862616948736",
+        "text": ".@EmmanuelMacron avant les élections, vous vous êtes engagé à garantir le droit de #Manifestation. Agissez. https://t.co/GdmEIystE0",
+        "created_at": "2017-06-03 08:47:22+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 870924862616948736,
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/GdmEIystE0",
+                    "expanded_url": "http://bit.ly/2rku3rn",
+                    "display_url": "bit.ly/2rku3rn"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 97,
+                    "tag": "Manifestation"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 1,
+                    "end": 16,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870775572108062720",
+        "text": "collage d'affiche pour les législatives ce soir dans le 14e #paris14 #circo7511 https://t.co/uVwca5Vmhp",
+        "created_at": "2017-06-02 22:54:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870775542123032576"
+            ]
+        },
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870775572108062720,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/uVwca5Vmhp",
+                    "expanded_url": "https://twitter.com/mironcusa/status/870775572108062720/photo/1",
+                    "display_url": "pic.twitter.com/uVwca5Vmhp",
+                    "media_key": "3_870775542123032576"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 68,
+                    "tag": "paris14"
+                },
+                {
+                    "start": 69,
+                    "end": 79,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870736116034482176",
+        "text": "RT @N_Hulot: L'#AccordDeParis n'est pas renégociable. Simplement parce qu'on ne négocie pas avec l'humanité #TF1 #JT20h",
+        "created_at": "2017-06-02 20:17:22+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029055455",
+                    "name": "Le journal TF1"
+                }
+            }
+        ],
+        "conversation_id": 870736116034482176,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 29,
+                    "tag": "AccordDeParis"
+                },
+                {
+                    "start": 108,
+                    "end": 112,
+                    "tag": "TF1"
+                },
+                {
+                    "start": 113,
+                    "end": 119,
+                    "tag": "JT20h"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1059,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870714043027267584",
+        "text": "RT @MairieParis14: Début du Mois Extra-ordinaire du Handicap : la programmation dans le 14e arrondissement  https://t.co/KnsMABeaqA] #Paris…",
+        "created_at": "2017-06-02 18:49:39+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870714043027267584,
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/KnsMABeaqA",
+                    "expanded_url": "http://mailchi.mp/paris/le-festival-du-printemps-de-la-cration-thtrale-897253?e=[UNIQID",
+                    "display_url": "mailchi.mp/paris/le-festi…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MairieParis14",
+                    "id": "95198644"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870697259670753280",
+        "text": "@carine_petit @Sandrin_Richard non elle est candidate dans la #circo7510 ;-)",
+        "created_at": "2017-06-02 17:42:58+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870650081011261440,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "tag": "circo7510"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "carine_petit",
+                    "id": "623975433"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "Sandrin_Richard",
+                    "id": "787235409046728704"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 623975433,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870696850524733446",
+        "text": "Je serai au marché bio Brancusi demain matin samedi 3 juin rencontrer les électeurs de la #circo7511 et présenter mon programme écolo",
+        "created_at": "2017-06-02 17:41:20+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870696850524733446,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 90,
+                    "end": 100,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870692220273176579",
+        "text": "RT @Pol_Animaux: Retrouvez les prises de position des députés sortants de votre département https://t.co/9m9TtStVni @L214 #ConditionAnimale…",
+        "created_at": "2017-06-02 17:22:56+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870692220273176579,
+        "entities": {
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/9m9TtStVni",
+                    "expanded_url": "http://bit.ly/2rM7htt",
+                    "display_url": "bit.ly/2rM7htt"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 139,
+                    "tag": "ConditionAnimale"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Pol_Animaux",
+                    "id": "866418564886138881"
+                },
+                {
+                    "start": 116,
+                    "end": 121,
+                    "username": "L214",
+                    "id": "28207060"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870689587688947714",
+        "text": "RT @fondationhulot: En France, le boom du bio fait décoller l’emploi et la consommation https://t.co/AADVMVKqgc",
+        "created_at": "2017-06-02 17:12:28+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 870689587688947714,
+        "entities": {
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/AADVMVKqgc",
+                    "expanded_url": "http://www.sudouest.fr/2017/05/20/en-france-le-boom-du-bio-fait-decoller-l-emploi-et-la-consommation-3480061-4720.php",
+                    "display_url": "sudouest.fr/2017/05/20/en-…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "fondationhulot",
+                    "id": "890653759600304129"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870689411079352324",
+        "text": "Retrait de Trump de l'accord de Paris, une castatrophe pour la Terre et l'humanité. RÉSISTANCE https://t.co/jClsqlJNDf",
+        "created_at": "2017-06-02 17:11:46+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 870689411079352324,
+        "entities": {
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/jClsqlJNDf",
+                    "expanded_url": "https://twitter.com/RemyBuisine/status/870371997460705280",
+                    "display_url": "twitter.com/RemyBuisine/st…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870688831095291905",
+        "text": "RT @CollectifAnimal: Candidat aux Législatives? #JeSoutiensAnimalPolitique - Engagez-vous pour les animaux ! Infos : https://t.co/xbu6hV3eN…",
+        "created_at": "2017-06-02 17:09:28+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870688831095291905,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 74,
+                    "tag": "JeSoutiensAnimalPolitique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CollectifAnimal",
+                    "id": "800682571315040257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870688695082340352",
+        "text": "RT @30millionsdamis: Le maire de Villeneuve-Loubet invite à ne PAS se rendre au #cirque Muller, installé illégalement sur la commune. 👏🏼htt…",
+        "created_at": "2017-06-02 17:08:56+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870688695082340352,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 87,
+                    "tag": "cirque"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "30millionsdamis",
+                    "id": "97185496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 202,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870404127704190976",
+        "text": "RT @Europe1: Une campagne à quitte ou double pour Marielle de Sarnez  \"Une candidate pas assez renouveau pour certains électeurs\" @TheoMane…",
+        "created_at": "2017-06-01 22:18:10+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870404127704190976,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Europe1",
+                    "id": "34570323"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870402991463034882",
+        "text": "RT @nicolasgregoire: Confirmé : l'honnêteté de Corinne Lepage sur les emplois fictifs de Bayrou lui a coûté un ministère.\n\n#Bayrougate",
+        "created_at": "2017-06-01 22:13:39+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870402991463034882,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 134,
+                    "tag": "Bayrougate"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 292,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870402836743565314",
+        "text": "@bayrou et le cas @nicolasgregoire (qui s'est lui même dénoncé comme emploi fictif de l'UDF) on en fait quoi?! #bayrougate",
+        "created_at": "2017-06-01 22:13:02+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870340297745715201,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 122,
+                    "tag": "bayrougate"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "bayrou",
+                    "id": "17211968"
+                },
+                {
+                    "start": 18,
+                    "end": 34,
+                    "username": "nicolasgregoire",
+                    "id": "75716063"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17211968,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870401967851397120",
+        "text": "RT @fondationhulot: #Trump : Sortir de l'Accord de Paris c'est un contre-sens tragique de l'histoire!  #climat https://t.co/XONkeg3fJH",
+        "created_at": "2017-06-01 22:09:35+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870364132012429312"
+            ]
+        },
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 870401967851397120,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/XONkeg3fJH",
+                    "expanded_url": "https://twitter.com/fondationhulot/status/870364777020878848/photo/1",
+                    "display_url": "pic.twitter.com/XONkeg3fJH",
+                    "media_key": "3_870364132012429312"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 26,
+                    "tag": "Trump"
+                },
+                {
+                    "start": 103,
+                    "end": 110,
+                    "tag": "climat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "fondationhulot",
+                    "id": "890653759600304129"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 870,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870315527708835840",
+        "text": "@ARTscriptor @fszpiner @desarnez oui ceux qui étaient venus, tant pis pour les autres ;-) merci à toi d'avoir répondu à cet appel important pour l'avenir de notre Terre",
+        "created_at": "2017-06-01 16:26:06+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870040781586870272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "ARTscriptor",
+                    "id": "1408546440"
+                },
+                {
+                    "start": 13,
+                    "end": 22,
+                    "username": "fszpiner",
+                    "id": "3348869505"
+                },
+                {
+                    "start": 23,
+                    "end": 32,
+                    "username": "desarnez",
+                    "id": "303885267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1408546440,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870040781586870272",
+        "text": "Merci au collectif Stop TAFLA du #14e pour ce débat très intéressant avec les candidats de la #circo7511",
+        "created_at": "2017-05-31 22:14:21+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870040781586870272,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 37,
+                    "tag": "14e"
+                },
+                {
+                    "start": 94,
+                    "end": 104,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870040227519356928",
+        "text": "RT @N_Hulot: Ce que fait Donald Trump contre le climat sera sanctionné par l'histoire comme crime contre l'humanité. https://t.co/AFF8iSEBnX",
+        "created_at": "2017-05-31 22:12:09+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 870040227519356928,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/AFF8iSEBnX",
+                    "expanded_url": "https://twitter.com/afpfr/status/847048456510197761",
+                    "display_url": "twitter.com/afpfr/status/8…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3457,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "870039285529018369",
+        "text": "RT @ARTscriptor: .@desarnez n'a pas répondu à l'invitation du collectif STOP Tafta-Ceta. Sur le CETA au parlement européen, elle s'est abst…",
+        "created_at": "2017-05-31 22:08:24+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 870039285529018369,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ARTscriptor",
+                    "id": "1408546440"
+                },
+                {
+                    "start": 18,
+                    "end": 27,
+                    "username": "desarnez",
+                    "id": "303885267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869630367048880128",
+        "text": "RT @audreygarric: Panzani vient de s'engager à ne plus utiliser des oeufs de poules en cages d'ici à 2025, suite à l'enquête de @L214 https…",
+        "created_at": "2017-05-30 19:03:31+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869630367048880128,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "audreygarric",
+                    "id": "20696007"
+                },
+                {
+                    "start": 128,
+                    "end": 133,
+                    "username": "L214",
+                    "id": "28207060"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 101,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869261775451160577",
+        "text": "RT @nath_raoul: 📣Les difficultés rencontrées par les #PMR ♿vont-elles faire irruption dans la campagne des #Legislatives ? #accessibilité #…",
+        "created_at": "2017-05-29 18:38:52+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869261775451160577,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 57,
+                    "tag": "PMR"
+                },
+                {
+                    "start": 107,
+                    "end": 120,
+                    "tag": "Legislatives"
+                },
+                {
+                    "start": 123,
+                    "end": 137,
+                    "tag": "accessibilité"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "nath_raoul",
+                    "id": "3898324457"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869228035379253252",
+        "text": "RT @L214: L'élevage industriel, une savante équation dont l'empathie est la grande inconnue. Stopper la cruauté? Vite, https://t.co/vbinNzo…",
+        "created_at": "2017-05-29 16:24:47+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869228035379253252,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 8,
+                    "username": "L214",
+                    "id": "28207060"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 120,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869227865732153344",
+        "text": "RT @L214: Le 12 juin projection avant-première #LeTempsDesBêtes de François Primeau à l'espace Jean Dame #Paris02 @VeganFolies https://t.co…",
+        "created_at": "2017-05-29 16:24:07+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869227865732153344,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 63,
+                    "tag": "LeTempsDesBêtes"
+                },
+                {
+                    "start": 105,
+                    "end": 113,
+                    "tag": "Paris02"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 8,
+                    "username": "L214",
+                    "id": "28207060"
+                },
+                {
+                    "start": 114,
+                    "end": 126,
+                    "username": "VeganFolies",
+                    "id": "427417116"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869198832793505792",
+        "text": "RT @ParisCaptivite: Plus que jamais, nous avons besoin de vous pour diffuser et faire signer notre pétition !\n====&gt;&gt;&gt;&gt; https://t.co/VvEfurD…",
+        "created_at": "2017-05-29 14:28:45+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869198832793505792,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 217,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869198567331815424",
+        "text": "RT @fondationhulot: Ne laissons pas l’administration Trump affaiblir le « GIEC de la biodiversité » https://t.co/IpTFNB8Osb via @FR_Convers…",
+        "created_at": "2017-05-29 14:27:42+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 869198567331815424,
+        "entities": {
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/IpTFNB8Osb",
+                    "expanded_url": "http://theconversation.com/ne-laissons-pas-ladministration-trump-affaiblir-le-giec-de-la-biodiversite-77137?utm_source=twitter&utm_medium=twitterbutton",
+                    "display_url": "theconversation.com/ne-laissons-pa…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "fondationhulot",
+                    "id": "890653759600304129"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869151831720636417",
+        "text": "RT @vegan: Remember the animals every time you pick up a menu.",
+        "created_at": "2017-05-29 11:21:59+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869151831720636417,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "vegan",
+                    "id": "33323849"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 48,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869151501322768384",
+        "text": "\"Si vous pouvez le rêver, vous pouvez le faire\". Walt Disney (Druide des temps moderne)",
+        "created_at": "2017-05-29 11:20:40+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597214146560",
+                    "name": "Theme Park"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10037284711",
+                    "name": "Disney"
+                }
+            }
+        ],
+        "conversation_id": 869151501322768384,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869138136462483457",
+        "text": "RT @Blooweels: La Norvège accueille le premier cargo 100 % électrique et autonome au monde 🌎 @Breezcar_FR  https://t.co/v6edSNU45M",
+        "created_at": "2017-05-29 10:27:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864517240288182272",
+                    "name": "Norway",
+                    "description": "Norway"
+                }
+            }
+        ],
+        "conversation_id": 869138136462483457,
+        "entities": {
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/v6edSNU45M",
+                    "expanded_url": "https://www.breezcar.com/actualites/article/cargo-electrique-et-autonomet-norvege-reduction-pollutin-camion-0517",
+                    "display_url": "breezcar.com/actualites/art…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Blooweels",
+                    "id": "2676596791"
+                },
+                {
+                    "start": 93,
+                    "end": 105,
+                    "username": "Breezcar_FR",
+                    "id": "588438255"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "869137560689356800",
+        "text": "RT @Blooweels: Dès 2035, les véhicules aux carburants fossiles ne pourront plus être vendus en Flandre https://t.co/0Dnnd75u9A",
+        "created_at": "2017-05-29 10:25:16+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 869137560689356800,
+        "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/0Dnnd75u9A",
+                    "expanded_url": "http://deredactie.be/cm/vrtnieuws.francais/Sant%25C3%25A9%2B%2526%2Benvironnement/1.2984253",
+                    "display_url": "deredactie.be/cm/vrtnieuws.f…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Blooweels",
+                    "id": "2676596791"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868917381971816449",
+        "text": "Déclaration de candidature aux législatives dans la 11e circonscription de Paris https://t.co/wEClQZbNQA #Politique #Animaux et végétarisme",
+        "created_at": "2017-05-28 19:50:22+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868917381971816449,
+        "entities": {
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/wEClQZbNQA",
+                    "expanded_url": "http://miron.over-blog.com/2017/05/declaration-de-candidature-aux-elections-legislatives-de-juin-2017-dans-la-11e-circonscription-de-paris.html?utm_source=_ob_share&utm_medium=_ob_twitter&utm_campaign=_ob_sharebar",
+                    "display_url": "miron.over-blog.com/2017/05/declar…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "Politique"
+                },
+                {
+                    "start": 116,
+                    "end": 124,
+                    "tag": "Animaux"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868909001462996997",
+        "text": "Je serai bien-sûr à la réunion contre les traités CETA et TAFLA mercredi 31 mai à 19h30 au Moulin des lapins dans le 14e #circo7511 https://t.co/IJTravkZhB",
+        "created_at": "2017-05-28 19:17:04+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868908967568830466"
+            ]
+        },
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868909001462996997,
+        "entities": {
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/IJTravkZhB",
+                    "expanded_url": "https://twitter.com/mironcusa/status/868909001462996997/photo/1",
+                    "display_url": "pic.twitter.com/IJTravkZhB",
+                    "media_key": "3_868908967568830466"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868868461694472192",
+        "text": "J'ai signé et je soutien les propositions du collectif Animal &amp; Politique #JeSoutiensAnimalPolitique\nhttps://t.co/irRM1jm6JP https://t.co/dB6o12m8hk",
+        "created_at": "2017-05-28 16:35:58+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868868394837307392"
+            ]
+        },
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868868461694472192,
+        "entities": {
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/irRM1jm6JP",
+                    "expanded_url": "http://miron.cusa.free.fr/manifesteanimalpolitiquesigne.jpg",
+                    "display_url": "miron.cusa.free.fr/manifesteanima…"
+                },
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/dB6o12m8hk",
+                    "expanded_url": "https://twitter.com/mironcusa/status/868868461694472192/photo/1",
+                    "display_url": "pic.twitter.com/dB6o12m8hk",
+                    "media_key": "3_868868394837307392"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 104,
+                    "tag": "JeSoutiensAnimalPolitique"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868839558187757569",
+        "text": "RT @CollectifAnimal: Encouragez le candidat de votre circonscription à soutenir le manifeste AnimalPolitique.  #JesoutiensAnimalPolitique h…",
+        "created_at": "2017-05-28 14:41:07+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868839558187757569,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 137,
+                    "tag": "JesoutiensAnimalPolitique"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CollectifAnimal",
+                    "id": "800682571315040257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868834836638838784",
+        "text": "Dix mensonges sur l’expérimentation animale https://t.co/uPE1hkAUHo",
+        "created_at": "2017-05-28 14:22:21+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868834836638838784,
+        "entities": {
+            "urls": [
+                {
+                    "start": 44,
+                    "end": 67,
+                    "url": "https://t.co/uPE1hkAUHo",
+                    "expanded_url": "http://antidote-europe.org/experimentation-animale-10-mensonges/",
+                    "display_url": "antidote-europe.org/experimentatio…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868831595754655744",
+        "text": "\"Le sens de la vie est de trouver ses dons. Le but de la vie est d'en faire don aux autres\". Pablo Picasso",
+        "created_at": "2017-05-28 14:09:29+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868831595754655744,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868778029488758784",
+        "text": "RT @La11eAvecMacron: Législatives: Batailles de gauche à droite… Découvrez les points chauds à Paris\n@20Minutes \nhttps://t.co/auej5QMzNd",
+        "created_at": "2017-05-28 10:36:38+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868778029488758784,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/auej5QMzNd",
+                    "expanded_url": "http://www.20minutes.fr/paris/2075247-20170526-legislatives-batailles-gauche-droite-decouvrez-points-chauds-paris",
+                    "display_url": "20minutes.fr/paris/2075247-…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "La11eAvecMacron",
+                    "id": "865647261807550464"
+                },
+                {
+                    "start": 101,
+                    "end": 111,
+                    "username": "20Minutes",
+                    "id": "2649991"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868423698965041152",
+        "text": "Free hugs (câlins gratuit) cet après-midi devant Notre Dame de Paris! Apportez vos pancartes et votre joie de vivre! https://t.co/0u6e2sTjrX",
+        "created_at": "2017-05-27 11:08:39+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868423698965041152,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/0u6e2sTjrX",
+                    "expanded_url": "https://freehugsparis.wordpress.com/prochains-evenements/",
+                    "display_url": "freehugsparis.wordpress.com/prochains-even…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868399731562688512",
+        "text": "Bon ramadan à toutes les musulmanes et à tous les musulmans. Paix et quiétude",
+        "created_at": "2017-05-27 09:33:24+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868399731562688512,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868186674395795458",
+        "text": "L'indic Claude Hermant implique l'Etat dans l'attentat contre Charlie Hebdo https://t.co/HnQsdnOEwo via @avic_sy",
+        "created_at": "2017-05-26 19:26:47+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 868186674395795458,
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/HnQsdnOEwo",
+                    "expanded_url": "http://reseauinternational.net/lindic-claude-hermant-implique-letat-dans-lattentat-contre-charlie-hebdo/",
+                    "display_url": "reseauinternational.net/lindic-claude-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867704344606638080",
+        "text": "Les secrets du pacte Hulot-Macron https://t.co/zZLrd0uTGn via @erichacquemand",
+        "created_at": "2017-05-25 11:30:11+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867704344606638080,
+        "entities": {
+            "urls": [
+                {
+                    "start": 34,
+                    "end": 57,
+                    "url": "https://t.co/zZLrd0uTGn",
+                    "expanded_url": "http://www.parismatch.com/Actu/Politique/Les-secrets-du-pacte-Hulot-Macron-1267406",
+                    "display_url": "parismatch.com/Actu/Politique…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 62,
+                    "end": 77,
+                    "username": "erichacquemand",
+                    "id": "389523764"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866433114519875584",
+        "text": "RT @Marinejea1: Comme Corinne Lepage avant lui, Nicolas Grégoire réitère ses accusations d'emploi fictif au MoDem. #Bayrougate\nhttps://t.co…",
+        "created_at": "2017-05-21 23:18:46+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 866433114519875584,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 126,
+                    "tag": "Bayrougate"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 178,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866390912469016577",
+        "text": "Les suisses l'ont fait! Pourquoi pas nous? Les Suisses approuvent l’abandon progressif du nucléaire https://t.co/PjWdIrqqIX",
+        "created_at": "2017-05-21 20:31:04+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 866390912469016577,
+        "entities": {
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/PjWdIrqqIX",
+                    "expanded_url": "http://www.lemonde.fr/europe/article/2017/05/21/les-suisses-appeles-a-se-prononcer-sur-l-abandon-progressif-du-nucleaire_5131268_3214.html",
+                    "display_url": "lemonde.fr/europe/article…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865411984996450304",
+        "text": "RT @CathHelayel: - @N_Hulot avait soutenu le manifeste de @CollectifAnimal \nN'oubliez pas les #animaux alors. merci \nhttps://t.co/aSMp0iQe50",
+        "created_at": "2017-05-19 03:41:10+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 865411984996450304,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/aSMp0iQe50",
+                    "expanded_url": "https://youtu.be/-Okph2fdbbc",
+                    "display_url": "youtu.be/-Okph2fdbbc"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 102,
+                    "tag": "animaux"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CathHelayel",
+                    "id": "856411754"
+                },
+                {
+                    "start": 19,
+                    "end": 27,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                },
+                {
+                    "start": 58,
+                    "end": 74,
+                    "username": "CollectifAnimal",
+                    "id": "800682571315040257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "865255421333909504",
+        "text": "RT @CRAC_Europe: Par Aymeric Caron\nUn grand merci à lui pour ce bel article.\n@CaronAymericoff #legislatives2017 @EmmanuelMacron \n https://t…",
+        "created_at": "2017-05-18 17:19:02+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 865255421333909504,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 111,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CRAC_Europe",
+                    "id": "774531703"
+                },
+                {
+                    "start": 77,
+                    "end": 93,
+                    "username": "CaronAymericoff",
+                    "id": "714829913619099648"
+                },
+                {
+                    "start": 112,
+                    "end": 127,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "865254942541578242",
+        "text": "RT @Trisomicmac: #SophieCluzel, secrétaire d'Etat au handicap, ex administratrice de l'#UNAPEI. Un profil prometteur. #Trisomie https://t.c…",
+        "created_at": "2017-05-18 17:17:08+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 865254942541578242,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 30,
+                    "tag": "SophieCluzel"
+                },
+                {
+                    "start": 87,
+                    "end": 94,
+                    "tag": "UNAPEI"
+                },
+                {
+                    "start": 118,
+                    "end": 127,
+                    "tag": "Trisomie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Trisomicmac",
+                    "id": "2395091492"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864983146730852352",
+        "text": "Retrouvez mes 60 propositions en matière de protection animale, écologie, santé, ... aux législatives #circo7511 https://t.co/rM4OyoBQeB",
+        "created_at": "2017-05-17 23:17:07+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864983146730852352,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/rM4OyoBQeB",
+                    "expanded_url": "http://mironcusa.com/politique.htm",
+                    "display_url": "mironcusa.com/politique.htm"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 112,
+                    "tag": "circo7511"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864968517006888960",
+        "text": "@desarnez @BFMTV bonne campagne! elle promet d'être passionnante cette année dans la #circo7511",
+        "created_at": "2017-05-17 22:18:59+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864130093001715716,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 95,
+                    "tag": "circo7511"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "desarnez",
+                    "id": "303885267"
+                },
+                {
+                    "start": 10,
+                    "end": 16,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 303885267,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864966483985784833",
+        "text": "@ParisienLiberal @desarnez @JrmeBoucher @juliejuliec @CuzouG @DanielAgacinski @NioldelaHyre @PCFParis14 @Mathieu_Pinto @JackyMAJDA elle laissera sa place à sa suppléante le temps de son passage au gouvernement",
+        "created_at": "2017-05-17 22:10:54+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864840988862418945,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 26,
+                    "username": "desarnez",
+                    "id": "303885267"
+                },
+                {
+                    "start": 27,
+                    "end": 39,
+                    "username": "JrmeBoucher",
+                    "id": "600465751"
+                },
+                {
+                    "start": 40,
+                    "end": 52,
+                    "username": "juliejuliec",
+                    "id": "140133744"
+                },
+                {
+                    "start": 53,
+                    "end": 60,
+                    "username": "CuzouG",
+                    "id": "839721476"
+                },
+                {
+                    "start": 61,
+                    "end": 77,
+                    "username": "DanielAgacinski",
+                    "id": "2795105986"
+                },
+                {
+                    "start": 92,
+                    "end": 103,
+                    "username": "PCFParis14",
+                    "id": "799316987897872384"
+                },
+                {
+                    "start": 104,
+                    "end": 118,
+                    "username": "Mathieu_Pinto",
+                    "id": "475286992"
+                },
+                {
+                    "start": 119,
+                    "end": 130,
+                    "username": "JackyMAJDA",
+                    "id": "69335115"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 172665401,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864950899495641088",
+        "text": "Je salue la nomination de Muriel Pénicaud et surtout de Nicolas @N_Hulot , en espérant qu'il ait une réelle marge de manœuvre pour agir",
+        "created_at": "2017-05-17 21:08:59+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864950899495641088,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 64,
+                    "end": 72,
+                    "username": "N_Hulot",
+                    "id": "280973617"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864590423532163072",
+        "text": "Candidat aux Législatives? Engagez-vous pour les animaux !\n https://t.co/ICI36b3zSK",
+        "created_at": "2017-05-16 21:16:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 864590423532163072,
+        "entities": {
+            "urls": [
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/ICI36b3zSK",
+                    "expanded_url": "https://www.animalpolitique.com/single-post/2017/05/11/Candidat-aux-L%C3%A9gislatives-Engagez-vous-pour-les-animaux-",
+                    "display_url": "animalpolitique.com/single-post/20…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864589956626468865",
+        "text": "RT @L214: Les substituts végétaux sont passés d’un taux de croissance de 8% en 2015 à 97% en 2016! @Processalim\nhttps://t.co/pbrfI1RsD9 htt…",
+        "created_at": "2017-05-16 21:14:43+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864589956626468865,
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/pbrfI1RsD9",
+                    "expanded_url": "http://www.processalimentaire.com/Ingredients/Les-substituts-de-viande-au-caeur-des-lancements-31029",
+                    "display_url": "processalimentaire.com/Ingredients/Le…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 8,
+                    "username": "L214",
+                    "id": "28207060"
+                },
+                {
+                    "start": 99,
+                    "end": 111,
+                    "username": "Processalim",
+                    "id": "76788707"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 147,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864588986228125696",
+        "text": "RT @fondationhulot: [ Lettre ouverte ] Nous appelons @EmmanuelMacron à mettre en place un grand ministère de l'Environnement https://t.co/M…",
+        "created_at": "2017-05-16 21:10:52+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864588986228125696,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "fondationhulot",
+                    "id": "890653759600304129"
+                },
+                {
+                    "start": 53,
+                    "end": 68,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 291,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "864485888746823680",
+        "text": "Dépôt de candidature en préfecture pour les législatives, ça c'est fait :-) https://t.co/VAfgAQMpg6",
+        "created_at": "2017-05-16 14:21:11+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_864485853153812481"
+            ]
+        },
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 864485888746823680,
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/VAfgAQMpg6",
+                    "expanded_url": "https://twitter.com/mironcusa/status/864485888746823680/photo/1",
+                    "display_url": "pic.twitter.com/VAfgAQMpg6",
+                    "media_key": "3_864485853153812481"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864424412258471938",
+        "text": "RT @RACFrance: Lettre ouverte des ONG à @EmmanuelMacron pour réclamer un ministère de l'Environnement élargi \nhttps://t.co/vEeIDRz0jm https…",
+        "created_at": "2017-05-16 10:16:54+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 864424412258471938,
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/vEeIDRz0jm",
+                    "expanded_url": "http://www.bfmtv.com/planete/lettre-ouverte-d-ong-a-macron-pour-reclamer-un-ministere-de-l-environnement-elargi-1160451.html",
+                    "display_url": "bfmtv.com/planete/lettre…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "RACFrance",
+                    "id": "478448085"
+                },
+                {
+                    "start": 40,
+                    "end": 55,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 288,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863692024960221184",
+        "text": "@sylvie13333 merci Sylvie!",
+        "created_at": "2017-05-14 09:46:40+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 863299868877623296,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 1435938901,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863586176967606274",
+        "text": "RT @nuitdebout: De la #democratie représentative au pays du camembert. \nOu la nécessité de repenser le vote. \n#NuitDebout https://t.co/UACl…",
+        "created_at": "2017-05-14 02:46:03+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825063068027621376",
+                    "name": "Cheese",
+                    "description": "Cheese"
+                }
+            }
+        ],
+        "conversation_id": 863586176967606274,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 22,
+                    "end": 33,
+                    "tag": "democratie"
+                },
+                {
+                    "start": 110,
+                    "end": 121,
+                    "tag": "NuitDebout"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "nuitdebout",
+                    "id": "712216639052324864"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 242,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863585036037128193",
+        "text": "RT @20Minutes: #Rediff A Madrid, 2.000 personnes manifestent pour l'abolition de la tauromachie https://t.co/289YkslAQq https://t.co/cJ7yya…",
+        "created_at": "2017-05-14 02:41:31+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855415365618225152",
+                    "name": "Madrid",
+                    "description": "Madrid"
+                }
+            }
+        ],
+        "conversation_id": 863585036037128193,
+        "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/289YkslAQq",
+                    "expanded_url": "http://bit.ly/2pJYZNx",
+                    "display_url": "bit.ly/2pJYZNx"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 22,
+                    "tag": "Rediff"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "20Minutes",
+                    "id": "2649991"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863541456220377089",
+        "text": "Affaire censurée par la plupart des médias https://t.co/ipjiJ5JFHa",
+        "created_at": "2017-05-13 23:48:21+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 863541456220377089,
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/ipjiJ5JFHa",
+                    "expanded_url": "https://twitter.com/nicolasgregoire/status/863363192411611137",
+                    "display_url": "twitter.com/nicolasgregoir…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "863468846346371072",
+        "text": "RT @PucesLapin: Catherine Barbaroux (Présidente de la République En Marche): Contre l'investiture de Marie Sara... https://t.co/5IAVgvIH3p…",
+        "created_at": "2017-05-13 18:59:50+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 863468846346371072,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/5IAVgvIH3p",
+                    "expanded_url": "https://www.change.org/p/catherine-barbaroux-pr%C3%A9sidente-de-la-r%C3%A9publique-en-marche-contre-l-investiture-de-marie-sara-r%C3%A9p-en-marche-dans-la-2%C3%A8me-circonscription-du-gard?recruiter=144355070&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_petition",
+                    "display_url": "change.org/p/catherine-ba…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "PucesLapin",
+                    "id": "951765632"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "863388457950998528",
+        "text": "Chantier participatif de compostage, asso des Lapins Ouvriers au jardin partagé de la Zac Didot… https://t.co/PsD97kvDTZ",
+        "created_at": "2017-05-13 13:40:24+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 863388457950998528,
+        "entities": {
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/PsD97kvDTZ",
+                    "expanded_url": "https://www.instagram.com/p/BUCNectgLpm/",
+                    "display_url": "instagram.com/p/BUCNectgLpm/"
+                }
+            ]
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    2.32446263,
+                    48.83287997
+                ]
+            },
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Instagram",
+        "withheld": null
+    },
+    {
+        "id": "863299868877623296",
+        "text": "Officiellement investi par le MHAN aux législatives dans la 11e circonscription de Paris. https://t.co/FYgDLBPK3u :-)",
+        "created_at": "2017-05-13 07:48:22+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 863299868877623296,
+        "entities": {
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/FYgDLBPK3u",
+                    "expanded_url": "http://www.mhan-legislatives.fr/",
+                    "display_url": "mhan-legislatives.fr"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860187408675024897",
+        "text": "RT @Repureplique: Le feu sur scène, place de la République pour faire barrage à MARINE LE PEN ! #RepuReplique #NonAuFN https://t.co/T59zfEB…",
+        "created_at": "2017-05-04 17:40:34+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860187408675024897,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 109,
+                    "tag": "RepuReplique"
+                },
+                {
+                    "start": 110,
+                    "end": 118,
+                    "tag": "NonAuFN"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Repureplique",
+                    "id": "858667045797474306"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "858394175070392321",
+        "text": "Gauvin Sers, la relève de la chanson française, au café de la danse, Paris Bastille https://t.co/olZ9CYbeTk",
+        "created_at": "2017-04-29 18:54:54+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 858394175070392321,
+        "entities": {
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/olZ9CYbeTk",
+                    "expanded_url": "https://www.pscp.tv/w/a9OHfjFXTEVSV2FPbm9RYkR8MWxEeExqWU9ORW9HbbEZnYXNdwBT1qn2-kT4ukPbAuK0l9LordEikyCIkY__",
+                    "display_url": "pscp.tv/w/a9OHfjFXTEVS…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Periscope",
+        "withheld": null
+    },
+    {
+        "id": "858023016235769856",
+        "text": "#Uli von Roth, guitariste virtuose de légende, au Petit Bain, Paris https://t.co/vADViu0Yz6",
+        "created_at": "2017-04-28 18:20:03+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 858023016235769856,
+        "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/vADViu0Yz6",
+                    "expanded_url": "https://www.pscp.tv/w/a9It0jFXTEVSV2FPbm9RYkR8MWpNS2dvVnBPTXFLTPBJ6E47w2Tr-s-xv4fw5RwhYJUbmew4bvxtCqGj306n",
+                    "display_url": "pscp.tv/w/a9It0jFXTEVS…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "tag": "Uli"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Periscope",
+        "withheld": null
+    }
+]

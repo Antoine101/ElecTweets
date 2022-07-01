@@ -8,14 +8,6 @@
         "context_annotations": [],
         "conversation_id": 211380687972990976,
         "entities": {
-            "mentions": [
-                {
-                    "start": 63,
-                    "end": 78,
-                    "username": "UnionArdennais",
-                    "id": "46127230"
-                }
-            ],
             "urls": [
                 {
                     "start": 38,
@@ -23,6 +15,14 @@
                     "url": "http://t.co/ljQzma0I",
                     "expanded_url": "http://www.lunion.presse.fr/article/legislatives-2012/legislatives-sylvie-bouche-pour-la-cause-animale#comment-353211",
                     "display_url": "lunion.presse.fr/article/legisl…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 78,
+                    "username": "UnionArdennais",
+                    "id": "46127230"
                 }
             ]
         },
@@ -82,14 +82,6 @@
         "context_annotations": [],
         "conversation_id": 211376475255996416,
         "entities": {
-            "mentions": [
-                {
-                    "start": 124,
-                    "end": 139,
-                    "username": "le_Parisien_fr",
-                    "id": "807439081"
-                }
-            ],
             "urls": [
                 {
                     "start": 99,
@@ -97,6 +89,14 @@
                     "url": "http://t.co/BxLm0Huv",
                     "expanded_url": "http://www.leparisien.fr/espace-premium/paris-75/les-candidats-la-chevre-et-la-belette-09-06-2012-2039084.php",
                     "display_url": "leparisien.fr/espace-premium…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 124,
+                    "end": 139,
+                    "username": "le_Parisien_fr",
+                    "id": "807439081"
                 }
             ]
         },
@@ -123,14 +123,6 @@
         "context_annotations": [],
         "conversation_id": 211372747375394816,
         "entities": {
-            "mentions": [
-                {
-                    "start": 99,
-                    "end": 114,
-                    "username": "La_Parisienne_",
-                    "id": "3253748379"
-                }
-            ],
             "urls": [
                 {
                     "start": 74,
@@ -138,6 +130,14 @@
                     "url": "http://t.co/fW72xwHB",
                     "expanded_url": "http://bit.ly/Kg58eX",
                     "display_url": "bit.ly/Kg58eX"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 114,
+                    "username": "La_Parisienne_",
+                    "id": "3253748379"
                 }
             ]
         },
@@ -229,6 +229,15 @@
         "context_annotations": [],
         "conversation_id": 211235412285456387,
         "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 100,
+                    "url": "http://t.co/YsovsJ1P",
+                    "expanded_url": "http://youtu.be/Q3kPvDwP7xY",
+                    "display_url": "youtu.be/Q3kPvDwP7xY"
+                }
+            ],
             "annotations": [
                 {
                     "start": 0,
@@ -251,15 +260,6 @@
                     "end": 113,
                     "username": "YouTube",
                     "id": "10228272"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 80,
-                    "end": 100,
-                    "url": "http://t.co/YsovsJ1P",
-                    "expanded_url": "http://youtu.be/Q3kPvDwP7xY",
-                    "display_url": "youtu.be/Q3kPvDwP7xY"
                 }
             ]
         },
@@ -319,6 +319,15 @@
         "context_annotations": [],
         "conversation_id": 211182630778056705,
         "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 135,
+                    "url": "http://t.co/hDKu73Xb",
+                    "expanded_url": "http://www.avaaz.org/fr/inde_et_etatsunis_/?wiLVGab",
+                    "display_url": "avaaz.org/fr/inde_et_eta…"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 80,
@@ -344,15 +353,6 @@
                     "end": 113,
                     "username": "Avaaz",
                     "id": "2553151"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 115,
-                    "end": 135,
-                    "url": "http://t.co/hDKu73Xb",
-                    "expanded_url": "http://www.avaaz.org/fr/inde_et_etatsunis_/?wiLVGab",
-                    "display_url": "avaaz.org/fr/inde_et_eta…"
                 }
             ]
         },
@@ -622,14 +622,6 @@
         "context_annotations": [],
         "conversation_id": 210507924559237121,
         "entities": {
-            "mentions": [
-                {
-                    "start": 65,
-                    "end": 75,
-                    "username": "20Minutes",
-                    "id": "2649991"
-                }
-            ],
             "urls": [
                 {
                     "start": 40,
@@ -637,6 +629,14 @@
                     "url": "http://t.co/dQbhOzsI",
                     "expanded_url": "http://20min.fr/a/947393",
                     "display_url": "20min.fr/a/947393"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 65,
+                    "end": 75,
+                    "username": "20Minutes",
+                    "id": "2649991"
                 }
             ]
         },
@@ -696,14 +696,6 @@
         "context_annotations": [],
         "conversation_id": 209332812996808704,
         "entities": {
-            "mentions": [
-                {
-                    "start": 44,
-                    "end": 52,
-                    "username": "YouTube",
-                    "id": "10228272"
-                }
-            ],
             "urls": [
                 {
                     "start": 19,
@@ -711,6 +703,14 @@
                     "url": "http://t.co/SlcTwmHz",
                     "expanded_url": "http://youtu.be/av38HzVqcpM",
                     "display_url": "youtu.be/av38HzVqcpM"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 52,
+                    "username": "YouTube",
+                    "id": "10228272"
                 }
             ]
         },
@@ -737,14 +737,6 @@
         "context_annotations": [],
         "conversation_id": 209318306748968961,
         "entities": {
-            "mentions": [
-                {
-                    "start": 102,
-                    "end": 110,
-                    "username": "YouTube",
-                    "id": "10228272"
-                }
-            ],
             "urls": [
                 {
                     "start": 77,
@@ -752,6 +744,14 @@
                     "url": "http://t.co/IWi08Xd6",
                     "expanded_url": "http://youtu.be/HE3MDSTaK2o",
                     "display_url": "youtu.be/HE3MDSTaK2o"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 102,
+                    "end": 110,
+                    "username": "YouTube",
+                    "id": "10228272"
                 }
             ]
         },
@@ -899,14 +899,6 @@
         "context_annotations": [],
         "conversation_id": 208263786237403137,
         "entities": {
-            "mentions": [
-                {
-                    "start": 127,
-                    "end": 136,
-                    "username": "LEXPRESS",
-                    "id": "13353862"
-                }
-            ],
             "urls": [
                 {
                     "start": 102,
@@ -914,6 +906,14 @@
                     "url": "http://t.co/iJIxbBG2",
                     "expanded_url": "http://www.lexpress.fr/diaporama/diapo-photo/actualite/politique/aidez-nous-a-denicher-les-meilleures-affiches-des-legislatives_1120299.html?p=5",
                     "display_url": "lexpress.fr/diaporama/diap…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 136,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
                 }
             ]
         },
@@ -940,14 +940,6 @@
         "context_annotations": [],
         "conversation_id": 208255164388347904,
         "entities": {
-            "mentions": [
-                {
-                    "start": 79,
-                    "end": 89,
-                    "username": "TommeBlur",
-                    "id": "476603101"
-                }
-            ],
             "urls": [
                 {
                     "start": 54,
@@ -955,6 +947,14 @@
                     "url": "http://t.co/BUal8aa3",
                     "expanded_url": "http://lolgislatives2012.tumblr.com/post/24124236247/oh-la-jolie-suppleante-fab#.T8ewBKbqv2I.twitter",
                     "display_url": "lolgislatives2012.tumblr.com/post/241242362…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 89,
+                    "username": "TommeBlur",
+                    "id": "476603101"
                 }
             ]
         },
@@ -1077,14 +1077,6 @@
         "context_annotations": [],
         "conversation_id": 206408187707011072,
         "entities": {
-            "mentions": [
-                {
-                    "start": 59,
-                    "end": 70,
-                    "username": "epanews_fr",
-                    "id": "100445429"
-                }
-            ],
             "urls": [
                 {
                     "start": 73,
@@ -1092,6 +1084,14 @@
                     "url": "http://t.co/ImOXR2DP",
                     "expanded_url": "http://ning.it/KsAdZk",
                     "display_url": "ning.it/KsAdZk"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 59,
+                    "end": 70,
+                    "username": "epanews_fr",
+                    "id": "100445429"
                 }
             ]
         },
@@ -1239,14 +1239,6 @@
         "context_annotations": [],
         "conversation_id": 205425945149059072,
         "entities": {
-            "mentions": [
-                {
-                    "start": 58,
-                    "end": 66,
-                    "username": "YouTube",
-                    "id": "10228272"
-                }
-            ],
             "urls": [
                 {
                     "start": 33,
@@ -1254,6 +1246,14 @@
                     "url": "http://t.co/nKY1WzPZ",
                     "expanded_url": "http://youtu.be/fxOGpwnWcEQ",
                     "display_url": "youtu.be/fxOGpwnWcEQ"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 58,
+                    "end": 66,
+                    "username": "YouTube",
+                    "id": "10228272"
                 }
             ]
         },
@@ -1435,14 +1435,6 @@
         "context_annotations": [],
         "conversation_id": 203925253792071680,
         "entities": {
-            "mentions": [
-                {
-                    "start": 113,
-                    "end": 125,
-                    "username": "YahooActuFR",
-                    "id": "52328349"
-                }
-            ],
             "urls": [
                 {
                     "start": 88,
@@ -1450,6 +1442,14 @@
                     "url": "http://t.co/hBZJ1iQS",
                     "expanded_url": "http://fr.news.yahoo.com/tranche-dimp%C3%B4ts-%C3%A0-75-yannick-noah-sera-content-181441533.html",
                     "display_url": "fr.news.yahoo.com/tranche-dimp%C…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 113,
+                    "end": 125,
+                    "username": "YahooActuFR",
+                    "id": "52328349"
                 }
             ]
         },
@@ -1499,14 +1499,6 @@
         "context_annotations": [],
         "conversation_id": 200688993145327617,
         "entities": {
-            "mentions": [
-                {
-                    "start": 78,
-                    "end": 86,
-                    "username": "LePoint",
-                    "id": "8460572"
-                }
-            ],
             "urls": [
                 {
                     "start": 53,
@@ -1514,6 +1506,589 @@
                     "url": "http://t.co/0alkLqjl",
                     "expanded_url": "http://www.lepoint.fr/tiny/1-1460063",
                     "display_url": "lepoint.fr/tiny/1-1460063"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 86,
+                    "username": "LePoint",
+                    "id": "8460572"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "199059007443439616",
+        "text": "RT @TMRIT: RDV LE PREMIER JUILLET A #LACIGALE POUR UN CONCERT ENCORE PLUS CHAUD! http://t.co/Fzf3gWDQ",
+        "created_at": "2012-05-06 08:52:20+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 199059007443439616,
+        "entities": {
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 101,
+                    "url": "http://t.co/Fzf3gWDQ",
+                    "expanded_url": "http://www.youtube.com/watch?v=1yCSNbFcU5k",
+                    "display_url": "youtube.com/watch?v=1yCSNb…",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=1yCSNbFcU5k"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 45,
+                    "tag": "LACIGALE"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "TMRIT",
+                    "id": "355154127"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198893947668537344",
+        "text": "« Une situation extrêmement grave dans le Sahel »: http://t.co/7XMjTn0L via @youtube",
+        "created_at": "2012-05-05 21:56:27+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 198893947668537344,
+        "entities": {
+            "urls": [
+                {
+                    "start": 51,
+                    "end": 71,
+                    "url": "http://t.co/7XMjTn0L",
+                    "expanded_url": "http://youtu.be/iNE22ZIjExI",
+                    "display_url": "youtu.be/iNE22ZIjExI"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "username": "YouTube",
+                    "id": "10228272"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "197318928941334528",
+        "text": "pars rejoindre la marche populaire des banlieux et des indignés de la campagne à Denfert Rochereau, pratique j'y habite http://t.co/a7EW9kEA",
+        "created_at": "2012-05-01 13:37:53+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 197318928941334528,
+        "entities": {
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 140,
+                    "url": "http://t.co/a7EW9kEA",
+                    "expanded_url": "http://www.marche-paris-2012.com/",
+                    "display_url": "marche-paris-2012.com"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "197318477017657344",
+        "text": "@Disizfr en espérant que René restera une fiction!!!",
+        "created_at": "2012-05-01 13:36:05+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 193643867021639680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 126656601,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "197050603338346499",
+        "text": "en espérant que rené restera une fiction!!!!@Disizfr",
+        "created_at": "2012-04-30 19:51:39+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 197050603338346499,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "197050132414472193",
+        "text": "retour en grande forme à paris après un séjour détoxification ayurvédique au grand air!",
+        "created_at": "2012-04-30 19:49:47+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 197050132414472193,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195815325986586624",
+        "text": "@Disizfr tu fais bien homme libre!",
+        "created_at": "2012-04-27 10:03:06+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 194136244383514625,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 126656601,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195812471016132608",
+        "text": "Je serais candidat aux législatives à Paris pour défendre les animaux et la planète avec le MHAN http://t.co/yWxw39Cz",
+        "created_at": "2012-04-27 09:51:45+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 195812471016132608,
+        "entities": {
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 117,
+                    "url": "http://t.co/yWxw39Cz",
+                    "expanded_url": "http://www.mhan.fr",
+                    "display_url": "mhan.fr"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195809302257213440",
+        "text": "@Disizfr l'homme libre de la chanson française!!!",
+        "created_at": "2012-04-27 09:39:10+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 195809302257213440,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Disizfr",
+                    "id": "126656601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 126656601,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195799722550763520",
+        "text": "@bayrou j'espère que tu ne voteras pas Nicolas après ses dérives droitières qui font honte à notre république",
+        "created_at": "2012-04-27 09:01:06+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 195799722550763520,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "bayrou",
+                    "id": "17211968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17211968,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195796672385794048",
+        "text": "Paris: Des habitants du 6e arrondissement financent les obsèques d'un SDF http://t.co/tXYn4FdD via @20minutes",
+        "created_at": "2012-04-27 08:48:59+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 195796672385794048,
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 94,
+                    "url": "http://t.co/tXYn4FdD",
+                    "expanded_url": "http://20min.fr/a/923603",
+                    "display_url": "20min.fr/a/923603"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 109,
+                    "username": "20Minutes",
+                    "id": "2649991"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "193379470357438465",
+        "text": "Les \"Indignés\" de la campagne convergent vers Paris http://t.co/ZvWCx1RB via @LePoint",
+        "created_at": "2012-04-20 16:43:53+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 193379470357438465,
+        "entities": {
+            "urls": [
+                {
+                    "start": 52,
+                    "end": 72,
+                    "url": "http://t.co/ZvWCx1RB",
+                    "expanded_url": "http://www.lepoint.fr/tiny/1-1453593",
+                    "display_url": "lepoint.fr/tiny/1-1453593"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 77,
+                    "end": 85,
+                    "username": "LePoint",
+                    "id": "8460572"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "193370091239391234",
+        "text": "@HeleneCusa à te voilà enfin! bine ai venit!",
+        "created_at": "2012-04-20 16:06:37+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 179931441407332352,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "HeleneCusa",
+                    "id": "516596535"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 516596535,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "193369698044358658",
+        "text": "http://t.co/FRk0n7yk -- L’élevage accentue l’effet de serre et la déforestation",
+        "created_at": "2012-04-20 16:05:03+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 193369698044358658,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 20,
+                    "url": "http://t.co/FRk0n7yk",
+                    "expanded_url": "http://www.viande.info/elevage-viande-gaz-effet-serre",
+                    "display_url": "viande.info/elevage-viande…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Websites",
+        "withheld": null
+    },
+    {
+        "id": "193360862633918465",
+        "text": "Arrivée des marches populaires sur Paris http://t.co/QAiHJ4uT",
+        "created_at": "2012-04-20 15:29:56+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 193360862633918465,
+        "entities": {
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 61,
+                    "url": "http://t.co/QAiHJ4uT",
+                    "expanded_url": "http://0z.fr/Oz_7n",
+                    "display_url": "0z.fr/Oz_7n"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "OverBlog",
+        "withheld": null
+    },
+    {
+        "id": "192925254891487234",
+        "text": "A tous les défenseurs des animaux et écolos si vous voulez que nos idées soient prise en compte par hollande votez Eva au 1er tour!!!!",
+        "created_at": "2012-04-19 10:38:59+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 192925254891487234,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "191646364076220417",
+        "text": "Réponses d’Eva Joly au questionnaire de la Fondation 30 Millions d’Amis | Eva Joly http://t.co/wRjOjcYW via @evajoly",
+        "created_at": "2012-04-15 21:57:08+00:00",
+        "attachments": null,
+        "author_id": 158103530,
+        "context_annotations": [],
+        "conversation_id": 191646364076220417,
+        "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 103,
+                    "url": "http://t.co/wRjOjcYW",
+                    "expanded_url": "http://evajoly2012.fr/2012/04/02/reponses-deva-joly-au-questionnaire-de-la-fondation-30-millions-damis/",
+                    "display_url": "evajoly2012.fr/2012/04/02/rep…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 108,
+                    "end": 116,
+                    "username": "EvaJoly",
+                    "id": "234035533"
                 }
             ]
         },

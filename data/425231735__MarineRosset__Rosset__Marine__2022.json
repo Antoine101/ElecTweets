@@ -140,16 +140,6 @@
         ],
         "conversation_id": 1535305244640432128,
         "entities": {
-            "urls": [
-                {
-                    "start": 279,
-                    "end": 302,
-                    "url": "https://t.co/O4C6lQ9frN",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1535305244640432128/video/1",
-                    "display_url": "pic.twitter.com/O4C6lQ9frN",
-                    "media_key": "7_1535305100457132032"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 250,
@@ -160,6 +150,16 @@
                     "start": 261,
                     "end": 278,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/O4C6lQ9frN",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1535305244640432128/video/1",
+                    "display_url": "pic.twitter.com/O4C6lQ9frN",
+                    "media_key": "7_1535305100457132032"
                 }
             ]
         },
@@ -186,19 +186,19 @@
         "context_annotations": [],
         "conversation_id": 1535303181785255938,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 46,
+                    "tag": "Paris"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "isabelle_rocca",
                     "id": "1404884185"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 40,
-                    "end": 46,
-                    "tag": "Paris"
                 }
             ]
         },
@@ -248,6 +248,13 @@
         ],
         "conversation_id": 1535290197855948801,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 38,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -260,13 +267,6 @@
                     "end": 70,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 21,
-                    "end": 38,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -293,6 +293,13 @@
         "context_annotations": [],
         "conversation_id": 1535286032853348360,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 122,
+                    "tag": "Nupes"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -311,13 +318,6 @@
                     "end": 47,
                     "username": "partisocialiste",
                     "id": "19900973"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 116,
-                    "end": 122,
-                    "tag": "Nupes"
                 }
             ]
         },
@@ -371,16 +371,6 @@
         ],
         "conversation_id": 1535281524244897792,
         "entities": {
-            "urls": [
-                {
-                    "start": 280,
-                    "end": 303,
-                    "url": "https://t.co/fS4JjL3y0Z",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1535281524244897792/video/1",
-                    "display_url": "pic.twitter.com/fS4JjL3y0Z",
-                    "media_key": "7_1535281448348962817"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 251,
@@ -391,6 +381,16 @@
                     "start": 262,
                     "end": 279,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/fS4JjL3y0Z",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1535281524244897792/video/1",
+                    "display_url": "pic.twitter.com/fS4JjL3y0Z",
+                    "media_key": "7_1535281448348962817"
                 }
             ]
         },
@@ -444,6 +444,18 @@
         ],
         "conversation_id": 1535262983013662721,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 233,
+                    "end": 243,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 247,
+                    "end": 264,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 49,
@@ -460,18 +472,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1535262983013662721/video/1",
                     "display_url": "pic.twitter.com/LnH66tRKCj",
                     "media_key": "7_1535262901027618818"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 233,
-                    "end": 243,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 247,
-                    "end": 264,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -574,6 +574,13 @@
         "context_annotations": [],
         "conversation_id": 1535164408514727937,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 269,
+                    "end": 279,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 241,
@@ -590,13 +597,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1535164408514727937/video/1",
                     "display_url": "pic.twitter.com/49fFZEN181",
                     "media_key": "7_1535164376684060672"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 269,
-                    "end": 279,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -730,6 +730,23 @@
         ],
         "conversation_id": 1534973313906266122,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 95,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "nupes"
+                },
+                {
+                    "start": 103,
+                    "end": 120,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 6,
@@ -754,23 +771,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534973313906266122/photo/1",
                     "display_url": "pic.twitter.com/vohMJUYPXr",
                     "media_key": "3_1534973310005563406"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 85,
-                    "end": 95,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 96,
-                    "end": 102,
-                    "tag": "nupes"
-                },
-                {
-                    "start": 103,
-                    "end": 120,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -801,6 +801,18 @@
         "context_annotations": [],
         "conversation_id": 1534957418207141888,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 94,
+                    "tag": "Barbara"
+                },
+                {
+                    "start": 95,
+                    "end": 103,
+                    "tag": "memoire"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -817,18 +829,6 @@
                     "expanded_url": "https://twitter.com/lau_patrice/status/1534879096349548546/photo/1",
                     "display_url": "pic.twitter.com/Wj5ob8GYtc",
                     "media_key": "3_1534879090909626368"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 86,
-                    "end": 94,
-                    "tag": "Barbara"
-                },
-                {
-                    "start": 95,
-                    "end": 103,
-                    "tag": "memoire"
                 }
             ]
         },
@@ -921,6 +921,13 @@
         ],
         "conversation_id": 1534940936525991939,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 260,
+                    "end": 277,
+                    "tag": "legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 278,
@@ -937,13 +944,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534940936525991939/photo/1",
                     "display_url": "pic.twitter.com/89ySDcQxTZ",
                     "media_key": "3_1534940930767298563"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 260,
-                    "end": 277,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -1043,16 +1043,6 @@
         ],
         "conversation_id": 1534867438210322433,
         "entities": {
-            "urls": [
-                {
-                    "start": 253,
-                    "end": 276,
-                    "url": "https://t.co/RTAisgAnfS",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534867438210322433/photo/1",
-                    "display_url": "pic.twitter.com/RTAisgAnfS",
-                    "media_key": "3_1534867432397066241"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 217,
@@ -1068,6 +1058,16 @@
                     "start": 235,
                     "end": 252,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 253,
+                    "end": 276,
+                    "url": "https://t.co/RTAisgAnfS",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534867438210322433/photo/1",
+                    "display_url": "pic.twitter.com/RTAisgAnfS",
+                    "media_key": "3_1534867432397066241"
                 }
             ]
         },
@@ -1126,6 +1126,13 @@
         "context_annotations": [],
         "conversation_id": 1534849613882085377,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 49,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1138,13 +1145,6 @@
                     "end": 90,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 39,
-                    "end": 49,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -1245,6 +1245,13 @@
         "context_annotations": [],
         "conversation_id": 1534810127601127424,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 265,
+                    "end": 275,
+                    "tag": "circo7502"
+                }
+            ],
             "urls": [
                 {
                     "start": 276,
@@ -1277,13 +1284,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534838751876239360/photo/1",
                     "display_url": "pic.twitter.com/XYDeGmDHBR",
                     "media_key": "3_1534838745857392642"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 265,
-                    "end": 275,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -1341,6 +1341,23 @@
         ],
         "conversation_id": 1534810127601127424,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 107,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 108,
+                    "end": 114,
+                    "tag": "nupes"
+                },
+                {
+                    "start": 115,
+                    "end": 132,
+                    "tag": "legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 133,
@@ -1365,23 +1382,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534810688274800641/photo/1",
                     "display_url": "pic.twitter.com/Z8xCoelqdJ",
                     "media_key": "3_1534810684164382720"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 97,
-                    "end": 107,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 108,
-                    "end": 114,
-                    "tag": "nupes"
-                },
-                {
-                    "start": 115,
-                    "end": 132,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -1438,6 +1438,18 @@
         ],
         "conversation_id": 1534810127601127424,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 248,
+                    "end": 258,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 259,
+                    "end": 276,
+                    "tag": "legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 277,
@@ -1470,18 +1482,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534810127601127424/photo/1",
                     "display_url": "pic.twitter.com/uNxALOmB3G",
                     "media_key": "3_1534810123771777028"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 248,
-                    "end": 258,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 259,
-                    "end": 276,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -1596,6 +1596,18 @@
         "context_annotations": [],
         "conversation_id": 1534626562208849921,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 102,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 122,
+                    "end": 129,
+                    "tag": "paris5"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1608,18 +1620,6 @@
                     "end": 52,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 89,
-                    "end": 102,
-                    "tag": "legislatives"
-                },
-                {
-                    "start": 122,
-                    "end": 129,
-                    "tag": "paris5"
                 }
             ]
         },
@@ -1646,14 +1646,6 @@
         "context_annotations": [],
         "conversation_id": 1534613588282941442,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "Veneziano_S",
-                    "id": "3377722109"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 43,
@@ -1669,6 +1661,14 @@
                     "start": 62,
                     "end": 69,
                     "tag": "Paris7"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Veneziano_S",
+                    "id": "3377722109"
                 }
             ]
         },
@@ -1695,14 +1695,6 @@
         "context_annotations": [],
         "conversation_id": 1534605345670193152,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 16,
-                    "username": "MarineRosset",
-                    "id": "425231735"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 106,
@@ -1713,6 +1705,14 @@
                     "start": 117,
                     "end": 123,
                     "tag": "nupes"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "MarineRosset",
+                    "id": "425231735"
                 }
             ]
         },
@@ -1804,16 +1804,6 @@
         ],
         "conversation_id": 1534598901386432512,
         "entities": {
-            "urls": [
-                {
-                    "start": 124,
-                    "end": 147,
-                    "url": "https://t.co/YdXcEuFldR",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534598901386432512/photo/1",
-                    "display_url": "pic.twitter.com/YdXcEuFldR",
-                    "media_key": "3_1534598895791226884"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 88,
@@ -1830,6 +1820,16 @@
                     "end": 123,
                     "tag": "legislatives2022"
                 }
+            ],
+            "urls": [
+                {
+                    "start": 124,
+                    "end": 147,
+                    "url": "https://t.co/YdXcEuFldR",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534598901386432512/photo/1",
+                    "display_url": "pic.twitter.com/YdXcEuFldR",
+                    "media_key": "3_1534598895791226884"
+                }
             ]
         },
         "geo": null,
@@ -1839,7 +1839,7 @@
         "public_metrics": {
             "retweet_count": 15,
             "reply_count": 1,
-            "like_count": 34,
+            "like_count": 33,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -1855,6 +1855,13 @@
         "context_annotations": [],
         "conversation_id": 1534597932435087364,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 133,
+                    "tag": "legislatives"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1867,13 +1874,6 @@
                     "end": 29,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 120,
-                    "end": 133,
-                    "tag": "legislatives"
                 }
             ]
         },
@@ -1923,20 +1923,6 @@
         ],
         "conversation_id": 1534597914697289730,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 19,
-                    "username": "Laurent_Beauvai",
-                    "id": "504724393"
-                },
-                {
-                    "start": 74,
-                    "end": 87,
-                    "username": "MarineRosset",
-                    "id": "425231735"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 96,
@@ -1952,6 +1938,20 @@
                     "start": 129,
                     "end": 135,
                     "tag": "NUPES"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "Laurent_Beauvai",
+                    "id": "504724393"
+                },
+                {
+                    "start": 74,
+                    "end": 87,
+                    "username": "MarineRosset",
+                    "id": "425231735"
                 }
             ]
         },
@@ -1978,6 +1978,13 @@
         "context_annotations": [],
         "conversation_id": 1534597893520252934,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 131,
+                    "end": 137,
+                    "tag": "NUPES"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1990,13 +1997,6 @@
                     "end": 88,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 131,
-                    "end": 137,
-                    "tag": "NUPES"
                 }
             ]
         },
@@ -2023,6 +2023,13 @@
         "context_annotations": [],
         "conversation_id": 1534597876243898374,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 110,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2035,13 +2042,6 @@
                     "end": 44,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 100,
-                    "end": 110,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -2068,6 +2068,13 @@
         "context_annotations": [],
         "conversation_id": 1534597841037012996,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 53,
+                    "tag": "Paris5"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2080,13 +2087,6 @@
                     "end": 99,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 46,
-                    "end": 53,
-                    "tag": "Paris5"
                 }
             ]
         },
@@ -2113,6 +2113,13 @@
         "context_annotations": [],
         "conversation_id": 1534597805045596160,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 92,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2131,13 +2138,6 @@
                     "end": 74,
                     "username": "NUPES_2022_",
                     "id": "1324766177919381505"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 82,
-                    "end": 92,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -2187,6 +2187,18 @@
         ],
         "conversation_id": 1534594108387475457,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 37,
+                    "tag": "legislatives2022"
+                },
+                {
+                    "start": 38,
+                    "end": 48,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2211,18 +2223,6 @@
                     "end": 111,
                     "username": "partisocialiste",
                     "id": "19900973"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 37,
-                    "tag": "legislatives2022"
-                },
-                {
-                    "start": 38,
-                    "end": 48,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -2276,16 +2276,6 @@
         ],
         "conversation_id": 1534588463986638849,
         "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/RHarAuCZy3",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534588463986638849/photo/1",
-                    "display_url": "pic.twitter.com/RHarAuCZy3",
-                    "media_key": "3_1534588457338675202"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 77,
@@ -2301,6 +2291,16 @@
                     "start": 95,
                     "end": 112,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/RHarAuCZy3",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534588463986638849/photo/1",
+                    "display_url": "pic.twitter.com/RHarAuCZy3",
+                    "media_key": "3_1534588457338675202"
                 }
             ]
         },
@@ -2438,16 +2438,6 @@
         ],
         "conversation_id": 1534490075156951040,
         "entities": {
-            "urls": [
-                {
-                    "start": 271,
-                    "end": 294,
-                    "url": "https://t.co/BTBl666GQS",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534490075156951040/photo/1",
-                    "display_url": "pic.twitter.com/BTBl666GQS",
-                    "media_key": "3_1534490069356138497"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 246,
@@ -2458,6 +2448,16 @@
                     "start": 253,
                     "end": 270,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 271,
+                    "end": 294,
+                    "url": "https://t.co/BTBl666GQS",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534490075156951040/photo/1",
+                    "display_url": "pic.twitter.com/BTBl666GQS",
+                    "media_key": "3_1534490069356138497"
                 }
             ]
         },
@@ -2518,6 +2518,18 @@
         ],
         "conversation_id": 1534465522976411649,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 76,
+                    "tag": "Ukraine"
+                },
+                {
+                    "start": 245,
+                    "end": 251,
+                    "tag": "Honte"
+                }
+            ],
             "mentions": [
                 {
                     "start": 20,
@@ -2533,18 +2545,6 @@
                     "url": "https://t.co/599TPO33rE",
                     "expanded_url": "https://twitter.com/lemondefr/status/1534418610021617664",
                     "display_url": "twitter.com/lemondefr/stat…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 68,
-                    "end": 76,
-                    "tag": "Ukraine"
-                },
-                {
-                    "start": 245,
-                    "end": 251,
-                    "tag": "Honte"
                 }
             ]
         },
@@ -2598,16 +2598,6 @@
         ],
         "conversation_id": 1534449778167271424,
         "entities": {
-            "urls": [
-                {
-                    "start": 278,
-                    "end": 301,
-                    "url": "https://t.co/1aLfGTkgwZ",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534449778167271424/video/1",
-                    "display_url": "pic.twitter.com/1aLfGTkgwZ",
-                    "media_key": "7_1534449722055868416"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 242,
@@ -2623,6 +2613,16 @@
                     "start": 271,
                     "end": 277,
                     "tag": "nupes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/1aLfGTkgwZ",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534449778167271424/video/1",
+                    "display_url": "pic.twitter.com/1aLfGTkgwZ",
+                    "media_key": "7_1534449722055868416"
                 }
             ]
         },
@@ -2699,20 +2699,6 @@
         "context_annotations": [],
         "conversation_id": 1534258815042043904,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "YvainBourgeat",
-                    "id": "700444591384870913"
-                },
-                {
-                    "start": 97,
-                    "end": 110,
-                    "username": "MarineRosset",
-                    "id": "425231735"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 65,
@@ -2728,6 +2714,20 @@
                     "start": 84,
                     "end": 91,
                     "tag": "Paris7"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "YvainBourgeat",
+                    "id": "700444591384870913"
+                },
+                {
+                    "start": 97,
+                    "end": 110,
+                    "username": "MarineRosset",
+                    "id": "425231735"
                 }
             ]
         },
@@ -2754,6 +2754,13 @@
         "context_annotations": [],
         "conversation_id": 1534254654393044992,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 69,
+                    "tag": "NUPES"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2772,13 +2779,6 @@
                     "end": 138,
                     "username": "CometFr",
                     "id": "414871591"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 63,
-                    "end": 69,
-                    "tag": "NUPES"
                 }
             ]
         },
@@ -2805,6 +2805,13 @@
         "context_annotations": [],
         "conversation_id": 1534235841240997888,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 108,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2817,13 +2824,6 @@
                     "end": 89,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 98,
-                    "end": 108,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -2945,16 +2945,6 @@
         ],
         "conversation_id": 1534173013020663808,
         "entities": {
-            "urls": [
-                {
-                    "start": 159,
-                    "end": 182,
-                    "url": "https://t.co/F5ge9KVcOL",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534185526739312646/photo/1",
-                    "display_url": "pic.twitter.com/F5ge9KVcOL",
-                    "media_key": "3_1534185522117083136"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 120,
@@ -2970,6 +2960,16 @@
                     "start": 152,
                     "end": 158,
                     "tag": "nupes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 159,
+                    "end": 182,
+                    "url": "https://t.co/F5ge9KVcOL",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534185526739312646/photo/1",
+                    "display_url": "pic.twitter.com/F5ge9KVcOL",
+                    "media_key": "3_1534185522117083136"
                 }
             ]
         },
@@ -3080,6 +3080,13 @@
         "context_annotations": [],
         "conversation_id": 1534175606870614017,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 53,
+                    "tag": "NUPES"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3123,13 +3130,6 @@
                     "username": "ClaireMLejeune",
                     "id": "1089866692652687360"
                 }
-            ],
-            "hashtags": [
-                {
-                    "start": 47,
-                    "end": 53,
-                    "tag": "NUPES"
-                }
             ]
         },
         "geo": null,
@@ -3161,6 +3161,13 @@
         "context_annotations": [],
         "conversation_id": 1534173013020663808,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 270,
+                    "end": 280,
+                    "tag": "7Juin2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 281,
@@ -3185,13 +3192,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1534173013020663808/photo/1",
                     "display_url": "pic.twitter.com/TGuNCIJKsl",
                     "media_key": "3_1534173007228329986"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 270,
-                    "end": 280,
-                    "tag": "7Juin2022"
                 }
             ]
         },
@@ -3300,16 +3300,6 @@
         ],
         "conversation_id": 1534071532061851648,
         "entities": {
-            "urls": [
-                {
-                    "start": 212,
-                    "end": 235,
-                    "url": "https://t.co/a7mImXIowH",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1534071532061851648/video/1",
-                    "display_url": "pic.twitter.com/a7mImXIowH",
-                    "media_key": "7_1534071497698025472"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 33,
@@ -3330,6 +3320,16 @@
                     "start": 205,
                     "end": 211,
                     "tag": "Nupes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 212,
+                    "end": 235,
+                    "url": "https://t.co/a7mImXIowH",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1534071532061851648/video/1",
+                    "display_url": "pic.twitter.com/a7mImXIowH",
+                    "media_key": "7_1534071497698025472"
                 }
             ]
         },
@@ -3429,16 +3429,6 @@
         ],
         "conversation_id": 1533897922152103937,
         "entities": {
-            "urls": [
-                {
-                    "start": 195,
-                    "end": 218,
-                    "url": "https://t.co/FIwk3DRQku",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533897929416744962/photo/1",
-                    "display_url": "pic.twitter.com/FIwk3DRQku",
-                    "media_key": "3_1533897925864173573"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 61,
@@ -3469,6 +3459,16 @@
                     "start": 188,
                     "end": 194,
                     "tag": "NUPES"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 195,
+                    "end": 218,
+                    "url": "https://t.co/FIwk3DRQku",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533897929416744962/photo/1",
+                    "display_url": "pic.twitter.com/FIwk3DRQku",
+                    "media_key": "3_1533897925864173573"
                 }
             ]
         },
@@ -3503,6 +3503,23 @@
         "context_annotations": [],
         "conversation_id": 1533897922152103937,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 22,
+                    "end": 29,
+                    "tag": "Paris5"
+                },
+                {
+                    "start": 255,
+                    "end": 265,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 267,
+                    "end": 280,
+                    "tag": "legislatives"
+                }
+            ],
             "mentions": [
                 {
                     "start": 107,
@@ -3535,23 +3552,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1533897922152103937/photo/1",
                     "display_url": "pic.twitter.com/ANQNkaAfxI",
                     "media_key": "3_1533897914707230725"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 22,
-                    "end": 29,
-                    "tag": "Paris5"
-                },
-                {
-                    "start": 255,
-                    "end": 265,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 267,
-                    "end": 280,
-                    "tag": "legislatives"
                 }
             ]
         },
@@ -3653,19 +3653,19 @@
         "context_annotations": [],
         "conversation_id": 1533874967330410503,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "Circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "CamiViziozBrami",
                     "id": "429751913"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 118,
-                    "end": 128,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -3719,16 +3719,6 @@
         ],
         "conversation_id": 1533821662457643010,
         "entities": {
-            "urls": [
-                {
-                    "start": 248,
-                    "end": 271,
-                    "url": "https://t.co/lTSpB56T9E",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533821662457643010/photo/1",
-                    "display_url": "pic.twitter.com/lTSpB56T9E",
-                    "media_key": "3_1533821656493346817"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 223,
@@ -3739,6 +3729,16 @@
                     "start": 230,
                     "end": 247,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 248,
+                    "end": 271,
+                    "url": "https://t.co/lTSpB56T9E",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533821662457643010/photo/1",
+                    "display_url": "pic.twitter.com/lTSpB56T9E",
+                    "media_key": "3_1533821656493346817"
                 }
             ]
         },
@@ -3830,16 +3830,6 @@
         ],
         "conversation_id": 1533751148640862211,
         "entities": {
-            "urls": [
-                {
-                    "start": 208,
-                    "end": 231,
-                    "url": "https://t.co/ysB91Dofyb",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533751148640862211/photo/1",
-                    "display_url": "pic.twitter.com/ysB91Dofyb",
-                    "media_key": "3_1533751143972626436"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 172,
@@ -3855,6 +3845,16 @@
                     "start": 201,
                     "end": 207,
                     "tag": "nupes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 208,
+                    "end": 231,
+                    "url": "https://t.co/ysB91Dofyb",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533751148640862211/photo/1",
+                    "display_url": "pic.twitter.com/ysB91Dofyb",
+                    "media_key": "3_1533751143972626436"
                 }
             ]
         },
@@ -3932,20 +3932,6 @@
         "context_annotations": [],
         "conversation_id": 1533471146896670720,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "EcologieParis7",
-                    "id": "1224323092769595392"
-                },
-                {
-                    "start": 75,
-                    "end": 88,
-                    "username": "MarineRosset",
-                    "id": "425231735"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 52,
@@ -3961,6 +3947,20 @@
                     "start": 104,
                     "end": 114,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "EcologieParis7",
+                    "id": "1224323092769595392"
+                },
+                {
+                    "start": 75,
+                    "end": 88,
+                    "username": "MarineRosset",
+                    "id": "425231735"
                 }
             ]
         },
@@ -4032,6 +4032,23 @@
         "context_annotations": [],
         "conversation_id": 1533436631125983234,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 241,
+                    "end": 251,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 252,
+                    "end": 265,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 266,
+                    "end": 272,
+                    "tag": "nupes"
+                }
+            ],
             "urls": [
                 {
                     "start": 273,
@@ -4064,23 +4081,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1533436631125983234/photo/1",
                     "display_url": "pic.twitter.com/uROFxYYpxW",
                     "media_key": "3_1533436612956258307"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 241,
-                    "end": 251,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 252,
-                    "end": 265,
-                    "tag": "legislatives"
-                },
-                {
-                    "start": 266,
-                    "end": 272,
-                    "tag": "nupes"
                 }
             ]
         },
@@ -4175,6 +4175,18 @@
         ],
         "conversation_id": 1533115526158995457,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 251,
+                    "end": 261,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 262,
+                    "end": 279,
+                    "tag": "legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 280,
@@ -4207,18 +4219,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1533115526158995457/photo/1",
                     "display_url": "pic.twitter.com/Y21Wjtv0W0",
                     "media_key": "3_1533115522279256069"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 251,
-                    "end": 261,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 262,
-                    "end": 279,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -4272,16 +4272,6 @@
         ],
         "conversation_id": 1533109473618935811,
         "entities": {
-            "urls": [
-                {
-                    "start": 243,
-                    "end": 266,
-                    "url": "https://t.co/ahaUcwlhdH",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533109473618935811/photo/1",
-                    "display_url": "pic.twitter.com/ahaUcwlhdH",
-                    "media_key": "3_1533109468464136195"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 207,
@@ -4298,6 +4288,16 @@
                     "end": 242,
                     "tag": "legislatives2022"
                 }
+            ],
+            "urls": [
+                {
+                    "start": 243,
+                    "end": 266,
+                    "url": "https://t.co/ahaUcwlhdH",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533109473618935811/photo/1",
+                    "display_url": "pic.twitter.com/ahaUcwlhdH",
+                    "media_key": "3_1533109468464136195"
+                }
             ]
         },
         "geo": null,
@@ -4307,7 +4307,7 @@
         "public_metrics": {
             "retweet_count": 12,
             "reply_count": 0,
-            "like_count": 25,
+            "like_count": 24,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -4350,16 +4350,6 @@
         ],
         "conversation_id": 1533090070797877248,
         "entities": {
-            "urls": [
-                {
-                    "start": 237,
-                    "end": 260,
-                    "url": "https://t.co/Ku4kNpEcr3",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533090070797877248/photo/1",
-                    "display_url": "pic.twitter.com/Ku4kNpEcr3",
-                    "media_key": "3_1533090067392208903"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 201,
@@ -4375,6 +4365,16 @@
                     "start": 219,
                     "end": 236,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 237,
+                    "end": 260,
+                    "url": "https://t.co/Ku4kNpEcr3",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533090070797877248/photo/1",
+                    "display_url": "pic.twitter.com/Ku4kNpEcr3",
+                    "media_key": "3_1533090067392208903"
                 }
             ]
         },
@@ -4428,16 +4428,6 @@
         ],
         "conversation_id": 1533068964988964867,
         "entities": {
-            "urls": [
-                {
-                    "start": 260,
-                    "end": 283,
-                    "url": "https://t.co/gWYouCtZcy",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1533068964988964867/photo/1",
-                    "display_url": "pic.twitter.com/gWYouCtZcy",
-                    "media_key": "3_1533068960123453442"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 20,
@@ -4463,6 +4453,16 @@
                     "start": 242,
                     "end": 259,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 260,
+                    "end": 283,
+                    "url": "https://t.co/gWYouCtZcy",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1533068964988964867/photo/1",
+                    "display_url": "pic.twitter.com/gWYouCtZcy",
+                    "media_key": "3_1533068960123453442"
                 }
             ]
         },
@@ -4496,6 +4496,18 @@
         "context_annotations": [],
         "conversation_id": 1533053606185820160,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 51,
+                    "tag": "paris5"
+                },
+                {
+                    "start": 79,
+                    "end": 86,
+                    "tag": "Paris6"
+                }
+            ],
             "mentions": [
                 {
                     "start": 8,
@@ -4542,18 +4554,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1533053606185820160/photo/1",
                     "display_url": "pic.twitter.com/mAnIrs0NfG",
                     "media_key": "3_1533053601790275589"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 44,
-                    "end": 51,
-                    "tag": "paris5"
-                },
-                {
-                    "start": 79,
-                    "end": 86,
-                    "tag": "Paris6"
                 }
             ]
         },
@@ -4602,7 +4602,7 @@
         "public_metrics": {
             "retweet_count": 6,
             "reply_count": 1,
-            "like_count": 21,
+            "like_count": 20,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -4645,16 +4645,6 @@
         ],
         "conversation_id": 1532803200713105409,
         "entities": {
-            "urls": [
-                {
-                    "start": 131,
-                    "end": 154,
-                    "url": "https://t.co/GGL8kHHAIV",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532803211320492033/photo/1",
-                    "display_url": "pic.twitter.com/GGL8kHHAIV",
-                    "media_key": "3_1532803206031495168"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 71,
@@ -4685,6 +4675,16 @@
                     "start": 123,
                     "end": 130,
                     "tag": "Paris7"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/GGL8kHHAIV",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532803211320492033/photo/1",
+                    "display_url": "pic.twitter.com/GGL8kHHAIV",
+                    "media_key": "3_1532803206031495168"
                 }
             ]
         },
@@ -4796,6 +4796,28 @@
         ],
         "conversation_id": 1532803200713105409,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 51,
+                    "tag": "paris5"
+                },
+                {
+                    "start": 228,
+                    "end": 238,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 248,
+                    "end": 265,
+                    "tag": "legislatives2022"
+                },
+                {
+                    "start": 268,
+                    "end": 274,
+                    "tag": "NUPES"
+                }
+            ],
             "mentions": [
                 {
                     "start": 69,
@@ -4836,28 +4858,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1532803200713105409/photo/1",
                     "display_url": "pic.twitter.com/T7FlHOFEXP",
                     "media_key": "3_1532803183600455683"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 44,
-                    "end": 51,
-                    "tag": "paris5"
-                },
-                {
-                    "start": 228,
-                    "end": 238,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 248,
-                    "end": 265,
-                    "tag": "legislatives2022"
-                },
-                {
-                    "start": 268,
-                    "end": 274,
-                    "tag": "NUPES"
                 }
             ]
         },
@@ -4976,6 +4976,13 @@
         ],
         "conversation_id": 1532759667713130501,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 124,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4994,13 +5001,6 @@
                     "end": 106,
                     "username": "AssembleeNat",
                     "id": "242694507"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 107,
-                    "end": 124,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -5050,19 +5050,19 @@
         ],
         "conversation_id": 1532724831774552066,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 32,
+                    "tag": "PhilippeBouchet"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 14,
                     "username": "EELVParis5",
                     "id": "1050388552117342209"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 16,
-                    "end": 32,
-                    "tag": "PhilippeBouchet"
                 }
             ]
         },
@@ -5116,16 +5116,6 @@
         ],
         "conversation_id": 1532696985504993280,
         "entities": {
-            "urls": [
-                {
-                    "start": 233,
-                    "end": 256,
-                    "url": "https://t.co/N3Se5InQhr",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532696985504993280/photo/1",
-                    "display_url": "pic.twitter.com/N3Se5InQhr",
-                    "media_key": "3_1532696979670814721"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 197,
@@ -5141,6 +5131,16 @@
                     "start": 215,
                     "end": 232,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 233,
+                    "end": 256,
+                    "url": "https://t.co/N3Se5InQhr",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532696985504993280/photo/1",
+                    "display_url": "pic.twitter.com/N3Se5InQhr",
+                    "media_key": "3_1532696979670814721"
                 }
             ]
         },
@@ -5190,6 +5190,13 @@
         ],
         "conversation_id": 1532673020363415552,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 208,
+                    "end": 225,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 31,
@@ -5205,13 +5212,6 @@
                     "url": "https://t.co/IhuazzSxzs",
                     "expanded_url": "https://twitter.com/RavacleyS/status/1532317375860813824",
                     "display_url": "twitter.com/RavacleyS/stat…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 208,
-                    "end": 225,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -5261,14 +5261,6 @@
         ],
         "conversation_id": 1532672771842576384,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 13,
-                    "username": "NUPES7502",
-                    "id": "1524344286677979139"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 116,
@@ -5279,6 +5271,14 @@
                     "start": 127,
                     "end": 136,
                     "tag": "écologie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "NUPES7502",
+                    "id": "1524344286677979139"
                 }
             ]
         },
@@ -5305,6 +5305,18 @@
         "context_annotations": [],
         "conversation_id": 1532637353105309697,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 63,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 90,
+                    "end": 98,
+                    "tag": "égalité"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -5317,18 +5329,6 @@
                     "end": 45,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 63,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 90,
-                    "end": 98,
-                    "tag": "égalité"
                 }
             ]
         },
@@ -5382,16 +5382,6 @@
         ],
         "conversation_id": 1532625320066572289,
         "entities": {
-            "urls": [
-                {
-                    "start": 209,
-                    "end": 232,
-                    "url": "https://t.co/JkWuoyr2kc",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532625320066572289/photo/1",
-                    "display_url": "pic.twitter.com/JkWuoyr2kc",
-                    "media_key": "3_1532625314702057472"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 173,
@@ -5407,6 +5397,16 @@
                     "start": 191,
                     "end": 208,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/JkWuoyr2kc",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532625320066572289/photo/1",
+                    "display_url": "pic.twitter.com/JkWuoyr2kc",
+                    "media_key": "3_1532625314702057472"
                 }
             ]
         },
@@ -5463,6 +5463,23 @@
         ],
         "conversation_id": 1532436955073589249,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 218,
+                    "end": 228,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 229,
+                    "end": 235,
+                    "tag": "nupes"
+                },
+                {
+                    "start": 236,
+                    "end": 253,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 180,
@@ -5504,23 +5521,6 @@
                     "display_url": "pic.twitter.com/mKebIvkJja",
                     "media_key": "3_1532436950262632460"
                 }
-            ],
-            "hashtags": [
-                {
-                    "start": 218,
-                    "end": 228,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 229,
-                    "end": 235,
-                    "tag": "nupes"
-                },
-                {
-                    "start": 236,
-                    "end": 253,
-                    "tag": "legislatives2022"
-                }
             ]
         },
         "geo": null,
@@ -5546,20 +5546,6 @@
         "context_annotations": [],
         "conversation_id": 1532397603857608712,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "aminataniakate",
-                    "id": "401991605"
-                },
-                {
-                    "start": 87,
-                    "end": 101,
-                    "username": "WilliamAucant",
-                    "id": "862319786696593408"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 45,
@@ -5575,6 +5561,20 @@
                     "start": 118,
                     "end": 138,
                     "tag": "ConventionCitoyenne"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "aminataniakate",
+                    "id": "401991605"
+                },
+                {
+                    "start": 87,
+                    "end": 101,
+                    "username": "WilliamAucant",
+                    "id": "862319786696593408"
                 }
             ]
         },
@@ -5628,16 +5628,6 @@
         ],
         "conversation_id": 1532384660675780608,
         "entities": {
-            "urls": [
-                {
-                    "start": 203,
-                    "end": 226,
-                    "url": "https://t.co/ll8aNLoXXc",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532384660675780608/photo/1",
-                    "display_url": "pic.twitter.com/ll8aNLoXXc",
-                    "media_key": "3_1532384656284434435"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 167,
@@ -5653,6 +5643,16 @@
                     "start": 185,
                     "end": 202,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 203,
+                    "end": 226,
+                    "url": "https://t.co/ll8aNLoXXc",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532384660675780608/photo/1",
+                    "display_url": "pic.twitter.com/ll8aNLoXXc",
+                    "media_key": "3_1532384656284434435"
                 }
             ]
         },
@@ -5752,6 +5752,13 @@
         ],
         "conversation_id": 1532380211647504389,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 92,
+                    "tag": "Paris20"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -5770,13 +5777,6 @@
                     "end": 129,
                     "username": "MarineRosset",
                     "id": "425231735"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 84,
-                    "end": 92,
-                    "tag": "Paris20"
                 }
             ]
         },
@@ -5803,20 +5803,6 @@
         "context_annotations": [],
         "conversation_id": 1532380178789318656,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 11,
-                    "username": "CREPINX",
-                    "id": "285683352"
-                },
-                {
-                    "start": 108,
-                    "end": 121,
-                    "username": "MarineRosset",
-                    "id": "425231735"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 13,
@@ -5832,6 +5818,20 @@
                     "start": 130,
                     "end": 137,
                     "tag": "Paris7"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "CREPINX",
+                    "id": "285683352"
+                },
+                {
+                    "start": 108,
+                    "end": 121,
+                    "username": "MarineRosset",
+                    "id": "425231735"
                 }
             ]
         },
@@ -5858,6 +5858,13 @@
         "context_annotations": [],
         "conversation_id": 1532325212632629249,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "tag": "Diplo2metier"
+                }
+            ],
             "urls": [
                 {
                     "start": 256,
@@ -5881,13 +5888,6 @@
                     "title": "Grève des diplomates français : \"Une réforme qui nie notre expertise\"",
                     "description": "De nombreux diplomates français appellent à la grève, jeudi, pour protester contre la réforme de la haute fonction publique. Un mouvement inédit qui est aussi le signe d’un désarroi grandissant depuis…",
                     "unwound_url": "https://www.france24.com/fr/france/20220601-gr%C3%A8ve-des-diplomates-fran%C3%A7ais-une-r%C3%A9forme-qui-nie-notre-expertise?ref=tw_i"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "tag": "Diplo2metier"
                 }
             ]
         },
@@ -5941,16 +5941,6 @@
         ],
         "conversation_id": 1532300262756560897,
         "entities": {
-            "urls": [
-                {
-                    "start": 278,
-                    "end": 301,
-                    "url": "https://t.co/9QKKUuxC03",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532300262756560897/photo/1",
-                    "display_url": "pic.twitter.com/9QKKUuxC03",
-                    "media_key": "3_1532300258704773121"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 243,
@@ -5966,6 +5956,16 @@
                     "start": 260,
                     "end": 277,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/9QKKUuxC03",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532300262756560897/photo/1",
+                    "display_url": "pic.twitter.com/9QKKUuxC03",
+                    "media_key": "3_1532300258704773121"
                 }
             ]
         },
@@ -6020,6 +6020,23 @@
         ],
         "conversation_id": 1532256243125043205,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 226,
+                    "end": 236,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 237,
+                    "end": 243,
+                    "tag": "nupes"
+                },
+                {
+                    "start": 244,
+                    "end": 261,
+                    "tag": "Legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 262,
@@ -6036,23 +6053,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1532256243125043205/photo/1",
                     "display_url": "pic.twitter.com/UHFlu3vjki",
                     "media_key": "3_1532256238343430149"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 226,
-                    "end": 236,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 237,
-                    "end": 243,
-                    "tag": "nupes"
-                },
-                {
-                    "start": 244,
-                    "end": 261,
-                    "tag": "Legislatives2022"
                 }
             ]
         },
@@ -6161,16 +6161,6 @@
         ],
         "conversation_id": 1532050603400220676,
         "entities": {
-            "urls": [
-                {
-                    "start": 213,
-                    "end": 236,
-                    "url": "https://t.co/1nTTSHZe9F",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532050603400220676/photo/1",
-                    "display_url": "pic.twitter.com/1nTTSHZe9F",
-                    "media_key": "3_1532050598799056896"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 177,
@@ -6186,6 +6176,16 @@
                     "start": 195,
                     "end": 212,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 213,
+                    "end": 236,
+                    "url": "https://t.co/1nTTSHZe9F",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532050603400220676/photo/1",
+                    "display_url": "pic.twitter.com/1nTTSHZe9F",
+                    "media_key": "3_1532050598799056896"
                 }
             ]
         },
@@ -6239,16 +6239,6 @@
         ],
         "conversation_id": 1532034314736742405,
         "entities": {
-            "urls": [
-                {
-                    "start": 201,
-                    "end": 224,
-                    "url": "https://t.co/Tirb9Wvh6x",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1532034314736742405/photo/1",
-                    "display_url": "pic.twitter.com/Tirb9Wvh6x",
-                    "media_key": "3_1532034310399721473"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 145,
@@ -6270,6 +6260,16 @@
                     "end": 200,
                     "tag": "Legislatives2022"
                 }
+            ],
+            "urls": [
+                {
+                    "start": 201,
+                    "end": 224,
+                    "url": "https://t.co/Tirb9Wvh6x",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1532034314736742405/photo/1",
+                    "display_url": "pic.twitter.com/Tirb9Wvh6x",
+                    "media_key": "3_1532034310399721473"
+                }
             ]
         },
         "geo": null,
@@ -6279,7 +6279,7 @@
         "public_metrics": {
             "retweet_count": 33,
             "reply_count": 4,
-            "like_count": 51,
+            "like_count": 50,
             "quote_count": 3
         },
         "reply_settings": "everyone",
@@ -6322,6 +6322,23 @@
         ],
         "conversation_id": 1531993757050187783,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 241,
+                    "end": 251,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 252,
+                    "end": 258,
+                    "tag": "nupes"
+                },
+                {
+                    "start": 259,
+                    "end": 276,
+                    "tag": "legislatives2022"
+                }
+            ],
             "mentions": [
                 {
                     "start": 29,
@@ -6338,23 +6355,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1531993757050187783/photo/1",
                     "display_url": "pic.twitter.com/SxBc8Sn8J2",
                     "media_key": "3_1531993751966691334"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 241,
-                    "end": 251,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 252,
-                    "end": 258,
-                    "tag": "nupes"
-                },
-                {
-                    "start": 259,
-                    "end": 276,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -6408,16 +6408,6 @@
         ],
         "conversation_id": 1531912619505946626,
         "entities": {
-            "urls": [
-                {
-                    "start": 169,
-                    "end": 192,
-                    "url": "https://t.co/qMhitH4VrJ",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1531912619505946626/photo/1",
-                    "display_url": "pic.twitter.com/qMhitH4VrJ",
-                    "media_key": "3_1531912613608796165"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 113,
@@ -6433,6 +6423,16 @@
                     "start": 162,
                     "end": 168,
                     "tag": "Nupes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 169,
+                    "end": 192,
+                    "url": "https://t.co/qMhitH4VrJ",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1531912619505946626/photo/1",
+                    "display_url": "pic.twitter.com/qMhitH4VrJ",
+                    "media_key": "3_1531912613608796165"
                 }
             ]
         },
@@ -6486,16 +6486,6 @@
         ],
         "conversation_id": 1531679486076506114,
         "entities": {
-            "urls": [
-                {
-                    "start": 200,
-                    "end": 223,
-                    "url": "https://t.co/HFaH7sKnyg",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1531679486076506114/photo/1",
-                    "display_url": "pic.twitter.com/HFaH7sKnyg",
-                    "media_key": "3_1531679481269714946"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 164,
@@ -6511,6 +6501,16 @@
                     "start": 182,
                     "end": 199,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 200,
+                    "end": 223,
+                    "url": "https://t.co/HFaH7sKnyg",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1531679486076506114/photo/1",
+                    "display_url": "pic.twitter.com/HFaH7sKnyg",
+                    "media_key": "3_1531679481269714946"
                 }
             ]
         },
@@ -7177,7 +7177,23 @@
                     "end": 260,
                     "url": "https://t.co/GpPl8aNBDz",
                     "expanded_url": "https://frequenceprotestante.com/2022/05/23/marine-rosset-candidate-dans-la-2eme-circonscription-de-paris/",
-                    "display_url": "frequenceprotestante.com/2022/05/23/mar…"
+                    "display_url": "frequenceprotestante.com/2022/05/23/mar…",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1533844464845955072/qbRulhrh?format=jpg&name=orig",
+                            "width": 2560,
+                            "height": 1827
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1533844464845955072/qbRulhrh?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Marine Rosset, candidate dans la 2ème circonscription de Paris - Fréquence Protestante",
+                    "description": "Nouveau volet dans notre série de podcasts natifs, exclusivement consacrés aux élections législatives à Paris et en région parisienne : Nathanaël Weibel, du service politique de Fréquence Protestante, est allé interviewer l’une des candidates de la 2ème circonscription. Marine Rosset se présente au titre de la Nouvelle union populaire, écologique et sociale (NUPES). Agée de […]",
+                    "unwound_url": "https://frequenceprotestante.com/2022/05/23/marine-rosset-candidate-dans-la-2eme-circonscription-de-paris/"
                 }
             ]
         },
@@ -7933,7 +7949,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 52,
+            "retweet_count": 51,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -11048,20 +11064,7 @@
                     "end": 275,
                     "url": "https://t.co/2L81erxmDU",
                     "expanded_url": "https://nupes-2022.fr/le-programme/",
-                    "display_url": "nupes-2022.fr/le-programme/",
-                    "images": [
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1527218085295423488/zdQwRTut?format=jpg&name=orig",
-                            "width": 1920,
-                            "height": 1080
-                        },
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1527218085295423488/zdQwRTut?format=jpg&name=150x150",
-                            "width": 150,
-                            "height": 150
-                        }
-                    ],
-                    "unwound_url": "https://nupes-2022.fr/le-programme/"
+                    "display_url": "nupes-2022.fr/le-programme/"
                 }
             ]
         },
@@ -11456,7 +11459,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 1670,
+            "retweet_count": 1667,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -12079,7 +12082,7 @@
         "public_metrics": {
             "retweet_count": 25,
             "reply_count": 0,
-            "like_count": 43,
+            "like_count": 42,
             "quote_count": 2
         },
         "reply_settings": "everyone",
@@ -14117,16 +14120,6 @@
                     "id": "425231735"
                 }
             ],
-            "urls": [
-                {
-                    "start": 114,
-                    "end": 137,
-                    "url": "https://t.co/d5f7GzHYyL",
-                    "expanded_url": "https://twitter.com/CamiViziozBrami/status/1525188088858914817/photo/1",
-                    "display_url": "pic.twitter.com/d5f7GzHYyL",
-                    "media_key": "3_1525188082093416451"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 84,
@@ -14137,6 +14130,16 @@
                     "start": 102,
                     "end": 108,
                     "tag": "paris"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/d5f7GzHYyL",
+                    "expanded_url": "https://twitter.com/CamiViziozBrami/status/1525188088858914817/photo/1",
+                    "display_url": "pic.twitter.com/d5f7GzHYyL",
+                    "media_key": "3_1525188082093416451"
                 }
             ]
         },
@@ -14246,16 +14249,6 @@
         ],
         "conversation_id": 1525182370697060353,
         "entities": {
-            "urls": [
-                {
-                    "start": 153,
-                    "end": 176,
-                    "url": "https://t.co/gOai2v9Kfx",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525182370697060353/photo/1",
-                    "display_url": "pic.twitter.com/gOai2v9Kfx",
-                    "media_key": "3_1525182366041395200"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 117,
@@ -14271,6 +14264,16 @@
                     "start": 135,
                     "end": 152,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 153,
+                    "end": 176,
+                    "url": "https://t.co/gOai2v9Kfx",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525182370697060353/photo/1",
+                    "display_url": "pic.twitter.com/gOai2v9Kfx",
+                    "media_key": "3_1525182366041395200"
                 }
             ]
         },
@@ -14468,16 +14471,6 @@
         ],
         "conversation_id": 1525175179269312512,
         "entities": {
-            "urls": [
-                {
-                    "start": 165,
-                    "end": 188,
-                    "url": "https://t.co/19NCrML0XD",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525175179269312512/photo/1",
-                    "display_url": "pic.twitter.com/19NCrML0XD",
-                    "media_key": "3_1525175170419380225"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 129,
@@ -14493,6 +14486,16 @@
                     "start": 147,
                     "end": 164,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 165,
+                    "end": 188,
+                    "url": "https://t.co/19NCrML0XD",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525175179269312512/photo/1",
+                    "display_url": "pic.twitter.com/19NCrML0XD",
+                    "media_key": "3_1525175170419380225"
                 }
             ]
         },
@@ -14557,16 +14560,6 @@
         ],
         "conversation_id": 1525174912893210624,
         "entities": {
-            "urls": [
-                {
-                    "start": 240,
-                    "end": 263,
-                    "url": "https://t.co/8YqGSnLAIH",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174912893210624/photo/1",
-                    "display_url": "pic.twitter.com/8YqGSnLAIH",
-                    "media_key": "3_1525174904303362049"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 204,
@@ -14582,6 +14575,16 @@
                     "start": 222,
                     "end": 239,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 240,
+                    "end": 263,
+                    "url": "https://t.co/8YqGSnLAIH",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174912893210624/photo/1",
+                    "display_url": "pic.twitter.com/8YqGSnLAIH",
+                    "media_key": "3_1525174904303362049"
                 }
             ]
         },
@@ -14646,16 +14649,6 @@
         ],
         "conversation_id": 1525174752431771649,
         "entities": {
-            "urls": [
-                {
-                    "start": 223,
-                    "end": 246,
-                    "url": "https://t.co/IvOj1dVZz5",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174752431771649/photo/1",
-                    "display_url": "pic.twitter.com/IvOj1dVZz5",
-                    "media_key": "3_1525174745569837058"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 187,
@@ -14671,6 +14664,16 @@
                     "start": 205,
                     "end": 222,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 223,
+                    "end": 246,
+                    "url": "https://t.co/IvOj1dVZz5",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174752431771649/photo/1",
+                    "display_url": "pic.twitter.com/IvOj1dVZz5",
+                    "media_key": "3_1525174745569837058"
                 }
             ]
         },
@@ -14724,16 +14727,6 @@
         ],
         "conversation_id": 1525174559095279623,
         "entities": {
-            "urls": [
-                {
-                    "start": 245,
-                    "end": 268,
-                    "url": "https://t.co/fo6TSqNPWg",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174559095279623/photo/1",
-                    "display_url": "pic.twitter.com/fo6TSqNPWg",
-                    "media_key": "3_1525174553214865410"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 209,
@@ -14749,6 +14742,16 @@
                     "start": 227,
                     "end": 244,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 245,
+                    "end": 268,
+                    "url": "https://t.co/fo6TSqNPWg",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174559095279623/photo/1",
+                    "display_url": "pic.twitter.com/fo6TSqNPWg",
+                    "media_key": "3_1525174553214865410"
                 }
             ]
         },
@@ -14802,16 +14805,6 @@
         ],
         "conversation_id": 1525174345705918470,
         "entities": {
-            "urls": [
-                {
-                    "start": 164,
-                    "end": 187,
-                    "url": "https://t.co/C97U3GCbyb",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174345705918470/photo/1",
-                    "display_url": "pic.twitter.com/C97U3GCbyb",
-                    "media_key": "3_1525174339376668672"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 128,
@@ -14827,6 +14820,16 @@
                     "start": 146,
                     "end": 163,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 164,
+                    "end": 187,
+                    "url": "https://t.co/C97U3GCbyb",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525174345705918470/photo/1",
+                    "display_url": "pic.twitter.com/C97U3GCbyb",
+                    "media_key": "3_1525174339376668672"
                 }
             ]
         },
@@ -14857,16 +14860,6 @@
         "context_annotations": [],
         "conversation_id": 1525173338456346625,
         "entities": {
-            "urls": [
-                {
-                    "start": 269,
-                    "end": 292,
-                    "url": "https://t.co/lkTpTV4qSs",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525173338456346625/photo/1",
-                    "display_url": "pic.twitter.com/lkTpTV4qSs",
-                    "media_key": "3_1525173333469323264"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 251,
@@ -14877,6 +14870,16 @@
                     "start": 262,
                     "end": 268,
                     "tag": "NUPES"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 269,
+                    "end": 292,
+                    "url": "https://t.co/lkTpTV4qSs",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525173338456346625/photo/1",
+                    "display_url": "pic.twitter.com/lkTpTV4qSs",
+                    "media_key": "3_1525173333469323264"
                 }
             ]
         },
@@ -14941,16 +14944,6 @@
         ],
         "conversation_id": 1525172179096064000,
         "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/C33esVIvtY",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525173032565805059/photo/1",
-                    "display_url": "pic.twitter.com/C33esVIvtY",
-                    "media_key": "3_1525173025812975620"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 105,
@@ -14966,6 +14959,16 @@
                     "start": 123,
                     "end": 140,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/C33esVIvtY",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525173032565805059/photo/1",
+                    "display_url": "pic.twitter.com/C33esVIvtY",
+                    "media_key": "3_1525173025812975620"
                 }
             ]
         },
@@ -15072,6 +15075,23 @@
         ],
         "conversation_id": 1525172179096064000,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 127,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 128,
+                    "end": 134,
+                    "tag": "NUPES"
+                },
+                {
+                    "start": 135,
+                    "end": 152,
+                    "tag": "legislatives2022"
+                }
+            ],
             "urls": [
                 {
                     "start": 153,
@@ -15104,23 +15124,6 @@
                     "expanded_url": "https://twitter.com/MarineRosset/status/1525172179096064000/photo/1",
                     "display_url": "pic.twitter.com/W2dwQ7b6ox",
                     "media_key": "3_1525172167759040513"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 117,
-                    "end": 127,
-                    "tag": "circo7502"
-                },
-                {
-                    "start": 128,
-                    "end": 134,
-                    "tag": "NUPES"
-                },
-                {
-                    "start": 135,
-                    "end": 152,
-                    "tag": "legislatives2022"
                 }
             ]
         },
@@ -15782,16 +15785,6 @@
                     "id": "1524344286677979139"
                 }
             ],
-            "urls": [
-                {
-                    "start": 63,
-                    "end": 86,
-                    "url": "https://t.co/UOO9ykwLlU",
-                    "expanded_url": "https://twitter.com/NUPES7502/status/1525033584326762496/photo/1",
-                    "display_url": "pic.twitter.com/UOO9ykwLlU",
-                    "media_key": "16_1525033577200726016"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 27,
@@ -15807,6 +15800,16 @@
                     "start": 45,
                     "end": 62,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/UOO9ykwLlU",
+                    "expanded_url": "https://twitter.com/NUPES7502/status/1525033584326762496/photo/1",
+                    "display_url": "pic.twitter.com/UOO9ykwLlU",
+                    "media_key": "16_1525033577200726016"
                 }
             ]
         },
@@ -15928,16 +15931,6 @@
         ],
         "conversation_id": 1525032810444115968,
         "entities": {
-            "urls": [
-                {
-                    "start": 209,
-                    "end": 232,
-                    "url": "https://t.co/hIdeIZzKRf",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1525032810444115968/video/1",
-                    "display_url": "pic.twitter.com/hIdeIZzKRf",
-                    "media_key": "7_1525032783139246080"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 150,
@@ -15958,6 +15951,16 @@
                     "start": 191,
                     "end": 208,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/hIdeIZzKRf",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1525032810444115968/video/1",
+                    "display_url": "pic.twitter.com/hIdeIZzKRf",
+                    "media_key": "7_1525032783139246080"
                 }
             ]
         },
@@ -16338,16 +16341,6 @@
         ],
         "conversation_id": 1524662832045899776,
         "entities": {
-            "urls": [
-                {
-                    "start": 272,
-                    "end": 295,
-                    "url": "https://t.co/x1ZT4MHbsO",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1524662832045899776/photo/1",
-                    "display_url": "pic.twitter.com/x1ZT4MHbsO",
-                    "media_key": "3_1524662826970853377"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 142,
@@ -16368,6 +16361,16 @@
                     "start": 254,
                     "end": 271,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 272,
+                    "end": 295,
+                    "url": "https://t.co/x1ZT4MHbsO",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1524662832045899776/photo/1",
+                    "display_url": "pic.twitter.com/x1ZT4MHbsO",
+                    "media_key": "3_1524662826970853377"
                 }
             ]
         },
@@ -16792,16 +16795,6 @@
         ],
         "conversation_id": 1524352318082269186,
         "entities": {
-            "urls": [
-                {
-                    "start": 272,
-                    "end": 295,
-                    "url": "https://t.co/xxWmk6fWV6",
-                    "expanded_url": "https://twitter.com/MarineRosset/status/1524352318082269186/photo/1",
-                    "display_url": "pic.twitter.com/xxWmk6fWV6",
-                    "media_key": "3_1524352313296666624"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 236,
@@ -16817,6 +16810,16 @@
                     "start": 254,
                     "end": 271,
                     "tag": "legislatives2022"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 272,
+                    "end": 295,
+                    "url": "https://t.co/xxWmk6fWV6",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1524352318082269186/photo/1",
+                    "display_url": "pic.twitter.com/xxWmk6fWV6",
+                    "media_key": "3_1524352313296666624"
                 }
             ]
         },
@@ -16881,6 +16884,1361 @@
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1524090011326595076",
+        "text": "Très heureuse d’avoir pu assister à l’inauguration du @museecluny et de renouer avec la dame à la licorne. Des salles aérées, lumineuses qui feront le bonheur des petits et des grands. \nUn joyau de la 2e circonscription ! https://t.co/hDMgPGtPwr",
+        "created_at": "2022-05-10 18:12:29+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1524090011326595076,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 54,
+                    "end": 65,
+                    "username": "museecluny",
+                    "id": "182043397"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 222,
+                    "end": 245,
+                    "url": "https://t.co/hDMgPGtPwr",
+                    "expanded_url": "https://twitter.com/MCLemardeley/status/1524089077112389633",
+                    "display_url": "twitter.com/MCLemardeley/s…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1524059176296755200",
+        "text": "RT @IanBrossat: Victoire ! Le Conseil d'État vient de rejeter le recours de l'UNPI visant à faire annuler l'encadrement des loyers à Paris.…",
+        "created_at": "2022-05-10 16:09:57+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1118102216894607360",
+                    "name": "Ian Brossat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1118102216894607360",
+                    "name": "Ian Brossat"
+                }
+            }
+        ],
+        "conversation_id": 1524059176296755200,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "IanBrossat",
+                    "id": "204368725"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 135,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523671411851595783",
+        "text": "En ce jour de #Fetedeleurope, nous recevons avec mon suppléant @CometFr le soutien de @sylvieguillaume ! \nNous sommes pour :\n✅le droit d'initiative au Parlement🇪🇺\n✅une Europe qui s'attaque à la transition écologique et aux enjeux sociaux\n✅un plein soutien aux peuple ukrainien https://t.co/mmvCTSQbug",
+        "created_at": "2022-05-09 14:29:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1523667235776180225"
+            ]
+        },
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1523671411851595783,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 71,
+                    "username": "CometFr",
+                    "id": "414871591"
+                },
+                {
+                    "start": 86,
+                    "end": 102,
+                    "username": "sylvieguillaume",
+                    "id": "167328296"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 28,
+                    "tag": "Fetedeleurope"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 277,
+                    "end": 300,
+                    "url": "https://t.co/mmvCTSQbug",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1523671411851595783/video/1",
+                    "display_url": "pic.twitter.com/mmvCTSQbug",
+                    "media_key": "7_1523667235776180225"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": true,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 49,
+            "quote_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1523582519769288705",
+        "text": "RT @BernardJomier: Le gouvernement est à l’arrêt. Le Chef de l’Etat, réélu depuis + de 15 jours,  « prend son temps ». Or, les hôpitaux s’é…",
+        "created_at": "2022-05-09 08:35:54+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1523582519769288705,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "BernardJomier",
+                    "id": "485777791"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 178,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523257269709787138",
+        "text": "Comment ne pas penser en ce 8 mai aux combats qui font rage en Ukraine et à la résistance des Ukrainiens ? À la mairie du 5e, nous avons commémoré la victoire de la paix en Europe avec l’ardent espoir de la paix en Ukraine. @MCLemardeley @LaurentAudouin https://t.co/WAU0UVoJtd",
+        "created_at": "2022-05-08 11:03:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523257258624401408",
+                "3_1523257258615918592",
+                "3_1523257258607579137",
+                "3_1523257258834079744"
+            ]
+        },
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1523257269709787138,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 224,
+                    "end": 237,
+                    "username": "MCLemardeley",
+                    "id": "1734485952"
+                },
+                {
+                    "start": 238,
+                    "end": 253,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/WAU0UVoJtd",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1523257269709787138/photo/1",
+                    "display_url": "pic.twitter.com/WAU0UVoJtd",
+                    "media_key": "3_1523257258624401408"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/WAU0UVoJtd",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1523257269709787138/photo/1",
+                    "display_url": "pic.twitter.com/WAU0UVoJtd",
+                    "media_key": "3_1523257258615918592"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/WAU0UVoJtd",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1523257269709787138/photo/1",
+                    "display_url": "pic.twitter.com/WAU0UVoJtd",
+                    "media_key": "3_1523257258607579137"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/WAU0UVoJtd",
+                    "expanded_url": "https://twitter.com/MarineRosset/status/1523257269709787138/photo/1",
+                    "display_url": "pic.twitter.com/WAU0UVoJtd",
+                    "media_key": "3_1523257258834079744"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": true,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 2,
+            "like_count": 20,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523034061987409920",
+        "text": "RT @OliviaPolski: Thomas Piketty : « L’accord conclu par les partis de gauche marque le retour de la justice sociale et fiscale » – via @le…",
+        "created_at": "2022-05-07 20:16:31+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1523034061987409920,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "OliviaPolski",
+                    "id": "392792965"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": true,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522837232968781825",
+        "text": "RT @publicsenat: À Paris, la députée PS @lamiaela écartée par l’accord du parti avec #LFI : \"Nous espérons un changement. Le fait qu’elle n…",
+        "created_at": "2022-05-07 07:14:23+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1522837232968781825,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "publicsenat",
+                    "id": "40056514"
+                },
+                {
+                    "start": 40,
+                    "end": 49,
+                    "username": "lamiaela",
+                    "id": "943672818"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 89,
+                    "tag": "LFI"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522837221757403136",
+        "text": "RT @dassouline: \"Réparer une injustice en investissant ⁦@lamiaela⁩ , jeune députée sortante du 20e de Paris, militante de terrain, combatti…",
+        "created_at": "2022-05-07 07:14:21+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1522837221757403136,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "dassouline",
+                    "id": "61164655"
+                },
+                {
+                    "start": 56,
+                    "end": 65,
+                    "username": "lamiaela",
+                    "id": "943672818"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522576868276375553",
+        "text": "RT @SocLibetDem: Et @ChLambert_FNSEA et la @FNSEA ils disent quoi de tout ça ? Encore dans le déni j’imagine…",
+        "created_at": "2022-05-06 13:59:48+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1522576868276375553,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "SocLibetDem",
+                    "id": "112531513"
+                },
+                {
+                    "start": 20,
+                    "end": 36,
+                    "username": "ChLambert_FNSEA",
+                    "id": "366628598"
+                },
+                {
+                    "start": 43,
+                    "end": 49,
+                    "username": "FNSEA",
+                    "id": "45820091"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522574667755794433",
+        "text": "@Maya_Snsy @psparis6 Merci à toi @Maya_Snsy et à très vite sur le terrain ! 💪💪",
+        "created_at": "2022-05-06 13:51:03+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1522529885717159936,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "Maya_Snsy",
+                    "id": "1460733706008768519"
+                },
+                {
+                    "start": 11,
+                    "end": 20,
+                    "username": "psparis6",
+                    "id": "107676041"
+                },
+                {
+                    "start": 33,
+                    "end": 43,
+                    "username": "Maya_Snsy",
+                    "id": "1460733706008768519"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1460733706008768519,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521240410705862659",
+        "text": "RT @C_Najdovski: Cher @hugoclement Il n'y aura pas d'abattage d'arbre l'engagement est pris par @Anne_Hidalgo\nLe projet va être revu pour q…",
+        "created_at": "2022-05-02 21:29:11+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521240410705862659,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "C_Najdovski",
+                    "id": "225464287"
+                },
+                {
+                    "start": 22,
+                    "end": 34,
+                    "username": "hugoclement",
+                    "id": "84282385"
+                },
+                {
+                    "start": 96,
+                    "end": 109,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 62,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521240148444422145",
+        "text": "RT @egregoire: Aucun arbre ne sera abattu. \n\nAvec @Anne_Hidalgo, nous réorientons le projet dans ce sens. C’est la philosophie que nous por…",
+        "created_at": "2022-05-02 21:28:09+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10028889898",
+                    "name": "C à vous",
+                    "description": "La suite de C à vous avec Anne-Élisabeth Lemoine, toujours accompagnée de Patrick Cohen, Pierre Lescure, Emilie Tran Nguyen et Marion Ruggieri."
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521240148444422145,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "egregoire",
+                    "id": "18737885"
+                },
+                {
+                    "start": 50,
+                    "end": 63,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520444163250139139",
+        "text": "RT @egregoire: Aucun arbre centenaire ne sera abattu, nous en prenons l’engagement.\n\nLe projet d’aménagement des abords de la Tour Eiffel a…",
+        "created_at": "2022-04-30 16:45:11+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1520444163250139139,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "egregoire",
+                    "id": "18737885"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518323636104736768",
+        "text": "RT @BCazeneuve: J’adresse à Emmanuel Macron mes félicitations  pour sa réélection et forme le vœu qu’il sache trouver les réponses aux inqu…",
+        "created_at": "2022-04-24 20:18:58+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1518323636104736768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "BCazeneuve",
+                    "id": "427288938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 645,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516864854954496007",
+        "text": "RT @AntoineMokrane: Le Pen est tellement nulle que c'est malaisant. J'ai failli avoir pitié mais je me suis rappelé qu'elle voulait renvoye…",
+        "created_at": "2022-04-20 19:42:18+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 1516864854954496007,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "AntoineMokrane",
+                    "id": "72647439"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516523166243434506",
+        "text": "C’est une décision historique : pour la 1ère fois en France, l’entreprise #Deliveroo a été condamnée pour avoir fait travailler ses livreurs en tant qu’indépendants, alors qu’ils auraient dû être salariés. \nProchaine étape : une loi pour la présemption de salariat ! #legislatives https://t.co/sE5a847jOi",
+        "created_at": "2022-04-19 21:04:33+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1516523166243434506,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 74,
+                    "end": 84,
+                    "tag": "Deliveroo"
+                },
+                {
+                    "start": 267,
+                    "end": 280,
+                    "tag": "legislatives"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/sE5a847jOi",
+                    "expanded_url": "https://twitter.com/libe/status/1516386942933422089",
+                    "display_url": "twitter.com/libe/status/15…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514915900184485895",
+        "text": "RT @michelgellyp: L’abolition de la peine de mort ne supporte aucune hésitation ni tâtonnement électoraliste. Le 24 avril, battons le Pen a…",
+        "created_at": "2022-04-15 10:37:51+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 1514915900184485895,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "michelgellyp",
+                    "id": "83811813"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514859196822573060",
+        "text": "RT @Pauline_RF: Moi qui pensais que mon mal de crâne venait du plaquage au sol d'hier https://t.co/TwjraiFcbK",
+        "created_at": "2022-04-15 06:52:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1514556552874766339"
+            ]
+        },
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514859196822573060,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Pauline_RF",
+                    "id": "257590844"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/TwjraiFcbK",
+                    "expanded_url": "https://twitter.com/Pauline_RF/status/1514556559917031425/photo/1",
+                    "display_url": "pic.twitter.com/TwjraiFcbK",
+                    "media_key": "3_1514556552874766339"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": true,
+        "public_metrics": {
+            "retweet_count": 300,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514630639089332229",
+        "text": "RT @egregoire: Au-delà de son parcours exceptionnel, Nicole Maestracci était une femme blessée par les inégalités et décidée à lutter contr…",
+        "created_at": "2022-04-14 15:44:19+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514630639089332229,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "egregoire",
+                    "id": "18737885"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514630562568445952",
+        "text": "RT @CometFr: Déambulation des élèves de danse et de percussion du conservatoire du 6e arrondissement. Merci aux enseignants et à la directr…",
+        "created_at": "2022-04-14 15:44:01+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514630562568445952,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "CometFr",
+                    "id": "414871591"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514591890192097285",
+        "text": "RT @Le5eF: Enfin !\nFières de voir notre proposition concrétisée :\n#LeDeuxiemeSexe honoré \nMoment de sororité sous le ☀️et rencontre féminis…",
+        "created_at": "2022-04-14 13:10:21+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514591890192097285,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 81,
+                    "tag": "LeDeuxiemeSexe"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514571299900776453",
+        "text": "RT @MCLemardeley: Avec @lau_patrice, nous rendons hommage à Simone de Beauvoir en posant une plaque au 11 rue de la Bûcherie (5e), adresse…",
+        "created_at": "2022-04-14 11:48:31+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514571299900776453,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "MCLemardeley",
+                    "id": "1734485952"
+                },
+                {
+                    "start": 23,
+                    "end": 35,
+                    "username": "lau_patrice",
+                    "id": "1313023812"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514549208380018691",
+        "text": "RT @yannickhoppe: En ce 36ème anniversaire de la disparition de Simone de Beauvoir, @Paris lui rend #hommage avec le dévoilement d’une plaq…",
+        "created_at": "2022-04-14 10:20:44+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514549208380018691,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "yannickhoppe",
+                    "id": "40696843"
+                },
+                {
+                    "start": 84,
+                    "end": 90,
+                    "username": "Paris",
+                    "id": "71016845"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 108,
+                    "tag": "hommage"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514263011187437574",
+        "text": "Soutien à @tristanmf. \nL'antisémitisme n'a sa place nulle part : ni dans les journaux qui reçoivent une aide publique ni dans les autres ! https://t.co/Kirl6gye9I",
+        "created_at": "2022-04-13 15:23:30+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1514263011187437574,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "tristanmf",
+                    "id": "7227522"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/Kirl6gye9I",
+                    "expanded_url": "https://twitter.com/tristanmf/status/1514239875779895304",
+                    "display_url": "twitter.com/tristanmf/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "1513825217327550465",
+        "text": "RT @CometFr: Visite avec @PES_PSE d'un poste frontière avec #Ukraine️ qui a vu passer 850000 réfugiés depuis le début de la guerre et en ac…",
+        "created_at": "2022-04-12 10:23:51+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1513825217327550465,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "CometFr",
+                    "id": "414871591"
+                },
+                {
+                    "start": 25,
+                    "end": 33,
+                    "username": "PES_PSE",
+                    "id": "21100803"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 69,
+                    "tag": "Ukraine️"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513565124849717255",
+        "text": "RT @sgdf: Nous apprenons avec tristesse le décès de Michel Delebarre, 75 ans, le 9 avril.\nChef dans sa jeunesse, le scoutisme l’a suivi dan…",
+        "created_at": "2022-04-11 17:10:21+00:00",
+        "attachments": null,
+        "author_id": 425231735,
+        "context_annotations": [],
+        "conversation_id": 1513565124849717255,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 8,
+                    "username": "sgdf",
+                    "id": "61426445"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0

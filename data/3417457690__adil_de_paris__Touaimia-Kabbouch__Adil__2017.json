@@ -20,7 +20,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -772,7 +772,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -1528,7 +1528,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -1643,7 +1643,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -1824,7 +1824,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -2054,7 +2054,7 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "und",
+        "lang": "zxx",
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 0,
@@ -2493,6 +2493,3881 @@
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861923841853067264",
+        "text": "Votre immeuble ou votre logement est en mauvais état, que faire ?\nhttps://t.co/gqPXHWRFAn",
+        "created_at": "2017-05-09 12:40:32+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861923841853067264,
+        "entities": {
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/gqPXHWRFAn",
+                    "expanded_url": "https://www.anil.org/fileadmin/ANIL/Editions_grand_public/livret_habitat_degrade.pdf",
+                    "display_url": "anil.org/fileadmin/ANIL…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861922420021710850",
+        "text": "Crédit immobilier : les taux poursuivent leur (petite) remontée https://t.co/TsuFvYeCef via @LesEchos",
+        "created_at": "2017-05-09 12:34:53+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861922420021710850,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 101,
+                    "username": "LesEchos",
+                    "id": "92564226"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/TsuFvYeCef",
+                    "expanded_url": "http://po.st/WG3ZFR",
+                    "display_url": "po.st/WG3ZFR"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861886246926372865",
+        "text": "RT @Paris_Habitat: #ParisHabitat parmi les 10 plus importants bailleurs sociaux d'Europe 🇪🇺\n▶️https://t.co/l2QaeO4jPb\n#EuropeDay #Journéede…",
+        "created_at": "2017-05-09 10:11:08+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 861886246926372865,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Paris_Habitat",
+                    "id": "715215698256142336"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 32,
+                    "tag": "ParisHabitat"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "EuropeDay"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/l2QaeO4jPb",
+                    "expanded_url": "https://jcrites007.com/2017/05/08/10-large-social-housing-providers-across-europe/",
+                    "display_url": "jcrites007.com/2017/05/08/10-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861886016222892037",
+        "text": "RT @AparisClimat: #Syndics Formez-vs à la réno énergétique de copro https://t.co/UUle8frRH6\nS'inscrire à la session du 01.06 https://t.co/N…",
+        "created_at": "2017-05-09 10:10:13+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861886016222892037,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "Syndics"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/UUle8frRH6",
+                    "expanded_url": "http://buff.ly/2ozdrfA",
+                    "display_url": "buff.ly/2ozdrfA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861856102484504576",
+        "text": "Vous êtes usufruitier d'un bien immobilier ? Quels actes pouvez-vous réaliser seul ? @seloger https://t.co/0AnSJBkQ3k",
+        "created_at": "2017-05-09 08:11:22+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861856102484504576,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 93,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/0AnSJBkQ3k",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/reglementations/vous-etes-usufruitier-d-un-bien-immobilier-quels-actes-pouvez-vous-realiser-seul-article-17632.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861494540770979840",
+        "text": "Estimez votre bien immobilier avec « Patrim », la base de données du fisc ! @seloger https://t.co/cLlRNd8i1t",
+        "created_at": "2017-05-08 08:14:38+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861494540770979840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/cLlRNd8i1t",
+                    "expanded_url": "http://edito.seloger.com/actualites/france/estimez-votre-bien-immobilier-avec-patrim-la-base-de-donnees-du-fisc-article-17980.html",
+                    "display_url": "edito.seloger.com/actualites/fra…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861493136425615362",
+        "text": "RT @Promotelec: Tout comprendre sur le compteur communicant #Linky en 6 minutes https://t.co/87aulvvD6V @enedis",
+        "created_at": "2017-05-08 08:09:04+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861493136425615362,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Promotelec",
+                    "id": "344691974"
+                },
+                {
+                    "start": 104,
+                    "end": 111,
+                    "username": "enedis",
+                    "id": "382736141"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 66,
+                    "tag": "Linky"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/87aulvvD6V",
+                    "expanded_url": "http://ow.ly/B1vp30boAwz",
+                    "display_url": "ow.ly/B1vp30boAwz"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861492383132913664",
+        "text": "Colocation : un mode de vie qui séduit de plus en plus les salariés européens @seloger https://t.co/nuUSlbllEh",
+        "created_at": "2017-05-08 08:06:04+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 861492383132913664,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 86,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/nuUSlbllEh",
+                    "expanded_url": "http://edito.seloger.com/actualites/france/colocation-un-mode-de-vie-qui-seduit-de-plus-en-plus-les-salaries-europeens-article-17935.html",
+                    "display_url": "edito.seloger.com/actualites/fra…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860772745960992769",
+        "text": "RT @louisdumerle: Demande de logement social: quel justificatif pour attester d'une procédure de divorce par consentement mutuel ? https://…",
+        "created_at": "2017-05-06 08:26:29+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860772745960992769,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "louisdumerle",
+                    "id": "142320827"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860769713890238464",
+        "text": "RT @AparisClimat: 📌 A vos agendas : prochain atelier Ecogestes dans le logement : le 30 mai ! https://t.co/8pMaSAn2M4 https://t.co/jFOPR7Bv…",
+        "created_at": "2017-05-06 08:14:26+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860769713890238464,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/8pMaSAn2M4",
+                    "expanded_url": "http://buff.ly/2pBP6pq",
+                    "display_url": "buff.ly/2pBP6pq"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860769595124305920",
+        "text": "RT @AparisClimat: Rendez-vous #Copro : 17 mai - 18h 👉 Réponses de pros ! Ravalement et Isolation thermique par l'extérieur https://t.co/nVS…",
+        "created_at": "2017-05-06 08:13:58+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860769595124305920,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 36,
+                    "tag": "Copro"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860769238771957761",
+        "text": "Les taux attractifs des crédits immobiliers amortissent la flambée des prix parisiens @seloger https://t.co/PUBkVtMNq9",
+        "created_at": "2017-05-06 08:12:33+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860769238771957761,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 86,
+                    "end": 94,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/PUBkVtMNq9",
+                    "expanded_url": "http://edito.seloger.com/actualites/villes/les-taux-attractifs-des-credits-immobiliers-amortissent-la-flambee-des-prix-parisiens-article-17962.html",
+                    "display_url": "edito.seloger.com/actualites/vil…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860769061772439552",
+        "text": "Crédit immobilier : une baisse surprise des taux en mai 2017 ! - PAP.fr https://t.co/kyZ49gjolV via @pap_fr",
+        "created_at": "2017-05-06 08:11:51+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860769061772439552,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 100,
+                    "end": 107,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/kyZ49gjolV",
+                    "expanded_url": "http://www.pap.fr//actualites/credit-immobilier-une-baisse-surprise-des-taux-en-mai-2017/a19395",
+                    "display_url": "pap.fr//actualites/cr…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860767304044425216",
+        "text": "Immobilier : le prix des chambres de bonne, à Paris, a été multiplié par 5 en 20 ans ! @seloger https://t.co/Pr5cEKguay",
+        "created_at": "2017-05-06 08:04:52+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 860767304044425216,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 95,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/Pr5cEKguay",
+                    "expanded_url": "http://edito.seloger.com/actualites/villes/immobilier-le-prix-des-chambres-de-bonne-paris-ete-multiplie-par-5-en-20-ans-article-17932.html",
+                    "display_url": "edito.seloger.com/actualites/vil…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860767119142789120",
+        "text": "Êtes-vous assujetti à la taxe sur les logements vacants ? @seloger https://t.co/IMr04aKjXB",
+        "created_at": "2017-05-06 08:04:08+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860767119142789120,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 58,
+                    "end": 66,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/IMr04aKjXB",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/reglementations/etes-vous-assujetti-la-taxe-sur-les-logements-vacants-article-17695.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860765301369077761",
+        "text": "https://t.co/tHXiVwldk9",
+        "created_at": "2017-05-06 07:56:54+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860765301369077761,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/tHXiVwldk9",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/une-hausse-des-taux-pourrait-profiter-aux-investisseurs-immobiliers_2e0931f6-319f-11e7-85ee-3d8b9af4ab90/",
+                    "display_url": "immobilier.lefigaro.fr/article/une-ha…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860207654152679425",
+        "text": "Copropriété : les places de stationnement adaptées doivent être louées aux handicapés\nhttps://t.co/Dh0A16qxGk",
+        "created_at": "2017-05-04 19:01:01+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860207654152679425,
+        "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/Dh0A16qxGk",
+                    "expanded_url": "http://www.leparticulier.fr/jcms/p1_1654190/copropriete-les-places-de-stationnement-adaptees-doivent-etre-louees-aux-handicapes",
+                    "display_url": "leparticulier.fr/jcms/p1_165419…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860137608533487616",
+        "text": "Suis-je en sécurité électrique dans mon logement ? Inscrivez-vous au rendez-vous de @ADIL_DE_PARIS\nhttps://t.co/ixwa9H5ygF https://t.co/6DANY9wyLc",
+        "created_at": "2017-05-04 14:22:41+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860137516007084032"
+            ]
+        },
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 860137608533487616,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 84,
+                    "end": 98,
+                    "username": "ADIL_DE_PARIS",
+                    "id": "3417457690"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/ixwa9H5ygF",
+                    "expanded_url": "http://www.adil75.org/actualites/securite-electrique",
+                    "display_url": "adil75.org/actualites/sec…"
+                },
+                {
+                    "start": 123,
+                    "end": 146,
+                    "url": "https://t.co/6DANY9wyLc",
+                    "expanded_url": "https://twitter.com/ADIL_DE_PARIS/status/860137608533487616/photo/1",
+                    "display_url": "pic.twitter.com/6DANY9wyLc",
+                    "media_key": "3_860137516007084032"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "860044914696101889",
+        "text": "Etude de l'#ADIL: #Paris dans la #MétropoleduGrandParis : Demande et attributions de #logement social ! C'est ici &gt;&gt; https://t.co/ru77RESLsQ https://t.co/9NwE1brgW9",
+        "created_at": "2017-05-04 08:14:21+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860044823906185217"
+            ]
+        },
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 860044914696101889,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 11,
+                    "end": 16,
+                    "tag": "ADIL"
+                },
+                {
+                    "start": 18,
+                    "end": 24,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 33,
+                    "end": 55,
+                    "tag": "MétropoleduGrandParis"
+                },
+                {
+                    "start": 85,
+                    "end": 94,
+                    "tag": "logement"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 123,
+                    "end": 146,
+                    "url": "https://t.co/ru77RESLsQ",
+                    "expanded_url": "http://www.adil75.org//sites/default/files/upload/etudes/2017_paris_dans_la_mgp_logement_social_adil75.pdf",
+                    "display_url": "adil75.org//sites/default…"
+                },
+                {
+                    "start": 147,
+                    "end": 170,
+                    "url": "https://t.co/9NwE1brgW9",
+                    "expanded_url": "https://twitter.com/ADIL_DE_PARIS/status/860044914696101889/photo/1",
+                    "display_url": "pic.twitter.com/9NwE1brgW9",
+                    "media_key": "3_860044823906185217"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859837791580160000",
+        "text": "Logement social: pour votre 1ère demande, son actualisation ou son\nrenouvellement, prenez rendez-vous en ligne https://t.co/dp1qM29rpm",
+        "created_at": "2017-05-03 18:31:19+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859837791580160000,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/dp1qM29rpm",
+                    "expanded_url": "http://ow.ly/vpUu1007dtp",
+                    "display_url": "ow.ly/vpUu1007dtp"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859836175665827840",
+        "text": "RT @Paris_Habitat: Comment utiliser les chambres de bonne inoccupées ? La ville de #Paris et #ParisHabitat proposent des solutions ! \n▶️htt…",
+        "created_at": "2017-05-03 18:24:53+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 859836175665827840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Paris_Habitat",
+                    "id": "715215698256142336"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 89,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 93,
+                    "end": 106,
+                    "tag": "ParisHabitat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859478779344949248",
+        "text": "https://t.co/yEM8ALcm7I",
+        "created_at": "2017-05-02 18:44:43+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859478779344949248,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/yEM8ALcm7I",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/immobilier-les-prix-parisiens-en-route-vers-les-8700-euros-le-metre-carre_a2fb18c6-2f4c-11e7-afe3-0772d0153cc5/?utm_campaign=Echobox&utm_medium=social_lefigaro&utm_source=Twitter#link_time=1493744081",
+                    "display_url": "immobilier.lefigaro.fr/article/immobi…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859453199941611520",
+        "text": "Les promoteurs ont produit près de 40% des HLM en 2016 https://t.co/BhL2xYI8xW",
+        "created_at": "2017-05-02 17:03:05+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859453199941611520,
+        "entities": {
+            "urls": [
+                {
+                    "start": 55,
+                    "end": 78,
+                    "url": "https://t.co/BhL2xYI8xW",
+                    "expanded_url": "http://www.lemoniteur.fr/article/les-promoteurs-ont-produit-pres-de-40-des-hlm-en-2016-34435922",
+                    "display_url": "lemoniteur.fr/article/les-pr…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859453130953641984",
+        "text": "Immobilier : une solution pour (enfin) mettre fin à la hausse des prix https://t.co/cJwIFbwG0h",
+        "created_at": "2017-05-02 17:02:48+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859453130953641984,
+        "entities": {
+            "urls": [
+                {
+                    "start": 71,
+                    "end": 94,
+                    "url": "https://t.co/cJwIFbwG0h",
+                    "expanded_url": "http://www.capital.fr/immobilier/immobilier-une-solution-pour-enfin-mettre-fin-a-la-hausse-des-prix-1224737",
+                    "display_url": "capital.fr/immobilier/imm…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859452986598330368",
+        "text": "Les marges de négociation dans l'immobilier perdent à nouveau du terrain ! @seloger https://t.co/sBjC49EIUf",
+        "created_at": "2017-05-02 17:02:14+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859452986598330368,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 83,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/sBjC49EIUf",
+                    "expanded_url": "http://edito.seloger.com/actualites/barometre-lpi-seloger/les-marges-de-negociation-dans-l-immobilier-perdent-nouveau-du-terrain-article-17893.html",
+                    "display_url": "edito.seloger.com/actualites/bar…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "859451890882498561",
+        "text": "Location de meublés touristiques : les villes peuvent désormais mieux contrôler les plateformes https://t.co/J2AxhVMDJV",
+        "created_at": "2017-05-02 16:57:53+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 859451890882498561,
+        "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/J2AxhVMDJV",
+                    "expanded_url": "http://www.logement.gouv.fr/location-de-meubles-touristiques-les-villes-peuvent-desormais-mieux-controler-les-plateformes",
+                    "display_url": "logement.gouv.fr/location-de-me…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857919833811431424",
+        "text": "Les indicateurs d’activité des artisans passent au vert https://t.co/PbI4QMGXsc",
+        "created_at": "2017-04-28 11:30:02+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857919833811431424,
+        "entities": {
+            "urls": [
+                {
+                    "start": 56,
+                    "end": 79,
+                    "url": "https://t.co/PbI4QMGXsc",
+                    "expanded_url": "http://www.lemoniteur.fr/article/les-indicateurs-d-activite-des-artisans-passent-au-vert-34423562",
+                    "display_url": "lemoniteur.fr/article/les-in…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857912321875861504",
+        "text": "https://t.co/bUh9ipj2K2",
+        "created_at": "2017-04-28 11:00:11+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857912321875861504,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/bUh9ipj2K2",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/la-construction-de-logements-au-plus-haut-depuis-fin-2012_07af9f42-2bdf-11e7-b91d-560b5f714086/?utm_campaign=Echobox&utm_medium=social_lefigaro&utm_source=Twitter#link_time=1493364688",
+                    "display_url": "immobilier.lefigaro.fr/article/la-con…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857911610559606784",
+        "text": "https://t.co/oe4k7V5TR4",
+        "created_at": "2017-04-28 10:57:21+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857911610559606784,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/oe4k7V5TR4",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/declaration-de-revenus-comment-sont-imposes-vos-loyers_b1132b30-2b30-11e7-aee4-98c78486978d/?utm_campaign=Echobox&utm_medium=social_lefigaro&utm_source=Twitter#",
+                    "display_url": "immobilier.lefigaro.fr/article/declar…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857911352442093568",
+        "text": "RT @AparisClimat: Partager sa production d’énergie verte entre voisins, la prochaine étape https://t.co/8ZzzrdJnKl https://t.co/4BmDy9FwMJ",
+        "created_at": "2017-04-28 10:56:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_857854397275152384"
+            ]
+        },
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857911352442093568,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/8ZzzrdJnKl",
+                    "expanded_url": "http://buff.ly/2q0LCg0",
+                    "display_url": "buff.ly/2q0LCg0"
+                },
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/4BmDy9FwMJ",
+                    "expanded_url": "https://twitter.com/AparisClimat/status/857854400232136704/photo/1",
+                    "display_url": "pic.twitter.com/4BmDy9FwMJ",
+                    "media_key": "3_857854397275152384"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857910956986445824",
+        "text": "RT @Paris_Habitat: La maison du projet à Porte de Vanves est prête à accueillir les locataires.\nVenez découvrir notre programme de réhabili…",
+        "created_at": "2017-04-28 10:54:46+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857910956986445824,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Paris_Habitat",
+                    "id": "715215698256142336"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857910514747363329",
+        "text": "RT @ActionLogement: Très heureux de vous annoncer l'ouverture des comptes twitter de nos filiales ActionLogement Services @Services_AL et I…",
+        "created_at": "2017-04-28 10:53:00+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            }
+        ],
+        "conversation_id": 857910514747363329,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ActionLogement",
+                    "id": "581714778"
+                },
+                {
+                    "start": 122,
+                    "end": 134,
+                    "username": "Services_AL",
+                    "id": "819931656836497408"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857910266511622149",
+        "text": "Logement - Centralisation des dépôts de garantie : le retour de la GUL ?\nhttps://t.co/BUzZlZcFJd",
+        "created_at": "2017-04-28 10:52:01+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857910266511622149,
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/BUzZlZcFJd",
+                    "expanded_url": "http://www.caissedesdepotsdesterritoires.fr/cs/ContentServer?pagename=Territoires/Articles/Articles&cid=1250279053577",
+                    "display_url": "caissedesdepotsdesterritoires.fr/cs/ContentServ…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857909072225611776",
+        "text": "Immobilier ancien : la hausse, jusqu’où ? https://t.co/PlJXSdN1iA via @LesEchos",
+        "created_at": "2017-04-28 10:47:16+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857909072225611776,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 70,
+                    "end": 79,
+                    "username": "LesEchos",
+                    "id": "92564226"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 42,
+                    "end": 65,
+                    "url": "https://t.co/PlJXSdN1iA",
+                    "expanded_url": "http://po.st/shTflW",
+                    "display_url": "po.st/shTflW"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857501386833100800",
+        "text": "Le service d'estimation des biens du fisc s'ouvre aux vendeurs et acquéreurs immobiliers https://t.co/CdjKB183jP",
+        "created_at": "2017-04-27 07:47:16+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857501386833100800,
+        "entities": {
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/CdjKB183jP",
+                    "expanded_url": "http://www.leparticulier.fr/jcms/p1_1653739/le-service-d-estimation-des-biens-du-fisc-s-ouvre-aux-vendeurs-et-acquereurs",
+                    "display_url": "leparticulier.fr/jcms/p1_165373…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857500981818523648",
+        "text": "Bail solidaire : une nouvelle approche de l'accession à la propriété - PAP.fr https://t.co/sovWbDna2i via @pap_fr",
+        "created_at": "2017-04-27 07:45:40+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857500981818523648,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 106,
+                    "end": 113,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/sovWbDna2i",
+                    "expanded_url": "http://www.pap.fr//actualites/bail-solidaire-une-nouvelle-approche-de-l-accession-a-la-propriete/a19376",
+                    "display_url": "pap.fr//actualites/ba…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "857243838242533376",
+        "text": "Crédit immobilier : légère remontée des taux et recul des primo-accédants https://t.co/oUEpDjW4OA",
+        "created_at": "2017-04-26 14:43:52+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 857243838242533376,
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/oUEpDjW4OA",
+                    "expanded_url": "http://www.lemoniteur.fr/article/credit-immobilier-legere-remontee-des-taux-et-recul-des-primo-accedants-34417290",
+                    "display_url": "lemoniteur.fr/article/credit…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856940648712335360",
+        "text": "https://t.co/LGM7pKzczW",
+        "created_at": "2017-04-25 18:39:06+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856940648712335360,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/LGM7pKzczW",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/le-dynamisme-du-credit-immobilier-commence-a-atteindre-ses-limites_80e48d3c-29b4-11e7-b91d-560b5f714086/?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#link_time=1493136268",
+                    "display_url": "immobilier.lefigaro.fr/article/le-dyn…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856863265174978561",
+        "text": "RT @pap_fr: Vendeur : bien fixer le prix de votre logement - PAP.fr https://t.co/gMgdc0Dxvi via @pap_fr",
+        "created_at": "2017-04-25 13:31:36+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856863265174978561,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                },
+                {
+                    "start": 96,
+                    "end": 103,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/gMgdc0Dxvi",
+                    "expanded_url": "http://www.pap.fr//conseils/achat-vente/vendeur-bien-fixer-le-prix-de-votre-logement/a2522",
+                    "display_url": "pap.fr//conseils/acha…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856859470605017088",
+        "text": "RT @Logement_Gouv: [#Cummuniqué] Mieux équilibrer la relation bailleur-locataire par la création d’un fonds unique de centralisation des dé…",
+        "created_at": "2017-04-25 13:16:32+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856859470605017088,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 31,
+                    "tag": "Cummuniqué"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856859353210552321",
+        "text": "Etude de l’instauration d’un mécanisme de consignation des dépôts de garantie locative : https://t.co/PjkjrCFKkg",
+        "created_at": "2017-04-25 13:16:04+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856859353210552321,
+        "entities": {
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/PjkjrCFKkg",
+                    "expanded_url": "http://www.cgedd.developpement-durable.gouv.fr/etude-de-l-instauration-d-un-mecanisme-de-a2411.html",
+                    "display_url": "cgedd.developpement-durable.gouv.fr/etude-de-l-ins…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856858950783963137",
+        "text": "Changement d’assurance de prêt immobilier : Un bénéfice de plus d’un milliard d’euros pour les Français propriétaires",
+        "created_at": "2017-04-25 13:14:28+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856858950783963137,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856569556323762176",
+        "text": "Quels documents le propriétaire peut-il demander pour un dossier de location ? @seloger https://t.co/D96eqGN992",
+        "created_at": "2017-04-24 18:04:31+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856569556323762176,
+        "entities": {
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/D96eqGN992",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/louer/quels-documents-le-proprietaire-peut-il-demander-pour-un-dossier-de-location-article-17626.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 87,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856569215616245760",
+        "text": "RT @IfopEnergies: Vous voulez réduire vos consommations et faire baisser vos factures? Participez aux Ateliers Ecogestes @AparisClimat #éne…",
+        "created_at": "2017-04-24 18:03:09+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856569215616245760,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "IfopEnergies",
+                    "id": "1580639869"
+                },
+                {
+                    "start": 121,
+                    "end": 134,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856568702652887043",
+        "text": "Locataires, propriétaires : quels sont les droits et les devoirs de chacun ?  https://t.co/Fob0yJY8Oo",
+        "created_at": "2017-04-24 18:01:07+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856568702652887043,
+        "entities": {
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/Fob0yJY8Oo",
+                    "expanded_url": "http://www.logement.gouv.fr/locataires-proprietaires-quels-sont-les-droits-et-les-devoirs-de-chacun",
+                    "display_url": "logement.gouv.fr/locataires-pro…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856568297210466305",
+        "text": "https://t.co/KJViRgCZD8 via @Le_Particulier",
+        "created_at": "2017-04-24 17:59:30+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 856568297210466305,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/KJViRgCZD8",
+                    "expanded_url": "http://www.leparticulier.fr/jcms/p1_1653550/le-changement-d-assurance-d-un-pret-immobilier-pose-encore-probleme",
+                    "display_url": "leparticulier.fr/jcms/p1_165355…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "Le_Particulier",
+                    "id": "166907101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855685734619131904",
+        "text": "Et si les cautions locatives n'étaient plus versées aux propriétaires ? https://t.co/c3fRIRJumt via @LeParisien_Eco",
+        "created_at": "2017-04-22 07:32:31+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855685734619131904,
+        "entities": {
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/c3fRIRJumt",
+                    "expanded_url": "http://l.leparisien.fr/s/kVeX",
+                    "display_url": "l.leparisien.fr/s/kVeX"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 100,
+                    "end": 115,
+                    "username": "leparisien_eco",
+                    "id": "2449906448"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855684106805547008",
+        "text": "Une maison avec travaux, une bonne affaire ? https://t.co/nE22bPTtDZ via @dossierfamilial",
+        "created_at": "2017-04-22 07:26:03+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855684106805547008,
+        "entities": {
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/nE22bPTtDZ",
+                    "expanded_url": "http://www.dossierfamilial.com/immobilier/proprietaire/une-maison-avec-travaux-une-bonne-affaire-82212",
+                    "display_url": "dossierfamilial.com/immobilier/pro…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 73,
+                    "end": 89,
+                    "username": "dossierfamilial",
+                    "id": "30233993"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855682193837916162",
+        "text": "Crédit Immobilier : qui emprunte encore aux meilleures conditions ? https://t.co/uYQsKpBRcT via @LesEchos",
+        "created_at": "2017-04-22 07:18:27+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855682193837916162,
+        "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/uYQsKpBRcT",
+                    "expanded_url": "http://po.st/hSJkDJ",
+                    "display_url": "po.st/hSJkDJ"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 105,
+                    "username": "LesEchos",
+                    "id": "92564226"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855682162733064194",
+        "text": "Assurance-emprunteur : les banques rappelées à leurs obligations https://t.co/dBhJQLHHPG via @LesEchos",
+        "created_at": "2017-04-22 07:18:20+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855682162733064194,
+        "entities": {
+            "urls": [
+                {
+                    "start": 65,
+                    "end": 88,
+                    "url": "https://t.co/dBhJQLHHPG",
+                    "expanded_url": "http://po.st/dMufhu",
+                    "display_url": "po.st/dMufhu"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 102,
+                    "username": "LesEchos",
+                    "id": "92564226"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855682049507721216",
+        "text": "Un permis pour louer ? Seulement dans les zones d'habitat indigne - PAP.fr https://t.co/NluhQp1E1l via @pap_fr",
+        "created_at": "2017-04-22 07:17:53+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855682049507721216,
+        "entities": {
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/NluhQp1E1l",
+                    "expanded_url": "http://www.pap.fr//actualites/un-permis-pour-louer-seulement-dans-les-zones-d-habitat-indigne/a19194",
+                    "display_url": "pap.fr//actualites/un…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 103,
+                    "end": 110,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855423603759828993",
+        "text": "Les conseillers de l’@AparisClimat vous reçoivent sur rendez-vous au siège de @ADIL_DE_PARIS",
+        "created_at": "2017-04-21 14:10:54+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855423603759828993,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 34,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                },
+                {
+                    "start": 78,
+                    "end": 92,
+                    "username": "ADIL_DE_PARIS",
+                    "id": "3417457690"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855423220022996994",
+        "text": "Consultez les dates des permanences de l’@AparisClimat à @ADIL_DE_PARIS \nhttps://t.co/hUizMTB7GH",
+        "created_at": "2017-04-21 14:09:23+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855423220022996994,
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/hUizMTB7GH",
+                    "expanded_url": "http://www.adil75.org/actualites/les-permanences-de-l-agence-parisienne-du-climat-l-adil-de-paris",
+                    "display_url": "adil75.org/actualites/les…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                },
+                {
+                    "start": 57,
+                    "end": 71,
+                    "username": "ADIL_DE_PARIS",
+                    "id": "3417457690"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855421560085196800",
+        "text": "Immobilier : ce nouveau montage qui permet d’acheter du neuf  à prix cassé https://t.co/zRY0nnT6KJ",
+        "created_at": "2017-04-21 14:02:47+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855421560085196800,
+        "entities": {
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/zRY0nnT6KJ",
+                    "expanded_url": "http://www.capital.fr/immobilier/immobilier-ce-nouveau-montage-qui-permet-d-acheter-du-neuf-a-prix-casse-1223009",
+                    "display_url": "capital.fr/immobilier/imm…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855421384306167809",
+        "text": "6 questions réponses sur le plan d'épargne logement https://t.co/Rnmbn3Q20E via @VotreArgent",
+        "created_at": "2017-04-21 14:02:05+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855421384306167809,
+        "entities": {
+            "urls": [
+                {
+                    "start": 52,
+                    "end": 75,
+                    "url": "https://t.co/Rnmbn3Q20E",
+                    "expanded_url": "http://po.st/rxoRxW",
+                    "display_url": "po.st/rxoRxW"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 92,
+                    "username": "VotreArgent",
+                    "id": "206126832"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855141531166158849",
+        "text": "Crédit immobilier : le boom des prêts sans apport - PAP.fr https://t.co/kBkLBWWnXD via @pap_fr",
+        "created_at": "2017-04-20 19:30:03+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855141531166158849,
+        "entities": {
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/kBkLBWWnXD",
+                    "expanded_url": "http://www.pap.fr//actualites/credit-immobilier-le-boom-des-prets-sans-apport/a19366",
+                    "display_url": "pap.fr//actualites/cr…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 94,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855141468067041281",
+        "text": "Réduire les charges de copropriété en couplant isolation et gros travaux, c'est possible ! @seloger https://t.co/bWlMtiXfrs",
+        "created_at": "2017-04-20 19:29:48+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855141468067041281,
+        "entities": {
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/bWlMtiXfrs",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/copropriete/reduire-les-charges-de-copropriete-en-couplant-isolation-et-gros-travaux-c-est-possible-article-17059.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 99,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855141311044833283",
+        "text": "RT @Le_Figaro_Immo: #Bis Immobilier : les prix montent mais se négocient de moins en moins https://t.co/If3Tgi0OmM https://t.co/SY9wCRzjs0",
+        "created_at": "2017-04-20 19:29:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_855035118423093248"
+            ]
+        },
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855141311044833283,
+        "entities": {
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/If3Tgi0OmM",
+                    "expanded_url": "http://bit.ly/2ouArHC",
+                    "display_url": "bit.ly/2ouArHC"
+                },
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/SY9wCRzjs0",
+                    "expanded_url": "https://twitter.com/Le_Figaro_Immo/status/855035120893427712/photo/1",
+                    "display_url": "pic.twitter.com/SY9wCRzjs0",
+                    "media_key": "3_855035118423093248"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 24,
+                    "tag": "Bis"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Le_Figaro_Immo",
+                    "id": "414678577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855140850938105857",
+        "text": "RT @AparisClimat: Réduire vos consommations et baisser vos factures ? Rdv mardi 25 avril pour un atelier #Ecogestes dans le logement 💡https…",
+        "created_at": "2017-04-20 19:27:21+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855140850938105857,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "Ecogestes"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855140770730344448",
+        "text": "RT @AparisClimat: Vous hésitez à vous lancer dans un #audit global? Le 22.05 rencontrez un #copropriétaire qui s’est lancé 📍#RDVcopro https…",
+        "created_at": "2017-04-20 19:27:02+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855140770730344448,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 59,
+                    "tag": "audit"
+                },
+                {
+                    "start": 91,
+                    "end": 106,
+                    "tag": "copropriétaire"
+                },
+                {
+                    "start": 124,
+                    "end": 133,
+                    "tag": "RDVcopro"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855138991930265601",
+        "text": "https://t.co/FPBQ2x4n9v via @Le_Particulier",
+        "created_at": "2017-04-20 19:19:58+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855138991930265601,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/FPBQ2x4n9v",
+                    "expanded_url": "http://www.leparticulier.fr/jcms/p1_1653121/rachat-de-credit-immobilier-les-3-criteres-a-surveiller",
+                    "display_url": "leparticulier.fr/jcms/p1_165312…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "Le_Particulier",
+                    "id": "166907101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855138781892096000",
+        "text": "Rénovation : les obligations d’isolation acoustique sont fixées https://t.co/bS9T2h7aHg",
+        "created_at": "2017-04-20 19:19:07+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855138781892096000,
+        "entities": {
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/bS9T2h7aHg",
+                    "expanded_url": "http://www.lemoniteur.fr/article/renovation-les-obligations-d-isolation-acoustique-sont-fixees-34404212",
+                    "display_url": "lemoniteur.fr/article/renova…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855138710844735488",
+        "text": "RT @louisdumerle: Au JO: Arrêté du 13.4.17 / Caractéristiques acoustiques des bâtiments existants lors de travaux de rénovation https://t.c…",
+        "created_at": "2017-04-20 19:18:51+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855138710844735488,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "louisdumerle",
+                    "id": "142320827"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "855138592284446721",
+        "text": "À Paris, des locataires de HLM vont tester l'habitat participatif - https://t.co/ehPVprR30W via @LaVieImmo",
+        "created_at": "2017-04-20 19:18:22+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 855138592284446721,
+        "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/ehPVprR30W",
+                    "expanded_url": "http://www.lavieimmo.com/immobilier-paris-30798/a-paris-des-locataires-de-hlm-vont-tester-l-habitat-participatif-39256.html",
+                    "display_url": "lavieimmo.com/immobilier-par…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 106,
+                    "username": "LaVieImmo",
+                    "id": "1392556896037609473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854741887961493504",
+        "text": "Bilan de l’application de la loi de transition énergétique pour la croissance verte et stratégies d’application https://t.co/Q8dOONUzyy",
+        "created_at": "2017-04-19 17:02:01+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854741887961493504,
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/Q8dOONUzyy",
+                    "expanded_url": "http://www.gouvernement.fr/conseil-des-ministres/2017-04-19/bilan-de-l-application-de-la-loi-de-transition-energetique-p",
+                    "display_url": "gouvernement.fr/conseil-des-mi…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854741751235588097",
+        "text": "Achat immobilier : les points à vérifier avant de signer l'acte définitif de vente @seloger https://t.co/3UEZj9oyyc",
+        "created_at": "2017-04-19 17:01:28+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854741751235588097,
+        "entities": {
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/3UEZj9oyyc",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/acheter/achat-immobilier-les-points-verifier-avant-de-signer-l-acte-definitif-de-vente-article-17197.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 83,
+                    "end": 91,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854741716271759360",
+        "text": "Crédit immobilier : vers un retour en force des dossiers sans apport ? - https://t.co/RNXjm62vNw via @LaVieImmo",
+        "created_at": "2017-04-19 17:01:20+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854741716271759360,
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/RNXjm62vNw",
+                    "expanded_url": "http://www.lavieimmo.com/emissions-immobilieres/credit-immobilier-vers-un-retour-en-force-des-dossiers-sans-apport-39248.html",
+                    "display_url": "lavieimmo.com/emissions-immo…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 101,
+                    "end": 111,
+                    "username": "LaVieImmo",
+                    "id": "1392556896037609473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854388616382042112",
+        "text": "https://t.co/svD2y89Iir",
+        "created_at": "2017-04-18 17:38:14+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854388616382042112,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/svD2y89Iir",
+                    "expanded_url": "http://linkis.com/www.immoweek.fr/loge/R87xe",
+                    "display_url": "linkis.com/www.immoweek.f…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854386896478371841",
+        "text": "https://t.co/6iQ5Uz03tp",
+        "created_at": "2017-04-18 17:31:24+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854386896478371841,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/6iQ5Uz03tp",
+                    "expanded_url": "https://www.lesechos.fr/industrie-services/immobilier-btp/0211973485687-plus-de-renovations-energetiques-pour-les-artisans-du-batiment-2080228.php#xtor=CS1-33",
+                    "display_url": "lesechos.fr/industrie-serv…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854385912423337984",
+        "text": "RT @AparisClimat: #Bâtiment Réglementation thermique \"par élément\" : l'arrêté, enfin paru, est déjà critiqué https://t.co/eqL6LQEeTn https:…",
+        "created_at": "2017-04-18 17:27:29+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854385912423337984,
+        "entities": {
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/eqL6LQEeTn",
+                    "expanded_url": "http://buff.ly/2nDmMCC",
+                    "display_url": "buff.ly/2nDmMCC"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 27,
+                    "tag": "Bâtiment"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854385673423474688",
+        "text": "RT @louisdumerle: CA Paris, 28 mars 2017=&gt; l'usage paisible des lieux loués implique qu'ils soient occupés par le locataire contractant (et…",
+        "created_at": "2017-04-18 17:26:32+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854385673423474688,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "louisdumerle",
+                    "id": "142320827"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854385494641299457",
+        "text": "Derrière le permis de louer, le scandale du logement insalubre https://t.co/tp63i6xcKN",
+        "created_at": "2017-04-18 17:25:50+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854385494641299457,
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/tp63i6xcKN",
+                    "expanded_url": "http://www.capital.fr/immobilier/permis-de-louer-pourquoi-en-arrive-t-on-a-de-telles-mesures-1222233",
+                    "display_url": "capital.fr/immobilier/per…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "854385437166718977",
+        "text": "Est-il obligatoire de souscrire à une assurance habitation ? @seloger https://t.co/BEFOBFRAGi",
+        "created_at": "2017-04-18 17:25:36+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 854385437166718977,
+        "entities": {
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/BEFOBFRAGi",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/reglementations/est-il-obligatoire-de-souscrire-une-assurance-habitation-article-17221.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 61,
+                    "end": 69,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "853164909986816000",
+        "text": "Location : Se porter garant, peut-on se désengager ? @seloger https://t.co/AnkRJNQkeY",
+        "created_at": "2017-04-15 08:35:40+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 853164909986816000,
+        "entities": {
+            "urls": [
+                {
+                    "start": 62,
+                    "end": 85,
+                    "url": "https://t.co/AnkRJNQkeY",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/louer/location-se-porter-garant-peut-se-desengager-article-17239.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 53,
+                    "end": 61,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "853160638264348672",
+        "text": "Investissement locatif : alerte orange sur le dispositif Pinel https://t.co/XbFlvSqH6E via @LeParisien_Eco",
+        "created_at": "2017-04-15 08:18:41+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 853160638264348672,
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/XbFlvSqH6E",
+                    "expanded_url": "http://l.leparisien.fr/s/7Ouz",
+                    "display_url": "l.leparisien.fr/s/7Ouz"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 106,
+                    "username": "leparisien_eco",
+                    "id": "2449906448"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852567096584220673",
+        "text": "[Vidéo] Comment estimer le montant des travaux dans votre futur logement ? @seloger https://t.co/7yfukDriT5",
+        "created_at": "2017-04-13 17:00:10+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852567096584220673,
+        "entities": {
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/7yfukDriT5",
+                    "expanded_url": "http://edito.seloger.com/materiaux-equipements/travaux/video-comment-estimer-le-montant-des-travaux-dans-votre-futur-logement-article-17353.html",
+                    "display_url": "edito.seloger.com/materiaux-equi…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 83,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852566696187633664",
+        "text": "La hausse des prix de l'énergie pousse les Français à réduire leur confort (sondage) : https://t.co/ZsdkKXvGl8 via @batiweb",
+        "created_at": "2017-04-13 16:58:34+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852566696187633664,
+        "entities": {
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/ZsdkKXvGl8",
+                    "expanded_url": "http://www.batiweb.com/actualites/vie-pratique/la-hausse-des-prix-de-lenergie-pousse-les-francais-a-reduire-leur-confort-sondage-13-04-2017-30272.html",
+                    "display_url": "batiweb.com/actualites/vie…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 115,
+                    "end": 123,
+                    "username": "batiweb",
+                    "id": "90367209"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852479003105665024",
+        "text": "Pour calculer la révision de votre loyer en fonction de l'IRL, contactez gratuitement @ADIL_DE_PARIS  au 01 42 79 50 50",
+        "created_at": "2017-04-13 11:10:07+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852479003105665024,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 86,
+                    "end": 100,
+                    "username": "ADIL_DE_PARIS",
+                    "id": "3417457690"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852478684292427776",
+        "text": "Publication de l'IRL du 1er trimestre 2017 (hausse de 0,51%)\nhttps://t.co/2OywCAe8IK",
+        "created_at": "2017-04-13 11:08:51+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852478684292427776,
+        "entities": {
+            "urls": [
+                {
+                    "start": 61,
+                    "end": 84,
+                    "url": "https://t.co/2OywCAe8IK",
+                    "expanded_url": "https://www.anil.org/outils/indices-et-plafonds/tableau-de-lirl/",
+                    "display_url": "anil.org/outils/indices…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852478073354297345",
+        "text": "https://t.co/GK5s7ViCG6",
+        "created_at": "2017-04-13 11:06:25+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852478073354297345,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/GK5s7ViCG6",
+                    "expanded_url": "http://immobilier.lefigaro.fr/article/les-loyers-n-ont-jamais-autant-augmente-depuis-2014_5a9f3fde-2020-11e7-834a-2675150b5d1e/",
+                    "display_url": "immobilier.lefigaro.fr/article/les-lo…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852429997520412672",
+        "text": "Plus d'un acquéreur sur deux juge les prix immobiliers irréalistes - https://t.co/sdFx3mgHRm via @LaVieImmo",
+        "created_at": "2017-04-13 07:55:23+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852429997520412672,
+        "entities": {
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/sdFx3mgHRm",
+                    "expanded_url": "http://www.lavieimmo.com/divers-immobilier/plus-d-un-acquereur-sur-deux-juge-les-prix-immobiliers-irrealistes-39208.html",
+                    "display_url": "lavieimmo.com/divers-immobil…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 97,
+                    "end": 107,
+                    "username": "LaVieImmo",
+                    "id": "1392556896037609473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852429663972589568",
+        "text": "Concours d'architectes : les bailleurs sociaux seront soumis à l'obligation #batiactu https://t.co/CCnG2Iy9QZ",
+        "created_at": "2017-04-13 07:54:03+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852429663972589568,
+        "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/CCnG2Iy9QZ",
+                    "expanded_url": "http://batiactu.com/edito/id-48732",
+                    "display_url": "batiactu.com/edito/id-48732"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 85,
+                    "tag": "batiactu"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852108119530459137",
+        "text": "RT @SeLoger: Le saviez-vous ? La marge de #négociation pour un appartement en Alsace et en Île-de-France est de 2,5% https://t.co/LHpWesZYr…",
+        "created_at": "2017-04-12 10:36:21+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029216472",
+                    "name": "I Simpson"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049130942",
+                    "name": "Quando la moglie è in cucina",
+                    "description": "Marge porta Lisa e Bart a fare un'escursione e, quando un'inaspettata deviazione a un ristorante risveglia improvvisamente il loro appetito, decidono di dare inizio al loro blog personale. Vengono così invitati al più importante ristorante di Springfield, ma Marge fa uno strano sogno in cui le appaiono Anthony Bourdain, Gordon Ramsay e Mario Batali, che la inducono a riconsiderare l'idea di invitare anche Homer al ristorante."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049130943",
+                    "name": "Il colpo del libro",
+                    "description": "Lisa è sconvolta e delusa quando scopre cosa si nasconde dietro il franchise di \"Tween lit\", la sua saga fantasy preferita. Homer allora decide di mettere insieme un team di scrittori per il prossimo Tween lit, che include anche il re del fantasy, Neil Gaiman."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049130942",
+                    "name": "Quando la moglie è in cucina",
+                    "description": "Marge porta Lisa e Bart a fare un'escursione e, quando un'inaspettata deviazione a un ristorante risveglia improvvisamente il loro appetito, decidono di dare inizio al loro blog personale. Vengono così invitati al più importante ristorante di Springfield, ma Marge fa uno strano sogno in cui le appaiono Anthony Bourdain, Gordon Ramsay e Mario Batali, che la inducono a riconsiderare l'idea di invitare anche Homer al ristorante."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049130943",
+                    "name": "Il colpo del libro",
+                    "description": "Lisa è sconvolta e delusa quando scopre cosa si nasconde dietro il franchise di \"Tween lit\", la sua saga fantasy preferita. Homer allora decide di mettere insieme un team di scrittori per il prossimo Tween lit, che include anche il re del fantasy, Neil Gaiman."
+                }
+            }
+        ],
+        "conversation_id": 852108119530459137,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 54,
+                    "tag": "négociation"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852107512702799873",
+        "text": "RT @_RIVP_: #RIVP 1er bailleur social #PARIS à utiliser 1 plateforme web pr #BudgetParticipatif #COPAS @ianBrossat https://t.co/xnxBo4XBAW…",
+        "created_at": "2017-04-12 10:33:57+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852107512702799873,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/xnxBo4XBAW",
+                    "expanded_url": "https://lc.cx/3Y77",
+                    "display_url": "lc.cx/3Y77"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 12,
+                    "end": 17,
+                    "tag": "RIVP"
+                },
+                {
+                    "start": 38,
+                    "end": 44,
+                    "tag": "PARIS"
+                },
+                {
+                    "start": 76,
+                    "end": 95,
+                    "tag": "BudgetParticipatif"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "COPAS"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "_RIVP_",
+                    "id": "3096827699"
+                },
+                {
+                    "start": 103,
+                    "end": 114,
+                    "username": "IanBrossat",
+                    "id": "204368725"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "852105403152379904",
+        "text": "RT @Paris_Habitat: Les travaux ont démarré !\nCaserne de #Reuilly : \"la 1ère Vefa inversée réalisée par un bailleur social\", Stéphane Dauphi…",
+        "created_at": "2017-04-12 10:25:34+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 852105403152379904,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 64,
+                    "tag": "Reuilly"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Paris_Habitat",
+                    "id": "715215698256142336"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851852868147654656",
+        "text": "https://t.co/5gvJVsf2BC",
+        "created_at": "2017-04-11 17:42:05+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851852868147654656,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/5gvJVsf2BC",
+                    "expanded_url": "http://www.journaldelagence.com/1132881-ladministration-de-biens-a-lheure-du-digital",
+                    "display_url": "journaldelagence.com/1132881-ladmin…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851699940850118657",
+        "text": "Décrocher un emprunt après 50 ans : possible, mais coûteux https://t.co/PS4dn8e94z",
+        "created_at": "2017-04-11 07:34:24+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851699940850118657,
+        "entities": {
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/PS4dn8e94z",
+                    "expanded_url": "http://www.lemonde.fr/argent/article/2017/04/08/decrocher-un-emprunt-apres-50-ans-possible-mais-couteux_5108169_1657007.html",
+                    "display_url": "lemonde.fr/argent/article…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851699876874383361",
+        "text": "Assemblée générale des copropriétaires : Dans quels cas l’unanimité est-elle requise ? @seloger https://t.co/5CEUmjykz6",
+        "created_at": "2017-04-11 07:34:09+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851699876874383361,
+        "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/5CEUmjykz6",
+                    "expanded_url": "http://edito.seloger.com/conseils-d-experts/copropriete/assemblee-generale-des-coproprietaires-dans-quels-cas-l-unanimite-est-elle-requise-article-17122.html",
+                    "display_url": "edito.seloger.com/conseils-d-exp…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 95,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851472917187764233",
+        "text": "Préavis réduit à 1 mois pour le locataire : la demande doit être motivée même si le logement est en zone tendue https://t.co/s3PMBDzIAu",
+        "created_at": "2017-04-10 16:32:17+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851472917187764233,
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/s3PMBDzIAu",
+                    "expanded_url": "http://questions.assemblee-nationale.fr/q14/14-94869QE.htm",
+                    "display_url": "questions.assemblee-nationale.fr/q14/14-94869QE…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851469874220191748",
+        "text": "À Paris, les prix immobiliers passent la 5e avec des hausses frôlant parfois les 8 % ! @seloger https://t.co/ff8y9Ivz5V",
+        "created_at": "2017-04-10 16:20:12+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851469874220191748,
+        "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/ff8y9Ivz5V",
+                    "expanded_url": "http://edito.seloger.com/actualites/barometre-lpi-seloger/paris-les-prix-immobiliers-passent-la-5e-avec-des-hausses-frolant-parfois-les-8-article-17479.html",
+                    "display_url": "edito.seloger.com/actualites/bar…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 95,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851468520848330752",
+        "text": "RT @pap_fr: #Animaux et #location, le point sur les règles à respecter. @pap_fr https://t.co/sDO0TA4C6G https://t.co/fgaud44qSu",
+        "created_at": "2017-04-10 16:14:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_851429908261851136"
+            ]
+        },
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851468520848330752,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/sDO0TA4C6G",
+                    "expanded_url": "http://bit.ly/2plASVB",
+                    "display_url": "bit.ly/2plASVB"
+                },
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/fgaud44qSu",
+                    "expanded_url": "https://twitter.com/pap_fr/status/851430215691710464/photo/1",
+                    "display_url": "pic.twitter.com/fgaud44qSu",
+                    "media_key": "3_851429908261851136"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 12,
+                    "end": 20,
+                    "tag": "Animaux"
+                },
+                {
+                    "start": 24,
+                    "end": 33,
+                    "tag": "location"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                },
+                {
+                    "start": 72,
+                    "end": 79,
+                    "username": "pap_fr",
+                    "id": "217591830"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851467158341201921",
+        "text": "RT @SeLoger: Le saviez-vous ? En Île-de-France, un logement = 18 années de revenus contre 7 dans le limousin #immobilier https://t.co/Eohyy…",
+        "created_at": "2017-04-10 16:09:24+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851467158341201921,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 120,
+                    "tag": "immobilier"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "SeLoger",
+                    "id": "19706626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851392140127199232",
+        "text": "RT @AparisClimat: 🔖 10 avril RDV #copro : Comment mobiliser sa copropriété dans le cadre de la candidature à « #ÉcoRénovons @Paris » https:…",
+        "created_at": "2017-04-10 11:11:18+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851392140127199232,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 39,
+                    "tag": "copro"
+                },
+                {
+                    "start": 111,
+                    "end": 123,
+                    "tag": "ÉcoRénovons"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AparisClimat",
+                    "id": "290498830"
+                },
+                {
+                    "start": 124,
+                    "end": 130,
+                    "username": "Paris",
+                    "id": "71016845"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "851391898044465152",
+        "text": "L’Union des architectes réagit au décret du 7 avril https://t.co/oZQCNVNkKD",
+        "created_at": "2017-04-10 11:10:21+00:00",
+        "attachments": null,
+        "author_id": 3417457690,
+        "context_annotations": [],
+        "conversation_id": 851391898044465152,
+        "entities": {
+            "urls": [
+                {
+                    "start": 52,
+                    "end": 75,
+                    "url": "https://t.co/oZQCNVNkKD",
+                    "expanded_url": "http://www.lemoniteur.fr/article/l-union-des-architectes-reagit-au-decret-du-7-avril-34383049",
+                    "display_url": "lemoniteur.fr/article/l-unio…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
         },
         "reply_settings": "everyone",
         "source": "Twitter Web Client",

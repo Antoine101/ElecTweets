@@ -121,14 +121,6 @@
         "context_annotations": [],
         "conversation_id": 210416273954308096,
         "entities": {
-            "mentions": [
-                {
-                    "start": 43,
-                    "end": 57,
-                    "username": "AnneSoGodfroy",
-                    "id": "54262687"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 108,
@@ -139,6 +131,14 @@
                     "start": 125,
                     "end": 135,
                     "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "AnneSoGodfroy",
+                    "id": "54262687"
                 }
             ]
         },
@@ -165,19 +165,19 @@
         "context_annotations": [],
         "conversation_id": 210414679422541824,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 35,
+                    "end": 45,
+                    "tag": "circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
                     "end": 16,
                     "username": "GuillaumeDaudin",
                     "id": "132543309"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 35,
-                    "end": 45,
-                    "tag": "circo7502"
                 }
             ]
         },
@@ -204,20 +204,6 @@
         "context_annotations": [],
         "conversation_id": 210096176295452672,
         "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 14,
-                    "username": "CamilleBrinet",
-                    "id": "18531895"
-                },
-                {
-                    "start": 15,
-                    "end": 25,
-                    "username": "CelineBon",
-                    "id": "52036252"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 67,
@@ -233,6 +219,20 @@
                     "start": 128,
                     "end": 138,
                     "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "CamilleBrinet",
+                    "id": "18531895"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "CelineBon",
+                    "id": "52036252"
                 }
             ]
         },
@@ -396,6 +396,13 @@
         "context_annotations": [],
         "conversation_id": 207601491815579648,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 35,
+                    "tag": "dejazet"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -420,13 +427,6 @@
                     "end": 97,
                     "username": "LaurentAudouin",
                     "id": "113982114"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 27,
-                    "end": 35,
-                    "tag": "dejazet"
                 }
             ]
         },
@@ -453,23 +453,6 @@
         "context_annotations": [],
         "conversation_id": 207493432166465538,
         "entities": {
-            "mentions": [
-                {
-                    "start": 49,
-                    "end": 64,
-                    "username": "le_Parisien_fr",
-                    "id": "807439081"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 118,
-                    "end": 138,
-                    "url": "http://t.co/KfZoOgDZ",
-                    "expanded_url": "http://www.leparisien.fr/elections-legislatives-2012/legislatives-l-ex-premier-ministre-croise-le-fer-avec-le-scientifique-29-05-2012-2022376.php",
-                    "display_url": "leparisien.fr/elections-legi…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -485,6 +468,23 @@
                     "start": 43,
                     "end": 48,
                     "tag": "EELV"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 64,
+                    "username": "le_Parisien_fr",
+                    "id": "807439081"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 138,
+                    "url": "http://t.co/KfZoOgDZ",
+                    "expanded_url": "http://www.leparisien.fr/elections-legislatives-2012/legislatives-l-ex-premier-ministre-croise-le-fer-avec-le-scientifique-29-05-2012-2022376.php",
+                    "display_url": "leparisien.fr/elections-legi…"
                 }
             ]
         },
@@ -511,19 +511,19 @@
         "context_annotations": [],
         "conversation_id": 207462826464391171,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 38,
+                    "end": 45,
+                    "tag": "Gaudin"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 15,
                     "username": "daicaudouit",
                     "id": "51170340"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 38,
-                    "end": 45,
-                    "tag": "Gaudin"
                 }
             ]
         },
@@ -586,29 +586,6 @@
         "context_annotations": [],
         "conversation_id": 206052490817437697,
         "entities": {
-            "mentions": [
-                {
-                    "start": 33,
-                    "end": 43,
-                    "username": "marcpreel",
-                    "id": "40638594"
-                },
-                {
-                    "start": 98,
-                    "end": 113,
-                    "username": "LaurentAudouin",
-                    "id": "113982114"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 44,
-                    "end": 64,
-                    "url": "http://t.co/JnxE7fhd",
-                    "expanded_url": "http://circo.afp.com",
-                    "display_url": "circo.afp.com"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -634,6 +611,29 @@
                     "start": 127,
                     "end": 134,
                     "tag": "avenir"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 43,
+                    "username": "marcpreel",
+                    "id": "40638594"
+                },
+                {
+                    "start": 98,
+                    "end": 113,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 44,
+                    "end": 64,
+                    "url": "http://t.co/JnxE7fhd",
+                    "expanded_url": "http://circo.afp.com",
+                    "display_url": "circo.afp.com"
                 }
             ]
         },
@@ -701,15 +701,6 @@
         "context_annotations": [],
         "conversation_id": 205956187714363393,
         "entities": {
-            "urls": [
-                {
-                    "start": 38,
-                    "end": 58,
-                    "url": "http://t.co/DaHKAKu2",
-                    "expanded_url": "http://campagnes.candidats.fr/legislatives2012/",
-                    "display_url": "campagnes.candidats.fr/legislatives20…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 110,
@@ -720,6 +711,15 @@
                     "start": 119,
                     "end": 129,
                     "tag": "circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 38,
+                    "end": 58,
+                    "url": "http://t.co/DaHKAKu2",
+                    "expanded_url": "http://campagnes.candidats.fr/legislatives2012/",
+                    "display_url": "campagnes.candidats.fr/legislatives20…"
                 }
             ]
         },
@@ -746,6 +746,13 @@
         "context_annotations": [],
         "conversation_id": 205954507325194241,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 98,
+                    "tag": "EELV"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -767,13 +774,6 @@
                     "url": "http://t.co/5kJOKSoe",
                     "expanded_url": "http://goo.gl/CGgOq",
                     "display_url": "goo.gl/CGgOq"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 93,
-                    "end": 98,
-                    "tag": "EELV"
                 }
             ]
         },
@@ -800,6 +800,18 @@
         "context_annotations": [],
         "conversation_id": 205946579050434561,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 61,
+                    "tag": "quartier"
+                },
+                {
+                    "start": 112,
+                    "end": 121,
+                    "tag": "quartier"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -812,18 +824,6 @@
                     "end": 51,
                     "username": "Celia_Blauel",
                     "id": "484013613"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 52,
-                    "end": 61,
-                    "tag": "quartier"
-                },
-                {
-                    "start": 112,
-                    "end": 121,
-                    "tag": "quartier"
                 }
             ]
         },
@@ -850,23 +850,6 @@
         "context_annotations": [],
         "conversation_id": 205946579050434561,
         "entities": {
-            "mentions": [
-                {
-                    "start": 65,
-                    "end": 80,
-                    "username": "LaurentAudouin",
-                    "id": "113982114"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 119,
-                    "end": 139,
-                    "url": "http://t.co/4nVUb7Jn",
-                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/2e-circonscription-de-paris/",
-                    "display_url": "laurentaudouin.eelv-legislatives.fr/2e-circonscrip…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 9,
@@ -887,6 +870,23 @@
                     "start": 86,
                     "end": 91,
                     "tag": "EELV"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 65,
+                    "end": 80,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 119,
+                    "end": 139,
+                    "url": "http://t.co/4nVUb7Jn",
+                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/2e-circonscription-de-paris/",
+                    "display_url": "laurentaudouin.eelv-legislatives.fr/2e-circonscrip…"
                 }
             ]
         },
@@ -913,38 +913,6 @@
         "context_annotations": [],
         "conversation_id": 205942066818195456,
         "entities": {
-            "mentions": [
-                {
-                    "start": 51,
-                    "end": 64,
-                    "username": "Celia_Blauel",
-                    "id": "484013613"
-                },
-                {
-                    "start": 65,
-                    "end": 76,
-                    "username": "JeanLafont",
-                    "id": "109390337"
-                },
-                {
-                    "start": 77,
-                    "end": 85,
-                    "username": "GFillon",
-                    "id": "53101892"
-                },
-                {
-                    "start": 86,
-                    "end": 99,
-                    "username": "Denis_Baupin",
-                    "id": "17271007"
-                },
-                {
-                    "start": 103,
-                    "end": 118,
-                    "username": "LaurentAudouin",
-                    "id": "113982114"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -976,6 +944,38 @@
                     "end": 137,
                     "tag": "circo7502"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 64,
+                    "username": "Celia_Blauel",
+                    "id": "484013613"
+                },
+                {
+                    "start": 65,
+                    "end": 76,
+                    "username": "JeanLafont",
+                    "id": "109390337"
+                },
+                {
+                    "start": 77,
+                    "end": 85,
+                    "username": "GFillon",
+                    "id": "53101892"
+                },
+                {
+                    "start": 86,
+                    "end": 99,
+                    "username": "Denis_Baupin",
+                    "id": "17271007"
+                },
+                {
+                    "start": 103,
+                    "end": 118,
+                    "username": "LaurentAudouin",
+                    "id": "113982114"
+                }
             ]
         },
         "geo": null,
@@ -1001,19 +1001,19 @@
         "context_annotations": [],
         "conversation_id": 205798129012981760,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 103,
+                    "tag": "UMPMoinsde140Députés"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "jeanmarcbrule",
                     "id": "57000248"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 82,
-                    "end": 103,
-                    "tag": "UMPMoinsde140Députés"
                 }
             ]
         },
@@ -1040,15 +1040,6 @@
         "context_annotations": [],
         "conversation_id": 205692388235165696,
         "entities": {
-            "urls": [
-                {
-                    "start": 62,
-                    "end": 82,
-                    "url": "http://t.co/woxT5J6O",
-                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/mais-ou-est-donc-monsieur-fillon/",
-                    "display_url": "laurentaudouin.eelv-legislatives.fr/mais-ou-est-do…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 26,
@@ -1059,6 +1050,15 @@
                     "start": 48,
                     "end": 58,
                     "tag": "circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 62,
+                    "end": 82,
+                    "url": "http://t.co/woxT5J6O",
+                    "expanded_url": "http://laurentaudouin.eelv-legislatives.fr/mais-ou-est-donc-monsieur-fillon/",
+                    "display_url": "laurentaudouin.eelv-legislatives.fr/mais-ou-est-do…"
                 }
             ]
         },
@@ -1074,6 +1074,50 @@
         },
         "reply_settings": "everyone",
         "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "194568030993395714",
+        "text": "RT @AlexisBraud: 25 ans que l'on dénonce le FN, 25 ans qu'il monte. Et si on résolvait les problèmes des français à la place ? #FH2012 #eelv",
+        "created_at": "2012-04-23 23:26:48+00:00",
+        "attachments": null,
+        "author_id": 113982114,
+        "context_annotations": [],
+        "conversation_id": 194568030993395714,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 127,
+                    "end": 134,
+                    "tag": "FH2012"
+                },
+                {
+                    "start": 135,
+                    "end": 140,
+                    "tag": "eelv"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "AlexisBraud",
+                    "id": "15882953"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Seesmic",
         "withheld": null
     }
 ]

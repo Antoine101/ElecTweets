@@ -1,1 +1,4768 @@
-[]
+[
+    {
+        "id": "871486887646638080",
+        "text": "RT @apcmafrance: [Communiqué] Accord de Paris : les entreprises artisanales sont force de proposition #MakeOurPlanetGreatAgain \n➡️ https://…",
+        "created_at": "2017-06-04 22:00:40+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 871486887646638080,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 126,
+                    "tag": "MakeOurPlanetGreatAgain"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871486867543384064",
+        "text": "RT @apcmafrance: Ce matin, Bernard Stalter, président de l'APCMA, est allé à la rencontre d'artisans, exemples de la réussite dans l'artisa…",
+        "created_at": "2017-06-04 22:00:35+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 871486867543384064,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871486851340742661",
+        "text": "RT @bernard_stalter: 5M de demandeurs d'emplois et tant d'entreprise en peine! Il faut que ça bouge!! https://t.co/X1qZEJwf9I",
+        "created_at": "2017-06-04 22:00:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870548295906721793",
+                "3_870548295910928384",
+                "3_870548295910928385",
+                "3_870548295902429184"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 871486851340742661,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/X1qZEJwf9I",
+                    "expanded_url": "https://twitter.com/bernard_stalter/status/870548353200861185/photo/1",
+                    "display_url": "pic.twitter.com/X1qZEJwf9I",
+                    "media_key": "3_870548295906721793"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/X1qZEJwf9I",
+                    "expanded_url": "https://twitter.com/bernard_stalter/status/870548353200861185/photo/1",
+                    "display_url": "pic.twitter.com/X1qZEJwf9I",
+                    "media_key": "3_870548295910928384"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/X1qZEJwf9I",
+                    "expanded_url": "https://twitter.com/bernard_stalter/status/870548353200861185/photo/1",
+                    "display_url": "pic.twitter.com/X1qZEJwf9I",
+                    "media_key": "3_870548295910928385"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/X1qZEJwf9I",
+                    "expanded_url": "https://twitter.com/bernard_stalter/status/870548353200861185/photo/1",
+                    "display_url": "pic.twitter.com/X1qZEJwf9I",
+                    "media_key": "3_870548295902429184"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "871486826703409152",
+        "text": "RT @CMA_HdF: @bernard_stalter président de @apcmafrance et Alain GRISET, Président de @CMA_HdF en visite chez @StellaBabyFoot et \"Col de Cy…",
+        "created_at": "2017-06-04 22:00:25+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 871486826703409152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "CMA_HdF",
+                    "id": "2373498032"
+                },
+                {
+                    "start": 13,
+                    "end": 29,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "868011424370524160",
+        "text": "La #maisonconnectee \"cauchemar total\" en matière de #cybersecurite : forte vulnérabilité de ces équipements #IoT \nhttps://t.co/NMwmSokeCd",
+        "created_at": "2017-05-26 07:50:25+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 868011424370524160,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "tag": "maisonconnectee"
+                },
+                {
+                    "start": 52,
+                    "end": 66,
+                    "tag": "cybersecurite"
+                },
+                {
+                    "start": 108,
+                    "end": 112,
+                    "tag": "IoT"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/NMwmSokeCd",
+                    "expanded_url": "http://lexpansion.lexpress.fr/high-tech/la-maison-connectee-un-cauchemar-total-en-matiere-de-securite_1909481.html",
+                    "display_url": "lexpansion.lexpress.fr/high-tech/la-m…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "867053854420074496",
+        "text": "Au @lecese avec @Artisanat_Cese pour le rapport sur l'état de la France 2017 : Réconcilier la France ! https://t.co/iTH7baUxZ9",
+        "created_at": "2017-05-23 16:25:22+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867053848153792512"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 867053854420074496,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "lecese",
+                    "id": "242313020"
+                },
+                {
+                    "start": 16,
+                    "end": 31,
+                    "username": "Artisanat_Cese",
+                    "id": "702117093878198273"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/iTH7baUxZ9",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/867053854420074496/photo/1",
+                    "display_url": "pic.twitter.com/iTH7baUxZ9",
+                    "media_key": "3_867053848153792512"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "867053140243296257",
+        "text": "RT @lecese: C'est parti pour le rendez-vous sur l'état de la France 2017 - Réconcilier la France ! A suivre en direct sur https://t.co/VJfS…",
+        "created_at": "2017-05-23 16:22:32+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 867053140243296257,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "lecese",
+                    "id": "242313020"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "867053036547518464",
+        "text": "RT @apcmafrance: [Communiqué] L’artisanat, grand absent du #gouvernementphilippe !\n➡️https://t.co/OSA2Ab53T7 https://t.co/n6abjs5xvZ",
+        "created_at": "2017-05-23 16:22:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865134102306897920"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 867053036547518464,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 80,
+                    "tag": "gouvernementphilippe"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/OSA2Ab53T7",
+                    "expanded_url": "http://bit.ly/2pWuzZl",
+                    "display_url": "bit.ly/2pWuzZl"
+                },
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/n6abjs5xvZ",
+                    "expanded_url": "https://twitter.com/apcmafrance/status/865134774704381952/photo/1",
+                    "display_url": "pic.twitter.com/n6abjs5xvZ",
+                    "media_key": "3_865134102306897920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "867053019443204096",
+        "text": "RT @mondedartisans: #Apprentissage #export #jumelage : @JFournyCMAPDL, président @cmarPDL, évoque les échanges franco-allemands https://t.c…",
+        "created_at": "2017-05-23 16:22:03+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867053019443204096,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 34,
+                    "tag": "Apprentissage"
+                },
+                {
+                    "start": 35,
+                    "end": 42,
+                    "tag": "export"
+                },
+                {
+                    "start": 43,
+                    "end": 52,
+                    "tag": "jumelage"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mondedartisans",
+                    "id": "4074377147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "867052981165989888",
+        "text": "RT @apcmafrance: Qui sont  les lauréats régionaux du prix du maître d’apprentissage 2017 #prixMA 👇🏻\nhttps://t.co/1Ng5HGOwpl",
+        "created_at": "2017-05-23 16:21:54+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 867052981165989888,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 96,
+                    "tag": "prixMA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/1Ng5HGOwpl",
+                    "expanded_url": "https://www.maitreapprentissage-artisanat.fr/actualites/laureats-regionaux-2017-pma/",
+                    "display_url": "maitreapprentissage-artisanat.fr/actualites/lau…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "867052957006745600",
+        "text": "RT @CMA_Alsace: Le grand débat sur la place de l'artisanat dans la campagne des législatives va commencer #UAA17 https://t.co/VhnGXWH2FB",
+        "created_at": "2017-05-23 16:21:48+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866669247220641793"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 867052957006745600,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 112,
+                    "tag": "UAA17"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "CMA_Alsace",
+                    "id": "4795004137"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/VhnGXWH2FB",
+                    "expanded_url": "https://twitter.com/CMA_Alsace/status/866669286219288584/photo/1",
+                    "display_url": "pic.twitter.com/VhnGXWH2FB",
+                    "media_key": "3_866669247220641793"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "864239260890791936",
+        "text": "RT @apcmafrance: [Communiqué] Statut d’artisan cuisinier : la famille de l’#artisanat s’agrandit !\n➡️https://t.co/Nd8tr1qXkl https://t.co/T…",
+        "created_at": "2017-05-15 22:01:11+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 864239260890791936,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 75,
+                    "end": 85,
+                    "tag": "artisanat"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/Nd8tr1qXkl",
+                    "expanded_url": "http://bit.ly/2qJwiFx",
+                    "display_url": "bit.ly/2qJwiFx"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864239205664391169",
+        "text": "RT @confboucherie: Intervention du président de l' @apcmafrance  @bernard_stalter à l'AG de la @confboucherie . Message fort pour l' #artis…",
+        "created_at": "2017-05-15 22:00:58+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 864239205664391169,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "confboucherie",
+                    "id": "3067856535"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864239173728915456",
+        "text": "RT @apcmafrance: Ce matin, signature d'une lettre d'intention pour s'engager dans la voie d'une collaboration sur long terme avec @confbouc…",
+        "created_at": "2017-05-15 22:00:50+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 864239173728915456,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "864239131655884805",
+        "text": "RT @apcmafrance: #LaFranceetsesArtisans A l'occasion de la #FeteDuPain, rencontre avec un boulanger passionné #artisanat #mof \n➡️https://t.…",
+        "created_at": "2017-05-15 22:00:40+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 864239131655884805,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 39,
+                    "tag": "LaFranceetsesArtisans"
+                },
+                {
+                    "start": 59,
+                    "end": 70,
+                    "tag": "FeteDuPain"
+                },
+                {
+                    "start": 110,
+                    "end": 120,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 121,
+                    "end": 125,
+                    "tag": "mof"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863523493169770496",
+        "text": "RT @heloiselem: Au secours, les dirigeants ne maîtrisent pas la disruption numérique ! - https://t.co/M4y78F1viD #in #transfonum https://t.…",
+        "created_at": "2017-05-13 22:36:58+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863523493169770496,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 116,
+                    "tag": "in"
+                },
+                {
+                    "start": 117,
+                    "end": 128,
+                    "tag": "transfonum"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "heloiselem",
+                    "id": "547846829"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/M4y78F1viD",
+                    "expanded_url": "http://bit.ly/2pYSxpB",
+                    "display_url": "bit.ly/2pYSxpB"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863523400110804992",
+        "text": "RT @AltheaConseil: Optimiser #ExpérienceClient en identifiant les points de blocages et en révélant les solutions #mapping #conseil https:/…",
+        "created_at": "2017-05-13 22:36:36+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863523400110804992,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 29,
+                    "end": 46,
+                    "tag": "ExpérienceClient"
+                },
+                {
+                    "start": 114,
+                    "end": 122,
+                    "tag": "mapping"
+                },
+                {
+                    "start": 123,
+                    "end": 131,
+                    "tag": "conseil"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "AltheaConseil",
+                    "id": "703478606"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863522996480245765",
+        "text": "RT @Strategie_Gouv: [Nouveau] Le compte-rendu du débat \"Le #Brexit et le budget de l'Union européenne\" est désormais en ligne 👉https://t.co…",
+        "created_at": "2017-05-13 22:35:00+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863522996480245765,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 66,
+                    "tag": "Brexit"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Strategie_Gouv",
+                    "id": "195685046"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863522963571834882",
+        "text": "RT @fadouce: Les 3 types d'uberisation des activités d'une entreprise https://t.co/Zpai5Z2peU  #businessmodel Via @PPC https://t.co/67PLT1C…",
+        "created_at": "2017-05-13 22:34:52+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863522963571834882,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 109,
+                    "tag": "businessmodel"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "fadouce",
+                    "id": "123298601"
+                },
+                {
+                    "start": 114,
+                    "end": 118,
+                    "username": "PPC",
+                    "id": "557503"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/Zpai5Z2peU",
+                    "expanded_url": "http://www.influencia.net/fr/actualites/media-com,media,uberisation-raccourci-simpliste-dangereux,7379.html",
+                    "display_url": "influencia.net/fr/actualites/…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863159237303840768",
+        "text": "RT @CMAR_PACA: #JuriPratique | #ArtisansetFablabs, la #technologie à portée de mains ! Plus d'infos sur https://t.co/GOHmBfkfKb https://t.c…",
+        "created_at": "2017-05-12 22:29:33+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863159237303840768,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 28,
+                    "tag": "JuriPratique"
+                },
+                {
+                    "start": 31,
+                    "end": 49,
+                    "tag": "ArtisansetFablabs"
+                },
+                {
+                    "start": 54,
+                    "end": 66,
+                    "tag": "technologie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "CMAR_PACA",
+                    "id": "2226916188"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/GOHmBfkfKb",
+                    "expanded_url": "http://www.cmar-paca.fr/fablabs",
+                    "display_url": "cmar-paca.fr/fablabs"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863154956005761030",
+        "text": "RT @Modes_dEmploi: Le management à l'épreuve de la philosophie https://t.co/KhG5yBAZ8L",
+        "created_at": "2017-05-12 22:12:32+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863154956005761030,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Modes_dEmploi",
+                    "id": "1250049878136360960"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/KhG5yBAZ8L",
+                    "expanded_url": "https://www.cadreo.com/actualites/dt-management-philosophie",
+                    "display_url": "cadreo.com/actualites/dt-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863154907578343427",
+        "text": "RT @Cadreo: 7 phrases simples pour manager au quotidien \nhttps://t.co/6rMC7po1GV",
+        "created_at": "2017-05-12 22:12:21+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863154907578343427,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "Cadreo",
+                    "id": "1427424452"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/6rMC7po1GV",
+                    "expanded_url": "https://www.cadreo.com/actualites/dt-7-phrases-grands-leaders",
+                    "display_url": "cadreo.com/actualites/dt-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "863134618064756736",
+        "text": "Blocage des données et demande de #rançon  : une vaste #cyberattaque  frappe des pays du monde entier: https://t.co/8pDgBrdBvR",
+        "created_at": "2017-05-12 20:51:43+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 863134618064756736,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 34,
+                    "end": 41,
+                    "tag": "rançon"
+                },
+                {
+                    "start": 55,
+                    "end": 68,
+                    "tag": "cyberattaque"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/8pDgBrdBvR",
+                    "expanded_url": "http://www.lci.fr/high-tech/blocage-des-donnees-et-demande-de-rancon-une-vaste-cyberattaque-wcry-frappe-des-pays-du-monde-entier-2051871.html?type=content&share=true",
+                    "display_url": "lci.fr/high-tech/bloc…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862807105551695872",
+        "text": "RT @ReseauOudinot: La Chambre de commerce Franco-Allemande @ahk_frankreich partenaire des 12e Rencontres Annuelles de notre #association #E…",
+        "created_at": "2017-05-11 23:10:18+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862807105551695872,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 136,
+                    "tag": "association"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 59,
+                    "end": 74,
+                    "username": "ahk_frankreich",
+                    "id": "894534822"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862806768094773249",
+        "text": "RT @apcmafrance: Rencontre avec @RabmerU, présidente de l'#UEAPME pour valoriser l'#artisanat Français en Europe 🇪🇺 https://t.co/7fmt5YKtPf",
+        "created_at": "2017-05-11 23:08:58+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862640512817410049"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 862806768094773249,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 65,
+                    "tag": "UEAPME"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "artisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 32,
+                    "end": 40,
+                    "username": "RabmerU",
+                    "id": "905566614"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/7fmt5YKtPf",
+                    "expanded_url": "https://twitter.com/apcmafrance/status/862643856168423424/photo/1",
+                    "display_url": "pic.twitter.com/7fmt5YKtPf",
+                    "media_key": "3_862640512817410049"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862806499038564353",
+        "text": "RT @chboursin: #Infographie : mieux comprendre l'impact des nouvelles technologies sur les talents ! #RH #DRH @CareerBuilderRH @AdeccoGroup…",
+        "created_at": "2017-05-11 23:07:54+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862806499038564353,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 27,
+                    "tag": "Infographie"
+                },
+                {
+                    "start": 101,
+                    "end": 104,
+                    "tag": "RH"
+                },
+                {
+                    "start": 105,
+                    "end": 109,
+                    "tag": "DRH"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "chboursin",
+                    "id": "3169916217"
+                },
+                {
+                    "start": 110,
+                    "end": 126,
+                    "username": "CareerBuilderRH",
+                    "id": "399312619"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862806481078497280",
+        "text": "RT @heloiselem: Les millennials : une nouvelle culture, une nouvelle approche du travail. - https://t.co/HrM29FLsjZ #RH https://t.co/STu5Zb…",
+        "created_at": "2017-05-11 23:07:49+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862806481078497280,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 119,
+                    "tag": "RH"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "heloiselem",
+                    "id": "547846829"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/HrM29FLsjZ",
+                    "expanded_url": "http://bit.ly/2pWY2EW",
+                    "display_url": "bit.ly/2pWY2EW"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862806441903759360",
+        "text": "RT @MyRHCommunity: Les 9 types d’intelligence via @LaTendaNceFr  #RH #management https://t.co/G4I21a5pHi",
+        "created_at": "2017-05-11 23:07:40+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862569251055570944"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862806441903759360,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 68,
+                    "tag": "RH"
+                },
+                {
+                    "start": 69,
+                    "end": 80,
+                    "tag": "management"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MyRhCommunity",
+                    "id": "1392561249968345094"
+                },
+                {
+                    "start": 50,
+                    "end": 63,
+                    "username": "LaTendaNceFr",
+                    "id": "86333526"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/G4I21a5pHi",
+                    "expanded_url": "https://twitter.com/MyRHCommunity/status/862569254448746498/photo/1",
+                    "display_url": "pic.twitter.com/G4I21a5pHi",
+                    "media_key": "3_862569251055570944"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862430100188540928",
+        "text": "RT @ReseauOudinot: Le besoin de rassemblement et co-partage est devenu vital- @ChrisEtienne65 président du #ReseauOudinot #association #net…",
+        "created_at": "2017-05-10 22:12:13+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862430100188540928,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "tag": "ReseauOudinot"
+                },
+                {
+                    "start": 122,
+                    "end": 134,
+                    "tag": "association"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 78,
+                    "end": 93,
+                    "username": "ChrisEtienne65",
+                    "id": "851526582531502080"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862430069796593664",
+        "text": "RT @ReseauOudinot: . @HerveBommelaer nous livre ses bonnes pratiques -12e Rencontres du #ReseauOudinot #Association #Economie https://t.co/…",
+        "created_at": "2017-05-10 22:12:06+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862430069796593664,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 88,
+                    "end": 102,
+                    "tag": "ReseauOudinot"
+                },
+                {
+                    "start": 103,
+                    "end": 115,
+                    "tag": "Association"
+                },
+                {
+                    "start": 116,
+                    "end": 125,
+                    "tag": "Economie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 36,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862430051685601280",
+        "text": "RT @ReseauOudinot: . @HerveBommelaer . Le #Reseau est un tremplin à condition de respecter qques règles #association #economie #networking…",
+        "created_at": "2017-05-10 22:12:02+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862430051685601280,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 49,
+                    "tag": "Reseau"
+                },
+                {
+                    "start": 104,
+                    "end": 116,
+                    "tag": "association"
+                },
+                {
+                    "start": 117,
+                    "end": 126,
+                    "tag": "economie"
+                },
+                {
+                    "start": 127,
+                    "end": 138,
+                    "tag": "networking"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 36,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862430045301858304",
+        "text": "RT @ReseauOudinot: . @HerveBommelaer: Bonnes pratiques: oser pratiquer le réseau- oublier syndrome bon élève #networking #association #econ…",
+        "created_at": "2017-05-10 22:12:00+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862430045301858304,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 120,
+                    "tag": "networking"
+                },
+                {
+                    "start": 121,
+                    "end": 133,
+                    "tag": "association"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 36,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862430023822843907",
+        "text": "RT @NetworkIrlande: \"Le réseau business est absolument indispensable\" @HerveBommelaer donne des clefs de networking @ReseauOudinot https://…",
+        "created_at": "2017-05-10 22:11:55+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862430023822843907,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NetworkIrlande",
+                    "id": "2861016526"
+                },
+                {
+                    "start": 70,
+                    "end": 85,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                },
+                {
+                    "start": 116,
+                    "end": 130,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862428866320662529",
+        "text": "RT @Mercibill: Aux rencontres annuelles du @ReseauOudinot, grand lieu de #networking de #professionnels dynamiques et engagés https://t.co/…",
+        "created_at": "2017-05-10 22:07:19+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862428866320662529,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 73,
+                    "end": 84,
+                    "tag": "networking"
+                },
+                {
+                    "start": 88,
+                    "end": 103,
+                    "tag": "professionnels"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Mercibill",
+                    "id": "2197701480"
+                },
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862418875694055426",
+        "text": "Au @ReseauOudinot pour la 12e rencontre annuelle, quel succès ! #Partage #Entraide #Bienveillance https://t.co/DK6Ivhehnq",
+        "created_at": "2017-05-10 21:27:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_862418871243984900"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862418875694055426,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 64,
+                    "end": 72,
+                    "tag": "Partage"
+                },
+                {
+                    "start": 73,
+                    "end": 82,
+                    "tag": "Entraide"
+                },
+                {
+                    "start": 83,
+                    "end": 97,
+                    "tag": "Bienveillance"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/DK6Ivhehnq",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/862418875694055426/photo/1",
+                    "display_url": "pic.twitter.com/DK6Ivhehnq",
+                    "media_key": "3_862418871243984900"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "862033567840444418",
+        "text": "RT @essecalumni: 18/05 : Conf. #IoT : du #produit au #service by club #ESSEC #Digital  #objetsconnectes https://t.co/y4eQJ6QVzw https://t.c…",
+        "created_at": "2017-05-09 19:56:33+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862033567840444418,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 35,
+                    "tag": "IoT"
+                },
+                {
+                    "start": 41,
+                    "end": 49,
+                    "tag": "produit"
+                },
+                {
+                    "start": 53,
+                    "end": 61,
+                    "tag": "service"
+                },
+                {
+                    "start": 70,
+                    "end": 76,
+                    "tag": "ESSEC"
+                },
+                {
+                    "start": 77,
+                    "end": 85,
+                    "tag": "Digital"
+                },
+                {
+                    "start": 87,
+                    "end": 103,
+                    "tag": "objetsconnectes"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "essecalumni",
+                    "id": "119521225"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/y4eQJ6QVzw",
+                    "expanded_url": "https://www.assoconnect.com/essec/billetterie/offre/61356-q-18-05-2017-iot-du-produit-au-service",
+                    "display_url": "assoconnect.com/essec/billette…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862033215997046785",
+        "text": "RT @essecalumni: Alexis Kohler, un @Essec au secrétariat général de l'Elysée de #macron ? https://t.co/BHx5voRLQy https://t.co/em8Ir4nP4B",
+        "created_at": "2017-05-09 19:55:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861871563267768320"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 862033215997046785,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 87,
+                    "tag": "macron"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "essecalumni",
+                    "id": "119521225"
+                },
+                {
+                    "start": 35,
+                    "end": 41,
+                    "username": "essec",
+                    "id": "164257019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/BHx5voRLQy",
+                    "expanded_url": "http://www.lalsace.fr/actualite/2017/05/05/alexis-kohler-un-strasbourgeois-au-secretariat-general-de-l-elysee-si-macron-est-elu",
+                    "display_url": "lalsace.fr/actualite/2017…"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/em8Ir4nP4B",
+                    "expanded_url": "https://twitter.com/essecalumni/status/861872091448184832/photo/1",
+                    "display_url": "pic.twitter.com/em8Ir4nP4B",
+                    "media_key": "3_861871563267768320"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862032576621490176",
+        "text": "@vtkdra #Twelcome :)",
+        "created_at": "2017-05-09 19:52:36+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862032576621490176,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 8,
+                    "end": 17,
+                    "tag": "Twelcome"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "vtkdra",
+                    "id": "295695549"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 295695549,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862032260375228417",
+        "text": "RT @ChrisEtienne65: @hervebommelaer sera là à la soirée du @reseauoudinot le 10 mai prochain. 230 personnes inscrites, un événement network…",
+        "created_at": "2017-05-09 19:51:21+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862032260375228417,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ChrisEtienne65",
+                    "id": "851526582531502080"
+                },
+                {
+                    "start": 20,
+                    "end": 35,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                },
+                {
+                    "start": 59,
+                    "end": 73,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862032146931863553",
+        "text": "RT @Europarl_FR: Nous fêtons aujourd'hui l’anniversaire de la déclaration Schuman, texte fondateur de l’Union européenne. Bonne journée de…",
+        "created_at": "2017-05-09 19:50:54+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862032146931863553,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Europarl_FR",
+                    "id": "36349838"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1542,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862032045752668160",
+        "text": "RT @apcmafrance: [Revue de presse] Plus d'un million de commerçants et d'artisans au cœur de l'économie via @Figaro_Economie https://t.co/V…",
+        "created_at": "2017-05-09 19:50:30+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862032045752668160,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 108,
+                    "end": 124,
+                    "username": "Figaro_Economie",
+                    "id": "1568568853"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862032001536229376",
+        "text": "RT @apcmafrance: Co-organisé avec #Garance, le #prixMA valorise l’engagement des maîtres d’apprentissage dans la formation des jeunes ! htt…",
+        "created_at": "2017-05-09 19:50:19+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862032001536229376,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 34,
+                    "end": 42,
+                    "tag": "Garance"
+                },
+                {
+                    "start": 47,
+                    "end": 54,
+                    "tag": "prixMA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862031984197021699",
+        "text": "RT @apcmafrance: Pour découvrir les cinq lauréats nationaux du #PrixMA rendez-vous le 27 juin !\n➡️ https://t.co/gkHVV7YZW5 https://t.co/mPJ…",
+        "created_at": "2017-05-09 19:50:15+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862031984197021699,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 70,
+                    "tag": "PrixMA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/gkHVV7YZW5",
+                    "expanded_url": "http://www.maitreapprentissage-artisanat.fr",
+                    "display_url": "maitreapprentissage-artisanat.fr"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862031901091123200",
+        "text": "RT @bernard_stalter: Avec tous les Présidents de CRMA, continuons à imposer la voix de l'artisanat dans le débat public! #reseauCMA #APCMA…",
+        "created_at": "2017-05-09 19:49:55+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 862031901091123200,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "reseauCMA"
+                },
+                {
+                    "start": 132,
+                    "end": 138,
+                    "tag": "APCMA"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287321819369472",
+        "text": "RT @VeilleISM: NOUVEAU : consultez les chiffres de l'#artisanat dans les régions #BarometreArtisanat @VeilleISM @MAAFAssurances https://t.c…",
+        "created_at": "2017-05-07 18:31:14+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 861287321819369472,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 63,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 81,
+                    "end": 100,
+                    "tag": "BarometreArtisanat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287302915600385",
+        "text": "RT @ArtisanatFR: Plus d'un million de commerçants et d'artisans au cœur de l'économie https://t.co/zLwnmnCLOg via @Figaro_Economie",
+        "created_at": "2017-05-07 18:31:09+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 861287302915600385,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ArtisanatFR",
+                    "id": "2467443956"
+                },
+                {
+                    "start": 114,
+                    "end": 130,
+                    "username": "Figaro_Economie",
+                    "id": "1568568853"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/zLwnmnCLOg",
+                    "expanded_url": "http://www.lefigaro.fr/entrepreneur/2017/05/03/09007-20170503ARTFIG00077-plus-d-un-million-de-commercants-et-d-artisans-au-coeur-de-l-economie.php",
+                    "display_url": "lefigaro.fr/entrepreneur/2…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287261614342144",
+        "text": "RT @ArtisanatFR: Education : le casse-tête de l'alternance https://t.co/lEAqfcXFIn via @le_Parisien",
+        "created_at": "2017-05-07 18:30:59+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 861287261614342144,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ArtisanatFR",
+                    "id": "2467443956"
+                },
+                {
+                    "start": 87,
+                    "end": 99,
+                    "username": "le_Parisien",
+                    "id": "38142665"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/lEAqfcXFIn",
+                    "expanded_url": "http://l.leparisien.fr/s/bK05",
+                    "display_url": "l.leparisien.fr/s/bK05"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287226373799936",
+        "text": "RT @ArtisanatFR: Trouver l’épanouissement dans l’#Artisanat : découvrez la définition de Frédéric sur Instagram !\nhttps://t.co/JUqhaM3Ym4 h…",
+        "created_at": "2017-05-07 18:30:51+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10041893684",
+                    "name": "Instagram"
+                }
+            }
+        ],
+        "conversation_id": 861287226373799936,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 59,
+                    "tag": "Artisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ArtisanatFR",
+                    "id": "2467443956"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/JUqhaM3Ym4",
+                    "expanded_url": "https://www.instagram.com/p/BTtTBvhlZGM/",
+                    "display_url": "instagram.com/p/BTtTBvhlZGM/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287180760731648",
+        "text": "RT @ArtisanatFR: Il est encore temps de dégainer votre carte électorale ! #Presidentielles2017 https://t.co/gSDbLYaRhD",
+        "created_at": "2017-05-07 18:30:40+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861233646077923333"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861287180760731648,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 74,
+                    "end": 94,
+                    "tag": "Presidentielles2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ArtisanatFR",
+                    "id": "2467443956"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/gSDbLYaRhD",
+                    "expanded_url": "https://twitter.com/ArtisanatFR/status/861233719662792705/photo/1",
+                    "display_url": "pic.twitter.com/gSDbLYaRhD",
+                    "media_key": "3_861233646077923333"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861287039039406081",
+        "text": "RT @CamilleLartisan: Le #numérique 📲 : une force d'avenir selon #CamilleLartisan ! #Artisanat https://t.co/MHOl4cbl6Y",
+        "created_at": "2017-05-07 18:30:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860053916154818561"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 861287039039406081,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 34,
+                    "tag": "numérique"
+                },
+                {
+                    "start": 64,
+                    "end": 80,
+                    "tag": "CamilleLartisan"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "Artisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/MHOl4cbl6Y",
+                    "expanded_url": "https://twitter.com/CamilleLartisan/status/860053918532894720/photo/1",
+                    "display_url": "pic.twitter.com/MHOl4cbl6Y",
+                    "media_key": "3_860053916154818561"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859859920929398785",
+        "text": "RT @CamilleLartisan: Selon #CamilleLartisan, l'#artisanat est LA solution pour faire réussir les jeunes et les actifs en #reconversion ! ht…",
+        "created_at": "2017-05-03 19:59:15+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859859920929398785,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 43,
+                    "tag": "CamilleLartisan"
+                },
+                {
+                    "start": 47,
+                    "end": 57,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 121,
+                    "end": 134,
+                    "tag": "reconversion"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859859900389875716",
+        "text": "RT @CamilleLartisan: Il est grand temps de s'occuper des #artisans ! ➡️ https://t.co/7BsYbl4ukP via @figarovox #Presidentielle2017 #Camille…",
+        "created_at": "2017-05-03 19:59:10+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10049352399",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049364125",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859859900389875716,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 66,
+                    "tag": "artisans"
+                },
+                {
+                    "start": 111,
+                    "end": 130,
+                    "tag": "Presidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                },
+                {
+                    "start": 100,
+                    "end": 110,
+                    "username": "FigaroVox",
+                    "id": "2323555374"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/7BsYbl4ukP",
+                    "expanded_url": "http://bit.ly/2pE3Rat",
+                    "display_url": "bit.ly/2pE3Rat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859859873596661761",
+        "text": "RT @CamilleLartisan: #CamilleLartisan souhaite valoriser l'importance du rôle des chambres de métiers et de l'artisanat dans l’accompagneme…",
+        "created_at": "2017-05-03 19:59:03+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859859873596661761,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 37,
+                    "tag": "CamilleLartisan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859859853111697408",
+        "text": "RT @CamilleLartisan: #Présidentielle2017 : bravo Frédéric Cavagnac pour ce choix courageux ➡️https://t.co/usbn4PPilG #CamilleLartisan https…",
+        "created_at": "2017-05-03 19:58:59+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10049352399",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049364125",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859859853111697408,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 40,
+                    "tag": "Présidentielle2017"
+                },
+                {
+                    "start": 117,
+                    "end": 133,
+                    "tag": "CamilleLartisan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 93,
+                    "end": 116,
+                    "url": "https://t.co/usbn4PPilG",
+                    "expanded_url": "http://bit.ly/2oWBy82",
+                    "display_url": "bit.ly/2oWBy82"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859859827153149953",
+        "text": "RT @CamilleLartisan: .@bernard_stalter , Président de l'@apcmafrance, aborde l'#artisanat et le vote protestataire➡️https://t.co/FDMRhj4CG5…",
+        "created_at": "2017-05-03 19:58:52+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 859859827153149953,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                },
+                {
+                    "start": 22,
+                    "end": 38,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149475339788288",
+        "text": "RT @ReseauOudinot: Intervention @HerveBommelaer aux rencontres annuelles #ReseauOudinot. Rejoignez-ns le 10 mai: https://t.co/FBEmx6MlZ4 #E…",
+        "created_at": "2017-05-01 20:56:11+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859149475339788288,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 73,
+                    "end": 87,
+                    "tag": "ReseauOudinot"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 32,
+                    "end": 47,
+                    "username": "HerveBommelaer",
+                    "id": "179863267"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/FBEmx6MlZ4",
+                    "expanded_url": "https://oudinot.sonetin.com/events/2601",
+                    "display_url": "oudinot.sonetin.com/events/2601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149463868276738",
+        "text": "RT @ChrisEtienne65: La soirée networking de l'année le 10 mai 2017 @ReseauOudinot # HervéBommelaer https://t.co/7zs3SE1G2x #CadresDirigeant…",
+        "created_at": "2017-05-01 20:56:09+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859149463868276738,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ChrisEtienne65",
+                    "id": "851526582531502080"
+                },
+                {
+                    "start": 67,
+                    "end": 81,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/7zs3SE1G2x",
+                    "expanded_url": "http://amzn.to/2ocEwjx",
+                    "display_url": "amzn.to/2ocEwjx"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149447925780480",
+        "text": "RT @ReseauOudinot: . @amchamfrance partenaire des 12e rencontres annuelles #ReseauOudinot. Y participer: https://t.co/FBEmx6MlZ4 #Economie…",
+        "created_at": "2017-05-01 20:56:05+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859149447925780480,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 75,
+                    "end": 89,
+                    "tag": "ReseauOudinot"
+                },
+                {
+                    "start": 129,
+                    "end": 138,
+                    "tag": "Economie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 34,
+                    "username": "amchamfrance",
+                    "id": "266614863"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/FBEmx6MlZ4",
+                    "expanded_url": "https://oudinot.sonetin.com/events/2601",
+                    "display_url": "oudinot.sonetin.com/events/2601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149365692203011",
+        "text": "RT @ReseauOudinot: la #CCI France Canada, partenaire de nos 12e rencontres annuelles. S'inscrire: https://t.co/FBEmx6MlZ4 #Economie #associ…",
+        "created_at": "2017-05-01 20:55:45+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855111302368206848",
+                    "name": "Canada",
+                    "description": "Canada"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 859149365692203011,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 22,
+                    "end": 26,
+                    "tag": "CCI"
+                },
+                {
+                    "start": 122,
+                    "end": 131,
+                    "tag": "Economie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/FBEmx6MlZ4",
+                    "expanded_url": "https://oudinot.sonetin.com/events/2601",
+                    "display_url": "oudinot.sonetin.com/events/2601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149312667918336",
+        "text": "RT @ReseauOudinot: . @fbcci (FrancoBritishChamber),partenaire des 12e rencontres annuelles. S'inscrire: https://t.co/FBEmx6MlZ4  #Economie…",
+        "created_at": "2017-05-01 20:55:33+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859149312667918336,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 129,
+                    "end": 138,
+                    "tag": "Economie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 27,
+                    "username": "fbcci",
+                    "id": "393944041"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/FBEmx6MlZ4",
+                    "expanded_url": "https://oudinot.sonetin.com/events/2601",
+                    "display_url": "oudinot.sonetin.com/events/2601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149291599908864",
+        "text": "RT @CamilleLartisan: Pour #CamilleLartisan, il est primordial de donner un second souffle à l'entreprise artisanale ! #Presidentielle2017 #…",
+        "created_at": "2017-05-01 20:55:27+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 859149291599908864,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 42,
+                    "tag": "CamilleLartisan"
+                },
+                {
+                    "start": 118,
+                    "end": 137,
+                    "tag": "Presidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859149165930176512",
+        "text": "RT @ArtisanatFR: Du monde digital à l'Artisanat, il n'y a qu'un pas pour Camille, qui a décidé de le franchir ! #choisirlartisanat\nhttps://…",
+        "created_at": "2017-05-01 20:54:58+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859149165930176512,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 130,
+                    "tag": "choisirlartisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ArtisanatFR",
+                    "id": "2467443956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859148986439041025",
+        "text": "RT @AurelieMarchal: Téléchargez mon livre \"Innovation organisationnelle et transformation managériale par le design thinking\" https://t.co/…",
+        "created_at": "2017-05-01 20:54:15+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859148986439041025,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "AurelieMarchal",
+                    "id": "198453534"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859148959549464577",
+        "text": "RT @ReseauOudinot: . @NetworkIrlande, partenaire de nos 12e rencontres annuelles. S'inscrire: https://t.co/FBEmx6MlZ4 #Economie #associatio…",
+        "created_at": "2017-05-01 20:54:08+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 859148959549464577,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 127,
+                    "tag": "Economie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ReseauOudinot",
+                    "id": "3091414324"
+                },
+                {
+                    "start": 21,
+                    "end": 36,
+                    "username": "NetworkIrlande",
+                    "id": "2861016526"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/FBEmx6MlZ4",
+                    "expanded_url": "https://oudinot.sonetin.com/events/2601",
+                    "display_url": "oudinot.sonetin.com/events/2601"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "859148867404779525",
+        "text": "RT @AlexandreJardin: Sur BFM, un journaliste : \"pas de suspense, on sait très bien que Macron sera Pdt dimanche soir\". Arrogance désespéran…",
+        "created_at": "2017-05-01 20:53:46+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 859148867404779525,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "AlexandreJardin",
+                    "id": "108928379"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856512036053929984",
+        "text": "RT @apcmafrance: Lassés de la vie de bureau, ils ouvrent une boulangerie dans le Cantal #choisirlartisanat via @bfmbusiness https://t.co/Nk…",
+        "created_at": "2017-04-24 14:15:57+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 856512036053929984,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 88,
+                    "end": 106,
+                    "tag": "choisirlartisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 111,
+                    "end": 123,
+                    "username": "bfmbusiness",
+                    "id": "140776364"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "856511982815653890",
+        "text": "RT @apcmafrance: Métiers de l'artisanat : quels enjeux ? via @MirabelleTV cc @bernard_stalter #CamilleLartisan https://t.co/PeN045hQZj",
+        "created_at": "2017-04-24 14:15:44+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 856511982815653890,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "856232327432867843",
+        "text": "RT @AColson_: Good luck @essec #ExecMBA for your future #negotiations!\nI was glad to share research &amp; best practices with you.\n@esseccourse…",
+        "created_at": "2017-04-23 19:44:29+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 856232327432867843,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 39,
+                    "tag": "ExecMBA"
+                },
+                {
+                    "start": 56,
+                    "end": 69,
+                    "tag": "negotiations"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "AColson_",
+                    "id": "2680346997"
+                },
+                {
+                    "start": 24,
+                    "end": 30,
+                    "username": "essec",
+                    "id": "164257019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856232117377912836",
+        "text": "RT @FR_Conversation: Pourquoi les territoires doivent s’emparer de la bioéconomie https://t.co/nGSskoYoZT",
+        "created_at": "2017-04-23 19:43:39+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 856232117377912836,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "FR_Conversation",
+                    "id": "3235780418"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/nGSskoYoZT",
+                    "expanded_url": "http://bit.ly/2p5cLva",
+                    "display_url": "bit.ly/2p5cLva"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856232072398196737",
+        "text": "RT @pascaledubouis: Jean Michel Blanquer: \"L’ESSEC Rabat sera notre porte d'entrée vers l’Afrique\" https://t.co/VyVEBlDdZp",
+        "created_at": "2017-04-23 19:43:28+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10027594424",
+                    "name": "Live: MotoGP Championship Series",
+                    "description": "Coverage of some of the best motorcycling action."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029889060",
+                    "name": "Moto GP"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049208463",
+                    "name": "Grand Prix of the Americas: Race",
+                    "description": "The MotoGP race at the Grand Prix of The Americas, round three of the season."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049264642",
+                    "name": "GP Austin, Stati Uniti"
+                }
+            }
+        ],
+        "conversation_id": 856232072398196737,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "pascaledubouis",
+                    "id": "293363663"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/VyVEBlDdZp",
+                    "expanded_url": "https://lnkd.in/dTem_qb",
+                    "display_url": "lnkd.in/dTem_qb"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856230166313521152",
+        "text": "RT @CamilleLartisan: Le prochain quinquennat devra prendre en compte l’artisanat ! #Presidentielle2017 #15MinutesPourConvaincre",
+        "created_at": "2017-04-23 19:35:54+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856230166313521152,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 102,
+                    "tag": "Presidentielle2017"
+                },
+                {
+                    "start": 103,
+                    "end": 127,
+                    "tag": "15MinutesPourConvaincre"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856230144972906496",
+        "text": "RT @CamilleLartisan: Le prochain quinquennat devra innover pour l’apprentissage avec le réseau des CMA ! #Presidentielle2017 #15MinutesPour…",
+        "created_at": "2017-04-23 19:35:49+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046719034",
+                    "name": "2016 CMA Awards"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046772218",
+                    "name": "50th Annual CMA Awards"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856230144972906496,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 124,
+                    "tag": "Presidentielle2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856230134449397760",
+        "text": "RT @CamilleLartisan: L’artisanat est indispensable au bon équilibre des territoires. Il faut préserver cet équilibre au cours du prochain m…",
+        "created_at": "2017-04-23 19:35:46+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 856230134449397760,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856230112110497794",
+        "text": "RT @apcmafrance: Interrogés par le réseau des #CMA, les principaux candidats présentent leurs mesures pour stimuler l'#apprentissage\nhttps:…",
+        "created_at": "2017-04-23 19:35:41+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046719034",
+                    "name": "2016 CMA Awards"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046772218",
+                    "name": "50th Annual CMA Awards"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856230112110497794,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 50,
+                    "tag": "CMA"
+                },
+                {
+                    "start": 118,
+                    "end": 132,
+                    "tag": "apprentissage"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "854484992856133632",
+        "text": "RT @apcmafrance: [Communiqué de presse] Élection présidentielle : l'#artisanat, une force pour les territoires #CamilleLartisan\n➡️https://t…",
+        "created_at": "2017-04-19 00:01:12+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 854484992856133632,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 78,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 111,
+                    "end": 127,
+                    "tag": "CamilleLartisan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853374291739541504",
+        "text": "RT @CamilleLartisan: #Artisanat + #Apprentissage = Alliance en or ! Aidez-nous à interpeller les candidats à la #Présidentielle pour renfor…",
+        "created_at": "2017-04-15 22:27:40+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853374291739541504,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 31,
+                    "tag": "Artisanat"
+                },
+                {
+                    "start": 34,
+                    "end": 48,
+                    "tag": "Apprentissage"
+                },
+                {
+                    "start": 112,
+                    "end": 127,
+                    "tag": "Présidentielle"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 81,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853374017897730048",
+        "text": "RT @apcmafrance: \"Les chambres de métiers et de l'artisanat ont leur propre outil de cautionnement mutuel : la Siagi\" @bernard_stalter #RSA…",
+        "created_at": "2017-04-15 22:26:35+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043142380",
+                    "name": "RSA"
+                }
+            }
+        ],
+        "conversation_id": 853374017897730048,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 118,
+                    "end": 134,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373988663373825",
+        "text": "RT @apcmafrance: \"Je ne m'imagine pas que l'on puisse déréglementer les professions #qualification\" @bernard_stalter #RSA2017",
+        "created_at": "2017-04-15 22:26:28+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373988663373825,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 98,
+                    "tag": "qualification"
+                },
+                {
+                    "start": 117,
+                    "end": 125,
+                    "tag": "RSA2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 100,
+                    "end": 116,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373955218034690",
+        "text": "RT @apcmafrance: L'ensemble des apprentis rassemblés dans l'escalier d'honneur en présence des sénateurs #RSA2017 #apprentissage https://t.…",
+        "created_at": "2017-04-15 22:26:20+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373955218034690,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 113,
+                    "tag": "RSA2017"
+                },
+                {
+                    "start": 114,
+                    "end": 128,
+                    "tag": "apprentissage"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373936347877376",
+        "text": "RT @bernard_stalter: Reçu au Sénat par Gérard Larcher pour échanger sur l'avenir de l'artisanat. #camillelartisan #artisanat #choisirlartis…",
+        "created_at": "2017-04-15 22:26:16+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373936347877376,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 113,
+                    "tag": "camillelartisan"
+                },
+                {
+                    "start": 114,
+                    "end": 124,
+                    "tag": "artisanat"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373912121520128",
+        "text": "RT @apcmafrance: [Revue de presse] \"Rencontres sénatoriales de l’#apprentissage : paroles d’apprentis passionnés\" via @publicsenat https://…",
+        "created_at": "2017-04-15 22:26:10+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373912121520128,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 79,
+                    "tag": "apprentissage"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 118,
+                    "end": 130,
+                    "username": "publicsenat",
+                    "id": "40056514"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373870895763456",
+        "text": "RT @apcmafrance: .@bernard_stalter rappelle aux candidats le rôle social et économique de l’#artisanat via @LCN_TV #CamilleLartisan https:/…",
+        "created_at": "2017-04-15 22:26:00+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373870895763456,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 102,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 115,
+                    "end": 131,
+                    "tag": "CamilleLartisan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 34,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                },
+                {
+                    "start": 107,
+                    "end": 114,
+                    "username": "LCN_TV",
+                    "id": "385907338"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853373855246815235",
+        "text": "RT @Senat: 🙍‍♂️ Hier, le #Sénat a organisé les 17e Rencontres Sénatoriales de l'#Apprentissage, en avant la #formation ! ➡️ https://t.co/eB…",
+        "created_at": "2017-04-15 22:25:56+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853373855246815235,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 25,
+                    "end": 31,
+                    "tag": "Sénat"
+                },
+                {
+                    "start": 80,
+                    "end": 94,
+                    "tag": "Apprentissage"
+                },
+                {
+                    "start": 108,
+                    "end": 118,
+                    "tag": "formation"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "Senat",
+                    "id": "155948847"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "853014137076580352",
+        "text": "RT @FrankLebel69: Présidentielle : les dérives budgétaires des programmes passées au crible https://t.co/yDLQQAxvPC via @LesEchos",
+        "created_at": "2017-04-14 22:36:33+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 853014137076580352,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "FrankLebel69",
+                    "id": "820867197736284160"
+                },
+                {
+                    "start": 120,
+                    "end": 129,
+                    "username": "LesEchos",
+                    "id": "92564226"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 92,
+                    "end": 115,
+                    "url": "https://t.co/yDLQQAxvPC",
+                    "expanded_url": "http://po.st/NhnPd9",
+                    "display_url": "po.st/NhnPd9"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "852553244689793025",
+        "text": "Rencontres sénatoriales de l'#apprentissage @bernard_stalter et 150 jeunes des #CFA du réseau @apcmafrance #RSA2017 https://t.co/IztCRb3fvt",
+        "created_at": "2017-04-13 16:05:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_852553188171542528",
+                "3_852553208803323904",
+                "3_852553225253400577",
+                "3_852553240088596480"
+            ]
+        },
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852553244689793025,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 29,
+                    "end": 43,
+                    "tag": "apprentissage"
+                },
+                {
+                    "start": 79,
+                    "end": 83,
+                    "tag": "CFA"
+                },
+                {
+                    "start": 107,
+                    "end": 115,
+                    "tag": "RSA2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 60,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/IztCRb3fvt",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/852553244689793025/photo/1",
+                    "display_url": "pic.twitter.com/IztCRb3fvt",
+                    "media_key": "3_852553188171542528"
+                },
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/IztCRb3fvt",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/852553244689793025/photo/1",
+                    "display_url": "pic.twitter.com/IztCRb3fvt",
+                    "media_key": "3_852553208803323904"
+                },
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/IztCRb3fvt",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/852553244689793025/photo/1",
+                    "display_url": "pic.twitter.com/IztCRb3fvt",
+                    "media_key": "3_852553225253400577"
+                },
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/IztCRb3fvt",
+                    "expanded_url": "https://twitter.com/JRSergent_PRO/status/852553244689793025/photo/1",
+                    "display_url": "pic.twitter.com/IztCRb3fvt",
+                    "media_key": "3_852553240088596480"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852552263327514624",
+        "text": "RT @apcmafrance: \"C'est le rôle des chambres de métiers : tout est mis en œuvre pour trouver une entreprise aux jeunes\" @bernard_stalter #R…",
+        "created_at": "2017-04-13 16:01:13+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852552263327514624,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 120,
+                    "end": 136,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852552249675063296",
+        "text": "RT @apcmafrance: \"On ne peut pas rester dans cette situation encore pendant 30 ans, une évolution est nécessaire\" @bernard_stalter #RSA2017",
+        "created_at": "2017-04-13 16:01:10+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852552249675063296,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 131,
+                    "end": 139,
+                    "tag": "RSA2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 114,
+                    "end": 130,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852552208117878785",
+        "text": "RT @apcmafrance: 150 apprentis du réseau des CMA sont réunis au Palais du Luxembourg. Au programme : visite du Sénat et échanges avec les s…",
+        "created_at": "2017-04-13 16:01:00+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046719034",
+                    "name": "2016 CMA Awards"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046772218",
+                    "name": "50th Annual CMA Awards"
+                }
+            }
+        ],
+        "conversation_id": 852552208117878785,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852471662972981248",
+        "text": "https://t.co/ddtBWxdUgJ",
+        "created_at": "2017-04-13 10:40:57+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852471662972981248,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/ddtBWxdUgJ",
+                    "expanded_url": "https://lnkd.in/dKA-bGA",
+                    "display_url": "lnkd.in/dKA-bGA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "LinkedIn",
+        "withheld": null
+    },
+    {
+        "id": "852125699460780033",
+        "text": "RT @bernard_stalter: #camillelartisan c'est 21 propositions pour l'artisanat! Débat sur la n° 13: Apprentissage 3.0 à Rouen chez INEDIT Joa…",
+        "created_at": "2017-04-12 11:46:13+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852125699460780033,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 37,
+                    "tag": "camillelartisan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852125539456438272",
+        "text": "RT @LaTribune: [Interview] \"Aucun des candidats ne parle de l'apprentissage !\" @bernard_stalter https://t.co/b6JVGO5QdU par @fpiliu",
+        "created_at": "2017-04-12 11:45:34+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852125539456438272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "LaTribune",
+                    "id": "137253079"
+                },
+                {
+                    "start": 79,
+                    "end": 95,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                },
+                {
+                    "start": 124,
+                    "end": 131,
+                    "username": "fpiliu",
+                    "id": "972126517"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/b6JVGO5QdU",
+                    "expanded_url": "http://ow.ly/aRl630aLyi1",
+                    "display_url": "ow.ly/aRl630aLyi1"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852125519340503041",
+        "text": "RT @apcmafrance: #Rouen visite de la boulangerie  Cressent pour valoriser l'apprentissage #artisanat #camillelartisan @Artisanat76 https://…",
+        "created_at": "2017-04-12 11:45:30+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852125519340503041,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 23,
+                    "tag": "Rouen"
+                },
+                {
+                    "start": 90,
+                    "end": 100,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 101,
+                    "end": 117,
+                    "tag": "camillelartisan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    },
+    {
+        "id": "852125503507095554",
+        "text": "RT @apcmafrance: @bernard_stalter à #Rouen sur le plateau de @paris_normandie pour parler de l'apprentissage et de @CamilleLartisan https:/…",
+        "created_at": "2017-04-12 11:45:26+00:00",
+        "attachments": null,
+        "author_id": 3171514846,
+        "context_annotations": [],
+        "conversation_id": 852125503507095554,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 42,
+                    "tag": "Rouen"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 33,
+                    "username": "bernard_stalter",
+                    "id": "4834372017"
+                },
+                {
+                    "start": 61,
+                    "end": 77,
+                    "username": "paris_normandie",
+                    "id": "17777823"
+                },
+                {
+                    "start": 115,
+                    "end": 131,
+                    "username": "CamilleLartisan",
+                    "id": "845614873946017794"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry",
+        "withheld": null
+    }
+]

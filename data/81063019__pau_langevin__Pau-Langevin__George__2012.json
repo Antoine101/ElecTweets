@@ -16,6 +16,13 @@
                     "id": "599975384"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 132,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 101,
@@ -23,13 +30,6 @@
                     "url": "http://t.co/J9x7x0fh",
                     "expanded_url": "http://georgepaulangevin2012.fr/un-tres-beau-meeting-pour-la-15e-circonscription-en-ce-5-juin/",
                     "display_url": "georgepaulangevin2012.fr/un-tres-beau-m…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 122,
-                    "end": 132,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -68,16 +68,6 @@
                     "id": "2557913358"
                 }
             ],
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 133,
-                    "url": "http://t.co/06DpMcxm",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/210427112157483008/photo/1",
-                    "display_url": "pic.twitter.com/06DpMcxm",
-                    "media_key": "3_210427112165871617"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 96,
@@ -88,6 +78,16 @@
                     "start": 102,
                     "end": 112,
                     "tag": "circo7513"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 133,
+                    "url": "http://t.co/06DpMcxm",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/210427112157483008/photo/1",
+                    "display_url": "pic.twitter.com/06DpMcxm",
+                    "media_key": "3_210427112165871617"
                 }
             ]
         },
@@ -122,6 +122,13 @@
                     "id": "599975384"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 134,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 103,
@@ -129,13 +136,6 @@
                     "url": "http://t.co/JH1GAAHd",
                     "expanded_url": "http://georgepaulangevin2012.fr/le-20e-bouillonne-de-culture/",
                     "display_url": "georgepaulangevin2012.fr/le-20e-bouillo…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 124,
-                    "end": 134,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -351,16 +351,6 @@
                     "id": "599975384"
                 }
             ],
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 133,
-                    "url": "http://t.co/0i1Hz4Iw",
-                    "expanded_url": "https://twitter.com/ps20eme/status/210055069486428161/photo/1",
-                    "display_url": "pic.twitter.com/0i1Hz4Iw",
-                    "media_key": "3_210055069494816768"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 93,
@@ -371,6 +361,16 @@
                     "start": 104,
                     "end": 112,
                     "tag": "GPL2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 133,
+                    "url": "http://t.co/0i1Hz4Iw",
+                    "expanded_url": "https://twitter.com/ps20eme/status/210055069486428161/photo/1",
+                    "display_url": "pic.twitter.com/0i1Hz4Iw",
+                    "media_key": "3_210055069494816768"
                 }
             ]
         },
@@ -458,6 +458,13 @@
                     "id": "599975384"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 130,
+                    "end": 140,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 109,
@@ -465,13 +472,6 @@
                     "url": "http://t.co/7QpJeOEt",
                     "expanded_url": "http://georgepaulangevin2012.fr/595/",
                     "display_url": "georgepaulangevin2012.fr/595/"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 130,
-                    "end": 140,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -512,15 +512,6 @@
                     "id": "27797493"
                 }
             ],
-            "urls": [
-                {
-                    "start": 21,
-                    "end": 41,
-                    "url": "http://t.co/EoK78Hyv",
-                    "expanded_url": "http://minilien.fr/a0n5fx",
-                    "display_url": "minilien.fr/a0n5fx"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 42,
@@ -541,6 +532,15 @@
                     "start": 113,
                     "end": 118,
                     "tag": "PEAV"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 41,
+                    "url": "http://t.co/EoK78Hyv",
+                    "expanded_url": "http://minilien.fr/a0n5fx",
+                    "display_url": "minilien.fr/a0n5fx"
                 }
             ]
         },
@@ -567,15 +567,6 @@
         "context_annotations": [],
         "conversation_id": 209613054810390528,
         "entities": {
-            "urls": [
-                {
-                    "start": 47,
-                    "end": 67,
-                    "url": "http://t.co/7QpJeOEt",
-                    "expanded_url": "http://georgepaulangevin2012.fr/595/",
-                    "display_url": "georgepaulangevin2012.fr/595/"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 68,
@@ -586,6 +577,15 @@
                     "start": 79,
                     "end": 90,
                     "tag": "changement"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 47,
+                    "end": 67,
+                    "url": "http://t.co/7QpJeOEt",
+                    "expanded_url": "http://georgepaulangevin2012.fr/595/",
+                    "display_url": "georgepaulangevin2012.fr/595/"
                 }
             ]
         },
@@ -921,6 +921,13 @@
                     "id": "285008558"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 73,
@@ -929,13 +936,6 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/208261296913780736/photo/1",
                     "display_url": "pic.twitter.com/dAVCoMaz",
                     "media_key": "3_208261296917975043"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 62,
-                    "end": 72,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -1057,6 +1057,13 @@
                     "id": "285008558"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 122,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 91,
@@ -1064,13 +1071,6 @@
                     "url": "http://t.co/k4M1P4IA",
                     "expanded_url": "http://georgepaulangevin2012.fr/cafe-politique-les-services-publics-cest-maintenant/",
                     "display_url": "georgepaulangevin2012.fr/cafe-politique…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 112,
-                    "end": 122,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -1221,6 +1221,13 @@
                     "id": "81063019"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 111,
+                    "tag": "FCPE"
+                }
+            ],
             "urls": [
                 {
                     "start": 112,
@@ -1229,13 +1236,6 @@
                     "expanded_url": "https://twitter.com/MChantecaille/status/207035320561172480/photo/1",
                     "display_url": "pic.twitter.com/fwF9Pdvr",
                     "media_key": "3_207035320569561088"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 106,
-                    "end": 111,
-                    "tag": "FCPE"
                 }
             ]
         },
@@ -1326,6 +1326,13 @@
         "context_annotations": [],
         "conversation_id": 205962288157569024,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 129,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 98,
@@ -1333,13 +1340,6 @@
                     "url": "http://t.co/bdFkwLNL",
                     "expanded_url": "http://georgepaulangevin2012.fr/egalite-femmes-hommes-tristes-realites-qui-appellent-le-changement-par-sylvie/",
                     "display_url": "georgepaulangevin2012.fr/egalite-femmes…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 119,
-                    "end": 129,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -1462,15 +1462,6 @@
                     "id": "81063019"
                 }
             ],
-            "urls": [
-                {
-                    "start": 88,
-                    "end": 108,
-                    "url": "http://t.co/JyRDVT7y",
-                    "expanded_url": "http://www.flickr.com/photos/ps_20/sets/72157629844564846/",
-                    "display_url": "flickr.com/photos/ps_20/s…"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 109,
@@ -1481,6 +1472,15 @@
                     "start": 118,
                     "end": 128,
                     "tag": "circo7515"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 108,
+                    "url": "http://t.co/JyRDVT7y",
+                    "expanded_url": "http://www.flickr.com/photos/ps_20/sets/72157629844564846/",
+                    "display_url": "flickr.com/photos/ps_20/s…"
                 }
             ]
         },
@@ -1669,16 +1669,6 @@
         "context_annotations": [],
         "conversation_id": 205355258237550592,
         "entities": {
-            "urls": [
-                {
-                    "start": 80,
-                    "end": 100,
-                    "url": "http://t.co/KCjQJcWe",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/205355258237550592/photo/1",
-                    "display_url": "pic.twitter.com/KCjQJcWe",
-                    "media_key": "3_205355258241744896"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 60,
@@ -1689,6 +1679,16 @@
                     "start": 71,
                     "end": 79,
                     "tag": "GPL2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 100,
+                    "url": "http://t.co/KCjQJcWe",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/205355258237550592/photo/1",
+                    "display_url": "pic.twitter.com/KCjQJcWe",
+                    "media_key": "3_205355258241744896"
                 }
             ]
         },
@@ -1715,6 +1715,13 @@
         "context_annotations": [],
         "conversation_id": 205336135201849344,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 126,
+                    "end": 136,
+                    "tag": "circo7515"
+                }
+            ],
             "urls": [
                 {
                     "start": 105,
@@ -1722,13 +1729,6 @@
                     "url": "http://t.co/xgyOFuYN",
                     "expanded_url": "http://georgepaulangevin2012.fr/cafe-politique-legalite-femmes-hommes-cest-maintenant/",
                     "display_url": "georgepaulangevin2012.fr/cafe-politique…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 126,
-                    "end": 136,
-                    "tag": "circo7515"
                 }
             ]
         },
@@ -2040,6 +2040,13 @@
                     "id": "81063019"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 89,
+                    "tag": "majoritéauchangement"
+                }
+            ],
             "urls": [
                 {
                     "start": 90,
@@ -2048,13 +2055,6 @@
                     "expanded_url": "https://twitter.com/ps20eme/status/203803762966528000/photo/1",
                     "display_url": "pic.twitter.com/FrgKd6tF",
                     "media_key": "3_203803762970722304"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 68,
-                    "end": 89,
-                    "tag": "majoritéauchangement"
                 }
             ]
         },
@@ -2381,6 +2381,3180 @@
         },
         "reply_settings": "everyone",
         "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "199429162690293760",
+        "text": "@nazir_paris et vous aviez raison. Merci !",
+        "created_at": "2012-05-07 09:23:12+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198713026998837248,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 299860840,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198686731728453633",
+        "text": "@askolovitchC vivement dimanche soir!",
+        "created_at": "2012-05-05 08:13:02+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198644459423019008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "askolovitchC",
+                    "id": "22276825"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 22276825,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "198411358235136000",
+        "text": "@jo_delb oui, j'y suis.",
+        "created_at": "2012-05-04 13:58:48+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198402294914629632,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "jo_delb",
+                    "id": "19062473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 19062473,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198410656259637248",
+        "text": "@TulioLouis_C Merci",
+        "created_at": "2012-05-04 13:56:01+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198388585978802176,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 302825930,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198401087257055232",
+        "text": "Hier j'ai fait campagne avec @Mokobe113 dans le 20e. http://t.co/mobt1kBt",
+        "created_at": "2012-05-04 13:17:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198401087257055232,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 29,
+                    "end": 39,
+                    "username": "Mokobe113",
+                    "id": "60517213"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 73,
+                    "url": "http://t.co/mobt1kBt",
+                    "expanded_url": "http://georgepaulangevin2012.fr/mokobe-pour-francois-hollande-dans-le-20e/",
+                    "display_url": "georgepaulangevin2012.fr/mokobe-pour-fr…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198377651214364673",
+        "text": "#FF back @GillesBonMaury et merci pour le soutien",
+        "created_at": "2012-05-04 11:44:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198358135130439681,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 24,
+                    "username": "GillesBonMaury",
+                    "id": "63129037"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "tag": "FF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 63129037,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198377509669179392",
+        "text": "#FF back @matthieuvittu et merci",
+        "created_at": "2012-05-04 11:44:18+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198353469952901120,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 23,
+                    "username": "MatthieuVittu",
+                    "id": "1317049755109888000"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "tag": "FF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14677669,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198344340685324288",
+        "text": "@oinkmeup merci bcp",
+        "created_at": "2012-05-04 09:32:30+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198063162547904512,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 44886743,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "198341864666054656",
+        "text": "@Armelle_C merci de ton soutien",
+        "created_at": "2012-05-04 09:22:40+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198337128084684800,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "armelle_c",
+                    "id": "1332329086753136645"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21774558,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198341760592785409",
+        "text": "RT @BalasGuillaume: pas mieux “@J_Cahuzac: un #FF et mon soutien à @Pau_Langevin et à la section du PS du 20e à Paris dont les locaux on ...",
+        "created_at": "2012-05-04 09:22:15+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198341760592785409,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "BalasGuillaume",
+                    "id": "199700276"
+                },
+                {
+                    "start": 31,
+                    "end": 41,
+                    "username": "J_Cahuzac",
+                    "id": "814196479220940802"
+                },
+                {
+                    "start": 67,
+                    "end": 80,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 49,
+                    "tag": "FF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198341625209036800",
+        "text": "@AdelineHazan merci de ton soutien",
+        "created_at": "2012-05-04 09:21:43+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198340804824150017,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "AdelineHazan",
+                    "id": "1368633087677108224"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 78845732,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198341518552076288",
+        "text": "Mes remerciements à tous ceux qui nous apportent leur soutien. Malgré les épreuves, mobilisés pour @fhollande http://t.co/hEz74uZY",
+        "created_at": "2012-05-04 09:21:17+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198341518552076288,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 109,
+                    "username": "fhollande",
+                    "id": "18814998"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 130,
+                    "url": "http://t.co/hEz74uZY",
+                    "expanded_url": "http://georgepaulangevin2012.fr/remerciements-aux-soutiens-suite-aux-actes-de-vandalisme-contre-la-permanence-et-le-local-de-section/",
+                    "display_url": "georgepaulangevin2012.fr/remerciements-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198333892971859970",
+        "text": "#FF back @J_Cahuzac et @BalasGuillaume, merci pour le soutien",
+        "created_at": "2012-05-04 08:50:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198332533274972160,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 19,
+                    "username": "J_Cahuzac",
+                    "id": "814196479220940802"
+                },
+                {
+                    "start": 23,
+                    "end": 38,
+                    "username": "BalasGuillaume",
+                    "id": "199700276"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "tag": "FF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 430755090,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198331722994159616",
+        "text": "@mutimali Merci",
+        "created_at": "2012-05-04 08:42:22+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198331552189530112,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "mutimali",
+                    "id": "1284682611399393281"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 306773001,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198331163142651904",
+        "text": "@didierannette Merci du soutien",
+        "created_at": "2012-05-04 08:40:08+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198138283220414464,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "didierannette",
+                    "id": "41988934"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41988934,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198331125033209856",
+        "text": "@CsaireCharlenry Merci du soutien",
+        "created_at": "2012-05-04 08:39:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198136562016456704,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "CsaireCharlenry",
+                    "id": "450160249"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 450160249,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198331060327686144",
+        "text": "#FF back et merci du soutien @claireedey",
+        "created_at": "2012-05-04 08:39:44+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198285475545493504,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 29,
+                    "end": 40,
+                    "username": "claireedey",
+                    "id": "15188765"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "tag": "FF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15188765,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198329214951366656",
+        "text": "Mercredi dernier @jeanmarcayrault est venu faire campagne avec moi dans le 20e pour #FH2012. http://t.co/8fHokfGJ",
+        "created_at": "2012-05-04 08:32:24+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198329214951366656,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 33,
+                    "username": "jeanmarcayrault",
+                    "id": "28332028"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 91,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 93,
+                    "end": 113,
+                    "url": "http://t.co/8fHokfGJ",
+                    "expanded_url": "http://georgepaulangevin2012.fr/jean-marc-ayrault-fait-la-campagne-dans-le-20e/",
+                    "display_url": "georgepaulangevin2012.fr/jean-marc-ayra…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198063863898456064",
+        "text": "@oinkmeup merci",
+        "created_at": "2012-05-03 14:57:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198063162547904512,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 44886743,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198062431245840384",
+        "text": "RT @cl_lazarus: Les dégradations perpétrées contre la permanence de @Pau_Langevin &amp; le local de section du #PS20 sont inqualifiables ...",
+        "created_at": "2012-05-03 14:52:18+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198062431245840384,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 68,
+                    "end": 81,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 116,
+                    "tag": "PS20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198062390154231809",
+        "text": "RT @PSParis3: Solidarité @ps20eme et @Pau_Langevin : facades de la permanence de G. Pau-Langevin et section du 20e vandalisées http://t. ...",
+        "created_at": "2012-05-03 14:52:08+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198062390154231809,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "PSParis3",
+                    "id": "491119434"
+                },
+                {
+                    "start": 25,
+                    "end": 33,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 37,
+                    "end": 50,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198056856629940224",
+        "text": "@jubbal28 @patriciaahanda Le communiqué que j'ai diffusé avec le @ps20eme : http://t.co/ZMpLpEjF",
+        "created_at": "2012-05-03 14:30:08+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198056168260763648,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "jubbal28",
+                    "id": "457364044"
+                },
+                {
+                    "start": 10,
+                    "end": 25,
+                    "username": "patriciaahanda",
+                    "id": "120249311"
+                },
+                {
+                    "start": 65,
+                    "end": 73,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 96,
+                    "url": "http://t.co/ZMpLpEjF",
+                    "expanded_url": "http://georgepaulangevin2012.fr/communique-vandalisation-de-la-permanence-de-george-pau-langevin-et-du-local-de-la-section-du-20e-arrondissement/",
+                    "display_url": "georgepaulangevin2012.fr/communique-van…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 457364044,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198054564501528577",
+        "text": "RT @patriciaahanda: On condamne tous le saccage des locaux du @Ps20eme ! Soutien aux Camarades et @Pau_Langevin #Solidaire",
+        "created_at": "2012-05-03 14:21:02+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198054564501528577,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "patriciaahanda",
+                    "id": "120249311"
+                },
+                {
+                    "start": 62,
+                    "end": 70,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 98,
+                    "end": 111,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 122,
+                    "tag": "Solidaire"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198053989412126720",
+        "text": "@CharHubPochet merci",
+        "created_at": "2012-05-03 14:18:45+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198050629179019264,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 561261258,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198048907866017793",
+        "text": "RT @Dhoffmanrispal: les locaux de @Pau_Langevin et du @ps20eme vandalisés : j'exprime évidemment à George et aux camarades du xxeme ma p ...",
+        "created_at": "2012-05-03 13:58:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198048907866017793,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Dhoffmanrispal",
+                    "id": "414671299"
+                },
+                {
+                    "start": 34,
+                    "end": 47,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 54,
+                    "end": 62,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198043565962694659",
+        "text": "@SColoneaux merci",
+        "created_at": "2012-05-03 13:37:20+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198042351556493312,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "SColoneaux",
+                    "id": "510406399"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 510406399,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198043536174755840",
+        "text": "@laurent_poulain merci",
+        "created_at": "2012-05-03 13:37:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198042661855309824,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "laurent_poulain",
+                    "id": "528440400"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 528440400,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198041906041720832",
+        "text": "RT @tbenoist: Communiqué : Vandalisation de la permanence de @Pau_Langevin et du local de section de @ps20eme - http://t.co/zoL4DiPm cc  ...",
+        "created_at": "2012-05-03 13:30:44+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198041906041720832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "tbenoist",
+                    "id": "16149553"
+                },
+                {
+                    "start": 61,
+                    "end": 74,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 101,
+                    "end": 109,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 132,
+                    "url": "http://t.co/zoL4DiPm",
+                    "expanded_url": "http://www.ps20eme.fr/wp/communique-vandalisation-de-la-permanence-de-george-pau-langevin-et-du-local-de-section/",
+                    "display_url": "ps20eme.fr/wp/communique-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198041887037341698",
+        "text": "RT @maopeninou: Solidaire de @Pau_Langevin dont la permanence de campagne dans le 20e a été scandaleusement vandalisée cette nuit !",
+        "created_at": "2012-05-03 13:30:39+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198041887037341698,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "maopeninou",
+                    "id": "85560978"
+                },
+                {
+                    "start": 29,
+                    "end": 42,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198041860743237632",
+        "text": "@BenoitPeningue Merci",
+        "created_at": "2012-05-03 13:30:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198035642909855745,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 332406821,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198041223414558720",
+        "text": "RT @BeatricePerie: Soutien avec @Pau_Langevin dont la permanence a été vandalisée cette nuit ! #FH2012",
+        "created_at": "2012-05-03 13:28:01+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198041223414558720,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "BeatricePerie",
+                    "id": "567070813"
+                },
+                {
+                    "start": 32,
+                    "end": 45,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 102,
+                    "tag": "FH2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198041149053743105",
+        "text": "RT @PKOMITES: Solidarité avec @Pau_Langevin dont on a vandalise  la permanence de campagne cette nuit dans le 20e arr.",
+        "created_at": "2012-05-03 13:27:44+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198041149053743105,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "PKOMITES",
+                    "id": "24503047"
+                },
+                {
+                    "start": 30,
+                    "end": 43,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198036653539991552",
+        "text": "RT @S_Mazetier: La permanence de ma collègue #GeorgePauLangevin vandalisée cette nuit. Scandaleux",
+        "created_at": "2012-05-03 13:09:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198036653539991552,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "S_Mazetier",
+                    "id": "98405344"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 45,
+                    "end": 63,
+                    "tag": "GeorgePauLangevin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198030868562976768",
+        "text": "RT @ps20eme: Communiqué : Vandalisation de la permanence de @Pau_Langevin et du local de section du PS 20ème http://t.co/jWeW54lP",
+        "created_at": "2012-05-03 12:46:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198030868562976768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 60,
+                    "end": 73,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 129,
+                    "url": "http://t.co/jWeW54lP",
+                    "expanded_url": "http://www.ps20eme.fr/wp/communique-vandalisation-de-la-permanence-de-george-pau-langevin-et-du-local-de-section/",
+                    "display_url": "ps20eme.fr/wp/communique-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198030823226744832",
+        "text": "RT @Ianonim: #resistance RT @ps20eme: Communiqué : Vandalisation de la permanence de @Pau_Langevin et du local de section du PS 20è http ...",
+        "created_at": "2012-05-03 12:46:42+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198030823226744832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "ianonim",
+                    "id": "74465339"
+                },
+                {
+                    "start": 28,
+                    "end": 36,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                },
+                {
+                    "start": 85,
+                    "end": 98,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 24,
+                    "tag": "resistance"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "198028600304340993",
+        "text": "Communique suite a la vandalisation de ma permanence et du local de la section du 20e. Ces actes ne sont pas... http://t.co/hkrO66am",
+        "created_at": "2012-05-03 12:37:52+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198028600304340993,
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 132,
+                    "url": "http://t.co/hkrO66am",
+                    "expanded_url": "http://fb.me/15w2NubPG",
+                    "display_url": "fb.me/15w2NubPG"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "198002309207293952",
+        "text": "Quelques photos de mon intervention pour François Hollande devant la FEDIF. #FH2012 http://t.co/G0bDznnr",
+        "created_at": "2012-05-03 10:53:23+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 198002309207293952,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 83,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 104,
+                    "url": "http://t.co/G0bDznnr",
+                    "expanded_url": "http://fb.me/1vVkH20uq",
+                    "display_url": "fb.me/1vVkH20uq"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "197824374529732608",
+        "text": "@humourdedroite c est qui l adjoint? Sarkozy?",
+        "created_at": "2012-05-02 23:06:20+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197820071157043201,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "humourdedroite",
+                    "id": "52331565"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52331565,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "197823792238702592",
+        "text": "Hollande a dominé le débat! Serein, courtois , rectifiant les erreurs de Sarkozy, déroulant  son programme.Nous sommes rassurés. !.",
+        "created_at": "2012-05-02 23:04:02+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197823792238702592,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "197703597427933184",
+        "text": "Je serai ce soir dans l’émission le Grand Débat sur africa1 à partir de 19h. #FH2012 http://t.co/io0ePfPs",
+        "created_at": "2012-05-02 15:06:25+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197703597427933184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 77,
+                    "end": 84,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 105,
+                    "url": "http://t.co/io0ePfPs",
+                    "expanded_url": "http://fb.me/1isUne8IW",
+                    "display_url": "fb.me/1isUne8IW"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "197629571359715328",
+        "text": "RT @droitsdesfemmes: La députée de Paris @Pau_Langevin soutient l'appel des féministes pour @fhollande http://t.co/YPHJ92YH #droitsdesfemmes",
+        "created_at": "2012-05-02 10:12:16+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197629571359715328,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "droitsdesfemmes",
+                    "id": "38688989"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 92,
+                    "end": 102,
+                    "username": "fhollande",
+                    "id": "18814998"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 140,
+                    "tag": "droitsdesfemmes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 123,
+                    "url": "http://t.co/YPHJ92YH",
+                    "expanded_url": "http://www.dailymotion.com/video/xqi2bn_george-pau-langevin-soutient-l-appel-des-feministes_news",
+                    "display_url": "dailymotion.com/video/xqi2bn_g…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "197627479572234243",
+        "text": "La vidéo de soutien de George Pau-Langevin à l'appel \"Les droits des femmes passent par la gauche\". #FH2012 http://t.co/6X7JRtna",
+        "created_at": "2012-05-02 10:03:57+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197627479572234243,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 107,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 128,
+                    "url": "http://t.co/6X7JRtna",
+                    "expanded_url": "http://fb.me/1OAFhe8P9",
+                    "display_url": "fb.me/1OAFhe8P9"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "197616721232793600",
+        "text": "Je rencontre les habitants du 20ème au marche Belgrand avec @jeanmarcayrault #LCCM http://t.co/ShuFzS3v",
+        "created_at": "2012-05-02 09:21:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_197616721241182208"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 197616721232793600,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 60,
+                    "end": 76,
+                    "username": "jeanmarcayrault",
+                    "id": "28332028"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 77,
+                    "end": 82,
+                    "tag": "LCCM"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 103,
+                    "url": "http://t.co/ShuFzS3v",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/197616721232793600/photo/1",
+                    "display_url": "pic.twitter.com/ShuFzS3v",
+                    "media_key": "3_197616721241182208"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "196710639517966336",
+        "text": "@victimesdutabac pour avoir fréquenté récemment des jeunes femmes enceintes je les trouve plutot raisonnables.",
+        "created_at": "2012-04-29 21:20:45+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193331294816583681,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "victimesdutabac",
+                    "id": "500042164"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 500042164,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "196710072016052224",
+        "text": "@LouisLazare permis de conduire:je l ai depuis des lustres!",
+        "created_at": "2012-04-29 21:18:30+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 195832174749036545,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "LouisLazare",
+                    "id": "69931669"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 69931669,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "196496346964959233",
+        "text": "Ce matin j assiste à l émission de Jean Marc Ayrault à Europe puis cérémonies sur la déportation dans le 20e. Puis meeting à Bercy!",
+        "created_at": "2012-04-29 07:09:14+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 196496346964959233,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "195908368425156609",
+        "text": "J'ai signé l'appel \"Les droits des femmes passent par la gauche\". Je vous invite fortement à m'imiter. #FH2012 http://t.co/YieWQ9vo",
+        "created_at": "2012-04-27 16:12:49+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 195908368425156609,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 110,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 131,
+                    "url": "http://t.co/YieWQ9vo",
+                    "expanded_url": "http://fb.me/1Bc9Wv2R9",
+                    "display_url": "fb.me/1Bc9Wv2R9"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "195828615018070016",
+        "text": "Triste après midi. On enterre l enfant tué par un chauffard dans le 20e. Comprendront ils  que permis de conduire n est pas permis de tuer?",
+        "created_at": "2012-04-27 10:55:54+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 195828615018070016,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "195550319013412864",
+        "text": "RT @ClementBerndeB: Pied d'immeuble Rue Piat avec George @Pau_Langevin #hollande2012 @MJSParis1920 @ps20eme http://t.co/NPN83HRX",
+        "created_at": "2012-04-26 16:30:03+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 195550319013412864,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 57,
+                    "end": 70,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 85,
+                    "end": 98,
+                    "username": "MJSParis1920",
+                    "id": "414775946"
+                },
+                {
+                    "start": 99,
+                    "end": 107,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 71,
+                    "end": 84,
+                    "tag": "hollande2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 128,
+                    "url": "http://t.co/NPN83HRX",
+                    "expanded_url": "http://yfrog.com/nuop0tcj",
+                    "display_url": "yfrog.com/nuop0tcj"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "195149705431351296",
+        "text": "La lettre de George Pau-Langevin aux électeurs du 20e pour la victoire de François Hollande le 6 mai. #FH2012 http://t.co/IJFTveaD",
+        "created_at": "2012-04-25 13:58:10+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 195149705431351296,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 130,
+                    "url": "http://t.co/IJFTveaD",
+                    "expanded_url": "http://fb.me/1SXaSZGu6",
+                    "display_url": "fb.me/1SXaSZGu6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "194712158586679296",
+        "text": "Avec Bertrand Delanoë en campagne pour François Hollande dans le 20eme. #FH2012 http://t.co/XCzMoym4",
+        "created_at": "2012-04-24 08:59:30+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 194712158586679296,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 79,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 100,
+                    "url": "http://t.co/XCzMoym4",
+                    "expanded_url": "http://fb.me/1VdyLu1H2",
+                    "display_url": "fb.me/1VdyLu1H2"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "193424588426838016",
+        "text": "http://t.co/VP7HHR5d http://t.co/F6cOYNzk",
+        "created_at": "2012-04-20 19:43:10+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193424588426838016,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 20,
+                    "url": "http://t.co/VP7HHR5d",
+                    "expanded_url": "http://www.dailymotion.com/video/k3Sm4DIFVj2kuJ2Z4ii",
+                    "display_url": "dailymotion.com/video/k3Sm4DIF…"
+                },
+                {
+                    "start": 21,
+                    "end": 41,
+                    "url": "http://t.co/F6cOYNzk",
+                    "expanded_url": "http://fb.me/1C4u0CQz4",
+                    "display_url": "fb.me/1C4u0CQz4"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "193280924048310273",
+        "text": "Pour savoir ce qui changera pour vous si François Hollande gagne. #FH2012 http://t.co/31JjRUvI",
+        "created_at": "2012-04-20 10:12:17+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193280924048310273,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 73,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 94,
+                    "url": "http://t.co/31JjRUvI",
+                    "expanded_url": "http://fb.me/1ytutZ4S6",
+                    "display_url": "fb.me/1ytutZ4S6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "193274446327447552",
+        "text": "@poulepondeuse un peu en retard mais pour info le prog. sante de #FH2012 est ici : http://t.co/6pY8TL9D avec la remise en cause de la T2A",
+        "created_at": "2012-04-20 09:46:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193274446327447552,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "poulepondeuse",
+                    "id": "115093852"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 72,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 103,
+                    "url": "http://t.co/6pY8TL9D",
+                    "expanded_url": "http://francoishollande.fr/dossiers/sante-deserts-medicaux-franchises-medicaments/",
+                    "display_url": "francoishollande.fr/dossiers/sante…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 115093852,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "193051861593501697",
+        "text": "@Menilmuche. ça c est exact,le Barreau semble parfois un moyen de vendre son carnet d adresse alors que c est qd meme un vrai métier",
+        "created_at": "2012-04-19 19:02:05+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193048283109789696,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Menilmuche",
+                    "id": "27797493"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27797493,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for BlackBerry®",
+        "withheld": null
+    },
+    {
+        "id": "193021979794735104",
+        "text": "[Vidéo] Claude Vamur, ancien batteur de Kassav' soutient François Hollande. #FH2012 http://t.co/iiTM01g1",
+        "created_at": "2012-04-19 17:03:20+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193021979794735104,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 83,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 104,
+                    "url": "http://t.co/iiTM01g1",
+                    "expanded_url": "http://fb.me/CRONMwY3",
+                    "display_url": "fb.me/CRONMwY3"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "193019676245241856",
+        "text": "RT @ClementBerndeB: à Python avec George @Pau_Langevin à la rencontre des jeunes #hollande2012 @MJSParis1920 @ps20eme http://t.co/r6g31deQ",
+        "created_at": "2012-04-19 16:54:11+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 193019676245241856,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "ClementBerndeB",
+                    "id": "111377329"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 95,
+                    "end": 108,
+                    "username": "MJSParis1920",
+                    "id": "414775946"
+                },
+                {
+                    "start": 109,
+                    "end": 117,
+                    "username": "ps20eme",
+                    "id": "111249395"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 81,
+                    "end": 94,
+                    "tag": "hollande2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 138,
+                    "url": "http://t.co/r6g31deQ",
+                    "expanded_url": "http://yfrog.com/hsbvxrej",
+                    "display_url": "yfrog.com/hsbvxrej"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "192945408006307841",
+        "text": "@MereBordel rencontre très enrichissante, à renouveler. Par contre, pour info, le compte de #GPL est @Pau_Langevin Merci, à bientôt.",
+        "created_at": "2012-04-19 11:59:04+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192945408006307841,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "MereBordel",
+                    "id": "162381592"
+                },
+                {
+                    "start": 101,
+                    "end": 114,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 96,
+                    "tag": "GPL"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 162381592,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "192943100673523714",
+        "text": "RT @AngeleLouviers: Réunion chaleureuse sur ls engagemts de @fhollande pr les outre mer en hexagone avec @Pau_langevin @Fier_gwada #FH20 ...",
+        "created_at": "2012-04-19 11:49:54+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192943100673523714,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "AngeleLouviers",
+                    "id": "364253343"
+                },
+                {
+                    "start": 60,
+                    "end": 70,
+                    "username": "fhollande",
+                    "id": "18814998"
+                },
+                {
+                    "start": 105,
+                    "end": 118,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                },
+                {
+                    "start": 119,
+                    "end": 130,
+                    "username": "Fier_gwada",
+                    "id": "497802196"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "192916505376206848",
+        "text": "Retour en photo sur la balade militante de vendredi dernier. #FH2012 http://t.co/ayW4gppY",
+        "created_at": "2012-04-19 10:04:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192916505376206848,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 68,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 89,
+                    "url": "http://t.co/ayW4gppY",
+                    "expanded_url": "http://fb.me/NcymuM01",
+                    "display_url": "fb.me/NcymuM01"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "192568307562463233",
+        "text": "[Video] Factor, producteur de musique (Rap, Hip-Hop ...) du 20e appelle à voter François Hollande et ce dès... http://t.co/lJNi8aa6",
+        "created_at": "2012-04-18 11:00:36+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192568307562463233,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 131,
+                    "url": "http://t.co/lJNi8aa6",
+                    "expanded_url": "http://fb.me/HAZPucO2",
+                    "display_url": "fb.me/HAZPucO2"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "192567290804453376",
+        "text": "Aujourd'hui en fin d’après-midi, George Pau-Langevin  participera à la caravane du Changement des jeunes... http://t.co/YzFHM3l2",
+        "created_at": "2012-04-18 10:56:34+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192567290804453376,
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 128,
+                    "url": "http://t.co/YzFHM3l2",
+                    "expanded_url": "http://fb.me/1XTilbBhq",
+                    "display_url": "fb.me/1XTilbBhq"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "192256990200868865",
+        "text": "Au rendez-vous du changement les participants explique ce qu'est, pour eux, le changement. Ce changement qu'il... http://t.co/5lXGW9Mv",
+        "created_at": "2012-04-17 14:23:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192256990200868865,
+        "entities": {
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 134,
+                    "url": "http://t.co/5lXGW9Mv",
+                    "expanded_url": "http://fb.me/1y3mfUkGk",
+                    "display_url": "fb.me/1y3mfUkGk"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "192256755504390145",
+        "text": "@PascalHorsey Il n'est pas tout a fait inconnu. Il suffit de militer avec lui pour s'en rendre compte.",
+        "created_at": "2012-04-17 14:22:37+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192249275961458688,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "PascalHorsey",
+                    "id": "442954500"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 442954500,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "192255587181010944",
+        "text": "J’ai publié 45 photos sur Facebook, dans l’album Le changement c'est ... http://t.co/mJi5VbSa",
+        "created_at": "2012-04-17 14:17:58+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192255587181010944,
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 93,
+                    "url": "http://t.co/mJi5VbSa",
+                    "expanded_url": "http://fb.me/1MPW1zE1s",
+                    "display_url": "fb.me/1MPW1zE1s"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "192247620096364545",
+        "text": "[Vidéo] Le comédien Pierre Martot, habitant du 20ème, appelle a voter pour François Hollande et ce dès dimanche... http://t.co/6Xs5iSew",
+        "created_at": "2012-04-17 13:46:19+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 192247620096364545,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 135,
+                    "url": "http://t.co/6Xs5iSew",
+                    "expanded_url": "http://fb.me/1Rtap8H4U",
+                    "display_url": "fb.me/1Rtap8H4U"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "191848143774683136",
+        "text": "100 000 personnes hier à Vincennes. Le changement c'est dès dimanche prochain dans les urnes avec François... http://t.co/3NOe0Kc3",
+        "created_at": "2012-04-16 11:18:56+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 191848143774683136,
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 130,
+                    "url": "http://t.co/3NOe0Kc3",
+                    "expanded_url": "http://fb.me/C8E9yaUn",
+                    "display_url": "fb.me/C8E9yaUn"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "191830858687184898",
+        "text": "Retrouvez l'ambiance de la rencontre du changement jeudi dernier. #FH2012 http://t.co/idG9uGG6",
+        "created_at": "2012-04-16 10:10:15+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 191830858687184898,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 66,
+                    "end": 73,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 94,
+                    "url": "http://t.co/idG9uGG6",
+                    "expanded_url": "http://fb.me/IhjT8fcZ",
+                    "display_url": "fb.me/IhjT8fcZ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "191211814456008704",
+        "text": "George Pau-Langevin était ce matin au \"stand-up\" de David Assouline pour le changement à Alexandre Dumas. #FH2012 http://t.co/lSb6lDEK",
+        "created_at": "2012-04-14 17:10:23+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 191211814456008704,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 113,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 134,
+                    "url": "http://t.co/lSb6lDEK",
+                    "expanded_url": "http://fb.me/zpYAIAdm",
+                    "display_url": "fb.me/zpYAIAdm"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "191107585594765313",
+        "text": "Le changement, c'est dès dimanche prochain !! #FH2012 http://t.co/42RLDXD6",
+        "created_at": "2012-04-14 10:16:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 191107585594765313,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 53,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 54,
+                    "end": 74,
+                    "url": "http://t.co/42RLDXD6",
+                    "expanded_url": "http://fb.me/XBQ38FRp",
+                    "display_url": "fb.me/XBQ38FRp"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "190816922277908482",
+        "text": "François Hollande a la conquête pour les droits des femmes. #FH2012 http://t.co/PW2JEs9Y",
+        "created_at": "2012-04-13 15:01:14+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190816922277908482,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 67,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 88,
+                    "url": "http://t.co/PW2JEs9Y",
+                    "expanded_url": "http://fb.me/12YUj3e4y",
+                    "display_url": "fb.me/12YUj3e4y"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "190513814939246592",
+        "text": ". @arnaudmontebourg  #rencontrechgt #FH2012 http://t.co/di3FBxFF",
+        "created_at": "2012-04-12 18:56:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_190513814947635200"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190513814939246592,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 35,
+                    "tag": "rencontrechgt"
+                },
+                {
+                    "start": 36,
+                    "end": 43,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 44,
+                    "end": 64,
+                    "url": "http://t.co/di3FBxFF",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/190513814939246592/photo/1",
+                    "display_url": "pic.twitter.com/di3FBxFF",
+                    "media_key": "3_190513814947635200"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "190512916032786432",
+        "text": "On ne peut pas accepter que 25% des jeunes soient au chômage. #GPL2012 #rencontrechgt #FH2012",
+        "created_at": "2012-04-12 18:53:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190512916032786432,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 62,
+                    "end": 70,
+                    "tag": "GPL2012"
+                },
+                {
+                    "start": 71,
+                    "end": 85,
+                    "tag": "rencontrechgt"
+                },
+                {
+                    "start": 86,
+                    "end": 93,
+                    "tag": "FH2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "190512022557958146",
+        "text": "Nous croyons que la politique ce sont des choix et non une obéissance aux agences de notation. #GPL2012 #rencontrechgt #FH2012",
+        "created_at": "2012-04-12 18:49:40+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190512022557958146,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 103,
+                    "tag": "GPL2012"
+                },
+                {
+                    "start": 104,
+                    "end": 118,
+                    "tag": "rencontrechgt"
+                },
+                {
+                    "start": 119,
+                    "end": 126,
+                    "tag": "FH2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "190511588770455552",
+        "text": "Si la crise est aussi grave c'est aussi la conséquence de choix politique depuis 10ans #gpl #rencontrechgt #FH2012 http://t.co/Gv0NZTD7",
+        "created_at": "2012-04-12 18:47:58+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_190511588774649858"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190511588770455552,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 91,
+                    "tag": "gpl"
+                },
+                {
+                    "start": 92,
+                    "end": 106,
+                    "tag": "rencontrechgt"
+                },
+                {
+                    "start": 107,
+                    "end": 114,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 135,
+                    "url": "http://t.co/Gv0NZTD7",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/190511588770455552/photo/1",
+                    "display_url": "pic.twitter.com/Gv0NZTD7",
+                    "media_key": "3_190511588774649858"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "190508568598953984",
+        "text": "\"François Hollande c'est le courage de dire que l'on a les moyens de la relance\" F. Carrey-Conte #rencontrechgt #FH2012 http://t.co/wP6FFtmf",
+        "created_at": "2012-04-12 18:35:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_190508568607342592"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190508568598953984,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 111,
+                    "tag": "rencontrechgt"
+                },
+                {
+                    "start": 112,
+                    "end": 119,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 140,
+                    "url": "http://t.co/wP6FFtmf",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/190508568598953984/photo/1",
+                    "display_url": "pic.twitter.com/wP6FFtmf",
+                    "media_key": "3_190508568607342592"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "190347608378720256",
+        "text": "La rencontre du changement c'est ce soir avec Arnaud Montebourg a la Bellevilloise. Venez nombreux. #FH2012... http://t.co/aWTLjucM",
+        "created_at": "2012-04-12 07:56:20+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 190347608378720256,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 107,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 131,
+                    "url": "http://t.co/aWTLjucM",
+                    "expanded_url": "http://fb.me/1J8qtqgM3",
+                    "display_url": "fb.me/1J8qtqgM3"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "189999289349582848",
+        "text": "RT @amaurygaillard: Café pol sur le devenir des relations France/pays du Sud le11 avril au café Danube place Rhin et Danube #FH2012 @Pau ...",
+        "created_at": "2012-04-11 08:52:15+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 189999289349582848,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "amaurygaillard",
+                    "id": "279257962"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 131,
+                    "tag": "FH2012"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "189998428162494464",
+        "text": "Ce soir George Pau-Langevin sera ensuite au centre d'animation Louis Lumière pour participer à un débat avec les... http://t.co/6zvA4OJu",
+        "created_at": "2012-04-11 08:48:49+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 189998428162494464,
+        "entities": {
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 136,
+                    "url": "http://t.co/6zvA4OJu",
+                    "expanded_url": "http://fb.me/1pJC5hMBS",
+                    "display_url": "fb.me/1pJC5hMBS"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "189995334817157121",
+        "text": "Ce soir George Pau-Langevin participe, avec Jean-Christophe Cambadelis, à un café politique sur le... http://t.co/AQBvHCcT",
+        "created_at": "2012-04-11 08:36:32+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 189995334817157121,
+        "entities": {
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 122,
+                    "url": "http://t.co/AQBvHCcT",
+                    "expanded_url": "http://fb.me/SiXhkUio",
+                    "display_url": "fb.me/SiXhkUio"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "189656541400547328",
+        "text": "Nous vous rappelons que jeudi nous organisons la rencontre du changement avec Arnaud Montebourg. Venez-nombreux.... http://t.co/3h1NGlhl",
+        "created_at": "2012-04-10 10:10:17+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 189656541400547328,
+        "entities": {
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 136,
+                    "url": "http://t.co/3h1NGlhl",
+                    "expanded_url": "http://fb.me/1XOJXUO0i",
+                    "display_url": "fb.me/1XOJXUO0i"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "189641257440641024",
+        "text": "Un clip de campagne qui change pour le changement en 2012. #FH2012 http://t.co/E1qCnl6L",
+        "created_at": "2012-04-10 09:09:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 189641257440641024,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 66,
+                    "tag": "FH2012"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 67,
+                    "end": 87,
+                    "url": "http://t.co/E1qCnl6L",
+                    "expanded_url": "http://fb.me/1VD8hVfo7",
+                    "display_url": "fb.me/1VD8hVfo7"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
         "withheld": null
     }
 ]

@@ -109,12 +109,6 @@
         "entities": {
             "mentions": [
                 {
-                    "start": 3,
-                    "end": 18,
-                    "username": "HalimaMenhoudj",
-                    "id": "544086238"
-                },
-                {
                     "start": 111,
                     "end": 119,
                     "username": "N_Hulot",
@@ -167,14 +161,6 @@
         "context_annotations": [],
         "conversation_id": 873282343355731969,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "HalimaMenhoudj",
-                    "id": "544086238"
-                }
-            ],
             "urls": [
                 {
                     "start": 116,
@@ -207,16 +193,7 @@
         "author_id": 869912215691960320,
         "context_annotations": [],
         "conversation_id": 873282241144791042,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "HalimaMenhoudj",
-                    "id": "544086238"
-                }
-            ]
-        },
+        "entities": null,
         "geo": null,
         "in_reply_to_user_id": null,
         "lang": "fr",
@@ -796,7 +773,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 256,
+            "retweet_count": 255,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -958,7 +935,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 1327,
+            "retweet_count": 1324,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -1455,7 +1432,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 569,
+            "retweet_count": 568,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -1524,7 +1501,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 802,
+            "retweet_count": 800,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0

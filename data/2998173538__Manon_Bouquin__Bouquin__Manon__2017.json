@@ -340,14 +340,6 @@
         ],
         "conversation_id": 873532734358122496,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 9,
-                    "username": "BFMTV",
-                    "id": "133663801"
-                }
-            ],
             "urls": [
                 {
                     "start": 97,
@@ -355,6 +347,14 @@
                     "url": "https://t.co/PhJnjWVvLm",
                     "expanded_url": "http://www.bfmtv.com/actualite/paris-en-une-heure-des-benevoles-ramassent-15-000-megots-pres-du-canal-saint-martin-1182545.html",
                     "display_url": "bfmtv.com/actualite/pari…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "BFMTV",
+                    "id": "133663801"
                 }
             ]
         },
@@ -413,19 +413,19 @@
         "context_annotations": [],
         "conversation_id": 873491769576611841,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 137,
+                    "tag": "IdeologieQueer"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "LaManifPourTous",
                     "id": "875696023"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 122,
-                    "end": 137,
-                    "tag": "IdeologieQueer"
                 }
             ]
         },
@@ -564,6 +564,16 @@
         "context_annotations": [],
         "conversation_id": 872863295623094275,
         "entities": {
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/yRpSEpkVSg",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873261734143938560/photo/1",
+                    "display_url": "pic.twitter.com/yRpSEpkVSg",
+                    "media_key": "3_873261723578486784"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -576,16 +586,6 @@
                     "end": 25,
                     "username": "wdesaintjust",
                     "id": "469248037"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 35,
-                    "end": 58,
-                    "url": "https://t.co/yRpSEpkVSg",
-                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/873261734143938560/photo/1",
-                    "display_url": "pic.twitter.com/yRpSEpkVSg",
-                    "media_key": "3_873261723578486784"
                 }
             ]
         },
@@ -724,14 +724,6 @@
         "context_annotations": [],
         "conversation_id": 873213726144507904,
         "entities": {
-            "mentions": [
-                {
-                    "start": 39,
-                    "end": 48,
-                    "username": "jp_lecoq",
-                    "id": "539156968"
-                }
-            ],
             "urls": [
                 {
                     "start": 63,
@@ -771,6 +763,14 @@
                     "start": 52,
                     "end": 62,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 39,
+                    "end": 48,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
                 }
             ]
         },
@@ -816,14 +816,6 @@
         ],
         "conversation_id": 873189880205127680,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 11,
-                    "username": "Valeurs",
-                    "id": "112754792"
-                }
-            ],
             "urls": [
                 {
                     "start": 75,
@@ -839,6 +831,14 @@
                     "expanded_url": "https://twitter.com/Valeurs/status/873188863333863425/photo/1",
                     "display_url": "pic.twitter.com/67aaNHOwCl",
                     "media_key": "3_873188809185386496"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Valeurs",
+                    "id": "112754792"
                 }
             ]
         },
@@ -983,14 +983,6 @@
         "context_annotations": [],
         "conversation_id": 873155369106845701,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 11,
-                    "username": "LePoint",
-                    "id": "8460572"
-                }
-            ],
             "urls": [
                 {
                     "start": 74,
@@ -1006,6 +998,14 @@
                     "expanded_url": "https://twitter.com/LePoint/status/873110158456496128/photo/1",
                     "display_url": "pic.twitter.com/O4bT3Ax5v8",
                     "media_key": "3_873110155864358912"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LePoint",
+                    "id": "8460572"
                 }
             ]
         },
@@ -1122,14 +1122,6 @@
         ],
         "conversation_id": 873083076942774272,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "FN_officiel",
-                    "id": "1002609596513562624"
-                }
-            ],
             "urls": [
                 {
                     "start": 114,
@@ -1137,6 +1129,14 @@
                     "url": "https://t.co/WELF7GMJHb",
                     "expanded_url": "http://www.frontnational.com/2017/06/nous-ne-preserverons-pas-notre-securite-en-sacrifiant-notre-liberte/",
                     "display_url": "frontnational.com/2017/06/nous-n…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "FN_officiel",
+                    "id": "1002609596513562624"
                 }
             ]
         },
@@ -1167,14 +1167,6 @@
         "context_annotations": [],
         "conversation_id": 873080354059337730,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "MarianneleMag",
-                    "id": "15823722"
-                }
-            ],
             "urls": [
                 {
                     "start": 83,
@@ -1190,6 +1182,14 @@
                     "expanded_url": "https://twitter.com/MarianneleMag/status/873072672351105024/photo/1",
                     "display_url": "pic.twitter.com/XtbKVETOsy",
                     "media_key": "3_873067666008756224"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MarianneleMag",
+                    "id": "15823722"
                 }
             ]
         },
@@ -1324,14 +1324,6 @@
         "context_annotations": [],
         "conversation_id": 872862485509963777,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 11,
-                    "username": "Valeurs",
-                    "id": "112754792"
-                }
-            ],
             "urls": [
                 {
                     "start": 92,
@@ -1347,6 +1339,14 @@
                     "expanded_url": "https://twitter.com/Valeurs/status/872847852954951682/photo/1",
                     "display_url": "pic.twitter.com/G6AenbOars",
                     "media_key": "3_872847842020401152"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Valeurs",
+                    "id": "112754792"
                 }
             ]
         },
@@ -1731,6 +1731,16 @@
         ],
         "conversation_id": 872512284580601856,
         "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/XBNh0bfZze",
+                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872534164867862528/photo/1",
+                    "display_url": "pic.twitter.com/XBNh0bfZze",
+                    "media_key": "3_872534138087247874"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -1743,16 +1753,6 @@
                     "end": 26,
                     "username": "michel_denisot",
                     "id": "437547229"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 115,
-                    "end": 138,
-                    "url": "https://t.co/XBNh0bfZze",
-                    "expanded_url": "https://twitter.com/Manon_Bouquin/status/872534164867862528/photo/1",
-                    "display_url": "pic.twitter.com/XBNh0bfZze",
-                    "media_key": "3_872534138087247874"
                 }
             ]
         },
@@ -1876,20 +1876,6 @@
         "context_annotations": [],
         "conversation_id": 872494539482726400,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 11,
-                    "username": "T_Leost",
-                    "id": "2274903058"
-                },
-                {
-                    "start": 68,
-                    "end": 82,
-                    "username": "Manon_Bouquin",
-                    "id": "2998173538"
-                }
-            ],
             "urls": [
                 {
                     "start": 83,
@@ -1926,6 +1912,20 @@
                     "start": 43,
                     "end": 60,
                     "tag": "DéfendreLaFrance"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "T_Leost",
+                    "id": "2274903058"
+                },
+                {
+                    "start": 68,
+                    "end": 82,
+                    "username": "Manon_Bouquin",
+                    "id": "2998173538"
                 }
             ]
         },
@@ -2120,14 +2120,6 @@
         "context_annotations": [],
         "conversation_id": 872168499694759938,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 12,
-                    "username": "leLab_E1",
-                    "id": "376812938"
-                }
-            ],
             "urls": [
                 {
                     "start": 73,
@@ -2152,6 +2144,14 @@
                     "display_url": "pic.twitter.com/XmiBqr0I6H",
                     "media_key": "3_872164111622254592"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "leLab_E1",
+                    "id": "376812938"
+                }
             ]
         },
         "geo": null,
@@ -2162,408 +2162,6 @@
             "retweet_count": 16,
             "reply_count": 0,
             "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872163142138200064",
-        "text": "RT @LeParisien_77: Messy : l’arrivée de 120 caravanes au stade provoque le ras-le-bol des habitants https://t.co/cayU8Xfsib",
-        "created_at": "2017-06-06 18:47:51+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872163142138200064,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "leparisien_77",
-                    "id": "551814498"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 100,
-                    "end": 123,
-                    "url": "https://t.co/cayU8Xfsib",
-                    "expanded_url": "http://l.leparisien.fr/iamN-NxeC",
-                    "display_url": "l.leparisien.fr/iamN-NxeC"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 8,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter Web Client",
-        "withheld": null
-    },
-    {
-        "id": "872159808983629824",
-        "text": "RT @smahrane: \"Le plus grand défi de santé publique\". L'addiction aux écrans, maladie grave chez les enfants https://t.co/E6PpFn2Iuw via @s…",
-        "created_at": "2017-06-06 18:34:37+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872159808983629824,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 12,
-                    "username": "smahrane",
-                    "id": "410813633"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 109,
-                    "end": 132,
-                    "url": "https://t.co/E6PpFn2Iuw",
-                    "expanded_url": "http://www.slate.fr/story/146586/addictions-ecrans-maladie-grave-enfant",
-                    "display_url": "slate.fr/story/146586/a…"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 10,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter Web Client",
-        "withheld": null
-    },
-    {
-        "id": "872157701719117825",
-        "text": "RT @PompiersParis: #CétaitPasPrévu mais je suis pompiers de Paris 😀 https://t.co/gcNe3XJDr2",
-        "created_at": "2017-06-06 18:26:14+00:00",
-        "attachments": {
-            "media_keys": [
-                "13_871982600537202688"
-            ]
-        },
-        "author_id": 2998173538,
-        "context_annotations": [
-            {
-                "domain": {
-                    "id": "13",
-                    "name": "Place",
-                    "description": "Named places in the world, like Fenway Park"
-                },
-                "entity": {
-                    "id": "855411324334899200",
-                    "name": "Paris",
-                    "description": "Paris"
-                }
-            }
-        ],
-        "conversation_id": 872157701719117825,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "PompiersParis",
-                    "id": "1342191438"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 68,
-                    "end": 91,
-                    "url": "https://t.co/gcNe3XJDr2",
-                    "expanded_url": "https://twitter.com/PompiersParis/status/871983121234898945/video/1",
-                    "display_url": "pic.twitter.com/gcNe3XJDr2",
-                    "media_key": "13_871982600537202688"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 34,
-                    "tag": "CétaitPasPrévu"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 64,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter Web Client",
-        "withheld": null
-    },
-    {
-        "id": "872153457112887302",
-        "text": "@laurentgamet @PaulineBetton75 Traiter d'ennemis de la République tous les gens avec qui tu n'es pas d'accord ne te fera pas davantage exister, tu sais...",
-        "created_at": "2017-06-06 18:09:22+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872148212878061569,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "laurentgamet",
-                    "id": "496212632"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": 496212632,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 0,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872152175572652034",
-        "text": "RT @RLZ82: J'ai exposé mes solutions pour soutenir l'artisanat local devant la Capeb82. \n#circo8202 #TarnetGaronne #Legislatives2017 https:…",
-        "created_at": "2017-06-06 18:04:17+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872152175572652034,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 9,
-                    "username": "RLZ82",
-                    "id": "2291342491"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 89,
-                    "end": 99,
-                    "tag": "circo8202"
-                },
-                {
-                    "start": 100,
-                    "end": 114,
-                    "tag": "TarnetGaronne"
-                },
-                {
-                    "start": 115,
-                    "end": 132,
-                    "tag": "Legislatives2017"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 3,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872127301890306049",
-        "text": "RT @f_philippot: Attaque à Notre Dame : le professionnalisme des forces de l'ordre doit être salué. Courage et sang froid admirables.",
-        "created_at": "2017-06-06 16:25:26+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872127301890306049,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "f_philippot",
-                    "id": "472412809"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 277,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872125513862705153",
-        "text": "RT @Jonathan_RTfr: La cathédrale #NotreDame sonne ses cloches après l'attaque https://t.co/eLeXuWcJhm",
-        "created_at": "2017-06-06 16:18:20+00:00",
-        "attachments": {
-            "media_keys": [
-                "7_872115498514882561"
-            ]
-        },
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872125513862705153,
-        "entities": {
-            "urls": [
-                {
-                    "start": 78,
-                    "end": 101,
-                    "url": "https://t.co/eLeXuWcJhm",
-                    "expanded_url": "https://twitter.com/Jonathan_RTfr/status/872115600113508352/video/1",
-                    "display_url": "pic.twitter.com/eLeXuWcJhm",
-                    "media_key": "7_872115498514882561"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 33,
-                    "end": 43,
-                    "tag": "NotreDame"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 62,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872122746477699072",
-        "text": "@EhrMick_ @AloisNavarro Bah juger qq à partir d'un extrait de son FB c'est totalitaire. J'ai un pote accusé de pétainisme alors qu'il a de Gaulle partout chez lui 😔",
-        "created_at": "2017-06-06 16:07:20+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [
-            {
-                "domain": {
-                    "id": "46",
-                    "name": "Brand Category",
-                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-                },
-                "entity": {
-                    "id": "781974596752842752",
-                    "name": "Services"
-                }
-            },
-            {
-                "domain": {
-                    "id": "47",
-                    "name": "Brand",
-                    "description": "Brands and Companies"
-                },
-                "entity": {
-                    "id": "10029202045",
-                    "name": "Facebook"
-                }
-            }
-        ],
-        "conversation_id": 872009628900577281,
-        "entities": null,
-        "geo": null,
-        "in_reply_to_user_id": 1696537898,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 2,
-            "reply_count": 0,
-            "like_count": 3,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872120289173413888",
-        "text": "@EhrMick_ @AloisNavarro Tu paries combien que d'ici 5 ans, dire que l'immigration est nuisible à la société, ce sera considéré comme un dérapage? 😩",
-        "created_at": "2017-06-06 15:57:34+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872009628900577281,
-        "entities": null,
-        "geo": {
-            "place_id": "09f6a7707f18e0b1"
-        },
-        "in_reply_to_user_id": 2998173538,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 2,
-            "reply_count": 2,
-            "like_count": 5,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
-        "withheld": null
-    },
-    {
-        "id": "872120032809164800",
-        "text": "@EhrMick_ @AloisNavarro Ok je comprends. Mais ce qui me fait flipper, c'est que d'ici qq années, on ne puisse plus rien dire du tout avec ces méthodes totalitaires.",
-        "created_at": "2017-06-06 15:56:33+00:00",
-        "attachments": null,
-        "author_id": 2998173538,
-        "context_annotations": [],
-        "conversation_id": 872009628900577281,
-        "entities": null,
-        "geo": {
-            "place_id": "09f6a7707f18e0b1"
-        },
-        "in_reply_to_user_id": 1696537898,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 0,
-            "reply_count": 1,
-            "like_count": 3,
             "quote_count": 0
         },
         "reply_settings": "everyone",

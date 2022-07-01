@@ -1,0 +1,1536 @@
+[
+    {
+        "id": "1535335680196354048",
+        "text": "Tracter jusqu’à épuisement https://t.co/qaq7XX3wbB",
+        "created_at": "2022-06-10 18:58:45+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1535335680196354048,
+        "entities": {
+            "urls": [
+                {
+                    "start": 27,
+                    "end": 50,
+                    "url": "https://t.co/qaq7XX3wbB",
+                    "expanded_url": "https://twitter.com/Fabrou13/status/1535331249384046592",
+                    "display_url": "twitter.com/Fabrou13/statu…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535335447072743426",
+        "text": "RT @PartiAnimaliste: THREAD / @HeleneThouy, candidate à la présidentielle, répond aux accusations de diffamation d’Aymeric Caron, candidat…",
+        "created_at": "2022-06-10 18:57:50+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1535335447072743426,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                },
+                {
+                    "start": 30,
+                    "end": 42,
+                    "username": "HeleneThouy",
+                    "id": "4827536777"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 86,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535310148138323968",
+        "text": "RT @laurencevolbart: Bravo @CampusAnimalist , bravo les jeunes, merci de votre engagement! \nA retwitter sans modération !",
+        "created_at": "2022-06-10 17:17:18+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1535310148138323968,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "laurencevolbart",
+                    "id": "1451421967"
+                },
+                {
+                    "start": 27,
+                    "end": 43,
+                    "username": "CampusAnimalist",
+                    "id": "1447124085541068807"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535309395164545026",
+        "text": "RT @Isabelle_Yvos: Merci #DelphineWespinser, ex Miss France &amp; chroniqueuse télé souhaite soutenir et voter pour le @PartiAnimaliste. Elle e…",
+        "created_at": "2022-06-10 17:14:19+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1535309395164545026,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 25,
+                    "end": 43,
+                    "tag": "DelphineWespinser"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Isabelle_Yvos",
+                    "id": "773850169892823040"
+                },
+                {
+                    "start": 119,
+                    "end": 135,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535300993369489408",
+        "text": "RT @hugoclement: Une poubelle remplie à ras bord de viande, de légumes, de pain… Photo prise hier dans un Burger King, à Castres. On a beau…",
+        "created_at": "2022-06-10 16:40:55+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597017083904",
+                    "name": "QSR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026332256",
+                    "name": "Burger King"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "860133563332648963",
+                    "name": "Cuisines",
+                    "description": "Cuisines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847865239886417922",
+                    "name": "Fast food Restaurants",
+                    "description": "Fast food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "152",
+                    "name": "Food",
+                    "description": "Topics about food, like Donuts or Brunch"
+                },
+                "entity": {
+                    "id": "847865239886417922",
+                    "name": "Fast food Restaurants",
+                    "description": "Fast food"
+                }
+            }
+        ],
+        "conversation_id": 1535300993369489408,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "hugoclement",
+                    "id": "84282385"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11628,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535300825148448771",
+        "text": "RT @dehay_catherine: 👉Pour changer la vie des animaux en 🇫🇷 et inciter toutes les formations politiques à agir au lieu de seulement promett…",
+        "created_at": "2022-06-10 16:40:15+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1535300825148448771,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "dehay_catherine",
+                    "id": "1499391129870954497"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1535300672689684482",
+        "text": "Dimanche #12juin , faites place à l’empathie.\nVotez @PartiAnimaliste , le vote utile pour les #animaux #législatives2022 #circo7502 #LesAnimauxComptent https://t.co/VO7JNjQNdy",
+        "created_at": "2022-06-10 16:39:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1535300664800288768",
+                "3_1535300664800288771",
+                "3_1535300664804392961"
+            ]
+        },
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1535300672689684482,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 9,
+                    "end": 16,
+                    "tag": "12juin"
+                },
+                {
+                    "start": 94,
+                    "end": 102,
+                    "tag": "animaux"
+                },
+                {
+                    "start": 103,
+                    "end": 120,
+                    "tag": "législatives2022"
+                },
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 132,
+                    "end": 151,
+                    "tag": "LesAnimauxComptent"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 52,
+                    "end": 68,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 152,
+                    "end": 175,
+                    "url": "https://t.co/VO7JNjQNdy",
+                    "expanded_url": "https://twitter.com/DreyfussLevy/status/1535300672689684482/photo/1",
+                    "display_url": "pic.twitter.com/VO7JNjQNdy",
+                    "media_key": "3_1535300664800288768"
+                },
+                {
+                    "start": 152,
+                    "end": 175,
+                    "url": "https://t.co/VO7JNjQNdy",
+                    "expanded_url": "https://twitter.com/DreyfussLevy/status/1535300672689684482/photo/1",
+                    "display_url": "pic.twitter.com/VO7JNjQNdy",
+                    "media_key": "3_1535300664800288771"
+                },
+                {
+                    "start": 152,
+                    "end": 175,
+                    "url": "https://t.co/VO7JNjQNdy",
+                    "expanded_url": "https://twitter.com/DreyfussLevy/status/1535300672689684482/photo/1",
+                    "display_url": "pic.twitter.com/VO7JNjQNdy",
+                    "media_key": "3_1535300664804392961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1534845614617505794",
+        "text": "RT @DouchkaMarkovic: #PartiAnimaliste #legislatives2022\nQuand la politique porte un autre visage... de valeurs et de sincérité...  Voilà ce…",
+        "created_at": "2022-06-09 10:31:25+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1534845614617505794,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 37,
+                    "tag": "PartiAnimaliste"
+                },
+                {
+                    "start": 38,
+                    "end": 55,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "DouchkaMarkovic",
+                    "id": "2725813800"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533820039169773568",
+        "text": "RT @Fabrou13: Après kiddouch samedi, nous allons à la rencontre des soutiens et sympathisants partout où il y a des âmes sensibles à la cau…",
+        "created_at": "2022-06-06 14:36:08+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1533820039169773568,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Fabrou13",
+                    "id": "612659331"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533339573421498369",
+        "text": "RT @HeleneThouy: Heureusement que la ruralité ne ressemble pas à ce ramassis de clichés ! Aux #legislatives2022 le @PartiAnimaliste présent…",
+        "created_at": "2022-06-05 06:46:57+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1533339573421498369,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 111,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "HeleneThouy",
+                    "id": "4827536777"
+                },
+                {
+                    "start": 115,
+                    "end": 131,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533339319875911680",
+        "text": "RT @dehay_catherine: Une très belle soirée riches d’espoir, d’enthousiasme et de talents. Le @PartiAnimaliste est une voie nouvelle pour la…",
+        "created_at": "2022-06-05 06:45:56+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1533339319875911680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "dehay_catherine",
+                    "id": "1499391129870954497"
+                },
+                {
+                    "start": 93,
+                    "end": 109,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1533339021585403907",
+        "text": "RT @ReRabT: @dehay_catherine @CampusAnimalist @PartiAnimaliste @HeleneThouy @laurencevolbart @Isabelle_Yvos @S_Coupel @MarionBigoin @JeanLu…",
+        "created_at": "2022-06-05 06:44:45+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1533339021585403907,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "ReRabT",
+                    "id": "1295690885917806592"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "dehay_catherine",
+                    "id": "1499391129870954497"
+                },
+                {
+                    "start": 29,
+                    "end": 45,
+                    "username": "CampusAnimalist",
+                    "id": "1447124085541068807"
+                },
+                {
+                    "start": 46,
+                    "end": 62,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                },
+                {
+                    "start": 63,
+                    "end": 75,
+                    "username": "HeleneThouy",
+                    "id": "4827536777"
+                },
+                {
+                    "start": 76,
+                    "end": 92,
+                    "username": "laurencevolbart",
+                    "id": "1451421967"
+                },
+                {
+                    "start": 93,
+                    "end": 107,
+                    "username": "Isabelle_Yvos",
+                    "id": "773850169892823040"
+                },
+                {
+                    "start": 108,
+                    "end": 117,
+                    "username": "S_Coupel",
+                    "id": "3309387382"
+                },
+                {
+                    "start": 118,
+                    "end": 131,
+                    "username": "MarionBigoin",
+                    "id": "1247100954652168193"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532460266637738017",
+        "text": "RT @yocalisha: @SebCazenove Très drôle, ah ah. Sinon, plus sérieusement, pensez vous faire quelque chose pour la condition animale une fois…",
+        "created_at": "2022-06-02 20:32:53+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1532460266637738017,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "yocalisha",
+                    "id": "572472559"
+                },
+                {
+                    "start": 15,
+                    "end": 27,
+                    "username": "SebCazenove",
+                    "id": "1395004603972870147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1532403180004331522",
+        "text": "RT @AdrienLarcherPA: Voici mon entretien sur Terre Marine FM pour le @PartiAnimaliste / n’hésitez pas à me dire ce que vous en pensez 🤷‍♂️🙈…",
+        "created_at": "2022-06-02 16:46:03+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1532403180004331522,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "AdrienLarcherPA",
+                    "id": "1447552945789284357"
+                },
+                {
+                    "start": 69,
+                    "end": 85,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1530083323242024960",
+        "text": "RT @Isabelle_Yvos: « Mieux vaut une tête de canard qu’une tête de con ! »\nLaurent Baffie, candidat aux #legislatives2022 pour le @Partianim…",
+        "created_at": "2022-05-27 07:07:46+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1530083323242024960,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 120,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Isabelle_Yvos",
+                    "id": "773850169892823040"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1530083248348471296",
+        "text": "RT @DouchkaMarkovic: Un programme pour les animaux? Oui, c est possible et complet! Pour les #législatives voici ce que le @PartiAnimaliste…",
+        "created_at": "2022-05-27 07:07:28+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1530083248348471296,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 106,
+                    "tag": "législatives"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "DouchkaMarkovic",
+                    "id": "2725813800"
+                },
+                {
+                    "start": 123,
+                    "end": 139,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1530083207818924033",
+        "text": "RT @GuPrevel: J’ai écrit en qualité d’élu régional à ⁦@Anne_Hidalgo⁩ et à ses adjoints en charge de cette question pour soutenir la démarch…",
+        "created_at": "2022-05-27 07:07:18+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1530083207818924033,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "GuPrevel",
+                    "id": "865681217630257153"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 81,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1530083060355674113",
+        "text": "RT @ValentineLbdt: Ce soir nous avons tracté au métro Sèvres-Babylone pour la candidature de @DreyfussLevy aux législatives du @PartiAnimal…",
+        "created_at": "2022-05-27 07:06:43+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1530083060355674113,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "ValentineLbdt",
+                    "id": "1465021044331368454"
+                },
+                {
+                    "start": 93,
+                    "end": 106,
+                    "username": "DreyfussLevy",
+                    "id": "1203299532655779841"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1528422819452829697",
+        "text": "RT @Fabrou13: Distribution de tracts place Monge avec @DreyfussLevy candidate @PartiAnimaliste à #Paris. Accueil excellent, intérêt et bien…",
+        "created_at": "2022-05-22 17:09:31+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1528422819452829697,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 103,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Fabrou13",
+                    "id": "612659331"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "DreyfussLevy",
+                    "id": "1203299532655779841"
+                },
+                {
+                    "start": 78,
+                    "end": 94,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1528242373364535297",
+        "text": "RT @Fabrou13: Hier matin marché Cler avec  @DreyfussLevy candidate @PartiAnimaliste les parisiens très intéressés et beaucoup de « je ne sa…",
+        "created_at": "2022-05-22 05:12:29+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1528242373364535297,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Fabrou13",
+                    "id": "612659331"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "DreyfussLevy",
+                    "id": "1203299532655779841"
+                },
+                {
+                    "start": 67,
+                    "end": 83,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526950564751368198",
+        "text": "ENGAGÉE. #parti animaliste #legislatives2022#Paris#elections#action politique https://t.co/pfGDK1kSal",
+        "created_at": "2022-05-18 15:39:18+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1526950556404748288"
+            ]
+        },
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1526950564751368198,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 9,
+                    "end": 15,
+                    "tag": "parti"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/pfGDK1kSal",
+                    "expanded_url": "https://twitter.com/DreyfussLevy/status/1526950564751368198/photo/1",
+                    "display_url": "pic.twitter.com/pfGDK1kSal",
+                    "media_key": "3_1526950556404748288"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1526607693137514496",
+        "text": "RT @Draven974: 🟣Aujourd'hui, le @PartiAnimaliste est mobilisé devant le Palais de justice pour réclamer la réalisation immédiate des consta…",
+        "created_at": "2022-05-17 16:56:51+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1526607693137514496,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Draven974",
+                    "id": "115891725"
+                },
+                {
+                    "start": 32,
+                    "end": 48,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1525509791174512641",
+        "text": "RT @CelineBretel: La Bretagne, ses agriculteurs et son environnement souffrent de l'agriculture intensive. Pour en sortir et éviter des dra…",
+        "created_at": "2022-05-14 16:14:11+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1525509791174512641,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "CelineBretel",
+                    "id": "1054449024420532224"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1525509749793595394",
+        "text": "RT @DouchkaMarkovic: Les ballades à poney doivent être suspendues dans tous Paris car visiblement le \"bien-être animal\" en lien avec la cha…",
+        "created_at": "2022-05-14 16:14:01+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1525509749793595394,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "DouchkaMarkovic",
+                    "id": "2725813800"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 114,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1525509576862355456",
+        "text": "RT @SandraKrief: Non, il n’est pas un kebab sur pattes ou un gigot ambulant, il tient à sa vie, lui aussi.",
+        "created_at": "2022-05-14 16:13:20+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1525509576862355456,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "SandraKrief",
+                    "id": "1300733324424511489"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 226,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518581004629381122",
+        "text": "RT @GuPrevel: @MaitreGerard @BFMTV @ECAanimal @Milton_Federici @SandraKrief @HenryJeanServat @StephaneLAMART @onevoiceanimal Au @PartiAnima…",
+        "created_at": "2022-04-25 13:21:40+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1103713072722526208",
+                    "name": "BFMTV",
+                    "description": "BFMTV"
+                }
+            }
+        ],
+        "conversation_id": 1518581004629381122,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "GuPrevel",
+                    "id": "865681217630257153"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "MaitreGerard",
+                    "id": "1300035589014794240"
+                },
+                {
+                    "start": 28,
+                    "end": 34,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                },
+                {
+                    "start": 35,
+                    "end": 45,
+                    "username": "ECAanimal",
+                    "id": "1164944380031094785"
+                },
+                {
+                    "start": 46,
+                    "end": 62,
+                    "username": "Milton_Federici",
+                    "id": "1216695668628230144"
+                },
+                {
+                    "start": 63,
+                    "end": 75,
+                    "username": "SandraKrief",
+                    "id": "1300733324424511489"
+                },
+                {
+                    "start": 76,
+                    "end": 92,
+                    "username": "HenryJeanServat",
+                    "id": "384911846"
+                },
+                {
+                    "start": 93,
+                    "end": 108,
+                    "username": "StephaneLAMART",
+                    "id": "1370189965"
+                },
+                {
+                    "start": 109,
+                    "end": 124,
+                    "username": "onevoiceanimal",
+                    "id": "121383284"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518580513547689987",
+        "text": "RT @DayanaBonilla_: J'ai l’immense plaisir de vous annoncer ma candidature aux #legislatives2022 avec le @PartiAnimaliste, sur la 4ème circ…",
+        "created_at": "2022-04-25 13:19:42+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1518580513547689987,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 79,
+                    "end": 96,
+                    "tag": "legislatives2022"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "DayanaBonilla_",
+                    "id": "233592011"
+                },
+                {
+                    "start": 105,
+                    "end": 121,
+                    "username": "PartiAnimaliste",
+                    "id": "4396594342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 58,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516802774742274053",
+        "text": "🚨”Bien fait pour ta gueule” : veaux maltraités chez @denkavit l’un des leaders du veau en France 👉 signez la pétition https://t.co/jz9XWEwR1g 🚨",
+        "created_at": "2022-04-20 15:35:36+00:00",
+        "attachments": null,
+        "author_id": 1203299532655779841,
+        "context_annotations": [],
+        "conversation_id": 1516802774742274053,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 52,
+                    "end": 61,
+                    "username": "Denkavit",
+                    "id": "133232292"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 141,
+                    "url": "https://t.co/jz9XWEwR1g",
+                    "expanded_url": "http://l214.com/enquetes/2022/veaux-centre-recherche-denkavit/",
+                    "display_url": "l214.com/enquetes/2022/…",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1541717014431031297/X9Uey6qZ?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 627
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1541717014431031297/X9Uey6qZ?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "\"Bien fait pour ta gueule\" : violence en élevage",
+                    "description": "🚨 Interpellons Monsieur le préfet du Maine-et-Loire : signons la pétition 🚨",
+                    "unwound_url": "https://www.l214.com/enquetes/2022/veaux-centre-recherche-denkavit/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

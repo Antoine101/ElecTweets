@@ -30,7 +30,7 @@
         "public_metrics": {
             "retweet_count": 12,
             "reply_count": 8,
-            "like_count": 50,
+            "like_count": 51,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -1967,7 +1967,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 51,
+            "retweet_count": 49,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -3377,7 +3377,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 193,
+            "retweet_count": 192,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -3714,7 +3714,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 206,
+            "retweet_count": 204,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -4102,7 +4102,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 292,
+            "retweet_count": 291,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -4187,7 +4187,7 @@
         "public_metrics": {
             "retweet_count": 13,
             "reply_count": 0,
-            "like_count": 43,
+            "like_count": 44,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -5155,6 +5155,13 @@
         "context_annotations": [],
         "conversation_id": 1529370058681729024,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 31,
+                    "tag": "Paris5"
+                }
+            ],
             "urls": [
                 {
                     "start": 32,
@@ -5163,13 +5170,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1529370058681729024/photo/1",
                     "display_url": "pic.twitter.com/3oLZzqvjLu",
                     "media_key": "3_1529370052360814592"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 24,
-                    "end": 31,
-                    "tag": "Paris5"
                 }
             ]
         },
@@ -5223,16 +5223,6 @@
         ],
         "conversation_id": 1529369471697227777,
         "entities": {
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/J0XqWmQHSJ",
-                    "expanded_url": "https://twitter.com/jp_lecoq/status/1529369471697227777/photo/1",
-                    "display_url": "pic.twitter.com/J0XqWmQHSJ",
-                    "media_key": "3_1529369451002568705"
-                }
-            ],
             "mentions": [
                 {
                     "start": 6,
@@ -5258,6 +5248,16 @@
                     "start": 109,
                     "end": 116,
                     "tag": "Paris7"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/J0XqWmQHSJ",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1529369471697227777/photo/1",
+                    "display_url": "pic.twitter.com/J0XqWmQHSJ",
+                    "media_key": "3_1529369451002568705"
                 }
             ]
         },
@@ -5408,23 +5408,7 @@
                     "end": 105,
                     "url": "https://t.co/P8YJoUtYj1",
                     "expanded_url": "https://www.lefigaro.fr/elections/legislatives/nouveau-gouvernement-les-ministres-battus-aux-legislatives-devront-demissionner-20220522",
-                    "display_url": "lefigaro.fr/elections/legi…",
-                    "images": [
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1539225689987158016/2rXgpJqU?format=jpg&name=orig",
-                            "width": 1200,
-                            "height": 630
-                        },
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1539225689987158016/2rXgpJqU?format=jpg&name=150x150",
-                            "width": 150,
-                            "height": 150
-                        }
-                    ],
-                    "status": 200,
-                    "title": "Élections législatives : les ministres battus devront démissionner",
-                    "description": "INFO LE FIGARO - L'Élysée maintient la consigne déjà édictée par Emmanuel Macron il y a cinq ans, et héritée de Nicolas Sarkozy en 2007. Quinze ministres sont concernés, dont la première d'entre eux Élisabeth Borne.",
-                    "unwound_url": "https://www.lefigaro.fr/elections/legislatives/nouveau-gouvernement-les-ministres-battus-aux-legislatives-devront-demissionner-20220522"
+                    "display_url": "lefigaro.fr/elections/legi…"
                 }
             ]
         },
@@ -5523,6 +5507,13 @@
         "context_annotations": [],
         "conversation_id": 1528385466931761153,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 133,
+                    "end": 140,
+                    "tag": "Paris6"
+                }
+            ],
             "urls": [
                 {
                     "start": 142,
@@ -5530,13 +5521,6 @@
                     "url": "https://t.co/KBpy4OvNhl",
                     "expanded_url": "https://images.app.goo.gl/3X7MCjrAtaR63fpw8",
                     "display_url": "images.app.goo.gl/3X7MCjrAtaR63f…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 133,
-                    "end": 140,
-                    "tag": "Paris6"
                 }
             ]
         },
@@ -5871,6 +5855,14 @@
         ],
         "conversation_id": 1528068162050215939,
         "entities": {
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 36,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
             "urls": [
                 {
                     "start": 261,
@@ -5878,14 +5870,6 @@
                     "url": "https://t.co/uV8EarcXCj",
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1401190619289108485",
                     "display_url": "twitter.com/jp_lecoq/statu…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 23,
-                    "end": 36,
-                    "username": "mairie6paris",
-                    "id": "524418606"
                 }
             ]
         },
@@ -6235,16 +6219,6 @@
         "context_annotations": [],
         "conversation_id": 1527991217438527490,
         "entities": {
-            "urls": [
-                {
-                    "start": 151,
-                    "end": 174,
-                    "url": "https://t.co/BwG6VtvPJr",
-                    "expanded_url": "https://twitter.com/jp_lecoq/status/1527991217438527490/photo/1",
-                    "display_url": "pic.twitter.com/BwG6VtvPJr",
-                    "media_key": "3_1527991210681540608"
-                }
-            ],
             "mentions": [
                 {
                     "start": 92,
@@ -6263,6 +6237,16 @@
                     "start": 143,
                     "end": 150,
                     "tag": "Paris6"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 151,
+                    "end": 174,
+                    "url": "https://t.co/BwG6VtvPJr",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1527991217438527490/photo/1",
+                    "display_url": "pic.twitter.com/BwG6VtvPJr",
+                    "media_key": "3_1527991210681540608"
                 }
             ]
         },
@@ -6305,6 +6289,14 @@
         ],
         "conversation_id": 1527758142934851585,
         "entities": {
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 93,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
             "urls": [
                 {
                     "start": 95,
@@ -6313,14 +6305,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1527758142934851585/photo/1",
                     "display_url": "pic.twitter.com/7VyBYmdzYs",
                     "media_key": "3_1527758134781042688"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 80,
-                    "end": 93,
-                    "username": "mairie6paris",
-                    "id": "524418606"
                 }
             ]
         },
@@ -6558,6 +6542,14 @@
         "context_annotations": [],
         "conversation_id": 1527382704211501056,
         "entities": {
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 78,
+                    "username": "InstitutFrance",
+                    "id": "1055844592782884864"
+                }
+            ],
             "urls": [
                 {
                     "start": 80,
@@ -6566,14 +6558,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1527382704211501056/photo/1",
                     "display_url": "pic.twitter.com/W98rWSw10C",
                     "media_key": "3_1527382685961822211"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 63,
-                    "end": 78,
-                    "username": "InstitutFrance",
-                    "id": "1055844592782884864"
                 }
             ]
         },
@@ -6669,7 +6653,23 @@
                     "end": 134,
                     "url": "https://t.co/4coNNxeavI",
                     "expanded_url": "https://acteurspublics.fr/articles/la-suppression-du-corps-diplomatique-provoque-un-appel-a-la-greve-au-quai-dorsay?utm_campaign=NEWS_ACTUS_19_05_2022&utm_medium=email&utm_source=Mailjet",
-                    "display_url": "acteurspublics.fr/articles/la-su…"
+                    "display_url": "acteurspublics.fr/articles/la-su…",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1527256893881782272/MLSfsL75?format=jpg&name=orig",
+                            "width": 668,
+                            "height": 374
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1527256893881782272/MLSfsL75?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "La suppression du corps diplomatique provoque un appel à la grève au Quai d’Orsay | À la une | Acteurs Publics",
+                    "description": "Plusieurs syndicats du ministère des Affaires étrangères ont décidé de lancer un appel à la grève pour le 2 juin prochain, en réaction à la mise en extinction des corps de diplomates. Une démarche quasi inédite. La contestation était en germe depuis plusieurs mois et le sujet s’était même invité durant la campagne présidentielle.",
+                    "unwound_url": "https://acteurspublics.fr/articles/la-suppression-du-corps-diplomatique-provoque-un-appel-a-la-greve-au-quai-dorsay?utm_campaign=NEWS_ACTUS_19_05_2022&utm_medium=email&utm_source=Mailjet"
                 }
             ]
         },
@@ -6700,6 +6700,13 @@
         "context_annotations": [],
         "conversation_id": 1527222481148383233,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 125,
+                    "tag": "Paris6"
+                }
+            ],
             "urls": [
                 {
                     "start": 126,
@@ -6708,13 +6715,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1527222481148383233/photo/1",
                     "display_url": "pic.twitter.com/hPgVxsrfOq",
                     "media_key": "3_1527222474764582912"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 118,
-                    "end": 125,
-                    "tag": "Paris6"
                 }
             ]
         },
@@ -6745,6 +6745,14 @@
         "context_annotations": [],
         "conversation_id": 1527216521562431488,
         "entities": {
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 101,
+                    "username": "APHP",
+                    "id": "140764564"
+                }
+            ],
             "urls": [
                 {
                     "start": 103,
@@ -6753,14 +6761,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1527216521562431488/photo/1",
                     "display_url": "pic.twitter.com/RNAOM3eNFR",
                     "media_key": "3_1527216514558046208"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 96,
-                    "end": 101,
-                    "username": "APHP",
-                    "id": "140764564"
                 }
             ]
         },
@@ -6837,6 +6837,14 @@
         ],
         "conversation_id": 1526871443539206154,
         "entities": {
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 55,
+                    "username": "ConseildEtat",
+                    "id": "2285173867"
+                }
+            ],
             "urls": [
                 {
                     "start": 164,
@@ -6844,14 +6852,6 @@
                     "url": "https://t.co/mIlm9VxKvK",
                     "expanded_url": "https://twitter.com/respireasso/status/1526556425639665664",
                     "display_url": "twitter.com/respireasso/st…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 42,
-                    "end": 55,
-                    "username": "ConseildEtat",
-                    "id": "2285173867"
                 }
             ]
         },
@@ -6861,7 +6861,7 @@
         "possibly_sensitive": false,
         "public_metrics": {
             "retweet_count": 7,
-            "reply_count": 8,
+            "reply_count": 7,
             "like_count": 19,
             "quote_count": 0
         },
@@ -6955,6 +6955,14 @@
         ],
         "conversation_id": 1526492391552823297,
         "entities": {
+            "mentions": [
+                {
+                    "start": 124,
+                    "end": 137,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
             "urls": [
                 {
                     "start": 139,
@@ -6963,14 +6971,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1526492391552823297/photo/1",
                     "display_url": "pic.twitter.com/qGIwyz5coX",
                     "media_key": "3_1526492378764349440"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 124,
-                    "end": 137,
-                    "username": "mairie6paris",
-                    "id": "524418606"
                 }
             ]
         },
@@ -7308,7 +7308,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 213,
+            "retweet_count": 212,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -7393,6 +7393,14 @@
         "context_annotations": [],
         "conversation_id": 1525124225937424384,
         "entities": {
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 49,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
             "urls": [
                 {
                     "start": 51,
@@ -7401,14 +7409,6 @@
                     "expanded_url": "https://twitter.com/jp_lecoq/status/1525124225937424384/photo/1",
                     "display_url": "pic.twitter.com/IE6jCxQWqX",
                     "media_key": "3_1525124216525291522"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 36,
-                    "end": 49,
-                    "username": "mairie6paris",
-                    "id": "524418606"
                 }
             ]
         },
@@ -7587,16 +7587,6 @@
         "context_annotations": [],
         "conversation_id": 1524324294356054020,
         "entities": {
-            "urls": [
-                {
-                    "start": 78,
-                    "end": 101,
-                    "url": "https://t.co/dur9F02cSP",
-                    "expanded_url": "https://twitter.com/jp_lecoq/status/1524324294356054020/photo/1",
-                    "display_url": "pic.twitter.com/dur9F02cSP",
-                    "media_key": "3_1524324287418712065"
-                }
-            ],
             "mentions": [
                 {
                     "start": 23,
@@ -7610,6 +7600,16 @@
                     "start": 69,
                     "end": 77,
                     "tag": "culture"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/dur9F02cSP",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1524324294356054020/photo/1",
+                    "display_url": "pic.twitter.com/dur9F02cSP",
+                    "media_key": "3_1524324287418712065"
                 }
             ]
         },
@@ -7680,23 +7680,7 @@
                     "end": 103,
                     "url": "https://t.co/JAVDnliWYG",
                     "expanded_url": "https://www.lefigaro.fr/actualite-france/un-rapport-choc-sur-la-gestion-kafkaienne-de-l-immigration-en-france-20220510",
-                    "display_url": "lefigaro.fr/actualite-fran…",
-                    "images": [
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1536977575993548801/zeJjMiXe?format=jpg&name=orig",
-                            "width": 1200,
-                            "height": 630
-                        },
-                        {
-                            "url": "https://pbs.twimg.com/news_img/1536977575993548801/zeJjMiXe?format=jpg&name=150x150",
-                            "width": 150,
-                            "height": 150
-                        }
-                    ],
-                    "status": 200,
-                    "title": "Le rapport choc sur la gestion kafkaïenne de l’immigration en France",
-                    "description": "EXCLUSIF - La commission des lois du Sénat décrit des préfectures asphyxiées, des tribunaux débordés, un droit «illisible».",
-                    "unwound_url": "https://www.lefigaro.fr/actualite-france/un-rapport-choc-sur-la-gestion-kafkaienne-de-l-immigration-en-france-20220510"
+                    "display_url": "lefigaro.fr/actualite-fran…"
                 }
             ]
         },
@@ -7708,6 +7692,2928 @@
             "retweet_count": 30,
             "reply_count": 1,
             "like_count": 38,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523944452489891840",
+        "text": "Présent hier à l’inauguration de la chapelle Saint Jean de l’église Saint Séverin, avec ⁦@FBerthout⁩ ⁦&amp; @karen_taieb⁩ https://t.co/jI5robjOn7",
+        "created_at": "2022-05-10 08:34:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523944447846883329"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1523944452489891840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 99,
+                    "username": "FBerthout",
+                    "id": "1949079318"
+                },
+                {
+                    "start": 108,
+                    "end": 120,
+                    "username": "karen_taieb",
+                    "id": "2322711826"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 122,
+                    "end": 145,
+                    "url": "https://t.co/jI5robjOn7",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1523944452489891840/photo/1",
+                    "display_url": "pic.twitter.com/jI5robjOn7",
+                    "media_key": "3_1523944447846883329"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523942944759242752",
+        "text": "Merci à Philippe Martial fidèle défenseur mémoriel de Gaston Monnerville de nous présenter, grâce à ce livre, une nouvelle facette de cet homme politique hors norme qui a présidé le Sénat sous deux Républiques. https://t.co/ykeh0yId3q",
+        "created_at": "2022-05-10 08:28:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523942939055079424"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1523942944759242752,
+        "entities": {
+            "urls": [
+                {
+                    "start": 211,
+                    "end": 234,
+                    "url": "https://t.co/ykeh0yId3q",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1523942944759242752/photo/1",
+                    "display_url": "pic.twitter.com/ykeh0yId3q",
+                    "media_key": "3_1523942939055079424"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523774682268319745",
+        "text": "RT @datirachida: L'état du #ChampdeMars est le résultat de la surexploitation commerciale menée par #AnneHidalgo. Et le #projetOne aggraver…",
+        "created_at": "2022-05-09 21:19:29+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1523774682268319745,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 39,
+                    "tag": "ChampdeMars"
+                },
+                {
+                    "start": 100,
+                    "end": 112,
+                    "tag": "AnneHidalgo"
+                },
+                {
+                    "start": 120,
+                    "end": 130,
+                    "tag": "projetOne"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 179,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523774405817602064",
+        "text": "Concert caritatif en faveur de l’Ukraine ⁦@mairie6paris⁩ en présence de SE l’Ambassadeur d’Ukraine en France et de Mgr l’Eveque de Saint Volodymyr #Paris6 https://t.co/nS8dhOtPUy",
+        "created_at": "2022-05-09 21:18:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523774400885141505"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1523774405817602064,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 55,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 147,
+                    "end": 154,
+                    "tag": "Paris6"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 155,
+                    "end": 178,
+                    "url": "https://t.co/nS8dhOtPUy",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1523774405817602064/photo/1",
+                    "display_url": "pic.twitter.com/nS8dhOtPUy",
+                    "media_key": "3_1523774400885141505"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523343279298793472",
+        "text": "Commémoration ⁦@mairie6paris⁩ du 77e anniversaire du 8 mai 1945, date de la victoire des alliés, de la capitulation du régime nazi et de la fin de la seconde guerre mondiale en Europe #devoirdememoire https://t.co/V9a1nkdVxp",
+        "created_at": "2022-05-08 16:45:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523343269056454657"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1523343279298793472,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 28,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 184,
+                    "end": 200,
+                    "tag": "devoirdememoire"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 201,
+                    "end": 224,
+                    "url": "https://t.co/V9a1nkdVxp",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1523343279298793472/photo/1",
+                    "display_url": "pic.twitter.com/V9a1nkdVxp",
+                    "media_key": "3_1523343269056454657"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523311030461669376",
+        "text": "Le Musée de Cluny ⁦rouvre ses portes le 12 mai après une longue période de travaux. Saluons la renaissance de ce magnifique musée du Moyen Âge au cœur du quartier latin #Paris6 #culture ⁦@museecluny⁩ https://t.co/FNzRnMrsS5",
+        "created_at": "2022-05-08 14:37:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523311019531112448"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1523311030461669376,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 187,
+                    "end": 198,
+                    "username": "museecluny",
+                    "id": "182043397"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 169,
+                    "end": 176,
+                    "tag": "Paris6"
+                },
+                {
+                    "start": 177,
+                    "end": 185,
+                    "tag": "culture"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 200,
+                    "end": 223,
+                    "url": "https://t.co/FNzRnMrsS5",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1523311030461669376/photo/1",
+                    "display_url": "pic.twitter.com/FNzRnMrsS5",
+                    "media_key": "3_1523311019531112448"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 26,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523257112586989569",
+        "text": "RT @datirachida: #Paris numéro 1 de la criminalité en France métropolitaine !  #StopHidalgo #ChangerParis https://t.co/BSo0fNGE70",
+        "created_at": "2022-05-08 11:02:51+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522635582064705536"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1523257112586989569,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 23,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 79,
+                    "end": 91,
+                    "tag": "StopHidalgo"
+                },
+                {
+                    "start": 92,
+                    "end": 105,
+                    "tag": "ChangerParis"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/BSo0fNGE70",
+                    "expanded_url": "https://twitter.com/datirachida/status/1522635586191904768/photo/1",
+                    "display_url": "pic.twitter.com/BSo0fNGE70",
+                    "media_key": "3_1522635582064705536"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 367,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522943667488669696",
+        "text": "Trois universités de Paris classées parmi les meilleures du monde. Le quartier latin et le 6e arrondissement toujours fidèles à leur réputation d’excellence! https://t.co/Ij82l8yZlH",
+        "created_at": "2022-05-07 14:17:19+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1522943667488669696,
+        "entities": {
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/Ij82l8yZlH",
+                    "expanded_url": "https://www.sortiraparis.com/actualites/a-paris/articles/274755-trois-universites-de-paris-classees-parmi-les-meilleures-du-monde",
+                    "display_url": "sortiraparis.com/actualites/a-p…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522901696808202241",
+        "text": "Un immense merci aux Mamans de Paris qui collectent pour l’Ukraine nourriture, vêtements et médicaments en liaison avec les responsables de la paroisse Saint Volodymyr #Paris6 https://t.co/i6k0xJqTQz",
+        "created_at": "2022-05-07 11:30:33+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522901685684871174"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1522901696808202241,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 168,
+                    "end": 175,
+                    "tag": "Paris6"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 176,
+                    "end": 199,
+                    "url": "https://t.co/i6k0xJqTQz",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1522901696808202241/photo/1",
+                    "display_url": "pic.twitter.com/i6k0xJqTQz",
+                    "media_key": "3_1522901685684871174"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 20,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522542275125030915",
+        "text": "RT @LR75_06: En Février dernier @jp_lecoq rappelait à la Ville de Paris sa promesse de refaire le platelage du #PontDesArts!\n\nToujours rien…",
+        "created_at": "2022-05-06 11:42:20+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1522542275125030915,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LR75_06",
+                    "id": "1089691430849789952"
+                },
+                {
+                    "start": 32,
+                    "end": 41,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 123,
+                    "tag": "PontDesArts"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522224683881578498",
+        "text": "Plus que jamais la Passerelle des Arts est en totale déshérence: platelage dans un état déplorable, dangereux et instable sous les pas des usagers ou des promeneurs, vitres latérales couvertes d’autocollants, et en prime, pour aggraver le tout, retour des cadenas... https://t.co/8FeHOIjbBm",
+        "created_at": "2022-05-05 14:40:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522224675748786176"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1522224683881578498,
+        "entities": {
+            "urls": [
+                {
+                    "start": 267,
+                    "end": 290,
+                    "url": "https://t.co/8FeHOIjbBm",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1522224683881578498/photo/1",
+                    "display_url": "pic.twitter.com/8FeHOIjbBm",
+                    "media_key": "3_1522224675748786176"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 9,
+            "like_count": 102,
+            "quote_count": 6
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522168505965109248",
+        "text": "Bonne nouvelle pour l’activité commerciale de la rue de Rennes! \nLa grande enseigne Boulanger s’installe à la place de H&amp;M.\n#Paris6 https://t.co/qwsdZ6F0l7",
+        "created_at": "2022-05-05 10:57:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522168499778564096"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1522168505965109248,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 135,
+                    "tag": "Paris6"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/qwsdZ6F0l7",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1522168505965109248/photo/1",
+                    "display_url": "pic.twitter.com/qwsdZ6F0l7",
+                    "media_key": "3_1522168499778564096"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 4,
+            "like_count": 36,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522150527806627840",
+        "text": "À méditer à l’orée de ce nouveau quinquennat... https://t.co/1leeqyPBYj",
+        "created_at": "2022-05-05 09:45:40+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522150517631332354"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1522150527806627840,
+        "entities": {
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/1leeqyPBYj",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1522150527806627840/photo/1",
+                    "display_url": "pic.twitter.com/1leeqyPBYj",
+                    "media_key": "3_1522150517631332354"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521941494374060042",
+        "text": "RT @CCI_75: 🤝 Rencontre entre Soumia Malinbaum, présidente de la CCI Paris et Jean-Pierre Lecoq, Maire du 6ème. \n📆 Prochain RDV Cafés Solut…",
+        "created_at": "2022-05-04 19:55:03+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850442647088971776",
+                    "name": "Coffee",
+                    "description": "Coffee"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850442647088971776",
+                    "name": "Coffee",
+                    "description": "Coffee"
+                }
+            }
+        ],
+        "conversation_id": 1521941494374060042,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "CCI_75",
+                    "id": "389664831"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521940987530166274",
+        "text": "Félicitations à la DEVE pour la réfection du parc canin du Jardin des Grands Explorateurs financée par le Conseil de Quartier Notre Dame des Champs https://t.co/ob1eGAGiC9",
+        "created_at": "2022-05-04 19:53:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1521940978281721857"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1521940987530166274,
+        "entities": {
+            "urls": [
+                {
+                    "start": 148,
+                    "end": 171,
+                    "url": "https://t.co/ob1eGAGiC9",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1521940987530166274/photo/1",
+                    "display_url": "pic.twitter.com/ob1eGAGiC9",
+                    "media_key": "3_1521940978281721857"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521845761658478592",
+        "text": "Au Centre André Malraux j’ai fait apposer une plaque à la mémoire des Justes parmi les Nations du 6e arrdt reconnus comme tels pour avoir sauvé des juifs sous l’occupation nazie. https://t.co/k20guqFo78",
+        "created_at": "2022-05-04 13:34:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1521845751965487104"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1521845761658478592,
+        "entities": {
+            "urls": [
+                {
+                    "start": 179,
+                    "end": 202,
+                    "url": "https://t.co/k20guqFo78",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1521845761658478592/photo/1",
+                    "display_url": "pic.twitter.com/k20guqFo78",
+                    "media_key": "3_1521845751965487104"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 4,
+            "like_count": 63,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521519320886648832",
+        "text": "RT @EugenieBastie: Implacable Rachida Dati qui souligne que le projet du #champdeMars est encore une fois un sacrifice du cadre de vie des…",
+        "created_at": "2022-05-03 15:57:29+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521519320886648832,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "EugenieBastie",
+                    "id": "346557191"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 73,
+                    "end": 85,
+                    "tag": "champdeMars"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 130,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521516668643684353",
+        "text": "Samedi et dimanche 7 et 8 mai le Forum104 rue de Vaugirard organise une vente d’artisanat tibétain dont les recettes serviront à financer la scolarité d’enfants tibétains réfugiés dans le Sikkim #Paris6",
+        "created_at": "2022-05-03 15:46:56+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1521516668643684353,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 195,
+                    "end": 202,
+                    "tag": "Paris6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521064944757846016",
+        "text": "Cet immeuble 69 rue de Sèvres est abandonné par sa propriétaire depuis 20 ans et a été squatté par Jeudi Noir!\nDes demandes répétées du Conseil du 6e arrdt sont restées sans réponse.\nQue fait la Mairie de Paris? Rien. Que font les services de l’État? Rien.\nPeut-être dans 20 ans? https://t.co/NTgEfztJzT",
+        "created_at": "2022-05-02 09:51:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1521064936633470978"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1521064944757846016,
+        "entities": {
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/NTgEfztJzT",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1521064944757846016/photo/1",
+                    "display_url": "pic.twitter.com/NTgEfztJzT",
+                    "media_key": "3_1521064936633470978"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 5,
+            "like_count": 15,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520773335868706817",
+        "text": "RT @opasselecq: #Régine n’est pas seulement la reine de la nuit à qui l’on rend hommage aujourd’hui, elle restera dans toutes les mémoires…",
+        "created_at": "2022-05-01 14:33:12+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1520773335868706817,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "opasselecq",
+                    "id": "544342341"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 23,
+                    "tag": "Régine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520772070707236865",
+        "text": "Et jamais deux sans trois... Encore une corbeille 🌷à remplacer d’urgence. https://t.co/cUf0qvNk3P",
+        "created_at": "2022-05-01 14:28:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520772057956597761"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1520772070707236865,
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/cUf0qvNk3P",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1520772070707236865/photo/1",
+                    "display_url": "pic.twitter.com/cUf0qvNk3P",
+                    "media_key": "3_1520772057956597761"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520765713190952960",
+        "text": "Corbeilles ... suite. https://t.co/daVX0kGFSh",
+        "created_at": "2022-05-01 14:02:55+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520765704261283840"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1520765713190952960,
+        "entities": {
+            "urls": [
+                {
+                    "start": 22,
+                    "end": 45,
+                    "url": "https://t.co/daVX0kGFSh",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1520765713190952960/photo/1",
+                    "display_url": "pic.twitter.com/daVX0kGFSh",
+                    "media_key": "3_1520765704261283840"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520730481691697154",
+        "text": "RT @patricia_zonza: Merci cher @jp_lecoq , c’est une lecture de notre quartier , très agréable . Merci à votre équipe de com 🙏🏼👌🏼",
+        "created_at": "2022-05-01 11:42:55+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1520730481691697154,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "patricia_zonza",
+                    "id": "1331382260"
+                },
+                {
+                    "start": 31,
+                    "end": 40,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520700598366187520",
+        "text": "RT @GpeChangerParis: Le bilan d’@Anne_Hidalgo à Paris :\n\n💸 10 milliards de dette\n😱 + de 4500 agressions gratuites par trimestre\n🌳 15000 arb…",
+        "created_at": "2022-05-01 09:44:10+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1520700598366187520,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 32,
+                    "end": 45,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 339,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520700300809674754",
+        "text": "Je souhaite à toutes et à tous un bon 1er Mai avec ce brin de muguet printanier! https://t.co/3rzci1Kuy3",
+        "created_at": "2022-05-01 09:42:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520700291762511873"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1520700300809674754,
+        "entities": {
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/3rzci1Kuy3",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1520700300809674754/photo/1",
+                    "display_url": "pic.twitter.com/3rzci1Kuy3",
+                    "media_key": "3_1520700291762511873"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 22,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520699129982246912",
+        "text": "RT @GpeChangerParis: 15000 arbres coupés à #Paris depuis l’arrivée d’@Anne_Hidalgo : c’est trop !\nEt alors que le cours du bois augmente, q…",
+        "created_at": "2022-05-01 09:38:20+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1520699129982246912,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 69,
+                    "end": 82,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 43,
+                    "end": 49,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 202,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520441960695320580",
+        "text": "#Paris Les corbeilles tulipe sont d’une capacité insuffisante et donc inefficaces: il est indispensable et urgent de les remplacer. https://t.co/TdtDq9tN7b",
+        "created_at": "2022-04-30 16:36:26+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520441939308560388"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1520441960695320580,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "Paris"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/TdtDq9tN7b",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1520441960695320580/photo/1",
+                    "display_url": "pic.twitter.com/TdtDq9tN7b",
+                    "media_key": "3_1520441939308560388"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 48,
+            "like_count": 271,
+            "quote_count": 10
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519353116663156746",
+        "text": "2/2 Et je déplore que @ParisEnSelle soutienne un projet qui va faire passer chaque jour des centaines de véhicules motorisés dans la rue Littré qui est pourtant une « Rue aux écoles »!!",
+        "created_at": "2022-04-27 16:29:45+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519353116663156746,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 35,
+                    "username": "ParisEnSelle",
+                    "id": "2990263883"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 3,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519352345242521603",
+        "text": "Je regrette que @ParisEnSelle par son soutien inconditionnel à tous les projets de la Mairie de Paris soit défavorable à la Vélorue largement approuvée par les habitants du secteur... 1/2",
+        "created_at": "2022-04-27 16:26:41+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519352345242521603,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "ParisEnSelle",
+                    "id": "2990263883"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 14,
+            "like_count": 9,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519266657386049537",
+        "text": "Le numéro de mai de Notre 6eme  https://t.co/dyFJlg0IXu",
+        "created_at": "2022-04-27 10:46:12+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519266657386049537,
+        "entities": {
+            "urls": [
+                {
+                    "start": 32,
+                    "end": 55,
+                    "url": "https://t.co/dyFJlg0IXu",
+                    "expanded_url": "https://www.calameo.com/read/0005369663957b94eac04",
+                    "display_url": "calameo.com/read/000536966…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519250874471755777",
+        "text": "RT @BFMParis: 💬 \"Paris n'est pas uniforme\"\n\nJean-Pierre Lecoq (@jp_lecoq), maire du 6e arrondissement, appelle la mairie centrale à \"être a…",
+        "created_at": "2022-04-27 09:43:29+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519250874471755777,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "BFMParis",
+                    "id": "725241657608814592"
+                },
+                {
+                    "start": 63,
+                    "end": 72,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519250833409515520",
+        "text": "RT @BFMParis: 💬 \"Je propose un scénario alternatif\"\n\nJean-Pierre Lecoq (@jp_lecoq), maire du 6e arrondissement, a lancé une consultation su…",
+        "created_at": "2022-04-27 09:43:19+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519250833409515520,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "BFMParis",
+                    "id": "725241657608814592"
+                },
+                {
+                    "start": 72,
+                    "end": 81,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519250811255205890",
+        "text": "RT @BFMParis: 💬 \"Elle est indiscutable\"\n\nJean-Pierre Lecoq (@jp_lecoq), maire du 6e arrondissement, est favorable à la pérennisation de la…",
+        "created_at": "2022-04-27 09:43:14+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519250811255205890,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "BFMParis",
+                    "id": "725241657608814592"
+                },
+                {
+                    "start": 60,
+                    "end": 69,
+                    "username": "jp_lecoq",
+                    "id": "539156968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1519044915984015364",
+        "text": "À partir du début du mois de mai la ⁦@mairie6paris⁩ fera signer aux bénéficiaires d’une terrasse estivale une charte spécifiant la fin de leur exploitation à 22h. https://t.co/jOcDIXtg7j",
+        "created_at": "2022-04-26 20:05:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1519044908484603905"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1519044915984015364,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 37,
+                    "end": 50,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 163,
+                    "end": 186,
+                    "url": "https://t.co/jOcDIXtg7j",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1519044915984015364/photo/1",
+                    "display_url": "pic.twitter.com/jOcDIXtg7j",
+                    "media_key": "3_1519044908484603905"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 11,
+            "like_count": 33,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518930241430900739",
+        "text": "Invité de la matinale de @BFMParis demain mercredi à 8h15 pour parler des projets de vélo rue prévus par la Mairie de Paris rue de Vaugirard et de la consultation en cours.",
+        "created_at": "2022-04-26 12:29:24+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1518930241430900739,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 25,
+                    "end": 34,
+                    "username": "BFMParis",
+                    "id": "725241657608814592"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 2,
+            "like_count": 21,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518614450340872195",
+        "text": "À Paris Emmanuel Macron l’emporte très largement dans tous les arrondissements de la capitale avec plus de 85% des suffrages exprimés. https://t.co/bbEuDKezH5",
+        "created_at": "2022-04-25 15:34:34+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 1518614450340872195,
+        "entities": {
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/bbEuDKezH5",
+                    "expanded_url": "https://www.lefigaro.fr/elections/presidentielles/resultats-presidentielle-2022-je-ne-suis-plus-le-candidat-d-un-clan-mais-le-president-de-tous-lance-emmanuel-macron-20220424?utm_medium=Social&utm_campaign=echobox&utm_source=Twitter&origine=VWT16001#Echobox=1650834493",
+                    "display_url": "lefigaro.fr/elections/pres…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518193440869208068",
+        "text": "Commémoration des victimes de la déportation ce matin ⁦@mairie6paris⁩ https://t.co/wPI5cLpm0z",
+        "created_at": "2022-04-24 11:41:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1518193433285963778"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1518193440869208068,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 55,
+                    "end": 68,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/wPI5cLpm0z",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1518193440869208068/photo/1",
+                    "display_url": "pic.twitter.com/wPI5cLpm0z",
+                    "media_key": "3_1518193433285963778"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 3,
+            "like_count": 34,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517909451357188097",
+        "text": "Une belle initiative que ce Festival du Livre de Paris au Grand Palais Éphémère, mais on regrettera une gestion défaillante des flux de visiteurs à l’entrée.. https://t.co/7ZUm09suNB",
+        "created_at": "2022-04-23 16:53:09+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517909451357188097,
+        "entities": {
+            "urls": [
+                {
+                    "start": 159,
+                    "end": 182,
+                    "url": "https://t.co/7ZUm09suNB",
+                    "expanded_url": "https://twitter.com/BFMParis/status/1517797137354043393",
+                    "display_url": "twitter.com/BFMParis/statu…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517831045458153474",
+        "text": "Mes chaleureuses félicitations à Karine Journo qui a été décorée de l’Ordre National du Mérite par le général Puga, Grand Chancelier de l’Ordre. https://t.co/uHRE8UFDF3",
+        "created_at": "2022-04-23 11:41:35+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517831036855627778"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517831045458153474,
+        "entities": {
+            "urls": [
+                {
+                    "start": 145,
+                    "end": 168,
+                    "url": "https://t.co/uHRE8UFDF3",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1517831045458153474/photo/1",
+                    "display_url": "pic.twitter.com/uHRE8UFDF3",
+                    "media_key": "3_1517831036855627778"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517826880665264129",
+        "text": "Hommage à Jacques Perrin, acteur aux multiples talents et producteur aussi entreprenant qu’innovant.                Inoubliable interprète de « la 317e section » de Pierre Schoendorffer, l’un des plus grands films de guerre du cinéma français. https://t.co/xokmnZRPIG",
+        "created_at": "2022-04-23 11:25:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517826873241313280"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1484601166080081920",
+                    "name": "Russo-Ukrainian conflict"
+                }
+            }
+        ],
+        "conversation_id": 1517826880665264129,
+        "entities": {
+            "urls": [
+                {
+                    "start": 244,
+                    "end": 267,
+                    "url": "https://t.co/xokmnZRPIG",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1517826880665264129/photo/1",
+                    "display_url": "pic.twitter.com/xokmnZRPIG",
+                    "media_key": "3_1517826873241313280"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 21,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517482447826558978",
+        "text": "Je condamne fermement ces dégradations intolérables du lycée Montaigne. https://t.co/BK4ta6yfWO",
+        "created_at": "2022-04-22 12:36:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517482443753889795"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517482447826558978,
+        "entities": {
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/BK4ta6yfWO",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1517482447826558978/photo/1",
+                    "display_url": "pic.twitter.com/BK4ta6yfWO",
+                    "media_key": "3_1517482443753889795"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 13,
+            "like_count": 99,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517444487546650624",
+        "text": "La suppression du corps diplomatique, une faute historique. https://t.co/2OXc2IkgPf",
+        "created_at": "2022-04-22 10:05:33+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517444481913655298"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517444487546650624,
+        "entities": {
+            "urls": [
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/2OXc2IkgPf",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1517444487546650624/photo/1",
+                    "display_url": "pic.twitter.com/2OXc2IkgPf",
+                    "media_key": "3_1517444481913655298"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 195,
+            "reply_count": 29,
+            "like_count": 346,
+            "quote_count": 12
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517427879138713600",
+        "text": "La suppression du corps diplomatique inquiète au Sénat, une mission d’information sur les rails | Public Senat https://t.co/OoxhB2M9FG",
+        "created_at": "2022-04-22 08:59:33+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517427879138713600,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/OoxhB2M9FG",
+                    "expanded_url": "https://www.publicsenat.fr/article/parlementaire/la-suppression-du-corps-diplomatique-inquiete-au-senat-une-mission-d",
+                    "display_url": "publicsenat.fr/article/parlem…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 5,
+            "like_count": 29,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517156660610883585",
+        "text": "Au Mémorial des Martyrs de la Déportation. https://t.co/4Py2EzmXHb",
+        "created_at": "2022-04-21 15:01:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517156645737926656"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1517156660610883585,
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/4Py2EzmXHb",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1517156660610883585/photo/1",
+                    "display_url": "pic.twitter.com/4Py2EzmXHb",
+                    "media_key": "3_1517156645737926656"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516729971917606914",
+        "text": "À la remise du Prix Cazes à la brasserie LIPP #Paris6 https://t.co/8vumuHPoe7",
+        "created_at": "2022-04-20 10:46:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1516729933212626950"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1516729971917606914,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 53,
+                    "tag": "Paris6"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 54,
+                    "end": 77,
+                    "url": "https://t.co/8vumuHPoe7",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1516729971917606914/photo/1",
+                    "display_url": "pic.twitter.com/8vumuHPoe7",
+                    "media_key": "3_1516729933212626950"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516065913367314433",
+        "text": "Demain matin mardi sur @RMCInfo Interviewé sur l’organisation du vote 🗳 pour le 2d tour de la présidentielle #ApollineMatin  \nEt en direct 📺 sur @RMCStory",
+        "created_at": "2022-04-18 14:47:35+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1516065913367314433,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 31,
+                    "username": "RMCInfo",
+                    "id": "123830541"
+                },
+                {
+                    "start": 145,
+                    "end": 154,
+                    "username": "RMCStory",
+                    "id": "835630728"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 123,
+                    "tag": "ApollineMatin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1516057244814741505",
+        "text": "220.000 électeurs radiés par erreur révèle @le_Parisien \nAprès les centaines de milliers de doublons constatés lors d’élections précédentes le « Répertoire Électoral Unique » de nouveau sur la sellette. Une réaction du Ministère de l’Intérieur? https://t.co/1HQp6mblHS",
+        "created_at": "2022-04-18 14:13:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1516057238930137095"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1516057244814741505,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 55,
+                    "username": "le_Parisien",
+                    "id": "38142665"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 245,
+                    "end": 268,
+                    "url": "https://t.co/1HQp6mblHS",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1516057244814741505/photo/1",
+                    "display_url": "pic.twitter.com/1HQp6mblHS",
+                    "media_key": "3_1516057238930137095"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1515982412739715074",
+        "text": "Toutes mes félicitations aux agents de la @prefpolice qui ont interpellé deux tagueurs qui ont dégradé plus de trente façades d’immeubles rue Saint André des Arts #Paris6",
+        "created_at": "2022-04-18 09:15:47+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1515982412739715074,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 53,
+                    "username": "prefpolice",
+                    "id": "164713706"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 163,
+                    "end": 170,
+                    "tag": "Paris6"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 73,
+            "reply_count": 22,
+            "like_count": 436,
+            "quote_count": 6
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1515711816201953282",
+        "text": "Très bonne fête de #Pessah à la communauté juive! https://t.co/sy6HJERxfa",
+        "created_at": "2022-04-17 15:20:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1515711808694362122"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1515711816201953282,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 26,
+                    "tag": "Pessah"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/sy6HJERxfa",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1515711816201953282/photo/1",
+                    "display_url": "pic.twitter.com/sy6HJERxfa",
+                    "media_key": "3_1515711808694362122"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1515648948731588609",
+        "text": "Bonnes fêtes de #Paques à toutes et à tous! https://t.co/N26Jau6Oi0",
+        "created_at": "2022-04-17 11:10:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1515648942989578245"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1372917575357591554",
+                    "name": "Easter",
+                    "description": "this entity for all conversations for Easter all year "
+                }
+            },
+            {
+                "domain": {
+                    "id": "119",
+                    "name": "Holiday",
+                    "description": "Holidays like Christmas or Halloween"
+                },
+                "entity": {
+                    "id": "1372917575357591554",
+                    "name": "Easter",
+                    "description": "this entity for all conversations for Easter all year "
+                }
+            }
+        ],
+        "conversation_id": 1515648948731588609,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 23,
+                    "tag": "Paques"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 44,
+                    "end": 67,
+                    "url": "https://t.co/N26Jau6Oi0",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1515648948731588609/photo/1",
+                    "display_url": "pic.twitter.com/N26Jau6Oi0",
+                    "media_key": "3_1515648942989578245"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 3,
+            "like_count": 71,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514951671390035970",
+        "text": "À lire dans ⁦@Le_Figaro⁩ la prise de position de Benoît Duteurtre https://t.co/PRxsdDSsks",
+        "created_at": "2022-04-15 12:59:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1514951658261860358"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514951671390035970,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 13,
+                    "end": 23,
+                    "username": "Le_Figaro",
+                    "id": "8350912"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/PRxsdDSsks",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1514951671390035970/photo/1",
+                    "display_url": "pic.twitter.com/PRxsdDSsks",
+                    "media_key": "3_1514951658261860358"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 6,
+            "like_count": 64,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514904629594759169",
+        "text": "RT @mtwit75: Le Conseil Constitutionnel a annulé les suffrages du bureau de vote n°15 du XIIème arrondissement (école rue de Reuilly), dont…",
+        "created_at": "2022-04-15 09:53:03+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514904629594759169,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "mtwit75",
+                    "id": "1396347558"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 550,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514627228650323970",
+        "text": "Une belle initiative de l’Institut de France : une école pour les enfants réfugiés d’Ukraine.  https://t.co/SNLmGa9THn",
+        "created_at": "2022-04-14 15:30:46+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514627228650323970,
+        "entities": {
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/SNLmGa9THn",
+                    "expanded_url": "https://www.lepoint.fr/culture/une-ecole-pour-les-enfants-refugies-d-ukraine-a-l-institut-de-france-14-04-2022-2472133_3.php",
+                    "display_url": "lepoint.fr/culture/une-ec…",
+                    "status": 200,
+                    "title": "Une école pour les enfants réfugiés d’Ukraine à l’Institut de France",
+                    "description": "INFO LE POINT. L’institution va mettre à disposition des locaux pour permettre la scolarisation d’enfants ukrainiens. Explications.",
+                    "unwound_url": "https://www.lepoint.fr/culture/une-ecole-pour-les-enfants-refugies-d-ukraine-a-l-institut-de-france-14-04-2022-2472133_3.php"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514603657651634177",
+        "text": "La @mairie6paris accueille cet après-midi Francis Huster pour une passionnante conférence sur Molière  et la dédicace de son « dictionnaire amoureux » paru aux @EditionsPlon https://t.co/feZ8ZFCXCT",
+        "created_at": "2022-04-14 13:57:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1514603651926355968"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514603657651634177,
+        "entities": {
+            "urls": [
+                {
+                    "start": 174,
+                    "end": 197,
+                    "url": "https://t.co/feZ8ZFCXCT",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1514603657651634177/photo/1",
+                    "display_url": "pic.twitter.com/feZ8ZFCXCT",
+                    "media_key": "3_1514603651926355968"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "mairie6paris",
+                    "id": "524418606"
+                },
+                {
+                    "start": 160,
+                    "end": 173,
+                    "username": "EditionsPlon",
+                    "id": "412980703"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 19,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514261630779015169",
+        "text": "Dans le cadre de la Mission d’Information et d’Evaluation de la Mairie de Paris sur la santé, visite ce matin @HotelDieuParis site unique tourné vers l’innovation et dédié à l’accueil des personnes fragiles ou précaires. https://t.co/9TLSQN7RXU",
+        "created_at": "2022-04-13 15:18:01+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1514261621350309890"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514261630779015169,
+        "entities": {
+            "urls": [
+                {
+                    "start": 221,
+                    "end": 244,
+                    "url": "https://t.co/9TLSQN7RXU",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1514261630779015169/photo/1",
+                    "display_url": "pic.twitter.com/9TLSQN7RXU",
+                    "media_key": "3_1514261621350309890"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 110,
+                    "end": 125,
+                    "username": "HotelDieuParis",
+                    "id": "727145249370439680"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1514156620841984003",
+        "text": "RT @ClaudeRibbe: Avec le Président du @Senat, et les enfants des écoles, au #Luxembourg, heureux et fier de représenter le maire du 6e arro…",
+        "created_at": "2022-04-13 08:20:44+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1514156620841984003,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "ClaudeRibbe",
+                    "id": "71509047"
+                },
+                {
+                    "start": 38,
+                    "end": 44,
+                    "username": "Senat",
+                    "id": "155948847"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 87,
+                    "tag": "Luxembourg"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513554714704719878",
+        "text": "Sur ma suggestion le Rotary club Paris Académie va aider la Protection Civile des 6e et 7e arrondissements à acquérir un nouveau camion pour ses équipes. https://t.co/WASynCfzQP",
+        "created_at": "2022-04-11 16:28:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1513554709751250944"
+            ]
+        },
+        "author_id": 539156968,
+        "context_annotations": [],
+        "conversation_id": 1513554714704719878,
+        "entities": {
+            "urls": [
+                {
+                    "start": 154,
+                    "end": 177,
+                    "url": "https://t.co/WASynCfzQP",
+                    "expanded_url": "https://twitter.com/jp_lecoq/status/1513554714704719878/photo/1",
+                    "display_url": "pic.twitter.com/WASynCfzQP",
+                    "media_key": "3_1513554709751250944"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1513525085294014468",
+        "text": "#Presidentielle2022 Je constate avec une grande satisfaction que les électeurs du 6e arrondissement ont émis un vote responsable en accordant les scores les plus bas de Paris aux extrêmes 🗳",
+        "created_at": "2022-04-11 14:31:14+00:00",
+        "attachments": null,
+        "author_id": 539156968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1483827056597110787",
+                    "name": "French Presidential Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1483827056597110787",
+                    "name": "French Presidential Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1513525085294014468,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "Presidentielle2022"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 3,
+            "like_count": 23,
             "quote_count": 0
         },
         "reply_settings": "everyone",

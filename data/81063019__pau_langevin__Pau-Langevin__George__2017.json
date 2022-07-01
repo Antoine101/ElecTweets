@@ -161,6 +161,16 @@
         "context_annotations": [],
         "conversation_id": 873174090361692161,
         "entities": {
+            "urls": [
+                {
+                    "start": 128,
+                    "end": 151,
+                    "url": "https://t.co/LVaJ2nu4Dq",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873174090361692161/photo/1",
+                    "display_url": "pic.twitter.com/LVaJ2nu4Dq",
+                    "media_key": "3_873120519196782593"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 91,
@@ -176,16 +186,6 @@
                     "start": 117,
                     "end": 127,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 128,
-                    "end": 151,
-                    "url": "https://t.co/LVaJ2nu4Dq",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873174090361692161/photo/1",
-                    "display_url": "pic.twitter.com/LVaJ2nu4Dq",
-                    "media_key": "3_873120519196782593"
                 }
             ]
         },
@@ -216,6 +216,16 @@
         "context_annotations": [],
         "conversation_id": 873155215913922561,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/SWgyp5KGHY",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873155215913922561/photo/1",
+                    "display_url": "pic.twitter.com/SWgyp5KGHY",
+                    "media_key": "3_872055020912562176"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 113,
@@ -226,16 +236,6 @@
                     "start": 130,
                     "end": 140,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/SWgyp5KGHY",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873155215913922561/photo/1",
-                    "display_url": "pic.twitter.com/SWgyp5KGHY",
-                    "media_key": "3_872055020912562176"
                 }
             ]
         },
@@ -266,6 +266,16 @@
         "context_annotations": [],
         "conversation_id": 873132571143655426,
         "entities": {
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/2eWdkfMsJ8",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873132571143655426/photo/1",
+                    "display_url": "pic.twitter.com/2eWdkfMsJ8",
+                    "media_key": "3_873119815040249858"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 83,
@@ -281,16 +291,6 @@
                     "start": 118,
                     "end": 128,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 129,
-                    "end": 152,
-                    "url": "https://t.co/2eWdkfMsJ8",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873132571143655426/photo/1",
-                    "display_url": "pic.twitter.com/2eWdkfMsJ8",
-                    "media_key": "3_873119815040249858"
                 }
             ],
             "mentions": [
@@ -329,13 +329,6 @@
         "context_annotations": [],
         "conversation_id": 873117354951008256,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 144,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 145,
@@ -344,6 +337,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/873117354951008256/photo/1",
                     "display_url": "pic.twitter.com/voAMDB3NnV",
                     "media_key": "3_873117123798679554"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 144,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -374,6 +374,16 @@
         "context_annotations": [],
         "conversation_id": 873079784800083968,
         "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/iK4Bwq9IdB",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873079784800083968/photo/1",
+                    "display_url": "pic.twitter.com/iK4Bwq9IdB",
+                    "media_key": "3_873079776466026497"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 51,
@@ -384,16 +394,6 @@
                     "start": 68,
                     "end": 85,
                     "tag": "Legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 86,
-                    "end": 109,
-                    "url": "https://t.co/iK4Bwq9IdB",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/873079784800083968/photo/1",
-                    "display_url": "pic.twitter.com/iK4Bwq9IdB",
-                    "media_key": "3_873079776466026497"
                 }
             ]
         },
@@ -559,13 +559,6 @@
         "context_annotations": [],
         "conversation_id": 872859275990839297,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 29,
-                    "end": 39,
-                    "tag": "métissage"
-                }
-            ],
             "urls": [
                 {
                     "start": 53,
@@ -582,6 +575,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/872859275990839297/photo/1",
                     "display_url": "pic.twitter.com/QCJQodetlJ",
                     "media_key": "3_872859261965135872"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 29,
+                    "end": 39,
+                    "tag": "métissage"
                 }
             ]
         },
@@ -612,13 +612,6 @@
         "context_annotations": [],
         "conversation_id": 872845690740912130,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 117,
-                    "end": 133,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 134,
@@ -627,6 +620,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/872845690740912130/photo/1",
                     "display_url": "pic.twitter.com/xkNQiMlHHZ",
                     "media_key": "3_872752087611920385"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 133,
+                    "tag": "PauLangevin2017"
                 }
             ],
             "mentions": [
@@ -665,6 +665,16 @@
         "context_annotations": [],
         "conversation_id": 872792831605309440,
         "entities": {
+            "urls": [
+                {
+                    "start": 130,
+                    "end": 153,
+                    "url": "https://t.co/V7hoKSbAEk",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872792831605309440/photo/1",
+                    "display_url": "pic.twitter.com/V7hoKSbAEk",
+                    "media_key": "3_872053965445373953"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 102,
@@ -675,16 +685,6 @@
                     "start": 119,
                     "end": 129,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 130,
-                    "end": 153,
-                    "url": "https://t.co/V7hoKSbAEk",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872792831605309440/photo/1",
-                    "display_url": "pic.twitter.com/V7hoKSbAEk",
-                    "media_key": "3_872053965445373953"
                 }
             ]
         },
@@ -715,6 +715,16 @@
         "context_annotations": [],
         "conversation_id": 872761910739038208,
         "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/0gG2t9XPRI",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872761910739038208/photo/1",
+                    "display_url": "pic.twitter.com/0gG2t9XPRI",
+                    "media_key": "3_872761758515113984"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 92,
@@ -730,16 +740,6 @@
                     "start": 120,
                     "end": 137,
                     "tag": "Legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/0gG2t9XPRI",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872761910739038208/photo/1",
-                    "display_url": "pic.twitter.com/0gG2t9XPRI",
-                    "media_key": "3_872761758515113984"
                 }
             ]
         },
@@ -770,6 +770,16 @@
         "context_annotations": [],
         "conversation_id": 872739860678930432,
         "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/owrh8LvL0w",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872739860678930432/photo/1",
+                    "display_url": "pic.twitter.com/owrh8LvL0w",
+                    "media_key": "3_872739854014193664"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 52,
@@ -811,16 +821,6 @@
                     "end": 134,
                     "tag": "PauLangevin2017"
                 }
-            ],
-            "urls": [
-                {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/owrh8LvL0w",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872739860678930432/photo/1",
-                    "display_url": "pic.twitter.com/owrh8LvL0w",
-                    "media_key": "3_872739854014193664"
-                }
             ]
         },
         "geo": null,
@@ -850,13 +850,6 @@
         "context_annotations": [],
         "conversation_id": 872733186425585664,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 144,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 145,
@@ -865,6 +858,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/872733186425585664/photo/1",
                     "display_url": "pic.twitter.com/aTw9RyuU4n",
                     "media_key": "3_872733178791960576"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 144,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -895,13 +895,6 @@
         "context_annotations": [],
         "conversation_id": 872707783040409601,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 124,
-                    "end": 140,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -910,6 +903,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/872707783040409601/photo/1",
                     "display_url": "pic.twitter.com/9VHwZgbQw6",
                     "media_key": "3_872707775545180160"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 140,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -978,6 +978,16 @@
         "context_annotations": [],
         "conversation_id": 872483300388024320,
         "entities": {
+            "urls": [
+                {
+                    "start": 121,
+                    "end": 144,
+                    "url": "https://t.co/aNRUVKYR7m",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872483300388024320/photo/1",
+                    "display_url": "pic.twitter.com/aNRUVKYR7m",
+                    "media_key": "3_872048706178211840"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 75,
@@ -993,16 +1003,6 @@
                     "start": 110,
                     "end": 120,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 121,
-                    "end": 144,
-                    "url": "https://t.co/aNRUVKYR7m",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872483300388024320/photo/1",
-                    "display_url": "pic.twitter.com/aNRUVKYR7m",
-                    "media_key": "3_872048706178211840"
                 }
             ],
             "mentions": [
@@ -1041,6 +1041,16 @@
         "context_annotations": [],
         "conversation_id": 872430440874786816,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/bhvL7wqAQd",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872430440874786816/photo/1",
+                    "display_url": "pic.twitter.com/bhvL7wqAQd",
+                    "media_key": "3_871679654268108801"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 113,
@@ -1051,16 +1061,6 @@
                     "start": 130,
                     "end": 140,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/bhvL7wqAQd",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872430440874786816/photo/1",
-                    "display_url": "pic.twitter.com/bhvL7wqAQd",
-                    "media_key": "3_871679654268108801"
                 }
             ]
         },
@@ -1114,13 +1114,6 @@
         "context_annotations": [],
         "conversation_id": 872380627852681216,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 120,
-                    "end": 137,
-                    "tag": "Legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 138,
@@ -1129,6 +1122,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/872380627852681216/photo/1",
                     "display_url": "pic.twitter.com/pae4yPTsMT",
                     "media_key": "3_872380618121859072"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 137,
+                    "tag": "Legislatives2017"
                 }
             ],
             "mentions": [
@@ -1167,6 +1167,16 @@
         "context_annotations": [],
         "conversation_id": 872378222008299525,
         "entities": {
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/n1vJbjATVZ",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872378222008299525/photo/1",
+                    "display_url": "pic.twitter.com/n1vJbjATVZ",
+                    "media_key": "3_872378215544782853"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 86,
@@ -1182,16 +1192,6 @@
                     "start": 115,
                     "end": 134,
                     "tag": "fidèlesànosvaleurs"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/n1vJbjATVZ",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872378222008299525/photo/1",
-                    "display_url": "pic.twitter.com/n1vJbjATVZ",
-                    "media_key": "3_872378215544782853"
                 }
             ]
         },
@@ -1222,6 +1222,16 @@
         "context_annotations": [],
         "conversation_id": 872376363650560000,
         "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/4tY9dTQWiU",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872376363650560000/photo/1",
+                    "display_url": "pic.twitter.com/4tY9dTQWiU",
+                    "media_key": "3_872376353751957504"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 93,
@@ -1237,16 +1247,6 @@
                     "start": 122,
                     "end": 138,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/4tY9dTQWiU",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872376363650560000/photo/1",
-                    "display_url": "pic.twitter.com/4tY9dTQWiU",
-                    "media_key": "3_872376353751957504"
                 }
             ],
             "mentions": [
@@ -1285,6 +1285,16 @@
         "context_annotations": [],
         "conversation_id": 872370042889007106,
         "entities": {
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/ujynqwzKI8",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872370042889007106/photo/1",
+                    "display_url": "pic.twitter.com/ujynqwzKI8",
+                    "media_key": "3_872047953367662592"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 32,
@@ -1310,16 +1320,6 @@
                     "start": 95,
                     "end": 103,
                     "tag": "Paris20"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 104,
-                    "end": 127,
-                    "url": "https://t.co/ujynqwzKI8",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872370042889007106/photo/1",
-                    "display_url": "pic.twitter.com/ujynqwzKI8",
-                    "media_key": "3_872047953367662592"
                 }
             ]
         },
@@ -1350,6 +1350,16 @@
         "context_annotations": [],
         "conversation_id": 872367007106297857,
         "entities": {
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/OQvo4PmsYw",
+                    "expanded_url": "https://twitter.com/BCazeneuve/status/872364943416455169/photo/1",
+                    "display_url": "pic.twitter.com/OQvo4PmsYw",
+                    "media_key": "3_872364857076715522"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 66,
@@ -1360,16 +1370,6 @@
                     "start": 77,
                     "end": 94,
                     "tag": "Legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 95,
-                    "end": 118,
-                    "url": "https://t.co/OQvo4PmsYw",
-                    "expanded_url": "https://twitter.com/BCazeneuve/status/872364943416455169/photo/1",
-                    "display_url": "pic.twitter.com/OQvo4PmsYw",
-                    "media_key": "3_872364857076715522"
                 }
             ],
             "mentions": [
@@ -1537,6 +1537,16 @@
         "context_annotations": [],
         "conversation_id": 872120902011441153,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/CwY4HNgQPC",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872120902011441153/photo/1",
+                    "display_url": "pic.twitter.com/CwY4HNgQPC",
+                    "media_key": "3_871685005575147520"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 106,
@@ -1552,16 +1562,6 @@
                     "start": 131,
                     "end": 139,
                     "tag": "valeurs"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/CwY4HNgQPC",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872120902011441153/photo/1",
-                    "display_url": "pic.twitter.com/CwY4HNgQPC",
-                    "media_key": "3_871685005575147520"
                 }
             ]
         },
@@ -1592,6 +1592,16 @@
         "context_annotations": [],
         "conversation_id": 872068060084961281,
         "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/I3YH8umnmm",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872068060084961281/photo/1",
+                    "display_url": "pic.twitter.com/I3YH8umnmm",
+                    "media_key": "3_871678479485607936"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 111,
@@ -1602,16 +1612,6 @@
                     "start": 128,
                     "end": 138,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/I3YH8umnmm",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872068060084961281/photo/1",
-                    "display_url": "pic.twitter.com/I3YH8umnmm",
-                    "media_key": "3_871678479485607936"
                 }
             ]
         },
@@ -1642,6 +1642,16 @@
         "context_annotations": [],
         "conversation_id": 872000113102786560,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/1YvVsTUZFn",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872000113102786560/photo/1",
+                    "display_url": "pic.twitter.com/1YvVsTUZFn",
+                    "media_key": "3_871347172796772352"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 113,
@@ -1652,16 +1662,6 @@
                     "start": 130,
                     "end": 140,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/1YvVsTUZFn",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/872000113102786560/photo/1",
-                    "display_url": "pic.twitter.com/1YvVsTUZFn",
-                    "media_key": "3_871347172796772352"
                 }
             ]
         },
@@ -1692,6 +1692,16 @@
         "context_annotations": [],
         "conversation_id": 871758519443361793,
         "entities": {
+            "urls": [
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/vVKImqoRRr",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871758519443361793/photo/1",
+                    "display_url": "pic.twitter.com/vVKImqoRRr",
+                    "media_key": "3_871345533050392577"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 81,
@@ -1707,16 +1717,6 @@
                     "start": 116,
                     "end": 126,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 127,
-                    "end": 150,
-                    "url": "https://t.co/vVKImqoRRr",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871758519443361793/photo/1",
-                    "display_url": "pic.twitter.com/vVKImqoRRr",
-                    "media_key": "3_871345533050392577"
                 }
             ],
             "mentions": [
@@ -1755,13 +1755,6 @@
         "context_annotations": [],
         "conversation_id": 871705665516982274,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 120,
-                    "end": 136,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 137,
@@ -1770,6 +1763,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/871705665516982274/photo/1",
                     "display_url": "pic.twitter.com/JzgSDqeIi6",
                     "media_key": "3_871343412057952256"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 136,
+                    "tag": "PauLangevin2017"
                 }
             ],
             "mentions": [
@@ -1808,6 +1808,16 @@
         "context_annotations": [],
         "conversation_id": 871637719713296384,
         "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/CP3tiT5N5n",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871637719713296384/photo/1",
+                    "display_url": "pic.twitter.com/CP3tiT5N5n",
+                    "media_key": "3_871437418544627714"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 73,
@@ -1828,16 +1838,6 @@
                     "start": 119,
                     "end": 135,
                     "tag": "womeninpolitics"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 136,
-                    "end": 159,
-                    "url": "https://t.co/CP3tiT5N5n",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871637719713296384/photo/1",
-                    "display_url": "pic.twitter.com/CP3tiT5N5n",
-                    "media_key": "3_871437418544627714"
                 }
             ],
             "mentions": [
@@ -1876,13 +1876,6 @@
         "context_annotations": [],
         "conversation_id": 871396130633818112,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 148,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 149,
@@ -1891,6 +1884,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/871396130633818112/photo/1",
                     "display_url": "pic.twitter.com/4MLx8DItK6",
                     "media_key": "3_870991744481054720"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 132,
+                    "end": 148,
+                    "tag": "PauLangevin2017"
                 }
             ],
             "mentions": [
@@ -1938,6 +1938,15 @@
         ],
         "conversation_id": 871356183784943616,
         "entities": {
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/FgcqfrOM0d",
+                    "expanded_url": "http://bit.ly/2srSRft",
+                    "display_url": "bit.ly/2srSRft"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 18,
@@ -1953,15 +1962,6 @@
                     "start": 96,
                     "end": 102,
                     "tag": "Paris"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 105,
-                    "end": 128,
-                    "url": "https://t.co/FgcqfrOM0d",
-                    "expanded_url": "http://bit.ly/2srSRft",
-                    "display_url": "bit.ly/2srSRft"
                 }
             ],
             "mentions": [
@@ -2000,13 +2000,6 @@
         "context_annotations": [],
         "conversation_id": 871343279064793089,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 124,
-                    "end": 140,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -2015,6 +2008,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/871343279064793089/photo/1",
                     "display_url": "pic.twitter.com/HXaXbzwRGx",
                     "media_key": "3_870995475620646912"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 140,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -2076,6 +2076,16 @@
         "context_annotations": [],
         "conversation_id": 871033744982978560,
         "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/dClw6xa7OX",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871033744982978560/photo/1",
+                    "display_url": "pic.twitter.com/dClw6xa7OX",
+                    "media_key": "3_870905097047429121"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 100,
@@ -2086,16 +2096,6 @@
                     "start": 119,
                     "end": 135,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 136,
-                    "end": 159,
-                    "url": "https://t.co/dClw6xa7OX",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/871033744982978560/photo/1",
-                    "display_url": "pic.twitter.com/dClw6xa7OX",
-                    "media_key": "3_870905097047429121"
                 }
             ],
             "mentions": [
@@ -2172,13 +2172,6 @@
         "context_annotations": [],
         "conversation_id": 870981394364637186,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 123,
-                    "end": 139,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -2187,6 +2180,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/870981394364637186/photo/1",
                     "display_url": "pic.twitter.com/Zvr5RynCCT",
                     "media_key": "3_870906696675229696"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 139,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -2253,6 +2253,16 @@
         "context_annotations": [],
         "conversation_id": 870935590581219328,
         "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/b3HMnKDGfX",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/870935590581219328/photo/1",
+                    "display_url": "pic.twitter.com/b3HMnKDGfX",
+                    "media_key": "3_870713162340937731"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 92,
@@ -2268,16 +2278,6 @@
                     "start": 127,
                     "end": 137,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/b3HMnKDGfX",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/870935590581219328/photo/1",
-                    "display_url": "pic.twitter.com/b3HMnKDGfX",
-                    "media_key": "3_870713162340937731"
                 }
             ]
         },
@@ -2345,13 +2345,6 @@
         ],
         "conversation_id": 870657233281048576,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 122,
-                    "end": 138,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 139,
@@ -2360,6 +2353,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/870657233281048576/photo/1",
                     "display_url": "pic.twitter.com/VsZIuRLVhH",
                     "media_key": "3_870657226368835584"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 138,
+                    "tag": "PauLangevin2017"
                 }
             ],
             "mentions": [
@@ -2488,23 +2488,6 @@
         "context_annotations": [],
         "conversation_id": 870318195386830849,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 95,
-                    "end": 104,
-                    "tag": "Campagne"
-                },
-                {
-                    "start": 105,
-                    "end": 113,
-                    "tag": "Paris20"
-                },
-                {
-                    "start": 114,
-                    "end": 123,
-                    "tag": "Sentiers"
-                }
-            ],
             "urls": [
                 {
                     "start": 124,
@@ -2529,6 +2512,23 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/870318195386830849/photo/1",
                     "display_url": "pic.twitter.com/VkisZG5EZZ",
                     "media_key": "3_870317942117945344"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 104,
+                    "tag": "Campagne"
+                },
+                {
+                    "start": 105,
+                    "end": 113,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 114,
+                    "end": 123,
+                    "tag": "Sentiers"
                 }
             ]
         },
@@ -2741,18 +2741,6 @@
         "context_annotations": [],
         "conversation_id": 870226957912375296,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 21,
-                    "end": 28,
-                    "tag": "studio"
-                },
-                {
-                    "start": 55,
-                    "end": 66,
-                    "tag": "Belleville"
-                }
-            ],
             "urls": [
                 {
                     "start": 137,
@@ -2769,6 +2757,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/870226957912375296/photo/1",
                     "display_url": "pic.twitter.com/t7gdqo4fOI",
                     "media_key": "3_870226948907298816"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 28,
+                    "tag": "studio"
+                },
+                {
+                    "start": 55,
+                    "end": 66,
+                    "tag": "Belleville"
                 }
             ]
         },
@@ -2795,13 +2795,6 @@
         "context_annotations": [],
         "conversation_id": 870219270332002304,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 69,
-                    "end": 87,
-                    "tag": "CharteAntiraciste"
-                }
-            ],
             "urls": [
                 {
                     "start": 105,
@@ -2809,6 +2802,13 @@
                     "url": "https://t.co/s3kq2Afhzk",
                     "expanded_url": "http://bit.ly/2qd7iql",
                     "display_url": "bit.ly/2qd7iql"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 87,
+                    "tag": "CharteAntiraciste"
                 }
             ],
             "mentions": [
@@ -2872,13 +2872,6 @@
         "context_annotations": [],
         "conversation_id": 869900528343552000,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 56,
-                    "end": 61,
-                    "tag": "asso"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -2895,6 +2888,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/869900528343552000/photo/1",
                     "display_url": "pic.twitter.com/jlpOvtswb1",
                     "media_key": "3_869900520835743744"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 61,
+                    "tag": "asso"
                 }
             ]
         },
@@ -2950,13 +2950,6 @@
         ],
         "conversation_id": 869608104417255424,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 134,
-                    "end": 144,
-                    "tag": "circo7515"
-                }
-            ],
             "urls": [
                 {
                     "start": 145,
@@ -2965,6 +2958,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/869608104417255424/photo/1",
                     "display_url": "pic.twitter.com/OhSukjd4aB",
                     "media_key": "3_869608097727361025"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 134,
+                    "end": 144,
+                    "tag": "circo7515"
                 }
             ],
             "mentions": [
@@ -3328,13 +3328,6 @@
         "context_annotations": [],
         "conversation_id": 869474307273043971,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 70,
-                    "end": 78,
-                    "tag": "vitrail"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -3343,6 +3336,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/869474307273043971/photo/1",
                     "display_url": "pic.twitter.com/yhKxrfExAa",
                     "media_key": "3_869474299375214592"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 70,
+                    "end": 78,
+                    "tag": "vitrail"
                 }
             ]
         },
@@ -3451,18 +3451,6 @@
         "context_annotations": [],
         "conversation_id": 868775737825910784,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 68,
-                    "tag": "logement"
-                },
-                {
-                    "start": 78,
-                    "end": 85,
-                    "tag": "mixité"
-                }
-            ],
             "urls": [
                 {
                     "start": 144,
@@ -3479,6 +3467,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/868775737825910784/photo/1",
                     "display_url": "pic.twitter.com/7EMPx8f4lk",
                     "media_key": "3_868775107560443904"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 68,
+                    "tag": "logement"
+                },
+                {
+                    "start": 78,
+                    "end": 85,
+                    "tag": "mixité"
                 }
             ]
         },
@@ -3610,23 +3610,6 @@
         ],
         "conversation_id": 868367330123952128,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 12,
-                    "end": 18,
-                    "tag": "Paris"
-                },
-                {
-                    "start": 28,
-                    "end": 45,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 95,
-                    "end": 107,
-                    "tag": "procuration"
-                }
-            ],
             "urls": [
                 {
                     "start": 109,
@@ -3642,6 +3625,23 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/868367330123952128/photo/1",
                     "display_url": "pic.twitter.com/VhJeRkLk7E",
                     "media_key": "3_868367321357791232"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 12,
+                    "end": 18,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 28,
+                    "end": 45,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 95,
+                    "end": 107,
+                    "tag": "procuration"
                 }
             ]
         },
@@ -3674,6 +3674,16 @@
         "context_annotations": [],
         "conversation_id": 868233928401932292,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/aVLSsSDpF2",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/868233928401932292/photo/1",
+                    "display_url": "pic.twitter.com/aVLSsSDpF2",
+                    "media_key": "3_868233917073170437"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 54,
@@ -3684,16 +3694,6 @@
                     "start": 106,
                     "end": 117,
                     "tag": "violoniste"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/aVLSsSDpF2",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/868233928401932292/photo/1",
-                    "display_url": "pic.twitter.com/aVLSsSDpF2",
-                    "media_key": "3_868233917073170437"
                 }
             ]
         },
@@ -3776,6 +3776,16 @@
         "context_annotations": [],
         "conversation_id": 868018501075820544,
         "entities": {
+            "urls": [
+                {
+                    "start": 130,
+                    "end": 153,
+                    "url": "https://t.co/Y67rK6m4oc",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/868018501075820544/photo/1",
+                    "display_url": "pic.twitter.com/Y67rK6m4oc",
+                    "media_key": "3_868018493094023168"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 75,
@@ -3791,16 +3801,6 @@
                     "start": 105,
                     "end": 121,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 130,
-                    "end": 153,
-                    "url": "https://t.co/Y67rK6m4oc",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/868018501075820544/photo/1",
-                    "display_url": "pic.twitter.com/Y67rK6m4oc",
-                    "media_key": "3_868018493094023168"
                 }
             ]
         },
@@ -3831,6 +3831,16 @@
         "context_annotations": [],
         "conversation_id": 867747398566760448,
         "entities": {
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/GxFTZdP2lN",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867747398566760448/photo/1",
+                    "display_url": "pic.twitter.com/GxFTZdP2lN",
+                    "media_key": "3_867747379046486016"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 104,
@@ -3841,16 +3851,6 @@
                     "start": 115,
                     "end": 131,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 132,
-                    "end": 155,
-                    "url": "https://t.co/GxFTZdP2lN",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867747398566760448/photo/1",
-                    "display_url": "pic.twitter.com/GxFTZdP2lN",
-                    "media_key": "3_867747379046486016"
                 }
             ]
         },
@@ -3881,6 +3881,16 @@
         "context_annotations": [],
         "conversation_id": 867746480634945538,
         "entities": {
+            "urls": [
+                {
+                    "start": 125,
+                    "end": 148,
+                    "url": "https://t.co/0VwSZDpUMB",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867746480634945538/photo/1",
+                    "display_url": "pic.twitter.com/0VwSZDpUMB",
+                    "media_key": "3_867746464587493376"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 93,
@@ -3891,16 +3901,6 @@
                     "start": 112,
                     "end": 122,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 125,
-                    "end": 148,
-                    "url": "https://t.co/0VwSZDpUMB",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867746480634945538/photo/1",
-                    "display_url": "pic.twitter.com/0VwSZDpUMB",
-                    "media_key": "3_867746464587493376"
                 }
             ]
         },
@@ -3944,6 +3944,16 @@
         ],
         "conversation_id": 867745519061401600,
         "entities": {
+            "urls": [
+                {
+                    "start": 128,
+                    "end": 151,
+                    "url": "https://t.co/TS66zJoIag",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867745519061401600/photo/1",
+                    "display_url": "pic.twitter.com/TS66zJoIag",
+                    "media_key": "3_867745505643724801"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 96,
@@ -3954,16 +3964,6 @@
                     "start": 115,
                     "end": 125,
                     "tag": "circo7515"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 128,
-                    "end": 151,
-                    "url": "https://t.co/TS66zJoIag",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867745519061401600/photo/1",
-                    "display_url": "pic.twitter.com/TS66zJoIag",
-                    "media_key": "3_867745505643724801"
                 }
             ]
         },
@@ -3994,6 +3994,16 @@
         "context_annotations": [],
         "conversation_id": 867744122290880513,
         "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/bhq9LTO6D2",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867744122290880513/photo/1",
+                    "display_url": "pic.twitter.com/bhq9LTO6D2",
+                    "media_key": "3_867744107434844161"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 41,
@@ -4014,16 +4024,6 @@
                     "start": 84,
                     "end": 100,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 103,
-                    "end": 126,
-                    "url": "https://t.co/bhq9LTO6D2",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867744122290880513/photo/1",
-                    "display_url": "pic.twitter.com/bhq9LTO6D2",
-                    "media_key": "3_867744107434844161"
                 }
             ]
         },
@@ -4115,6 +4115,15 @@
         ],
         "conversation_id": 867521880613367809,
         "entities": {
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/tlH8IAl3xo",
+                    "expanded_url": "https://twitter.com/tchevandier/status/867436900784721920",
+                    "display_url": "twitter.com/tchevandier/st…"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 14,
@@ -4130,15 +4139,6 @@
                     "start": 43,
                     "end": 49,
                     "tag": "Paris"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 88,
-                    "end": 111,
-                    "url": "https://t.co/tlH8IAl3xo",
-                    "expanded_url": "https://twitter.com/tchevandier/status/867436900784721920",
-                    "display_url": "twitter.com/tchevandier/st…"
                 }
             ],
             "mentions": [
@@ -4214,13 +4214,6 @@
         ],
         "conversation_id": 867069358232698880,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 97,
-                    "end": 114,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 115,
@@ -4229,6 +4222,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/867069358232698880/photo/1",
                     "display_url": "pic.twitter.com/5KCfp3aIY1",
                     "media_key": "3_867069306873552898"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 114,
+                    "tag": "legislatives2017"
                 }
             ],
             "mentions": [
@@ -4267,6 +4267,16 @@
         "context_annotations": [],
         "conversation_id": 867053849932169216,
         "entities": {
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/w8NdvpKrM9",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867053849932169216/photo/1",
+                    "display_url": "pic.twitter.com/w8NdvpKrM9",
+                    "media_key": "3_867053841090478081"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 81,
@@ -4277,16 +4287,6 @@
                     "start": 99,
                     "end": 115,
                     "tag": "PauLangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 116,
-                    "end": 139,
-                    "url": "https://t.co/w8NdvpKrM9",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/867053849932169216/photo/1",
-                    "display_url": "pic.twitter.com/w8NdvpKrM9",
-                    "media_key": "3_867053841090478081"
                 }
             ]
         },
@@ -4588,18 +4588,6 @@
         "context_annotations": [],
         "conversation_id": 866969463895273472,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 100,
-                    "end": 110,
-                    "tag": "circo7515"
-                },
-                {
-                    "start": 113,
-                    "end": 130,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 56,
@@ -4615,6 +4603,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/866969463895273472/photo/1",
                     "display_url": "pic.twitter.com/CpNlTuBvPd",
                     "media_key": "3_866969450733502464"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 110,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 113,
+                    "end": 130,
+                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -4645,13 +4645,6 @@
         "context_annotations": [],
         "conversation_id": 866960592556494848,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 102,
-                    "end": 119,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 56,
@@ -4667,6 +4660,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/866960592556494848/photo/1",
                     "display_url": "pic.twitter.com/Gf0UeAiwkp",
                     "media_key": "3_866960581684850688"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 102,
+                    "end": 119,
+                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -4893,13 +4893,6 @@
         "context_annotations": [],
         "conversation_id": 865937812461408256,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 115,
-                    "end": 132,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 133,
@@ -4908,6 +4901,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865937812461408256/photo/1",
                     "display_url": "pic.twitter.com/mK2aaiiitD",
                     "media_key": "3_865937794685964288"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 132,
+                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -4938,6 +4938,16 @@
         "context_annotations": [],
         "conversation_id": 865917794277363713,
         "entities": {
+            "urls": [
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/xLp91Ujfyl",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865917794277363713/photo/1",
+                    "display_url": "pic.twitter.com/xLp91Ujfyl",
+                    "media_key": "3_865917774639616001"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 90,
@@ -4948,16 +4958,6 @@
                     "start": 109,
                     "end": 126,
                     "tag": "legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 127,
-                    "end": 150,
-                    "url": "https://t.co/xLp91Ujfyl",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865917794277363713/photo/1",
-                    "display_url": "pic.twitter.com/xLp91Ujfyl",
-                    "media_key": "3_865917774639616001"
                 }
             ]
         },
@@ -4988,6 +4988,16 @@
         "context_annotations": [],
         "conversation_id": 865914152002498560,
         "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/tGXesKKn0B",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865914152002498560/photo/1",
+                    "display_url": "pic.twitter.com/tGXesKKn0B",
+                    "media_key": "3_865914134369624064"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 95,
@@ -4998,16 +5008,6 @@
                     "start": 121,
                     "end": 138,
                     "tag": "legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/tGXesKKn0B",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865914152002498560/photo/1",
-                    "display_url": "pic.twitter.com/tGXesKKn0B",
-                    "media_key": "3_865914134369624064"
                 }
             ]
         },
@@ -5130,18 +5130,6 @@
         ],
         "conversation_id": 865638062729994241,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 121,
-                    "end": 130,
-                    "tag": "Jourdain"
-                },
-                {
-                    "start": 131,
-                    "end": 139,
-                    "tag": "Paris20"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -5158,6 +5146,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865638062729994241/photo/1",
                     "display_url": "pic.twitter.com/NdzS15uJJw",
                     "media_key": "3_865638037123760128"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 130,
+                    "tag": "Jourdain"
+                },
+                {
+                    "start": 131,
+                    "end": 139,
+                    "tag": "Paris20"
                 }
             ]
         },
@@ -5189,13 +5189,6 @@
         "context_annotations": [],
         "conversation_id": 865637502253584384,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 21,
-                    "end": 26,
-                    "tag": "fête"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -5212,6 +5205,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865637502253584384/photo/1",
                     "display_url": "pic.twitter.com/Vl4eRkKgk7",
                     "media_key": "3_865637484545294336"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 26,
+                    "tag": "fête"
                 }
             ]
         },
@@ -5293,13 +5293,6 @@
         "context_annotations": [],
         "conversation_id": 865598800852811776,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 11,
-                    "end": 21,
-                    "tag": "gentlemen"
-                }
-            ],
             "urls": [
                 {
                     "start": 109,
@@ -5324,6 +5317,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865598800852811776/photo/1",
                     "display_url": "pic.twitter.com/cjI8jD4fiK",
                     "media_key": "3_865598708208984067"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 11,
+                    "end": 21,
+                    "tag": "gentlemen"
                 }
             ]
         },
@@ -5355,13 +5355,6 @@
         "context_annotations": [],
         "conversation_id": 865552796304539648,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 47,
-                    "end": 58,
-                    "tag": "Belleville"
-                }
-            ],
             "urls": [
                 {
                     "start": 138,
@@ -5378,6 +5371,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865552796304539648/photo/1",
                     "display_url": "pic.twitter.com/Uz7RYGADn5",
                     "media_key": "3_865552788226322432"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 58,
+                    "tag": "Belleville"
                 }
             ]
         },
@@ -5408,13 +5408,6 @@
         "context_annotations": [],
         "conversation_id": 865547145381728260,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 27,
-                    "end": 34,
-                    "tag": "Python"
-                }
-            ],
             "urls": [
                 {
                     "start": 65,
@@ -5423,6 +5416,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865547145381728260/photo/1",
                     "display_url": "pic.twitter.com/yCVC7RYECJ",
                     "media_key": "3_865547120626941953"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 34,
+                    "tag": "Python"
                 }
             ]
         },
@@ -5453,6 +5453,16 @@
         "context_annotations": [],
         "conversation_id": 865485118047113216,
         "entities": {
+            "urls": [
+                {
+                    "start": 126,
+                    "end": 149,
+                    "url": "https://t.co/3HAmxpwbSj",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865485118047113216/photo/1",
+                    "display_url": "pic.twitter.com/3HAmxpwbSj",
+                    "media_key": "3_865485104314892289"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 91,
@@ -5471,16 +5481,6 @@
                     "end": 41,
                     "username": "tchevandier",
                     "id": "262077843"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 126,
-                    "end": 149,
-                    "url": "https://t.co/3HAmxpwbSj",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865485118047113216/photo/1",
-                    "display_url": "pic.twitter.com/3HAmxpwbSj",
-                    "media_key": "3_865485104314892289"
                 }
             ]
         },
@@ -5964,13 +5964,6 @@
         "context_annotations": [],
         "conversation_id": 865280031840497664,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 91,
-                    "end": 107,
-                    "tag": "PauLangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 108,
@@ -5979,6 +5972,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865280031840497664/photo/1",
                     "display_url": "pic.twitter.com/g6K84hzXX1",
                     "media_key": "3_865280016850067456"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 91,
+                    "end": 107,
+                    "tag": "PauLangevin2017"
                 }
             ]
         },
@@ -6561,6 +6561,16 @@
         "context_annotations": [],
         "conversation_id": 865259778406313986,
         "entities": {
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/Pz62kJqB7d",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865259778406313986/photo/1",
+                    "display_url": "pic.twitter.com/Pz62kJqB7d",
+                    "media_key": "3_865259772043567105"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 73,
@@ -6574,16 +6584,6 @@
                     "end": 72,
                     "username": "tchevandier",
                     "id": "262077843"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 90,
-                    "end": 113,
-                    "url": "https://t.co/Pz62kJqB7d",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/865259778406313986/photo/1",
-                    "display_url": "pic.twitter.com/Pz62kJqB7d",
-                    "media_key": "3_865259772043567105"
                 }
             ]
         },
@@ -6647,14 +6647,6 @@
         ],
         "conversation_id": 865253591967248384,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 14,
-                    "username": "franceinfo",
-                    "id": "38395124"
-                }
-            ],
             "urls": [
                 {
                     "start": 106,
@@ -6662,6 +6654,14 @@
                     "url": "https://t.co/jrHSsvXvNm",
                     "expanded_url": "http://www.francetvinfo.fr/politique/emmanuel-macron/le-conseil-de-jean-marc-ayrault-a-emmanuel-macron-pas-de-reforme-sans-dialogue-social_2196684.html",
                     "display_url": "francetvinfo.fr/politique/emma…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "franceinfo",
+                    "id": "38395124"
                 }
             ]
         },
@@ -6688,14 +6688,6 @@
         "context_annotations": [],
         "conversation_id": 865240887709794304,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 19,
-                    "username": "lemonde_planete",
-                    "id": "3343852672"
-                }
-            ],
             "urls": [
                 {
                     "start": 96,
@@ -6705,6 +6697,14 @@
                     "display_url": "lemde.fr/2pOpbLB",
                     "status": 200,
                     "unwound_url": "https://www.lemonde.fr/planete/article/2017/05/18/nicolas-hulot-bien-accueilli-et-tres-attendu-sur-les-dossiers-ecologiques_5129738_3244.html?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "lemonde_planete",
+                    "id": "3343852672"
                 }
             ]
         },
@@ -6865,13 +6865,6 @@
         "context_annotations": [],
         "conversation_id": 865118826559655937,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 94,
-                    "end": 101,
-                    "tag": "emploi"
-                }
-            ],
             "urls": [
                 {
                     "start": 104,
@@ -6880,6 +6873,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/865118826559655937/photo/1",
                     "display_url": "pic.twitter.com/1oALHui1CA",
                     "media_key": "3_865118819362119680"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 101,
+                    "tag": "emploi"
                 }
             ]
         },
@@ -6993,14 +6993,6 @@
         ],
         "conversation_id": 864784923068178433,
         "entities": {
-            "mentions": [
-                {
-                    "start": 123,
-                    "end": 135,
-                    "username": "tchevandier",
-                    "id": "262077843"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -7017,6 +7009,14 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/864784923068178433/photo/1",
                     "display_url": "pic.twitter.com/MQkQkvbLOt",
                     "media_key": "3_864784915086356480"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 123,
+                    "end": 135,
+                    "username": "tchevandier",
+                    "id": "262077843"
                 }
             ]
         },
@@ -7234,13 +7234,6 @@
         "context_annotations": [],
         "conversation_id": 864570689835106304,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 135,
-                    "tag": "gauche"
-                }
-            ],
             "urls": [
                 {
                     "start": 136,
@@ -7249,6 +7242,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/864570689835106304/photo/1",
                     "display_url": "pic.twitter.com/dEanxCrORe",
                     "media_key": "3_864570682079723520"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 135,
+                    "tag": "gauche"
                 }
             ]
         },
@@ -7323,6 +7323,16 @@
         "context_annotations": [],
         "conversation_id": 864450155088666625,
         "entities": {
+            "urls": [
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/ksF6O7QqC3",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/864450155088666625/photo/1",
+                    "display_url": "pic.twitter.com/ksF6O7QqC3",
+                    "media_key": "3_864450140249051138"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 98,
@@ -7333,16 +7343,6 @@
                     "start": 116,
                     "end": 132,
                     "tag": "paulangevin2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/ksF6O7QqC3",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/864450155088666625/photo/1",
-                    "display_url": "pic.twitter.com/ksF6O7QqC3",
-                    "media_key": "3_864450140249051138"
                 }
             ]
         },
@@ -7405,18 +7405,6 @@
         "context_annotations": [],
         "conversation_id": 864174444092297216,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 11,
-                    "tag": "Vernissage"
-                },
-                {
-                    "start": 91,
-                    "end": 106,
-                    "tag": "photographique"
-                }
-            ],
             "urls": [
                 {
                     "start": 59,
@@ -7432,6 +7420,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/864174444092297216/photo/1",
                     "display_url": "pic.twitter.com/RgTD7mK6Gz",
                     "media_key": "3_864174408205815808"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "Vernissage"
+                },
+                {
+                    "start": 91,
+                    "end": 106,
+                    "tag": "photographique"
                 }
             ]
         },
@@ -7462,13 +7462,6 @@
         "context_annotations": [],
         "conversation_id": 864166235692556288,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 121,
-                    "end": 137,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 138,
@@ -7477,6 +7470,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/864166235692556288/photo/1",
                     "display_url": "pic.twitter.com/H9vAc0PwO5",
                     "media_key": "3_864166210119888898"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 137,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -7507,6 +7507,16 @@
         "context_annotations": [],
         "conversation_id": 864027694878658560,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/iR615W2T9n",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/864027694878658560/photo/1",
+                    "display_url": "pic.twitter.com/iR615W2T9n",
+                    "media_key": "3_864027629984382976"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 94,
@@ -7530,16 +7540,6 @@
                     "end": 53,
                     "username": "BertrandDelanoe",
                     "id": "8493812"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/iR615W2T9n",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/864027694878658560/photo/1",
-                    "display_url": "pic.twitter.com/iR615W2T9n",
-                    "media_key": "3_864027629984382976"
                 }
             ]
         },
@@ -7572,6 +7572,16 @@
         "context_annotations": [],
         "conversation_id": 863807939173388292,
         "entities": {
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/HuCPBlRaX9",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863807939173388292/photo/1",
+                    "display_url": "pic.twitter.com/HuCPBlRaX9",
+                    "media_key": "3_863807924103237633"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 84,
@@ -7587,16 +7597,6 @@
                     "start": 122,
                     "end": 136,
                     "tag": "mairiedeparis"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 137,
-                    "end": 160,
-                    "url": "https://t.co/HuCPBlRaX9",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863807939173388292/photo/1",
-                    "display_url": "pic.twitter.com/HuCPBlRaX9",
-                    "media_key": "3_863807924103237633"
                 }
             ]
         },
@@ -7745,13 +7745,6 @@
         "context_annotations": [],
         "conversation_id": 863771900337696768,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 123,
-                    "end": 139,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -7760,6 +7753,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/863771900337696768/photo/1",
                     "display_url": "pic.twitter.com/MARITKXgb5",
                     "media_key": "3_863771884197949440"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 139,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -7792,13 +7792,6 @@
         "context_annotations": [],
         "conversation_id": 863746588212178944,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 124,
-                    "end": 140,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -7807,6 +7800,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/863746588212178944/photo/1",
                     "display_url": "pic.twitter.com/MyjGt7SHGz",
                     "media_key": "3_863746573372719104"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 140,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -7909,18 +7909,6 @@
         "context_annotations": [],
         "conversation_id": 863744679510192128,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 93,
-                    "end": 110,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 112,
-                    "end": 128,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 129,
@@ -7953,6 +7941,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/863744679510192128/photo/1",
                     "display_url": "pic.twitter.com/jDUBaW06Ck",
                     "media_key": "3_863744662175178756"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 110,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 112,
+                    "end": 128,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -7988,18 +7988,6 @@
         "context_annotations": [],
         "conversation_id": 863743743249309697,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 89,
-                    "end": 106,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 108,
-                    "end": 124,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 125,
@@ -8032,6 +8020,18 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/863743743249309697/photo/1",
                     "display_url": "pic.twitter.com/vdv65ua2lZ",
                     "media_key": "3_863743715336216577"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 106,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 108,
+                    "end": 124,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -8089,6 +8089,16 @@
         ],
         "conversation_id": 863737166542897152,
         "entities": {
+            "urls": [
+                {
+                    "start": 130,
+                    "end": 153,
+                    "url": "https://t.co/rkwXQkOgE9",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863737166542897152/photo/1",
+                    "display_url": "pic.twitter.com/rkwXQkOgE9",
+                    "media_key": "3_863737154677112832"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 15,
@@ -8118,16 +8128,6 @@
                     "end": 92,
                     "username": "Le_Figaro",
                     "id": "8350912"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 130,
-                    "end": 153,
-                    "url": "https://t.co/rkwXQkOgE9",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863737166542897152/photo/1",
-                    "display_url": "pic.twitter.com/rkwXQkOgE9",
-                    "media_key": "3_863737154677112832"
                 }
             ]
         },
@@ -8183,6 +8183,16 @@
         ],
         "conversation_id": 863736739621416960,
         "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/UJbVENxmOX",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863736739621416960/photo/1",
+                    "display_url": "pic.twitter.com/UJbVENxmOX",
+                    "media_key": "3_863736731333525505"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 36,
@@ -8206,16 +8216,6 @@
                     "end": 34,
                     "username": "CNEWS",
                     "id": "18396319"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 83,
-                    "end": 106,
-                    "url": "https://t.co/UJbVENxmOX",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863736739621416960/photo/1",
-                    "display_url": "pic.twitter.com/UJbVENxmOX",
-                    "media_key": "3_863736731333525505"
                 }
             ]
         },
@@ -8306,32 +8306,6 @@
         ],
         "conversation_id": 863735627287846912,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 69,
-                    "tag": "Solferino"
-                },
-                {
-                    "start": 121,
-                    "end": 128,
-                    "tag": "Elysee"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 10,
-                    "username": "fhollande",
-                    "id": "18814998"
-                },
-                {
-                    "start": 35,
-                    "end": 51,
-                    "username": "partisocialiste",
-                    "id": "19900973"
-                }
-            ],
             "urls": [
                 {
                     "start": 129,
@@ -8356,6 +8330,32 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/863735627287846912/photo/1",
                     "display_url": "pic.twitter.com/wNqfwFTrnA",
                     "media_key": "3_863735616881799168"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 69,
+                    "tag": "Solferino"
+                },
+                {
+                    "start": 121,
+                    "end": 128,
+                    "tag": "Elysee"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "fhollande",
+                    "id": "18814998"
+                },
+                {
+                    "start": 35,
+                    "end": 51,
+                    "username": "partisocialiste",
+                    "id": "19900973"
                 }
             ]
         },
@@ -8386,6 +8386,16 @@
         "context_annotations": [],
         "conversation_id": 863695019173175296,
         "entities": {
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/L2o377yTiG",
+                    "expanded_url": "https://twitter.com/NguyenDerosier/status/863690100873605120/photo/1",
+                    "display_url": "pic.twitter.com/L2o377yTiG",
+                    "media_key": "3_863690055575056385"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -8398,16 +8408,6 @@
                     "end": 38,
                     "username": "Pau_Langevin",
                     "id": "81063019"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 70,
-                    "end": 93,
-                    "url": "https://t.co/L2o377yTiG",
-                    "expanded_url": "https://twitter.com/NguyenDerosier/status/863690100873605120/photo/1",
-                    "display_url": "pic.twitter.com/L2o377yTiG",
-                    "media_key": "3_863690055575056385"
                 }
             ]
         },
@@ -8438,6 +8438,16 @@
         "context_annotations": [],
         "conversation_id": 863677091426050049,
         "entities": {
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/oOvth27J5w",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863677091426050049/photo/1",
+                    "display_url": "pic.twitter.com/oOvth27J5w",
+                    "media_key": "3_863676985964363778"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 14,
@@ -8448,16 +8458,6 @@
                     "start": 42,
                     "end": 48,
                     "tag": "20ème"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 85,
-                    "end": 108,
-                    "url": "https://t.co/oOvth27J5w",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863677091426050049/photo/1",
-                    "display_url": "pic.twitter.com/oOvth27J5w",
-                    "media_key": "3_863676985964363778"
                 }
             ]
         },
@@ -8500,6 +8500,16 @@
         ],
         "conversation_id": 863668693208903680,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/msuWLIkaQe",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863668693208903680/photo/1",
+                    "display_url": "pic.twitter.com/msuWLIkaQe",
+                    "media_key": "3_863668659746738178"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -8525,16 +8535,6 @@
                     "start": 122,
                     "end": 139,
                     "tag": "legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/msuWLIkaQe",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863668693208903680/photo/1",
-                    "display_url": "pic.twitter.com/msuWLIkaQe",
-                    "media_key": "3_863668659746738178"
                 }
             ]
         },
@@ -8565,6 +8565,16 @@
         "context_annotations": [],
         "conversation_id": 863388576477835264,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/OWytuGU7gS",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863388576477835264/photo/1",
+                    "display_url": "pic.twitter.com/OWytuGU7gS",
+                    "media_key": "3_863388563492220928"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 84,
@@ -8580,16 +8590,6 @@
                     "start": 121,
                     "end": 140,
                     "tag": "Fidèlesànosvaleurs"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/OWytuGU7gS",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/863388576477835264/photo/1",
-                    "display_url": "pic.twitter.com/OWytuGU7gS",
-                    "media_key": "3_863388563492220928"
                 }
             ]
         },
@@ -8789,13 +8789,6 @@
         "context_annotations": [],
         "conversation_id": 862755283340328960,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 118,
-                    "end": 134,
-                    "tag": "paulangevin2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 135,
@@ -8804,6 +8797,13 @@
                     "expanded_url": "https://twitter.com/Pau_Langevin/status/862755283340328960/photo/1",
                     "display_url": "pic.twitter.com/UM0w2ZpAm9",
                     "media_key": "3_862755259466305536"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 134,
+                    "tag": "paulangevin2017"
                 }
             ]
         },
@@ -8834,6 +8834,16 @@
         "context_annotations": [],
         "conversation_id": 862744688519991300,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/5TpHYJaK36",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/862744688519991300/photo/1",
+                    "display_url": "pic.twitter.com/5TpHYJaK36",
+                    "media_key": "3_862744681045790721"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 124,
@@ -8853,16 +8863,6 @@
                     "end": 89,
                     "username": "ccfd_tsolidaire",
                     "id": "35717480"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/5TpHYJaK36",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/862744688519991300/photo/1",
-                    "display_url": "pic.twitter.com/5TpHYJaK36",
-                    "media_key": "3_862744681045790721"
                 }
             ]
         },
@@ -9164,6 +9164,16 @@
         "context_annotations": [],
         "conversation_id": 862179050290393088,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/kNJNOjnTVf",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/862179050290393088/photo/1",
+                    "display_url": "pic.twitter.com/kNJNOjnTVf",
+                    "media_key": "3_862179040488247296"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 124,
@@ -9184,16 +9194,6 @@
                     "username": "FDM_TV",
                     "id": "725620819"
                 }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/kNJNOjnTVf",
-                    "expanded_url": "https://twitter.com/Pau_Langevin/status/862179050290393088/photo/1",
-                    "display_url": "pic.twitter.com/kNJNOjnTVf",
-                    "media_key": "3_862179040488247296"
-                }
             ]
         },
         "geo": null,
@@ -9208,6 +9208,2678 @@
         },
         "reply_settings": "everyone",
         "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861963417908891649",
+        "text": "La coopération est essentielle entre artistes. Je favoriserai l'aide au fonctionnement et faciliterai les procédures pour les résidences https://t.co/SyartRpN7R",
+        "created_at": "2017-05-09 15:17:47+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861963406206742529"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 861963417908891649,
+        "entities": {
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/SyartRpN7R",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861963417908891649/photo/1",
+                    "display_url": "pic.twitter.com/SyartRpN7R",
+                    "media_key": "3_861963406206742529"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861887148030652418",
+        "text": "Samedi, j'ai visité les Ateliers du Père-Lachaise Associés. Ici, quelques unes des rencontres avec les artistes du 20ème  \n#paulangevin2017 https://t.co/anHP4bQZKI",
+        "created_at": "2017-05-09 10:14:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861887096482664448",
+                "3_861887112538464256",
+                "3_861887125167452160",
+                "3_861887138119516160"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 861887148030652418,
+        "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/anHP4bQZKI",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861887148030652418/photo/1",
+                    "display_url": "pic.twitter.com/anHP4bQZKI",
+                    "media_key": "3_861887096482664448"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/anHP4bQZKI",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861887148030652418/photo/1",
+                    "display_url": "pic.twitter.com/anHP4bQZKI",
+                    "media_key": "3_861887112538464256"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/anHP4bQZKI",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861887148030652418/photo/1",
+                    "display_url": "pic.twitter.com/anHP4bQZKI",
+                    "media_key": "3_861887125167452160"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/anHP4bQZKI",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861887148030652418/photo/1",
+                    "display_url": "pic.twitter.com/anHP4bQZKI",
+                    "media_key": "3_861887138119516160"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 139,
+                    "tag": "paulangevin2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861886053678014464",
+        "text": "Samedi, j'ai visité les Ateliers du Père-Lachaise Associés. La rencontre avec un 20aine d'artistes a été très enrichissante\n#paulangevin2017 https://t.co/os0mSZ4ELp",
+        "created_at": "2017-05-09 10:10:22+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861886041376137216"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 861886053678014464,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/os0mSZ4ELp",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861886053678014464/photo/1",
+                    "display_url": "pic.twitter.com/os0mSZ4ELp",
+                    "media_key": "3_861886041376137216"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 140,
+                    "tag": "paulangevin2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861879899853815808",
+        "text": "J'apprends la triste nouvelle du décès de notre camarade Jacques-Adrien Perret. J'adresse mes chaleureuses condoléances à sa famille. https://t.co/lxi260cSeM",
+        "created_at": "2017-05-09 09:45:55+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861879889791770624"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 861879899853815808,
+        "entities": {
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/lxi260cSeM",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861879899853815808/photo/1",
+                    "display_url": "pic.twitter.com/lxi260cSeM",
+                    "media_key": "3_861879889791770624"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861856571948773376",
+        "text": "RT @Anne_Hidalgo: L'attractivité, la vitalité de #Paris, c'est aussi la richesse &amp; la diversité des savoir-faire de ses commerces de proxim…",
+        "created_at": "2017-05-09 08:13:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 861856571948773376,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 55,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861856542114680833",
+        "text": "RT @Anne_Hidalgo: La révolution numérique et l’urgence environnementale seront des opportunités pour les commerçants de #Paris !\n#ConseilDe…",
+        "created_at": "2017-05-09 08:13:06+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 861856542114680833,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 126,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861849278947479552",
+        "text": "Je partage entièrement son point de vue : https://t.co/ekRmbE1qT8",
+        "created_at": "2017-05-09 07:44:15+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861849278947479552,
+        "entities": {
+            "urls": [
+                {
+                    "start": 42,
+                    "end": 65,
+                    "url": "https://t.co/ekRmbE1qT8",
+                    "expanded_url": "https://twitter.com/bcazeneuve/status/861285272293658628",
+                    "display_url": "twitter.com/bcazeneuve/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861517249911422976",
+        "text": "Socialistes, nous serons présents et actifs pour défendre les valeurs de gauche auxquels nous sommes attachés.",
+        "created_at": "2017-05-08 09:44:53+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861517249911422976,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861516408454361088",
+        "text": "Je souhaite bonne chance à Emmanuel Macron dans sa lourde tâche, en approuvant le salut fait à l' #Europe dans son discours d'hier soir.",
+        "created_at": "2017-05-08 09:41:32+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861516408454361088,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 105,
+                    "tag": "Europe"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861515961253408768",
+        "text": "Je me réjouis de la défaite des forces de la haine et de l'obscurantisme, et de la victoire des valeurs républicaines, majoritaires France.",
+        "created_at": "2017-05-08 09:39:46+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861515961253408768,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861251561242189825",
+        "text": "En ce jour de vote, saluons l'engagement de tous les assesseurs, présidents de bureaux, personnels de mairie. https://t.co/dU4RrwbHdx",
+        "created_at": "2017-05-07 16:09:08+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861251550458646528",
+                "3_861251550466932736"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861251561242189825,
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/dU4RrwbHdx",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861251561242189825/photo/1",
+                    "display_url": "pic.twitter.com/dU4RrwbHdx",
+                    "media_key": "3_861251550458646528"
+                },
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/dU4RrwbHdx",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/861251561242189825/photo/1",
+                    "display_url": "pic.twitter.com/dU4RrwbHdx",
+                    "media_key": "3_861251550466932736"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860448531412332545",
+        "text": "Rue d'Avron le message est le même : faisons barrage à l'extrême-droite pour que nos valeurs soient préservées. Sur #leterrain ! #Paris20 https://t.co/wrlURsTJxx",
+        "created_at": "2017-05-05 10:58:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860448501385363456"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 860448531412332545,
+        "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/wrlURsTJxx",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/860448531412332545/photo/1",
+                    "display_url": "pic.twitter.com/wrlURsTJxx",
+                    "media_key": "3_860448501385363456"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "leterrain"
+                },
+                {
+                    "start": 129,
+                    "end": 137,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860431276041539584",
+        "text": "Sur le marché Davout pour faire barrage au #FHaine , opposé à l'extrême aux valeurs du 20e arrondissement #Paris20 https://t.co/1CjKEiTIdg",
+        "created_at": "2017-05-05 09:49:36+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860431243451785216"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 860431276041539584,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/1CjKEiTIdg",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/860431276041539584/photo/1",
+                    "display_url": "pic.twitter.com/1CjKEiTIdg",
+                    "media_key": "3_860431243451785216"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 43,
+                    "end": 50,
+                    "tag": "FHaine"
+                },
+                {
+                    "start": 106,
+                    "end": 114,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860133005779709952",
+        "text": "La déclaration de Barack Obama nous engage à une chose : faire barrage à la trumpisation de la politique française.",
+        "created_at": "2017-05-04 14:04:23+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            }
+        ],
+        "conversation_id": 860133005779709952,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 3,
+            "like_count": 19,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859878240848052224",
+        "text": "Emmanuel Macron domine clairement le débat ; il met en évidence les approximations de son adversaire, sans aucune structure. #2017LeDebat",
+        "created_at": "2017-05-03 21:12:03+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10049352399",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049364125",
+                    "name": "2017, le débat"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859878240848052224,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 125,
+                    "end": 137,
+                    "tag": "2017LeDebat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859824962290503680",
+        "text": "Débat ou pas, nous nous mobilisons place Gambetta contre le #FHaine ! #Paris20 https://t.co/i23RGL4d1w",
+        "created_at": "2017-05-03 17:40:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_859824928379555841"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859824962290503680,
+        "entities": {
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/i23RGL4d1w",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/859824962290503680/photo/1",
+                    "display_url": "pic.twitter.com/i23RGL4d1w",
+                    "media_key": "3_859824928379555841"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 67,
+                    "tag": "FHaine"
+                },
+                {
+                    "start": 70,
+                    "end": 78,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859740126032912384",
+        "text": "Retrouvez ma tribune dédiée à la Mémoire : https://t.co/LPs63SdklG",
+        "created_at": "2017-05-03 12:03:13+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 859740126032912384,
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/LPs63SdklG",
+                    "expanded_url": "http://www.georgepaulangevin.fr/commemoration-du-souvenir-de-la-deportation/",
+                    "display_url": "georgepaulangevin.fr/commemoration-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858958926863380481",
+        "text": "RT @RachidTemal: Hommage du @partisocialiste à la mémoire de Brahim Bouarram, victime du racisme un 1er mai 1995. #JamaisOublier. #LeRacism…",
+        "created_at": "2017-05-01 08:19:01+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 858958926863380481,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 128,
+                    "tag": "JamaisOublier"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "RachidTemal",
+                    "id": "2507651323"
+                },
+                {
+                    "start": 28,
+                    "end": 44,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 54,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858953527506423808",
+        "text": "RT @Anne_Hidalgo: Hommage à la mémoire de #BrahimBouarram, précipité dans la Seine par des militants d'extrême droite, il y a 22 ans. #LeRa…",
+        "created_at": "2017-05-01 07:57:34+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 858953527506423808,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 57,
+                    "tag": "BrahimBouarram"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 598,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858953484489699329",
+        "text": "En ce #1ermai je rends hommage à la mémoire de Brahim Bouarram, victime il y a 22 ans jour pour jour de militants  racistes d'extrême-droite https://t.co/x4FxmOqwJk",
+        "created_at": "2017-05-01 07:57:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_858953476889554944",
+                "3_858953476881231873"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 858953484489699329,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/x4FxmOqwJk",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/858953484489699329/photo/1",
+                    "display_url": "pic.twitter.com/x4FxmOqwJk",
+                    "media_key": "3_858953476889554944"
+                },
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/x4FxmOqwJk",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/858953484489699329/photo/1",
+                    "display_url": "pic.twitter.com/x4FxmOqwJk",
+                    "media_key": "3_858953476881231873"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 6,
+                    "end": 13,
+                    "tag": "1ermai"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 134,
+            "reply_count": 14,
+            "like_count": 192,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858628468443099136",
+        "text": "Journée nationale du souvenir des victimes de la déportation. N'oublions jamais. https://t.co/FMwl7gxzxG",
+        "created_at": "2017-04-30 10:25:54+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_858628457017876480"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 858628468443099136,
+        "entities": {
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/FMwl7gxzxG",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/858628468443099136/photo/1",
+                    "display_url": "pic.twitter.com/FMwl7gxzxG",
+                    "media_key": "3_858628457017876480"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 21,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858624859349417984",
+        "text": "RT @tchevandier: Nous étions avec @Pau_Langevin au marché #Reunion pour appeler à voter pour Emmanuel #Macron et combattre le FN https://t.…",
+        "created_at": "2017-04-30 10:11:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 858624859349417984,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 66,
+                    "tag": "Reunion"
+                },
+                {
+                    "start": 102,
+                    "end": 109,
+                    "tag": "Macron"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "tchevandier",
+                    "id": "262077843"
+                },
+                {
+                    "start": 34,
+                    "end": 47,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858314420757430272",
+        "text": "RT @Samuel_b5698: Excellente ambiance ce matin pour distribuer l'appel de George @Pau_Langevin à voter #EmmanuelMacron contre le #FHaine…",
+        "created_at": "2017-04-29 13:37:59+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 858314420757430272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 94,
+                    "username": "Pau_Langevin",
+                    "id": "81063019"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 118,
+                    "tag": "EmmanuelMacron"
+                },
+                {
+                    "start": 129,
+                    "end": 136,
+                    "tag": "FHaine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858266273729454082",
+        "text": "Sur le marché #Belgrand le message est clair: votons pour un candidat avec qui nous pouvons discuter, sans hiérarchiser ls Français #Paris20 https://t.co/pM58n6XXzN",
+        "created_at": "2017-04-29 10:26:40+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_858266265277825025"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 858266273729454082,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/pM58n6XXzN",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/858266273729454082/photo/1",
+                    "display_url": "pic.twitter.com/pM58n6XXzN",
+                    "media_key": "3_858266265277825025"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 23,
+                    "tag": "Belgrand"
+                },
+                {
+                    "start": 132,
+                    "end": 140,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 6,
+            "like_count": 36,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857986601313587200",
+        "text": "Belles rencontres cet après-midi dans ls ateliers de lutherie de Mme Osorovitz et de tapisserie avec M. Benzimra. Du grand oeuvre! #Paris20 https://t.co/4BeVSfTry3",
+        "created_at": "2017-04-28 15:55:21+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_857986566232453121",
+                "3_857986566081400833",
+                "3_857986566093983744"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 857986601313587200,
+        "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/4BeVSfTry3",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/857986601313587200/photo/1",
+                    "display_url": "pic.twitter.com/4BeVSfTry3",
+                    "media_key": "3_857986566232453121"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/4BeVSfTry3",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/857986601313587200/photo/1",
+                    "display_url": "pic.twitter.com/4BeVSfTry3",
+                    "media_key": "3_857986566081400833"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/4BeVSfTry3",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/857986601313587200/photo/1",
+                    "display_url": "pic.twitter.com/4BeVSfTry3",
+                    "media_key": "3_857986566093983744"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 131,
+                    "end": 139,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857926468340502528",
+        "text": "Pour enfants, adolescents et adultes, cet atelier fonctionne en circuit fermé, recycle sa terre, pour un #artisanat plus ethique #Paris20 https://t.co/EIwhEyxZfP",
+        "created_at": "2017-04-28 11:56:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_857926459066916865"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 857926468340502528,
+        "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/EIwhEyxZfP",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/857926468340502528/photo/1",
+                    "display_url": "pic.twitter.com/EIwhEyxZfP",
+                    "media_key": "3_857926459066916865"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "artisanat"
+                },
+                {
+                    "start": 129,
+                    "end": 137,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857925712682115073",
+        "text": "Je me suis rendue ce matin rue le Bua à latelier Melting Pot, ouvert il y a moins d'un an. On y travaille la céramique dans la bonne humeur! https://t.co/7GDeJ0UHtP",
+        "created_at": "2017-04-28 11:53:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_857925694696939520"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 857925712682115073,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/7GDeJ0UHtP",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/857925712682115073/photo/1",
+                    "display_url": "pic.twitter.com/7GDeJ0UHtP",
+                    "media_key": "3_857925694696939520"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857861854470733825",
+        "text": "Jalkh mis en cause pour emploi fictif au Parlement européen &amp; pr son role dans le financement frauduleux du FN. Les masques tombent #FNhaine",
+        "created_at": "2017-04-28 07:39:39+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857861854470733825,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 136,
+                    "end": 144,
+                    "tag": "FNhaine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 2,
+            "like_count": 18,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857861507392131072",
+        "text": "La dédiabolisation du FN à des ratés: JF Jalkh, choisi comme président par interim, a douté de l'extermination dans les chambres à gaz",
+        "created_at": "2017-04-28 07:38:16+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857861507392131072,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 4,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857560375633616897",
+        "text": "Je voterai donc @EmmanuelMacron en regrettant le score de ma famille politique au premier tour, fidèle et attentive à mes valeurs.",
+        "created_at": "2017-04-27 11:41:40+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 857560375633616897,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 16,
+                    "end": 31,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 4,
+            "like_count": 20,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857559980177854464",
+        "text": "Depuis mon engagement au MRAP et dans la vie politique, j'ai toujours mis le FN au rang de mon premier #combat",
+        "created_at": "2017-04-27 11:40:06+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857559980177854464,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 110,
+                    "tag": "combat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 3,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857559709116715008",
+        "text": "La République et ses valeurs, l'égalité de considération et de traitement entre tous ses habitants, c'est cela qui est en jeu.",
+        "created_at": "2017-04-27 11:39:01+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 857559709116715008,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857559590552178689",
+        "text": "Déjà plusieurs jours de tergiversations, et M. Mélenchon n'a toujours pas appelé à faire #barrage contre le #FN",
+        "created_at": "2017-04-27 11:38:33+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1466058925661245445",
+                    "name": "Jean-Luc Mélenchon"
+                }
+            }
+        ],
+        "conversation_id": 857559590552178689,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 97,
+                    "tag": "barrage"
+                },
+                {
+                    "start": 108,
+                    "end": 111,
+                    "tag": "FN"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 4,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856576905935560704",
+        "text": "Faire battre le Front national. Mon communiqué : https://t.co/dqBK9rHx0O https://t.co/8kkKOVpVzJ",
+        "created_at": "2017-04-24 18:33:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_856576899895754752"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856576905935560704,
+        "entities": {
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/dqBK9rHx0O",
+                    "expanded_url": "http://www.gpl2017.fr/communique-faire-battre-le-front-national/",
+                    "display_url": "gpl2017.fr/communique-fai…"
+                },
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/8kkKOVpVzJ",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/856576905935560704/photo/1",
+                    "display_url": "pic.twitter.com/8kkKOVpVzJ",
+                    "media_key": "3_856576899895754752"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856218876488683520",
+        "text": "Je prends acte des résultats du vote, et appelle les électeurs de gauche, de toutes sensibilités, à voter Emmanuel Macron au second tour.",
+        "created_at": "2017-04-23 18:51:02+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856218876488683520,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 1,
+            "like_count": 30,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "855141398445686784",
+        "text": "Il y a 74 ans, le ghetto de Varsovie se soulevait pour recouvrer sa #liberté et ses #droits \nNe cessons jamais d'être humanistes.",
+        "created_at": "2017-04-20 19:29:31+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 855141398445686784,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 76,
+                    "tag": "liberté"
+                },
+                {
+                    "start": 84,
+                    "end": 91,
+                    "tag": "droits"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 1,
+            "like_count": 20,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "855116143660605442",
+        "text": "Cette #asso, pourtant coincée entre le périphérique et les Maréchaux, est un puits d'idées aux portes du 20eme arrt. #Paris20 #citoyen",
+        "created_at": "2017-04-20 17:49:10+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 855116143660605442,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 6,
+                    "end": 11,
+                    "tag": "asso"
+                },
+                {
+                    "start": 117,
+                    "end": 125,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 126,
+                    "end": 134,
+                    "tag": "citoyen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "855115599214718976",
+        "text": "À la Maison de la Fougère aujourd'hui, lieu de projets, d'initiatives citoyennes et locales au service du #quotidien https://t.co/EVXw1A70Yx",
+        "created_at": "2017-04-20 17:47:00+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_855115591883075585"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10046026135",
+                    "name": "Quotidien",
+                    "description": "Un décryptage de l'actualité et du monde qui nous entoure : politique nationale et internationale, musique, cinéma, culture, médias, questions de société ou sport."
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049119633",
+                    "name": "Quotidien"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049119634",
+                    "name": "Quotidien"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049119635",
+                    "name": "Quotidien"
+                }
+            }
+        ],
+        "conversation_id": 855115599214718976,
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/EVXw1A70Yx",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/855115599214718976/photo/1",
+                    "display_url": "pic.twitter.com/EVXw1A70Yx",
+                    "media_key": "3_855115591883075585"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 116,
+                    "tag": "quotidien"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "854777406099476480",
+        "text": "Bonne ambiance avec les jeunes sur la place de #NotreRepublique ! Pour célebrer les valeurs de gauche portées par Benoît Hamon 🌹 https://t.co/0uv3sodusN",
+        "created_at": "2017-04-19 19:23:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_854777398491054080"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            }
+        ],
+        "conversation_id": 854777406099476480,
+        "entities": {
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/0uv3sodusN",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/854777406099476480/photo/1",
+                    "display_url": "pic.twitter.com/0uv3sodusN",
+                    "media_key": "3_854777398491054080"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 63,
+                    "tag": "NotreRepublique"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 4,
+            "like_count": 49,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852786108538642433",
+        "text": "Parfois, créer sa propre entreprise permet de concrétiser ses #ambitions , ses #projets , et mettre en valeur ses compétences",
+        "created_at": "2017-04-14 07:30:26+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852786108538642433,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "tag": "ambitions"
+                },
+                {
+                    "start": 79,
+                    "end": 87,
+                    "tag": "projets"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852785514843262979",
+        "text": "J'étais cette semaine dans les studios d'OM5TV témoigner sur les jeunes entrepreneurs antillais. La vivacité #éco sur tous nos territoires https://t.co/vAtx4IqWR6",
+        "created_at": "2017-04-14 07:28:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_852785507125780480"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852785514843262979,
+        "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/vAtx4IqWR6",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/852785514843262979/photo/1",
+                    "display_url": "pic.twitter.com/vAtx4IqWR6",
+                    "media_key": "3_852785507125780480"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 113,
+                    "tag": "éco"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852596517059907585",
+        "text": "La mixité de notre arrondissement, ns y tenons, ns la préserverons. Je compte sur vous pour nous aider à continuer et à l'améliorer!#GPL2017 https://t.co/16TEu92a6L",
+        "created_at": "2017-04-13 18:57:04+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_852596502824443905"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852596517059907585,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/16TEu92a6L",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/852596517059907585/photo/1",
+                    "display_url": "pic.twitter.com/16TEu92a6L",
+                    "media_key": "3_852596502824443905"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 132,
+                    "end": 140,
+                    "tag": "GPL2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 1,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852594499142512649",
+        "text": "À Paris, ns avons de nouveaux outils &amp; la volonté de s'en saisir pr travailler à ce que chacun et chacune se sente soutenu ds nos quartiers.",
+        "created_at": "2017-04-13 18:49:03+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597222604800",
+                    "name": "Beauty/Hygiene"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10024019865",
+                    "name": "Avon"
+                }
+            }
+        ],
+        "conversation_id": 852594499142512649,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852592581619929088",
+        "text": "Donner à chacun sa chance, nécessite de rendre l'accès aux logements sociaux plus juste et plus équitables.",
+        "created_at": "2017-04-13 18:41:26+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852592581619929088,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852591466488713216",
+        "text": "Nos concitoyens, surtout les plus démunis, ne veulent pas d'une égalité de principe, ils attendent une égalité de résultats !",
+        "created_at": "2017-04-13 18:37:00+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852591466488713216,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852591201014489088",
+        "text": "Les valeurs d'égalité ne sont ni un acquis, ni une rente, mais un combat à mener sans relâche, une promesse à tenir inlassablement.",
+        "created_at": "2017-04-13 18:35:57+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852591201014489088,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852590818040979457",
+        "text": "L'égalité est un des 3 termes de notre devise républicaine.La loi égalité et citoyenneté favorise l'égalité réelle entre ts nos concitoyens.",
+        "created_at": "2017-04-13 18:34:26+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852590818040979457,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852480168597663745",
+        "text": "Je serai ce soir avec @egregoire et @RHammadi pour parler et échanger sur la mixité dans nos quartiers, au coeur de la #cohesion sociale https://t.co/9rbO4Q9A6v",
+        "created_at": "2017-04-13 11:14:45+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852480168597663745,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 32,
+                    "username": "egregoire",
+                    "id": "18737885"
+                },
+                {
+                    "start": 36,
+                    "end": 45,
+                    "username": "RHammadi",
+                    "id": "60626246"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/9rbO4Q9A6v",
+                    "expanded_url": "https://twitter.com/pau_langevin/status/851806022293499907",
+                    "display_url": "twitter.com/pau_langevin/s…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 128,
+                    "tag": "cohesion"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852061474046566400",
+        "text": "RT @Rom1Wolf: En porte à porte pour le projet! J-12 #Hamon2017 https://t.co/KpAS7BWWhU",
+        "created_at": "2017-04-12 07:31:00+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_851893993017364480"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 852061474046566400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "Rom1Wolf",
+                    "id": "96751125"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/KpAS7BWWhU",
+                    "expanded_url": "https://twitter.com/Rom1Wolf/status/851894015364648961/photo/1",
+                    "display_url": "pic.twitter.com/KpAS7BWWhU",
+                    "media_key": "3_851893993017364480"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 62,
+                    "tag": "Hamon2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "851806022293499907",
+        "text": "Quelles mesures pour promouvoir la mixité dans nos quartiers ?\nJe vous invite ce jeudi 13 avril à 19h au café Le Clin's 20 #Paris20 https://t.co/P0efXJ1IBg",
+        "created_at": "2017-04-11 14:35:56+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_851806015314173952"
+            ]
+        },
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 851806022293499907,
+        "entities": {
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/P0efXJ1IBg",
+                    "expanded_url": "https://twitter.com/Pau_Langevin/status/851806022293499907/photo/1",
+                    "display_url": "pic.twitter.com/P0efXJ1IBg",
+                    "media_key": "3_851806015314173952"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 131,
+                    "tag": "Paris20"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "851687917374320640",
+        "text": "Je vous donne rendez-vous : https://t.co/H3Mov67gjq",
+        "created_at": "2017-04-11 06:46:37+00:00",
+        "attachments": null,
+        "author_id": 81063019,
+        "context_annotations": [],
+        "conversation_id": 851687917374320640,
+        "entities": {
+            "urls": [
+                {
+                    "start": 28,
+                    "end": 51,
+                    "url": "https://t.co/H3Mov67gjq",
+                    "expanded_url": "https://www.facebook.com/events/143967232802951/?ti=icl",
+                    "display_url": "facebook.com/events/1439672…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
         "withheld": null
     }
 ]

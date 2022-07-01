@@ -49,6 +49,16 @@
         ],
         "conversation_id": 873214249417539588,
         "entities": {
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/2iQLd9cG2b",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/873214249417539588/photo/1",
+                    "display_url": "pic.twitter.com/2iQLd9cG2b",
+                    "media_key": "3_873214241892859904"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 4,
@@ -62,16 +72,6 @@
                     "end": 106,
                     "username": "EmmanuelMacron",
                     "id": "1976143068"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 131,
-                    "end": 154,
-                    "url": "https://t.co/2iQLd9cG2b",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/873214249417539588/photo/1",
-                    "display_url": "pic.twitter.com/2iQLd9cG2b",
-                    "media_key": "3_873214241892859904"
                 }
             ]
         },
@@ -102,13 +102,6 @@
         "context_annotations": [],
         "conversation_id": 873213035468468224,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 118,
-                    "end": 139,
-                    "tag": "laRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -117,6 +110,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/873213035468468224/photo/1",
                     "display_url": "pic.twitter.com/h78c2K0F0k",
                     "media_key": "3_873213027037966341"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 139,
+                    "tag": "laRepubliqueEnMarche"
                 }
             ]
         },
@@ -219,6 +219,16 @@
         "context_annotations": [],
         "conversation_id": 872891234808889346,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/Yvq0wUVmuc",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872891234808889346/photo/1",
+                    "display_url": "pic.twitter.com/Yvq0wUVmuc",
+                    "media_key": "3_872891220963598336"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 3,
@@ -234,16 +244,6 @@
                     "start": 106,
                     "end": 114,
                     "tag": "innover"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/Yvq0wUVmuc",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/872891234808889346/photo/1",
-                    "display_url": "pic.twitter.com/Yvq0wUVmuc",
-                    "media_key": "3_872891220963598336"
                 }
             ]
         },
@@ -274,6 +274,16 @@
         "context_annotations": [],
         "conversation_id": 872890596326862848,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/8Iu4JTxMcn",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872890596326862848/photo/1",
+                    "display_url": "pic.twitter.com/8Iu4JTxMcn",
+                    "media_key": "3_872890583832031235"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 50,
@@ -284,16 +294,6 @@
                     "start": 106,
                     "end": 114,
                     "tag": "erasmus"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/8Iu4JTxMcn",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/872890596326862848/photo/1",
-                    "display_url": "pic.twitter.com/8Iu4JTxMcn",
-                    "media_key": "3_872890583832031235"
                 }
             ]
         },
@@ -324,6 +324,16 @@
         "context_annotations": [],
         "conversation_id": 872889544697368576,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/LqG1Qe8xX7",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/872889544697368576/photo/1",
+                    "display_url": "pic.twitter.com/LqG1Qe8xX7",
+                    "media_key": "3_872889533846740994"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 26,
@@ -340,16 +350,6 @@
                     "end": 139,
                     "tag": "laRepubliqueEnMarche"
                 }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/LqG1Qe8xX7",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/872889544697368576/photo/1",
-                    "display_url": "pic.twitter.com/LqG1Qe8xX7",
-                    "media_key": "3_872889533846740994"
-                }
             ]
         },
         "geo": null,
@@ -360,70 +360,6 @@
             "retweet_count": 3,
             "reply_count": 0,
             "like_count": 8,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "withheld": null
-    },
-    {
-        "id": "872886000271458307",
-        "text": "RT @PacomeRupin: \"Nous avons besoin d'une conscience métropolitaine pour avoir une politique de construction de logements attractive dans l…",
-        "created_at": "2017-06-08 18:40:14+00:00",
-        "attachments": null,
-        "author_id": 2495899075,
-        "context_annotations": [],
-        "conversation_id": 872886000271458307,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "PacomeRupin",
-                    "id": "72581817"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 7,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "withheld": null
-    },
-    {
-        "id": "872885558477033472",
-        "text": "RT @PacomeRupin: Nous allons investir 15 milliards pour faciliter l'accès à la formation, notamment des jeunes qui souhaitent bénéficier d'…",
-        "created_at": "2017-06-08 18:38:29+00:00",
-        "attachments": null,
-        "author_id": 2495899075,
-        "context_annotations": [],
-        "conversation_id": 872885558477033472,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "PacomeRupin",
-                    "id": "72581817"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 12,
-            "reply_count": 0,
-            "like_count": 0,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -455,6 +391,16 @@
         ],
         "conversation_id": 872885217891164162,
         "entities": {
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/x5LbYI1p6E",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/872883985264914432/photo/1",
+                    "display_url": "pic.twitter.com/x5LbYI1p6E",
+                    "media_key": "3_872883149440778240"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 57,
@@ -483,16 +429,6 @@
                     "end": 49,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 106,
-                    "end": 129,
-                    "url": "https://t.co/x5LbYI1p6E",
-                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/872883985264914432/photo/1",
-                    "display_url": "pic.twitter.com/x5LbYI1p6E",
-                    "media_key": "3_872883149440778240"
                 }
             ]
         },
@@ -632,7 +568,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 1734,
+            "retweet_count": 1733,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -820,6 +756,15 @@
         ],
         "conversation_id": 871256837928169472,
         "entities": {
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/QyNQPoXrQk",
+                    "expanded_url": "http://l.leparisien.fr/s/7Q2M",
+                    "display_url": "l.leparisien.fr/s/7Q2M"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 26,
@@ -839,15 +784,6 @@
                     "end": 68,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 107,
-                    "end": 130,
-                    "url": "https://t.co/QyNQPoXrQk",
-                    "expanded_url": "http://l.leparisien.fr/s/7Q2M",
-                    "display_url": "l.leparisien.fr/s/7Q2M"
                 }
             ]
         },
@@ -1012,6 +948,16 @@
         "context_annotations": [],
         "conversation_id": 870346970094870528,
         "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/DJEWc6PAvO",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/870345010453123074/photo/1",
+                    "display_url": "pic.twitter.com/DJEWc6PAvO",
+                    "media_key": "3_870345001661870080"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 72,
@@ -1025,16 +971,6 @@
                     "end": 95,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 96,
-                    "end": 119,
-                    "url": "https://t.co/DJEWc6PAvO",
-                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/870345010453123074/photo/1",
-                    "display_url": "pic.twitter.com/DJEWc6PAvO",
-                    "media_key": "3_870345001661870080"
                 }
             ]
         },
@@ -1317,6 +1253,15 @@
         ],
         "conversation_id": 869207730870988802,
         "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/pGS3N2bbfm",
+                    "expanded_url": "http://communautes.agefi.fr/status/13156",
+                    "display_url": "communautes.agefi.fr/status/13156"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 54,
@@ -1330,15 +1275,6 @@
                     "end": 101,
                     "username": "AgefiFrance",
                     "id": "233893003"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 103,
-                    "end": 126,
-                    "url": "https://t.co/pGS3N2bbfm",
-                    "expanded_url": "http://communautes.agefi.fr/status/13156",
-                    "display_url": "communautes.agefi.fr/status/13156"
                 }
             ]
         },
@@ -1369,6 +1305,16 @@
         "context_annotations": [],
         "conversation_id": 868917705931403264,
         "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/kj7vFUO2zZ",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/868917705931403264/photo/1",
+                    "display_url": "pic.twitter.com/kj7vFUO2zZ",
+                    "media_key": "3_868917703360352258"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 72,
@@ -1388,16 +1334,6 @@
                     "end": 70,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 83,
-                    "end": 106,
-                    "url": "https://t.co/kj7vFUO2zZ",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/868917705931403264/photo/1",
-                    "display_url": "pic.twitter.com/kj7vFUO2zZ",
-                    "media_key": "3_868917703360352258"
                 }
             ]
         },
@@ -1428,6 +1364,16 @@
         "context_annotations": [],
         "conversation_id": 868855405329428483,
         "entities": {
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/8zAXP5W46K",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/868855405329428483/photo/1",
+                    "display_url": "pic.twitter.com/8zAXP5W46K",
+                    "media_key": "3_868855403467210755"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 86,
@@ -1446,16 +1392,6 @@
                     "end": 52,
                     "username": "lesFrigos",
                     "id": "1346985835"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 116,
-                    "end": 139,
-                    "url": "https://t.co/8zAXP5W46K",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/868855405329428483/photo/1",
-                    "display_url": "pic.twitter.com/8zAXP5W46K",
-                    "media_key": "3_868855403467210755"
                 }
             ]
         },
@@ -1757,13 +1693,6 @@
         "context_annotations": [],
         "conversation_id": 867855030778564608,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 121,
-                    "end": 131,
-                    "tag": "Circo7509"
-                }
-            ],
             "urls": [
                 {
                     "start": 132,
@@ -1772,6 +1701,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/867855030778564608/photo/1",
                     "display_url": "pic.twitter.com/h8h6TZqGdI",
                     "media_key": "3_867855023228821504"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 131,
+                    "tag": "Circo7509"
                 }
             ]
         },
@@ -1885,6 +1821,16 @@
         "context_annotations": [],
         "conversation_id": 867437721920434184,
         "entities": {
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ZfgblqUyoq",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867437721920434184/photo/1",
+                    "display_url": "pic.twitter.com/ZfgblqUyoq",
+                    "media_key": "3_867437694779052036"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 40,
@@ -1895,16 +1841,6 @@
                     "start": 53,
                     "end": 64,
                     "tag": "olympiades"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/ZfgblqUyoq",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/867437721920434184/photo/1",
-                    "display_url": "pic.twitter.com/ZfgblqUyoq",
-                    "media_key": "3_867437694779052036"
                 }
             ]
         },
@@ -1935,6 +1871,16 @@
         "context_annotations": [],
         "conversation_id": 867365217730260992,
         "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/AoFNIxSnrO",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867365217730260992/photo/1",
+                    "display_url": "pic.twitter.com/AoFNIxSnrO",
+                    "media_key": "3_867365207206752256"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -1964,16 +1910,6 @@
                     "end": 139,
                     "username": "EllesMarchent",
                     "id": "832149029521911808"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/AoFNIxSnrO",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/867365217730260992/photo/1",
-                    "display_url": "pic.twitter.com/AoFNIxSnrO",
-                    "media_key": "3_867365207206752256"
                 }
             ]
         },
@@ -2082,13 +2018,6 @@
         "context_annotations": [],
         "conversation_id": 867332451240218625,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 3,
-                    "end": 16,
-                    "tag": "Transparence"
-                }
-            ],
             "urls": [
                 {
                     "start": 116,
@@ -2096,6 +2025,13 @@
                     "url": "https://t.co/fVPZqM1nxl",
                     "expanded_url": "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique",
                     "display_url": "en-marche.fr/emmanuel-macro…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "tag": "Transparence"
                 }
             ]
         },
@@ -2159,6 +2095,15 @@
         ],
         "conversation_id": 867321726711078913,
         "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/fVPZqM1nxl",
+                    "expanded_url": "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique",
+                    "display_url": "en-marche.fr/emmanuel-macro…"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 27,
@@ -2172,15 +2117,6 @@
                     "end": 15,
                     "username": "EmmanuelMacron",
                     "id": "1976143068"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/fVPZqM1nxl",
-                    "expanded_url": "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique",
-                    "display_url": "en-marche.fr/emmanuel-macro…"
                 }
             ]
         },
@@ -2389,6 +2325,16 @@
         ],
         "conversation_id": 867099973774704640,
         "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/Llaswk7VGh",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867099973774704640/photo/1",
+                    "display_url": "pic.twitter.com/Llaswk7VGh",
+                    "media_key": "3_867099850223083527"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 24,
@@ -2412,16 +2358,6 @@
                     "end": 23,
                     "username": "JeunesMacron",
                     "id": "3341083283"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 110,
-                    "end": 133,
-                    "url": "https://t.co/Llaswk7VGh",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/867099973774704640/photo/1",
-                    "display_url": "pic.twitter.com/Llaswk7VGh",
-                    "media_key": "3_867099850223083527"
                 }
             ]
         },
@@ -2477,6 +2413,16 @@
         ],
         "conversation_id": 867098364499947524,
         "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/yVc311wMLW",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867098364499947524/photo/1",
+                    "display_url": "pic.twitter.com/yVc311wMLW",
+                    "media_key": "3_867098362763513856"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 3,
@@ -2490,16 +2436,6 @@
                     "end": 86,
                     "username": "mounir",
                     "id": "80528373"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 111,
-                    "end": 134,
-                    "url": "https://t.co/yVc311wMLW",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/867098364499947524/photo/1",
-                    "display_url": "pic.twitter.com/yVc311wMLW",
-                    "media_key": "3_867098362763513856"
                 }
             ]
         },
@@ -2770,13 +2706,6 @@
         ],
         "conversation_id": 867092328477065217,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 50,
-                    "end": 71,
-                    "tag": "laRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 129,
@@ -2785,6 +2714,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/867092328477065217/photo/1",
                     "display_url": "pic.twitter.com/tT4dU08HuM",
                     "media_key": "3_867092319866155008"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 71,
+                    "tag": "laRepubliqueEnMarche"
                 }
             ]
         },
@@ -2828,6 +2764,16 @@
         ],
         "conversation_id": 867039739567845377,
         "entities": {
+            "urls": [
+                {
+                    "start": 126,
+                    "end": 149,
+                    "url": "https://t.co/KScz2ElDt5",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/867039739567845377/photo/1",
+                    "display_url": "pic.twitter.com/KScz2ElDt5",
+                    "media_key": "3_867039730319454209"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 87,
@@ -2851,16 +2797,6 @@
                     "end": 53,
                     "username": "citemodedesign",
                     "id": "564854372"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 126,
-                    "end": 149,
-                    "url": "https://t.co/KScz2ElDt5",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/867039739567845377/photo/1",
-                    "display_url": "pic.twitter.com/KScz2ElDt5",
-                    "media_key": "3_867039730319454209"
                 }
             ]
         },
@@ -3260,13 +3196,6 @@
         "context_annotations": [],
         "conversation_id": 866897530461839361,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 112,
-                    "end": 133,
-                    "tag": "LaRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -3275,6 +3204,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/866897530461839361/photo/1",
                     "display_url": "pic.twitter.com/lM6bKyfr4u",
                     "media_key": "3_866897520827486208"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 112,
+                    "end": 133,
+                    "tag": "LaRepubliqueEnMarche"
                 }
             ]
         },
@@ -3529,13 +3465,6 @@
         ],
         "conversation_id": 866033440168304640,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 117,
-                    "end": 138,
-                    "tag": "LaRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 139,
@@ -3560,6 +3489,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/866033440168304640/photo/1",
                     "display_url": "pic.twitter.com/W18TGCaVks",
                     "media_key": "3_866033432991862784"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 138,
+                    "tag": "LaRepubliqueEnMarche"
                 }
             ]
         },
@@ -3627,6 +3563,16 @@
         ],
         "conversation_id": 866030136918978562,
         "entities": {
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/5tePPJYZnB",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/866029873185398784/photo/1",
+                    "display_url": "pic.twitter.com/5tePPJYZnB",
+                    "media_key": "3_866029870924607488"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 55,
@@ -3640,16 +3586,6 @@
                     "end": 29,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 109,
-                    "end": 132,
-                    "url": "https://t.co/5tePPJYZnB",
-                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/866029873185398784/photo/1",
-                    "display_url": "pic.twitter.com/5tePPJYZnB",
-                    "media_key": "3_866029870924607488"
                 }
             ]
         },
@@ -3705,6 +3641,16 @@
         ],
         "conversation_id": 866028712562708480,
         "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/lNOOvQCmVM",
+                    "expanded_url": "https://twitter.com/philippezaouati/status/866028667444580352/photo/1",
+                    "display_url": "pic.twitter.com/lNOOvQCmVM",
+                    "media_key": "3_866028665041235973"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 45,
@@ -3724,16 +3670,6 @@
                     "end": 34,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/lNOOvQCmVM",
-                    "expanded_url": "https://twitter.com/philippezaouati/status/866028667444580352/photo/1",
-                    "display_url": "pic.twitter.com/lNOOvQCmVM",
-                    "media_key": "3_866028665041235973"
                 }
             ]
         },
@@ -3812,13 +3748,6 @@
         "context_annotations": [],
         "conversation_id": 865989683951673345,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 92,
-                    "end": 108,
-                    "tag": "AccèsALaCulture"
-                }
-            ],
             "urls": [
                 {
                     "start": 109,
@@ -3827,6 +3756,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865989683951673345/video/1",
                     "display_url": "pic.twitter.com/HDls3k62lO",
                     "media_key": "7_865989255558045696"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 108,
+                    "tag": "AccèsALaCulture"
                 }
             ]
         },
@@ -3857,14 +3793,6 @@
         "context_annotations": [],
         "conversation_id": 865987857181224960,
         "entities": {
-            "mentions": [
-                {
-                    "start": 89,
-                    "end": 103,
-                    "username": "NuitdesMusees",
-                    "id": "112716139"
-                }
-            ],
             "urls": [
                 {
                     "start": 105,
@@ -3873,6 +3801,14 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865987857181224960/photo/1",
                     "display_url": "pic.twitter.com/oJVn9qKPTN",
                     "media_key": "3_865987854366887936"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 103,
+                    "username": "NuitdesMusees",
+                    "id": "112716139"
                 }
             ]
         },
@@ -3942,6 +3878,16 @@
         "context_annotations": [],
         "conversation_id": 865971307866972161,
         "entities": {
+            "urls": [
+                {
+                    "start": 89,
+                    "end": 112,
+                    "url": "https://t.co/GJkClWLNoD",
+                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/865964613472583680/video/1",
+                    "display_url": "pic.twitter.com/GJkClWLNoD",
+                    "media_key": "7_865964511932686336"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 61,
@@ -3955,16 +3901,6 @@
                     "end": 29,
                     "username": "BuonTAN",
                     "id": "2495899075"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 89,
-                    "end": 112,
-                    "url": "https://t.co/GJkClWLNoD",
-                    "expanded_url": "https://twitter.com/EnMarcheParis13/status/865964613472583680/video/1",
-                    "display_url": "pic.twitter.com/GJkClWLNoD",
-                    "media_key": "7_865964511932686336"
                 }
             ]
         },
@@ -4008,6 +3944,16 @@
         ],
         "conversation_id": 865957891886415872,
         "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/U1C7ySV6Kc",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865957891886415872/photo/1",
+                    "display_url": "pic.twitter.com/U1C7ySV6Kc",
+                    "media_key": "3_865957889252483074"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 88,
@@ -4018,16 +3964,6 @@
                     "start": 106,
                     "end": 111,
                     "tag": "LREM"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 112,
-                    "end": 135,
-                    "url": "https://t.co/U1C7ySV6Kc",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/865957891886415872/photo/1",
-                    "display_url": "pic.twitter.com/U1C7ySV6Kc",
-                    "media_key": "3_865957889252483074"
                 }
             ]
         },
@@ -4154,13 +4090,6 @@
         "context_annotations": [],
         "conversation_id": 865922764783439872,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 96,
-                    "end": 117,
-                    "tag": "laRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 118,
@@ -4169,6 +4098,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865922764783439872/photo/1",
                     "display_url": "pic.twitter.com/s7687Nat5c",
                     "media_key": "3_865922756948484097"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 117,
+                    "tag": "laRepubliqueEnMarche"
                 }
             ]
         },
@@ -4299,14 +4235,6 @@
         "context_annotations": [],
         "conversation_id": 865903381470162944,
         "entities": {
-            "mentions": [
-                {
-                    "start": 75,
-                    "end": 89,
-                    "username": "NuitdesMusees",
-                    "id": "112716139"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -4315,6 +4243,14 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865903381470162944/photo/1",
                     "display_url": "pic.twitter.com/gJEzHSP5BJ",
                     "media_key": "3_865903376810356736"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 89,
+                    "username": "NuitdesMusees",
+                    "id": "112716139"
                 }
             ]
         },
@@ -4405,6 +4341,16 @@
         ],
         "conversation_id": 865903242244497408,
         "entities": {
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/GpvMszFEgK",
+                    "expanded_url": "https://twitter.com/BuonTAN/status/865903242244497408/photo/1",
+                    "display_url": "pic.twitter.com/GpvMszFEgK",
+                    "media_key": "3_865903110140682241"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 3,
@@ -4420,16 +4366,6 @@
                     "start": 116,
                     "end": 130,
                     "tag": "NuitdesMusees"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 131,
-                    "end": 154,
-                    "url": "https://t.co/GpvMszFEgK",
-                    "expanded_url": "https://twitter.com/BuonTAN/status/865903242244497408/photo/1",
-                    "display_url": "pic.twitter.com/GpvMszFEgK",
-                    "media_key": "3_865903110140682241"
                 }
             ]
         },
@@ -4460,13 +4396,6 @@
         "context_annotations": [],
         "conversation_id": 865877168408190976,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 118,
-                    "end": 139,
-                    "tag": "LaRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 140,
@@ -4475,6 +4404,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865877168408190976/photo/1",
                     "display_url": "pic.twitter.com/tLqPNPUtPM",
                     "media_key": "3_865877160090849280"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 139,
+                    "tag": "LaRepubliqueEnMarche"
                 }
             ]
         },
@@ -4605,13 +4541,6 @@
         ],
         "conversation_id": 865865627805908993,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 69,
-                    "end": 90,
-                    "tag": "LaRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 127,
@@ -4620,6 +4549,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865865627805908993/photo/1",
                     "display_url": "pic.twitter.com/ps3POHrynE",
                     "media_key": "3_865865620507807745"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 90,
+                    "tag": "LaRepubliqueEnMarche"
                 }
             ]
         },
@@ -4991,13 +4927,6 @@
         ],
         "conversation_id": 865656027848376321,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 113,
-                    "end": 134,
-                    "tag": "LaRepubliqueEnMarche"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -5006,6 +4935,13 @@
                     "expanded_url": "https://twitter.com/BuonTAN/status/865656027848376321/photo/1",
                     "display_url": "pic.twitter.com/ithxvrDrOM",
                     "media_key": "3_865656011515756545"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 134,
+                    "tag": "LaRepubliqueEnMarche"
                 }
             ]
         },

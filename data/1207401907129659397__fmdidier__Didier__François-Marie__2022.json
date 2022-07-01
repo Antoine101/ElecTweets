@@ -22,7 +22,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 962,
+            "retweet_count": 963,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -167,9 +167,9 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 26,
-            "reply_count": 3,
-            "like_count": 46,
+            "retweet_count": 27,
+            "reply_count": 4,
+            "like_count": 62,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -257,7 +257,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 20,
+            "retweet_count": 25,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -320,9 +320,9 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 28,
-            "reply_count": 8,
-            "like_count": 49,
+            "retweet_count": 33,
+            "reply_count": 10,
+            "like_count": 54,
             "quote_count": 2
         },
         "reply_settings": "everyone",
@@ -463,7 +463,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 6,
+            "retweet_count": 7,
             "reply_count": 0,
             "like_count": 11,
             "quote_count": 0
@@ -698,7 +698,7 @@
         "public_metrics": {
             "retweet_count": 27,
             "reply_count": 1,
-            "like_count": 44,
+            "like_count": 45,
             "quote_count": 2
         },
         "reply_settings": "everyone",
@@ -1147,7 +1147,7 @@
         "public_metrics": {
             "retweet_count": 19,
             "reply_count": 0,
-            "like_count": 37,
+            "like_count": 36,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -1245,7 +1245,7 @@
         "public_metrics": {
             "retweet_count": 22,
             "reply_count": 0,
-            "like_count": 55,
+            "like_count": 54,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -1361,7 +1361,7 @@
         "public_metrics": {
             "retweet_count": 13,
             "reply_count": 1,
-            "like_count": 21,
+            "like_count": 22,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -1406,7 +1406,7 @@
         "public_metrics": {
             "retweet_count": 13,
             "reply_count": 0,
-            "like_count": 33,
+            "like_count": 32,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -1529,7 +1529,7 @@
         "public_metrics": {
             "retweet_count": 7,
             "reply_count": 2,
-            "like_count": 15,
+            "like_count": 14,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -1559,134 +1559,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 283,
-            "reply_count": 0,
-            "like_count": 0,
-            "quote_count": 0
-        },
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "withheld": null
-    },
-    {
-        "id": "1533126420054130694",
-        "text": "RT @Franois02712924: @fmdidier @enmarchefr @lesRepublicains @LR75020 @LesCentristes_ @LesCentristes75 @LRepublicains75 @datirachida Parfait…",
-        "created_at": "2022-06-04 16:39:57+00:00",
-        "attachments": null,
-        "author_id": 1207401907129659397,
-        "context_annotations": [
-            {
-                "domain": {
-                    "id": "10",
-                    "name": "Person",
-                    "description": "Named people in the world like Nelson Mandela"
-                },
-                "entity": {
-                    "id": "1230928343270166529",
-                    "name": "Rachida Dati"
-                }
-            },
-            {
-                "domain": {
-                    "id": "35",
-                    "name": "Politician",
-                    "description": "Politicians in the world, like Joe Biden"
-                },
-                "entity": {
-                    "id": "1230928343270166529",
-                    "name": "Rachida Dati"
-                }
-            },
-            {
-                "domain": {
-                    "id": "10",
-                    "name": "Person",
-                    "description": "Named people in the world like Nelson Mandela"
-                },
-                "entity": {
-                    "id": "822153632002904064",
-                    "name": "Emmanuel Macron",
-                    "description": "Emmanuel Macron"
-                }
-            },
-            {
-                "domain": {
-                    "id": "35",
-                    "name": "Politician",
-                    "description": "Politicians in the world, like Joe Biden"
-                },
-                "entity": {
-                    "id": "822153632002904064",
-                    "name": "Emmanuel Macron",
-                    "description": "Emmanuel Macron"
-                }
-            }
-        ],
-        "conversation_id": 1533126420054130694,
-        "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 19,
-                    "username": "Franois02712924",
-                    "id": "1364956213327376392"
-                },
-                {
-                    "start": 21,
-                    "end": 30,
-                    "username": "fmdidier",
-                    "id": "1207401907129659397"
-                },
-                {
-                    "start": 31,
-                    "end": 42,
-                    "username": "enmarchefr",
-                    "id": "4813171035"
-                },
-                {
-                    "start": 43,
-                    "end": 59,
-                    "username": "lesRepublicains",
-                    "id": "95455794"
-                },
-                {
-                    "start": 60,
-                    "end": 68,
-                    "username": "LR75020",
-                    "id": "2469941592"
-                },
-                {
-                    "start": 69,
-                    "end": 84,
-                    "username": "LesCentristes_",
-                    "id": "34224009"
-                },
-                {
-                    "start": 85,
-                    "end": 101,
-                    "username": "LesCentristes75",
-                    "id": "809386294191280128"
-                },
-                {
-                    "start": 102,
-                    "end": 118,
-                    "username": "LRepublicains75",
-                    "id": "90213431"
-                },
-                {
-                    "start": 119,
-                    "end": 131,
-                    "username": "datirachida",
-                    "id": "272401679"
-                }
-            ]
-        },
-        "geo": null,
-        "in_reply_to_user_id": null,
-        "lang": "fr",
-        "possibly_sensitive": false,
-        "public_metrics": {
-            "retweet_count": 9,
+            "retweet_count": 279,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -2110,7 +1983,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 8223,
+            "retweet_count": 8186,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
@@ -2622,7 +2495,7 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 186,
+            "retweet_count": 184,
             "reply_count": 36,
             "like_count": 291,
             "quote_count": 37
@@ -2768,7 +2641,7 @@
         "public_metrics": {
             "retweet_count": 20,
             "reply_count": 7,
-            "like_count": 34,
+            "like_count": 33,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -2934,7 +2807,7 @@
         "public_metrics": {
             "retweet_count": 18,
             "reply_count": 0,
-            "like_count": 37,
+            "like_count": 36,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -3232,7 +3105,7 @@
         "public_metrics": {
             "retweet_count": 7,
             "reply_count": 2,
-            "like_count": 9,
+            "like_count": 10,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -3572,7 +3445,7 @@
         "public_metrics": {
             "retweet_count": 19,
             "reply_count": 1,
-            "like_count": 38,
+            "like_count": 39,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -3976,9 +3849,9 @@
         "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 35,
+            "retweet_count": 34,
             "reply_count": 5,
-            "like_count": 70,
+            "like_count": 69,
             "quote_count": 3
         },
         "reply_settings": "everyone",
@@ -4233,7 +4106,7 @@
         "public_metrics": {
             "retweet_count": 5,
             "reply_count": 1,
-            "like_count": 17,
+            "like_count": 16,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -4350,7 +4223,7 @@
         "public_metrics": {
             "retweet_count": 19,
             "reply_count": 2,
-            "like_count": 50,
+            "like_count": 49,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -4728,7 +4601,7 @@
         "public_metrics": {
             "retweet_count": 21,
             "reply_count": 2,
-            "like_count": 49,
+            "like_count": 48,
             "quote_count": 1
         },
         "reply_settings": "everyone",
@@ -4832,7 +4705,7 @@
         "public_metrics": {
             "retweet_count": 27,
             "reply_count": 3,
-            "like_count": 69,
+            "like_count": 68,
             "quote_count": 4
         },
         "reply_settings": "everyone",
@@ -5337,7 +5210,7 @@
         "public_metrics": {
             "retweet_count": 12,
             "reply_count": 2,
-            "like_count": 25,
+            "like_count": 24,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -5506,7 +5379,7 @@
         "public_metrics": {
             "retweet_count": 22,
             "reply_count": 5,
-            "like_count": 69,
+            "like_count": 68,
             "quote_count": 0
         },
         "reply_settings": "everyone",
@@ -5859,6 +5732,1674 @@
             "reply_count": 7,
             "like_count": 107,
             "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1524081613340090371",
+        "text": "Interrogé par @franceinfo sur l’élection #legislative2022 dans la #circo7515 j’ai proposé qu’un #debat d’avant 1er tour soit organisé entre les candidats avec les habitants de #Paris20\n\nLes électeurs méritent mieux que des tractations politiciennes. https://t.co/lcR5ZewmYI",
+        "created_at": "2022-05-10 17:39:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1524081604771127296"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            },
+            {
+                "domain": {
+                    "id": "38",
+                    "name": "Political Race",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "1521873674504089601",
+                    "name": "French Legislative Elections 2022"
+                }
+            }
+        ],
+        "conversation_id": 1524081613340090371,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 25,
+                    "username": "franceinfo",
+                    "id": "38395124"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 41,
+                    "end": 57,
+                    "tag": "legislative2022"
+                },
+                {
+                    "start": 66,
+                    "end": 76,
+                    "tag": "circo7515"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "debat"
+                },
+                {
+                    "start": 176,
+                    "end": 184,
+                    "tag": "Paris20"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 250,
+                    "end": 273,
+                    "url": "https://t.co/lcR5ZewmYI",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1524081613340090371/photo/1",
+                    "display_url": "pic.twitter.com/lcR5ZewmYI",
+                    "media_key": "3_1524081604771127296"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 14,
+            "like_count": 122,
+            "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1524074359773708291",
+        "text": "Rappelons que c’est à l’initiative du président de la République Jacques #Chirac que le 10 mai est devenu une journée de commémoration nationale « des mémoires de la traite négrière, de l’esclavage et de leurs abolitions ».\n\n@GpeChangerParis @LRepublicains75 @lesRepublicains https://t.co/trdiH1lzbs",
+        "created_at": "2022-05-10 17:10:17+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1524074359773708291,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 225,
+                    "end": 241,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 242,
+                    "end": 258,
+                    "username": "LRepublicains75",
+                    "id": "90213431"
+                },
+                {
+                    "start": 259,
+                    "end": 275,
+                    "username": "lesRepublicains",
+                    "id": "95455794"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 73,
+                    "end": 80,
+                    "tag": "Chirac"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 276,
+                    "end": 299,
+                    "url": "https://t.co/trdiH1lzbs",
+                    "expanded_url": "https://twitter.com/LR75020/status/1524070467560222722",
+                    "display_url": "twitter.com/LR75020/status…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523312027745193993",
+        "text": "Commémoration du #8Mai à la Mairie de #Paris20 pour rendre hommage aux héros, aux résistants, aux victimes de la #SecondeGuerreMondiale\n\nMerci aux anciens combattants et aux @PompiersParis pour leurs présence lors de cette cérémonie 🇫🇷\n\n@GpeChangerParis https://t.co/0KJmdvcrtf",
+        "created_at": "2022-05-08 14:41:03+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1523312011626659841",
+                "3_1523312012863881218",
+                "3_1523312018824044546",
+                "3_1523312016328478721"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1466226723976986624",
+                    "name": "Allies Victory in World War II"
+                }
+            },
+            {
+                "domain": {
+                    "id": "119",
+                    "name": "Holiday",
+                    "description": "Holidays like Christmas or Halloween"
+                },
+                "entity": {
+                    "id": "1466226723976986624",
+                    "name": "Allies Victory in World War II"
+                }
+            }
+        ],
+        "conversation_id": 1523312027745193993,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 174,
+                    "end": 188,
+                    "username": "PompiersParis",
+                    "id": "1342191438"
+                },
+                {
+                    "start": 237,
+                    "end": 253,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 22,
+                    "tag": "8Mai"
+                },
+                {
+                    "start": 38,
+                    "end": 46,
+                    "tag": "Paris20"
+                },
+                {
+                    "start": 113,
+                    "end": 135,
+                    "tag": "SecondeGuerreMondiale"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/0KJmdvcrtf",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1523312027745193993/photo/1",
+                    "display_url": "pic.twitter.com/0KJmdvcrtf",
+                    "media_key": "3_1523312011626659841"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/0KJmdvcrtf",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1523312027745193993/photo/1",
+                    "display_url": "pic.twitter.com/0KJmdvcrtf",
+                    "media_key": "3_1523312012863881218"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/0KJmdvcrtf",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1523312027745193993/photo/1",
+                    "display_url": "pic.twitter.com/0KJmdvcrtf",
+                    "media_key": "3_1523312018824044546"
+                },
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/0KJmdvcrtf",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1523312027745193993/photo/1",
+                    "display_url": "pic.twitter.com/0KJmdvcrtf",
+                    "media_key": "3_1523312016328478721"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523218139903049729",
+        "text": "Nous perdons un compagnon, un ami magnifique.\n\nGérard, je sais que tu continueras à veiller sur ceux que tu aimes.\n\n🥊❤️ https://t.co/8mOMUf8COq",
+        "created_at": "2022-05-08 08:27:59+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1523218139903049729,
+        "entities": {
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 143,
+                    "url": "https://t.co/8mOMUf8COq",
+                    "expanded_url": "https://twitter.com/GpeChangerParis/status/1523191791927062529",
+                    "display_url": "twitter.com/GpeChangerPari…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 27,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523216310020100097",
+        "text": "RT @datirachida: Repose en paix mon cher Gérard. Nos prières t’accompagnent. En communion avec Florence, ton fils, tes parents et ta famill…",
+        "created_at": "2022-05-08 08:20:42+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1523216310020100097,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 48,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523197897168539650",
+        "text": "RT @geoffroyboulard: 🙏 Gérard Loureiro est parti en combattant jusqu’au bout. Un homme de cœur et d’honneur qu’on n’oubliera pas. \nSincères…",
+        "created_at": "2022-05-08 07:07:32+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1523197897168539650,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "geoffroyboulard",
+                    "id": "85040540"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523197672840380416",
+        "text": "RT @MarieToubiana: Beaux moments de jours heureux avec notre Gérard et Fred https://t.co/4txZzYtLAO",
+        "created_at": "2022-05-08 07:06:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1522964026275336193"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1523197672840380416,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MarieToubiana",
+                    "id": "1491245287"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/4txZzYtLAO",
+                    "expanded_url": "https://twitter.com/MarieToubiana/status/1522964058504314881/photo/1",
+                    "display_url": "pic.twitter.com/4txZzYtLAO",
+                    "media_key": "3_1522964026275336193"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1523197566858690560",
+        "text": "RT @datirachida: L’amitié à la Vie... à la Vie!\n\n@Souleymane_C \n@brahiminside\n@TonyYoka\n@Ali_Oubaali\nDida Diafat\n@emmadauvergne https://t.c…",
+        "created_at": "2022-05-08 07:06:14+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10056818631",
+                    "name": "Je suis une célébrité, sortez-moi de là !"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1523197566858690560,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 49,
+                    "end": 62,
+                    "username": "Souleymane_C",
+                    "id": "2312479117"
+                },
+                {
+                    "start": 64,
+                    "end": 77,
+                    "username": "brahiminside",
+                    "id": "1209170508"
+                },
+                {
+                    "start": 78,
+                    "end": 87,
+                    "username": "TonyYoka",
+                    "id": "602758870"
+                },
+                {
+                    "start": 88,
+                    "end": 100,
+                    "username": "Ali_Oubaali",
+                    "id": "81373973"
+                },
+                {
+                    "start": 113,
+                    "end": 127,
+                    "username": "emmadauvergne",
+                    "id": "546731069"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522980961264173056",
+        "text": "RT @Passouline: C'était à craindre, ça na donc pas raté : les éditions Autrement viennent de débaptiser \"Le nègre du Narcisse\" de Joseph Co…",
+        "created_at": "2022-05-07 16:45:31+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1522980961264173056,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Passouline",
+                    "id": "33881934"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 883,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1522977545083564039",
+        "text": "@MarieToubiana @datirachida @FredericPrato @emmadauvergne @GpeChangerParis ❤️",
+        "created_at": "2022-05-07 16:31:56+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1522964058504314881,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "MarieToubiana",
+                    "id": "1491245287"
+                },
+                {
+                    "start": 15,
+                    "end": 27,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 28,
+                    "end": 42,
+                    "username": "FredericPrato",
+                    "id": "1237476591883694081"
+                },
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "emmadauvergne",
+                    "id": "546731069"
+                },
+                {
+                    "start": 58,
+                    "end": 74,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1491245287,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521751776143327234",
+        "text": ".@renaudpila il n’y a pas de député dans la 15e circo de #Paris.\n\nL’élection a été annulée suite à mon recours et celui d’un habitant devant le @Conseil_constit \n\nOn est en pleine période électorale donc je vous remercie ne pas tromper les électeurs par de fausses affirmations. https://t.co/PsdEZuwy9v",
+        "created_at": "2022-05-04 07:21:10+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521751776143327234,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 1,
+                    "end": 12,
+                    "username": "renaudpila",
+                    "id": "60927960"
+                },
+                {
+                    "start": 144,
+                    "end": 160,
+                    "username": "Conseil_constit",
+                    "id": "260280517"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 63,
+                    "tag": "Paris"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/PsdEZuwy9v",
+                    "expanded_url": "https://twitter.com/renaudpila/status/1521507722256130049",
+                    "display_url": "twitter.com/renaudpila/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 2,
+            "like_count": 32,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521382766562193410",
+        "text": "J’adore quand l’#apparatchik en chef d’#AnneHidalgo nous parle de convictions. \n\n@Simonnet2 doit bien rigoler.\n\n#UnionDeLaGauche #saccageparis \n\n@GpeChangerParis https://t.co/fLAUaSC8tH",
+        "created_at": "2022-05-03 06:54:52+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521382766562193410,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 91,
+                    "username": "simonnet2",
+                    "id": "1540038249103691777"
+                },
+                {
+                    "start": 145,
+                    "end": 161,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 28,
+                    "tag": "apparatchik"
+                },
+                {
+                    "start": 39,
+                    "end": 51,
+                    "tag": "AnneHidalgo"
+                },
+                {
+                    "start": 112,
+                    "end": 128,
+                    "tag": "UnionDeLaGauche"
+                },
+                {
+                    "start": 129,
+                    "end": 142,
+                    "tag": "saccageparis"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 162,
+                    "end": 185,
+                    "url": "https://t.co/fLAUaSC8tH",
+                    "expanded_url": "https://twitter.com/RemiFeraud/status/1521174538108780546",
+                    "display_url": "twitter.com/RemiFeraud/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521185498454237186",
+        "text": "A #Paris les seuls opposants à #AnneHidalgo et ses alliés sont les candidats soutenus par @datirachida aux #legislatives2022 qui oeuvrent tous les jours depuis 2 ans contre le #saccage de notre ville.\n#crack #insécurité #propreté #urbanisme #dette #saccageparis \n@GpeChangerParis https://t.co/rUZM9siuAP",
+        "created_at": "2022-05-02 17:50:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1521185454569177095"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230925906685771777",
+                    "name": "Anne Hidalgo",
+                    "description": "Mayor of Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 1521185498454237186,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 90,
+                    "end": 102,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 263,
+                    "end": 279,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 2,
+                    "end": 8,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 31,
+                    "end": 43,
+                    "tag": "AnneHidalgo"
+                },
+                {
+                    "start": 107,
+                    "end": 124,
+                    "tag": "legislatives2022"
+                },
+                {
+                    "start": 176,
+                    "end": 184,
+                    "tag": "saccage"
+                },
+                {
+                    "start": 201,
+                    "end": 207,
+                    "tag": "crack"
+                },
+                {
+                    "start": 208,
+                    "end": 219,
+                    "tag": "insécurité"
+                },
+                {
+                    "start": 220,
+                    "end": 229,
+                    "tag": "propreté"
+                },
+                {
+                    "start": 230,
+                    "end": 240,
+                    "tag": "urbanisme"
+                },
+                {
+                    "start": 241,
+                    "end": 247,
+                    "tag": "dette"
+                },
+                {
+                    "start": 248,
+                    "end": 261,
+                    "tag": "saccageparis"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/rUZM9siuAP",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1521185498454237186/video/1",
+                    "display_url": "pic.twitter.com/rUZM9siuAP",
+                    "media_key": "7_1521185454569177095"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 4,
+            "like_count": 73,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1521182602991964164",
+        "text": "Cette #UnionDeLaGauche est tout simplement une alliance avec l’extrême gauche sans projet commun ni vision commune pour notre pays.\n\nUn accord pour sauver des places et des postes.\n\nUn système d’#apparatchik largement éprouvé et auquel les français doivent s’opposer. https://t.co/rod3NmLrDZ",
+        "created_at": "2022-05-02 17:39:29+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_1521182561015316481"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1517623051860414465",
+                    "name": "World Environment Day"
+                }
+            }
+        ],
+        "conversation_id": 1521182602991964164,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 6,
+                    "end": 22,
+                    "tag": "UnionDeLaGauche"
+                },
+                {
+                    "start": 195,
+                    "end": 207,
+                    "tag": "apparatchik"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 268,
+                    "end": 291,
+                    "url": "https://t.co/rod3NmLrDZ",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1521182602991964164/video/1",
+                    "display_url": "pic.twitter.com/rod3NmLrDZ",
+                    "media_key": "7_1521182561015316481"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 7,
+            "like_count": 22,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520852258833018880",
+        "text": "@MohamadParis20 @TwitterFrance Total soutien cher @MohamadParis20",
+        "created_at": "2022-05-01 19:46:49+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1520695457718095875,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "MohamadParis20",
+                    "id": "376865423"
+                },
+                {
+                    "start": 16,
+                    "end": 30,
+                    "username": "TwitterFrance",
+                    "id": "90556897"
+                },
+                {
+                    "start": 50,
+                    "end": 65,
+                    "username": "MohamadParis20",
+                    "id": "376865423"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 376865423,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520834934973341696",
+        "text": "En cette journée du #1erMai malheureusement marquée par de nouvelles violences de l’ultra gauche, il faut :\n\n➡️revaloriser les revenus du travail\n➡️refaire de la valeur-travail et du mérite les vecteurs de l'ascension sociale\n\n@GpeChangerParis @datirachida https://t.co/u8JNHo9p9O",
+        "created_at": "2022-05-01 18:37:58+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1520834934973341696,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 227,
+                    "end": 243,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 244,
+                    "end": 256,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 27,
+                    "tag": "1erMai"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 257,
+                    "end": 280,
+                    "url": "https://t.co/u8JNHo9p9O",
+                    "expanded_url": "https://twitter.com/datirachida/status/1520656345623678976",
+                    "display_url": "twitter.com/datirachida/st…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520661327198490624",
+        "text": "@FennecXXe @LRepublicains75 @LR75020 Contactez moi et rejoignez mon équipe dans cette campagne.",
+        "created_at": "2022-05-01 07:08:07+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1520434076318064640,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "FennecXXe",
+                    "id": "1439861477498884097"
+                },
+                {
+                    "start": 11,
+                    "end": 27,
+                    "username": "LRepublicains75",
+                    "id": "90213431"
+                },
+                {
+                    "start": 28,
+                    "end": 36,
+                    "username": "LR75020",
+                    "id": "2469941592"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1439861477498884097,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1520434076318064640",
+        "text": "#Puces de #Montreuil je suis allé constater les dégâts :\n\n❌74 arbres abattus\n❌Puciers en colère\n\nUn non sens écologique et économique au détriment des quartiers populaires de l’est parisien.\n\nOUI à la réhabilitation mais NON à la mort du marché !\n\n@GpeChangerParis @datirachida https://t.co/iGfukt0g73",
+        "created_at": "2022-04-30 16:05:06+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1520434062934122496",
+                "3_1520434062929899522",
+                "3_1520434062934036482",
+                "3_1520434067094786055"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "1286664537060433920",
+                    "name": "75th Session of the UN General Assembly"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1520434076318064640,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 248,
+                    "end": 264,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                },
+                {
+                    "start": 265,
+                    "end": 277,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "Puces"
+                },
+                {
+                    "start": 10,
+                    "end": 20,
+                    "tag": "Montreuil"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/iGfukt0g73",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1520434076318064640/photo/1",
+                    "display_url": "pic.twitter.com/iGfukt0g73",
+                    "media_key": "3_1520434062934122496"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/iGfukt0g73",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1520434076318064640/photo/1",
+                    "display_url": "pic.twitter.com/iGfukt0g73",
+                    "media_key": "3_1520434062929899522"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/iGfukt0g73",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1520434076318064640/photo/1",
+                    "display_url": "pic.twitter.com/iGfukt0g73",
+                    "media_key": "3_1520434062934036482"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/iGfukt0g73",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1520434076318064640/photo/1",
+                    "display_url": "pic.twitter.com/iGfukt0g73",
+                    "media_key": "3_1520434067094786055"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 9,
+            "like_count": 84,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1518516999235776513",
+        "text": "RT @datirachida: Si les Parisiens veulent #ChangerParis, que la sécurité, les mobilités et l'économie soient à un niveau digne de notre Cap…",
+        "created_at": "2022-04-25 09:07:19+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1230928343270166529",
+                    "name": "Rachida Dati"
+                }
+            }
+        ],
+        "conversation_id": 1518516999235776513,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 55,
+                    "tag": "ChangerParis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 231,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517470101448138752",
+        "text": "RT @GpeChangerParis: On sait que le meilleur geste écologique est de TOUT faire pour préserserver les vieux arbres qui absorbent bien plus…",
+        "created_at": "2022-04-22 11:47:20+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1103294729079349250",
+                    "name": "Nature",
+                    "description": "Nature"
+                }
+            }
+        ],
+        "conversation_id": 1517470101448138752,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "GpeChangerParis",
+                    "id": "833592482"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517425036755443714",
+        "text": "@zichert_ph Oui et alors ?",
+        "created_at": "2022-04-22 08:48:15+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1517254717956628482,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "zichert_ph",
+                    "id": "755301984354336768"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 755301984354336768,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517257336901050368",
+        "text": "@EricKLein_ Un grand moment de cinéma que la fin de Cinéma Paradiso...",
+        "created_at": "2022-04-21 21:41:53+00:00",
+        "attachments": null,
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1517193057938067458,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "EricKLein_",
+                    "id": "1236554160847433728"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1236554160847433728,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "1517254717956628482",
+        "text": "La France perd beaucoup avec la disparition de Jacques Perrin. De Jacques Demy à Pierre Schoendoerffer, du Peuple migrateur à Océans, le talent et l’engagement auront marqué sa grande carrière. Adieu crabe tambour... https://t.co/rJDLhQwcsw",
+        "created_at": "2022-04-21 21:31:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_1517254711958810629"
+            ]
+        },
+        "author_id": 1207401907129659397,
+        "context_annotations": [],
+        "conversation_id": 1517254717956628482,
+        "entities": {
+            "urls": [
+                {
+                    "start": 217,
+                    "end": 240,
+                    "url": "https://t.co/rJDLhQwcsw",
+                    "expanded_url": "https://twitter.com/fmdidier/status/1517254717956628482/photo/1",
+                    "display_url": "pic.twitter.com/rJDLhQwcsw",
+                    "media_key": "3_1517254711958810629"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 6,
+            "like_count": 172,
+            "quote_count": 3
         },
         "reply_settings": "everyone",
         "source": "Twitter for iPhone",

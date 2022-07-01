@@ -463,5 +463,4224 @@
         "reply_settings": "everyone",
         "source": "Twitter for iPhone",
         "withheld": null
+    },
+    {
+        "id": "873095657615011840",
+        "text": "RT @jerome_coumet: Ce matin, tous mobilisés pour l'école Franc-Nohain :\nRéunion de tous les services, avec l'Educ. Nat, pour mettre le paqu…",
+        "created_at": "2017-06-09 08:33:20+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873095657615011840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873073569625919490",
+        "text": "À Olympiades, on vote toujours LAGANE ! \n✅ check ! https://t.co/bX32FzkUAn",
+        "created_at": "2017-06-09 07:05:34+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873073527082987520"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873073569625919490,
+        "entities": {
+            "urls": [
+                {
+                    "start": 51,
+                    "end": 74,
+                    "url": "https://t.co/bX32FzkUAn",
+                    "expanded_url": "https://twitter.com/martinlagane/status/873073569625919490/photo/1",
+                    "display_url": "pic.twitter.com/bX32FzkUAn",
+                    "media_key": "3_873073527082987520"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873071169313714176",
+        "text": "Aux Gobelins, on vote LAGANE !\n✅ Check ! https://t.co/S9w3d3O2mB",
+        "created_at": "2017-06-09 06:56:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873071152612032514"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873071169313714176,
+        "entities": {
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/S9w3d3O2mB",
+                    "expanded_url": "https://twitter.com/martinlagane/status/873071169313714176/photo/1",
+                    "display_url": "pic.twitter.com/S9w3d3O2mB",
+                    "media_key": "3_873071152612032514"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873067698426568704",
+        "text": "À Place d'Italie, on vote LAGANE !\n✅ Check ! https://t.co/pRB1Qol6ua",
+        "created_at": "2017-06-09 06:42:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873067686296567809"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            }
+        ],
+        "conversation_id": 873067698426568704,
+        "entities": {
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/pRB1Qol6ua",
+                    "expanded_url": "https://twitter.com/martinlagane/status/873067698426568704/photo/1",
+                    "display_url": "pic.twitter.com/pRB1Qol6ua",
+                    "media_key": "3_873067686296567809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873066137843490816",
+        "text": "À Corvisart, on vote également Lagane !\n✅ check ! https://t.co/PzpROd1yrb",
+        "created_at": "2017-06-09 06:36:02+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873065959719698437"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873066137843490816,
+        "entities": {
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/PzpROd1yrb",
+                    "expanded_url": "https://twitter.com/martinlagane/status/873066137843490816/photo/1",
+                    "display_url": "pic.twitter.com/PzpROd1yrb",
+                    "media_key": "3_873065959719698437"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 3,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873062216525729794",
+        "text": "RT @E_Coblence: Au metro Corvisart : derniers tracts @martinlagane et @jerome_coumet avant le premier tour #9emecirco @PS13Ouest https://t.…",
+        "created_at": "2017-06-09 06:20:27+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873062216525729794,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 117,
+                    "tag": "9emecirco"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "E_Coblence",
+                    "id": "3705242776"
+                },
+                {
+                    "start": 53,
+                    "end": 66,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 70,
+                    "end": 84,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "username": "PS13Ouest",
+                    "id": "3242728729"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873062197634621444",
+        "text": "À Nationale, on vote LAGANE ! \n✅ check ! https://t.co/QJZciYrfNx",
+        "created_at": "2017-06-09 06:20:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873062186012114944"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873062197634621444,
+        "entities": {
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/QJZciYrfNx",
+                    "expanded_url": "https://twitter.com/martinlagane/status/873062197634621444/photo/1",
+                    "display_url": "pic.twitter.com/QJZciYrfNx",
+                    "media_key": "3_873062186012114944"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873056224064843778",
+        "text": "Go go go ! Pour la dernière journée de campagne avant le 1er tour, nous serons à toutes les sorties de métro (ou presque 😅) de la circo !",
+        "created_at": "2017-06-09 05:56:39+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 873056224064843778,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872847786127101958",
+        "text": "@Lerx73 @jerome_coumet Merci @Lerx73 !",
+        "created_at": "2017-06-08 16:08:23+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872844310961692672,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 8,
+                    "end": 22,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 419743232,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872847461471137792",
+        "text": "RT @Lerx73: Mon 13e un arrondissement qui bouge toujours, voila pourquoi dimanche, je soutien @jerome_coumet @martinlagane #onsemobilise ht…",
+        "created_at": "2017-06-08 16:07:06+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872847461471137792,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 136,
+                    "tag": "onsemobilise"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 94,
+                    "end": 108,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 109,
+                    "end": 122,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 61,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872831725889622016",
+        "text": "RT @Laboegalite: ✍️@martinlagane , candidat aux élections législatives dans la #circo7509 pour le @partisocialiste a signé les propositions…",
+        "created_at": "2017-06-08 15:04:34+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872831725889622016,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 79,
+                    "end": 89,
+                    "tag": "circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Laboegalite",
+                    "id": "319092793"
+                },
+                {
+                    "start": 19,
+                    "end": 32,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 98,
+                    "end": 114,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872767369193586689",
+        "text": "RT @jerome_coumet: Oui, un meeting politique, ce peut être festif et sympa\n\nAvec @martinlagane notre candidat pour #paris13 (9e circonscrip…",
+        "created_at": "2017-06-08 10:48:50+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872767369193586689,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 123,
+                    "tag": "paris13"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 81,
+                    "end": 94,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872560697875595264",
+        "text": "RT @mpdelagontrie: Yacine Et Antoine joyeux militants de La Réunion publique de @martinlagane et @jerome_coumet . Avec @jm_leguen bien sûr!…",
+        "created_at": "2017-06-07 21:07:36+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872560697875595264,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "mpdelagontrie",
+                    "id": "48731776"
+                },
+                {
+                    "start": 80,
+                    "end": 93,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 97,
+                    "end": 111,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 119,
+                    "end": 129,
+                    "username": "jm_leguen",
+                    "id": "369423300"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872560603658944512",
+        "text": "RT @mpdelagontrie: Je suis d une génération socialiste qui n est pas en marche mais qui veut que ca marche @martinlagane #NiHostileNiDocile…",
+        "created_at": "2017-06-07 21:07:13+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872560603658944512,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 139,
+                    "tag": "NiHostileNiDocile"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "mpdelagontrie",
+                    "id": "48731776"
+                },
+                {
+                    "start": 107,
+                    "end": 120,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872560576106553345",
+        "text": "RT @mjraymondrossi: Je suis de gauche, je suis socialiste à Paris le 11 juin je vote @pbloche @SeybahDagoma @martinlagane @S_Mazetier @jcca…",
+        "created_at": "2017-06-07 21:07:07+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872560576106553345,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mjraymondrossi",
+                    "id": "334255928"
+                },
+                {
+                    "start": 85,
+                    "end": 93,
+                    "username": "pbloche",
+                    "id": "568099321"
+                },
+                {
+                    "start": 94,
+                    "end": 107,
+                    "username": "SeybahDagoma",
+                    "id": "569194586"
+                },
+                {
+                    "start": 108,
+                    "end": 121,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 122,
+                    "end": 133,
+                    "username": "S_Mazetier",
+                    "id": "98405344"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872548787822243840",
+        "text": "RT @mjraymondrossi: Belle réunion publique ce soir autour de la candidature de @martinlagane et @jerome_coumet https://t.co/wOLX6297BG",
+        "created_at": "2017-06-07 20:20:16+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872548787822243840,
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/wOLX6297BG",
+                    "expanded_url": "https://twitter.com/mpdelagontrie/status/872520013256720384",
+                    "display_url": "twitter.com/mpdelagontrie/…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mjraymondrossi",
+                    "id": "334255928"
+                },
+                {
+                    "start": 79,
+                    "end": 92,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 96,
+                    "end": 110,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872493506216026112",
+        "text": "RT @E_Coblence: Avec les camarades @PS13Ouest en boitage dans le quartier Vulpian-Croulebarbe pour @martinlagane et @jerome_coumet #9ecirco…",
+        "created_at": "2017-06-07 16:40:36+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872493506216026112,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 131,
+                    "end": 139,
+                    "tag": "9ecirco"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "E_Coblence",
+                    "id": "3705242776"
+                },
+                {
+                    "start": 35,
+                    "end": 45,
+                    "username": "PS13Ouest",
+                    "id": "3242728729"
+                },
+                {
+                    "start": 99,
+                    "end": 112,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 116,
+                    "end": 130,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872188916320927744",
+        "text": "RT @E_Coblence: Ce soir, sur le terrain pour soutenir @martinlagane candidat du @partisocialiste dans la 9e circo de Paris #quartiercrouleb…",
+        "created_at": "2017-06-06 20:30:16+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872188916320927744,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "E_Coblence",
+                    "id": "3705242776"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 80,
+                    "end": 96,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872188890521665536",
+        "text": "RT @PS_Paris: #legislatives2017\nQuelle que soit la circo de #Paris nous vous trouvons quelqu'un pour porter votre #procuration\n🖥️ https://t…",
+        "created_at": "2017-06-06 20:30:10+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 872188890521665536,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 14,
+                    "end": 31,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 60,
+                    "end": 66,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 114,
+                    "end": 126,
+                    "tag": "procuration"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "PS_Paris",
+                    "id": "245701361"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872009347856871424",
+        "text": "J'habite le 13e, je vote Martin Lagane pour une gauche constructive et exigeante ! https://t.co/DDrNBsCP2W",
+        "created_at": "2017-06-06 08:36:44+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872009347856871424,
+        "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/DDrNBsCP2W",
+                    "expanded_url": "http://twibbon.com/support/martin-lagane/twitter",
+                    "display_url": "twibbon.com/support/martin…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 4,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twibbon",
+        "withheld": null
+    },
+    {
+        "id": "872009132714246144",
+        "text": "Please help support Martin Lagane, add a #Twibbon now! https://t.co/DDrNBsCP2W",
+        "created_at": "2017-06-06 08:35:53+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 872009132714246144,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 41,
+                    "end": 49,
+                    "tag": "Twibbon"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 55,
+                    "end": 78,
+                    "url": "https://t.co/DDrNBsCP2W",
+                    "expanded_url": "http://twibbon.com/support/martin-lagane/twitter",
+                    "display_url": "twibbon.com/support/martin…"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 20,
+                    "end": 32,
+                    "probability": 0.9887,
+                    "type": "Person",
+                    "normalized_text": "Martin Lagane"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twibbon",
+        "withheld": null
+    },
+    {
+        "id": "871802719723560960",
+        "text": "Discussions franches aux Olympiades. Beaucoup a déjà été fait, mais beaucoup reste à faire pour améliorer la vie des habitants de la dalle !",
+        "created_at": "2017-06-05 18:55:40+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871802719723560960,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871787777830080512",
+        "text": "RT @PhilParis13: Ai voté #Macron aux 2 tours #Presidentielles2017 sans regret mais aux #Legislatives voterai @martinlagane ! Un député PS d…",
+        "created_at": "2017-06-05 17:56:17+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 871787777830080512,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 25,
+                    "end": 32,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 45,
+                    "end": 65,
+                    "tag": "Presidentielles2017"
+                },
+                {
+                    "start": 87,
+                    "end": 100,
+                    "tag": "Legislatives"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PhilParis13",
+                    "id": "302687345"
+                },
+                {
+                    "start": 109,
+                    "end": 122,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871748293113544705",
+        "text": "Du soleil, des ballons, un accueil très chaleureux... tout est réuni pour une belle balade militante ! #Circo7509 https://t.co/8vcOGBFEam",
+        "created_at": "2017-06-05 15:19:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871748272741896192",
+                "3_871748272754499584",
+                "3_871748272762781702",
+                "3_871748272771223553"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871748293113544705,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 113,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/8vcOGBFEam",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871748293113544705/photo/1",
+                    "display_url": "pic.twitter.com/8vcOGBFEam",
+                    "media_key": "3_871748272741896192"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/8vcOGBFEam",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871748293113544705/photo/1",
+                    "display_url": "pic.twitter.com/8vcOGBFEam",
+                    "media_key": "3_871748272754499584"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/8vcOGBFEam",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871748293113544705/photo/1",
+                    "display_url": "pic.twitter.com/8vcOGBFEam",
+                    "media_key": "3_871748272762781702"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/8vcOGBFEam",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871748293113544705/photo/1",
+                    "display_url": "pic.twitter.com/8vcOGBFEam",
+                    "media_key": "3_871748272771223553"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871361766634254336",
+        "text": "Une équipe gonflée à bloc ! https://t.co/25q4e2DHJb",
+        "created_at": "2017-06-04 13:43:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871361476119990278"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871361766634254336,
+        "entities": {
+            "urls": [
+                {
+                    "start": 28,
+                    "end": 51,
+                    "url": "https://t.co/25q4e2DHJb",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871361766634254336/photo/1",
+                    "display_url": "pic.twitter.com/25q4e2DHJb",
+                    "media_key": "3_871361476119990278"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871353340071948288",
+        "text": "Départ de la balade militante dans 20 min... tout est prêt ! #circo7509 https://t.co/MhKpx0zGXC",
+        "created_at": "2017-06-04 13:09:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871353291233538049"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871353340071948288,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 71,
+                    "tag": "circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/MhKpx0zGXC",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871353340071948288/photo/1",
+                    "display_url": "pic.twitter.com/MhKpx0zGXC",
+                    "media_key": "3_871353291233538049"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871352721865158659",
+        "text": "Une campagne prête à décoller ! 😎😎😎 https://t.co/RyhV1IO1U0",
+        "created_at": "2017-06-04 13:07:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871352683264974848"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871352721865158659,
+        "entities": {
+            "urls": [
+                {
+                    "start": 36,
+                    "end": 59,
+                    "url": "https://t.co/RyhV1IO1U0",
+                    "expanded_url": "https://twitter.com/martinlagane/status/871352721865158659/photo/1",
+                    "display_url": "pic.twitter.com/RyhV1IO1U0",
+                    "media_key": "3_871352683264974848"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871322693534187524",
+        "text": "RT @mpdelagontrie: Hop hop hop Avec @martinlagane place Jeanne d arc @partisocialiste #paris13 #circo7509 https://t.co/5b3TqsbhhH",
+        "created_at": "2017-06-04 11:08:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871303006972727296",
+                "3_871303006985367552",
+                "3_871303006981062656"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 871322693534187524,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 94,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/5b3TqsbhhH",
+                    "expanded_url": "https://twitter.com/mpdelagontrie/status/871303183863296000/photo/1",
+                    "display_url": "pic.twitter.com/5b3TqsbhhH",
+                    "media_key": "3_871303006972727296"
+                },
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/5b3TqsbhhH",
+                    "expanded_url": "https://twitter.com/mpdelagontrie/status/871303183863296000/photo/1",
+                    "display_url": "pic.twitter.com/5b3TqsbhhH",
+                    "media_key": "3_871303006985367552"
+                },
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/5b3TqsbhhH",
+                    "expanded_url": "https://twitter.com/mpdelagontrie/status/871303183863296000/photo/1",
+                    "display_url": "pic.twitter.com/5b3TqsbhhH",
+                    "media_key": "3_871303006981062656"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "mpdelagontrie",
+                    "id": "48731776"
+                },
+                {
+                    "start": 36,
+                    "end": 49,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 69,
+                    "end": 85,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871322681790132224",
+        "text": "RT @jerome_coumet: E. Macron va disposer d'une majorité écrasante \n\nA #paris13 votez pour @martinlagane\nun député proche de vous\n\nhttps://t…",
+        "created_at": "2017-06-04 11:08:10+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 871322681790132224,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 70,
+                    "end": 78,
+                    "tag": "paris13"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 90,
+                    "end": 103,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870954642385108992",
+        "text": "RT @monparisfm: @monparisfm  vous propose une interview de @martinlagane  candidat du PS (9e circo Paris) préparée par les habitants du 13e…",
+        "created_at": "2017-06-03 10:45:42+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870954642385108992,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "monparisfm",
+                    "id": "4765214571"
+                },
+                {
+                    "start": 16,
+                    "end": 27,
+                    "username": "monparisfm",
+                    "id": "4765214571"
+                },
+                {
+                    "start": 59,
+                    "end": 72,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870781676330373122",
+        "text": "RT @ThomasAillagon: De Charles Le Brun à @MCHATofficiel et @ParisSketchCult, 350 ans de création ininterrompue aux Gobelins #creation #Stre…",
+        "created_at": "2017-06-02 23:18:24+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870781676330373122,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 124,
+                    "end": 133,
+                    "tag": "creation"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "thomasaillagon",
+                    "id": "2840731054"
+                },
+                {
+                    "start": 41,
+                    "end": 55,
+                    "username": "MCHATofficiel",
+                    "id": "228440795"
+                },
+                {
+                    "start": 59,
+                    "end": 75,
+                    "username": "ParisSketchCult",
+                    "id": "115639733"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870752219838242816",
+        "text": "Bravo aux bleus !! 🇫🇷🇫🇷🇫🇷",
+        "created_at": "2017-06-02 21:21:21+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870752219838242816,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870745252302401536",
+        "text": "RT @supermegadrivin: Maintenant c'est un peu trop tard mais on aurait pu piéger Thomas Pesquet à son retour en se cachant tous.",
+        "created_at": "2017-06-02 20:53:40+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870745252302401536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "supermegadrivin",
+                    "id": "108570813"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870696523276865536",
+        "text": "RT @PhilParis13: Ravi d'avoir échangé quelques mots ce soir avec le candidat socialiste Paris 13eme @martinlagane au métro BNF. Lui ai appo…",
+        "created_at": "2017-06-02 17:40:02+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870696523276865536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PhilParis13",
+                    "id": "302687345"
+                },
+                {
+                    "start": 100,
+                    "end": 113,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870382195193643009",
+        "text": "La décision de Donald #Trump va à rebours de l'Histoire et à l'encontre des intérêts de l'humanité. #ParisClimateAccord",
+        "created_at": "2017-06-01 20:51:00+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 870382195193643009,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 22,
+                    "end": 28,
+                    "tag": "Trump"
+                },
+                {
+                    "start": 100,
+                    "end": 119,
+                    "tag": "ParisClimateAccord"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870382034098769920",
+        "text": "J'étais l'invité de l'émission \"Je Vais Voter\", sur @monparisfm \nMerci à eux pour leur accueil ! #Circo7509 \nhttps://t.co/mlLmtG1bIS",
+        "created_at": "2017-06-01 20:50:22+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870382034098769920,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 107,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/mlLmtG1bIS",
+                    "expanded_url": "http://www.monparisfm.com/podcasts/interview-de-martin-lagane-candidat-du-parti-socialiste-113",
+                    "display_url": "monparisfm.com/podcasts/inter…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 52,
+                    "end": 63,
+                    "username": "monparisfm",
+                    "id": "4765214571"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870379242617540608",
+        "text": "RT @Anne_Hidalgo: Les villes appliqueront l'Accord de #Paris, quoi qu'il arrive. #AccordDeParis #Trump #Climat https://t.co/Rm22NpJxmt",
+        "created_at": "2017-06-01 20:39:16+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870370526996332546"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "828635178650120192",
+                    "name": "Anne Hidalgo",
+                    "description": "Anne Hidalgo"
+                }
+            }
+        ],
+        "conversation_id": 870379242617540608,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 60,
+                    "tag": "Paris"
+                },
+                {
+                    "start": 81,
+                    "end": 95,
+                    "tag": "AccordDeParis"
+                },
+                {
+                    "start": 96,
+                    "end": 102,
+                    "tag": "Trump"
+                },
+                {
+                    "start": 103,
+                    "end": 110,
+                    "tag": "Climat"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/Rm22NpJxmt",
+                    "expanded_url": "https://twitter.com/Anne_Hidalgo/status/870370539797458944/photo/1",
+                    "display_url": "pic.twitter.com/Rm22NpJxmt",
+                    "media_key": "3_870370526996332546"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Anne_Hidalgo",
+                    "id": "26073581"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 479,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870347669616697344",
+        "text": "RT @mjraymondrossi: @martinlagane,  un jeune  qui connaît le territoire et les habitants du 13ème . https://t.co/jtndtQWtQA",
+        "created_at": "2017-06-01 18:33:49+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870347669616697344,
+        "entities": {
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/jtndtQWtQA",
+                    "expanded_url": "https://twitter.com/jerome_coumet/status/870334581945372672",
+                    "display_url": "twitter.com/jerome_coumet/…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mjraymondrossi",
+                    "id": "334255928"
+                },
+                {
+                    "start": 20,
+                    "end": 33,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870347538288832519",
+        "text": "Discussions à bâtons rompus avec les habitants de la place Souham puis de la place Nationale. #circo7509 https://t.co/tt4Kx6Egdh",
+        "created_at": "2017-06-01 18:33:18+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870347464364236800",
+                "3_870347464376713216",
+                "3_870347464389398530"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870347538288832519,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 104,
+                    "tag": "circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/tt4Kx6Egdh",
+                    "expanded_url": "https://twitter.com/martinlagane/status/870347538288832519/photo/1",
+                    "display_url": "pic.twitter.com/tt4Kx6Egdh",
+                    "media_key": "3_870347464364236800"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/tt4Kx6Egdh",
+                    "expanded_url": "https://twitter.com/martinlagane/status/870347538288832519/photo/1",
+                    "display_url": "pic.twitter.com/tt4Kx6Egdh",
+                    "media_key": "3_870347464376713216"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/tt4Kx6Egdh",
+                    "expanded_url": "https://twitter.com/martinlagane/status/870347538288832519/photo/1",
+                    "display_url": "pic.twitter.com/tt4Kx6Egdh",
+                    "media_key": "3_870347464389398530"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870346699792949248",
+        "text": "RT @jerome_coumet: Avec @martinlagane nous multiplions les pieds d'immeuble\n\nA l'image du député qu'il sera, proche de vous, pour vous aide…",
+        "created_at": "2017-06-01 18:29:58+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870346699792949248,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870275523125145600",
+        "text": "@_LICRA_ @jerome_coumet Cette question est au cœur de mon engagement politique ! J'ai signé la Charte de la @_LICRA_",
+        "created_at": "2017-06-01 13:47:08+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870008779051552768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "_LICRA_",
+                    "id": "194027573"
+                },
+                {
+                    "start": 9,
+                    "end": 23,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 108,
+                    "end": 116,
+                    "username": "_LICRA_",
+                    "id": "194027573"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 194027573,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870196157846302720",
+        "text": "@nicapps23 @S_Mazetier @pbloche @pascalcherki @MarineRosset @Laure_Esquieu @jnaqua2017 @ClaireMonod @RaphaelQnouch @MortametF @benoitgolitin @ccfd_tsolidaire @oxfamfrance @caritasfrance @PSo_ActionAid C'est au programme non ? 😉 à très vite !",
+        "created_at": "2017-06-01 08:31:46+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029054924",
+                    "name": "C'est au programme"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049667107",
+                    "name": "C'est au programme"
+                }
+            }
+        ],
+        "conversation_id": 870191588441501696,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "nicapps23",
+                    "id": "2383700000"
+                },
+                {
+                    "start": 11,
+                    "end": 22,
+                    "username": "S_Mazetier",
+                    "id": "98405344"
+                },
+                {
+                    "start": 23,
+                    "end": 31,
+                    "username": "pbloche",
+                    "id": "568099321"
+                },
+                {
+                    "start": 32,
+                    "end": 45,
+                    "username": "pascalcherki",
+                    "id": "405919523"
+                },
+                {
+                    "start": 46,
+                    "end": 59,
+                    "username": "MarineRosset",
+                    "id": "425231735"
+                },
+                {
+                    "start": 60,
+                    "end": 74,
+                    "username": "Laure_Esquieu",
+                    "id": "1225780155530010624"
+                },
+                {
+                    "start": 87,
+                    "end": 99,
+                    "username": "ClaireMonod",
+                    "id": "249843341"
+                },
+                {
+                    "start": 100,
+                    "end": 114,
+                    "username": "RaphaelQnouch",
+                    "id": "387618120"
+                },
+                {
+                    "start": 115,
+                    "end": 125,
+                    "username": "MortametF",
+                    "id": "740574110993010688"
+                },
+                {
+                    "start": 141,
+                    "end": 157,
+                    "username": "ccfd_tsolidaire",
+                    "id": "35717480"
+                },
+                {
+                    "start": 158,
+                    "end": 170,
+                    "username": "oxfamfrance",
+                    "id": "15480982"
+                },
+                {
+                    "start": 171,
+                    "end": 185,
+                    "username": "caritasfrance",
+                    "id": "42900697"
+                },
+                {
+                    "start": 186,
+                    "end": 200,
+                    "username": "PSo_ActionAid",
+                    "id": "236335938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2383700000,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870192218392473600",
+        "text": "@bourmeau @partisocialiste Engagé au PS depuis plus de 10 ans. Secrétaire de section PS depuis 4 ans. Je vous rassure, je suis un \"vrai\" socialiste.",
+        "created_at": "2017-06-01 08:16:06+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597218340864",
+                    "name": "Video Games"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027048853",
+                    "name": "PlayStation"
+                }
+            }
+        ],
+        "conversation_id": 870184084601004032,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "bourmeau",
+                    "id": "233505453"
+                },
+                {
+                    "start": 10,
+                    "end": 26,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 233505453,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870188381996802048",
+        "text": "RT @mairiedu13: 🇫🇷 Les élections #législatives auront lieu les 11 &amp; 18 juin, pensez à la #procuration ! 🇫🇷 https://t.co/CspiZWSCk3",
+        "created_at": "2017-06-01 08:00:52+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870188381996802048,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 46,
+                    "tag": "législatives"
+                },
+                {
+                    "start": 93,
+                    "end": 105,
+                    "tag": "procuration"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/CspiZWSCk3",
+                    "expanded_url": "https://twitter.com/mairiedu13/status/847728351687004160",
+                    "display_url": "twitter.com/mairiedu13/sta…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "mairiedu13",
+                    "id": "532146739"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870187844152815616",
+        "text": "@bourmeau Gauche de la majo présidentielle = un député de gauche, fidèle à ses valeurs, qui veut participer à la réussite du quinquennat",
+        "created_at": "2017-06-01 07:58:44+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870184084601004032,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "bourmeau",
+                    "id": "233505453"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 233505453,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870187016700481536",
+        "text": "@bourmeau Candidat PS dans la #circo7509. D'ailleurs le logo est sur tous mes docs de campagne. Mais une gauche ouverte, constructive et exigeante.",
+        "created_at": "2017-06-01 07:55:26+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870184084601004032,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 40,
+                    "tag": "circo7509"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "bourmeau",
+                    "id": "233505453"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 233505453,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870008779051552768",
+        "text": "La lutte contre les incivilités était au cœur de nos échanges, place Pinel, où nous vous rencontrions avec @jerome_coumet",
+        "created_at": "2017-05-31 20:07:11+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 870008779051552768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869990302941036544",
+        "text": "Encore un coup du cabinet noir ! https://t.co/k08JLo85DQ",
+        "created_at": "2017-05-31 18:53:46+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869990302941036544,
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/k08JLo85DQ",
+                    "expanded_url": "https://twitter.com/le_gorafi/status/869826181935321088",
+                    "display_url": "twitter.com/le_gorafi/stat…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869990124343496704",
+        "text": "RT @YohanFavreau: Super accueil ce soir à Nationale. On lâche rien. #TeamLagane",
+        "created_at": "2017-05-31 18:53:03+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869990124343496704,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 79,
+                    "tag": "TeamLagane"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "YohanFavreau",
+                    "id": "790544968427397121"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869989911818117120",
+        "text": "Dans le 13e, notre maire prend la question de la propreté très au sérieux ! Bravo @jerome_coumet ! 👍👍👍 https://t.co/rQS7px46ZS",
+        "created_at": "2017-05-31 18:52:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869989893862281216"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869989911818117120,
+        "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/rQS7px46ZS",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869989911818117120/photo/1",
+                    "display_url": "pic.twitter.com/rQS7px46ZS",
+                    "media_key": "3_869989893862281216"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 82,
+                    "end": 96,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869989137050353664",
+        "text": "RT @jerome_coumet: Les campagnes électorales, c'est aussi de belles rencontres\nVive les enfants de #paris13 !\n\nAvec @martinlagane https://t…",
+        "created_at": "2017-05-31 18:49:08+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869989137050353664,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 99,
+                    "end": 107,
+                    "tag": "paris13"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 116,
+                    "end": 129,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869634757897990145",
+        "text": "Poursuite des rencontres en bas de chez vous. Ce soir, nous étions à Bédier - Boutroux avec @jerome_coumet pour présenter notre candidature. https://t.co/dxLPwh7lXc",
+        "created_at": "2017-05-30 19:20:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869634726822383621",
+                "3_869634726855835651"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869634757897990145,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/dxLPwh7lXc",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869634757897990145/photo/1",
+                    "display_url": "pic.twitter.com/dxLPwh7lXc",
+                    "media_key": "3_869634726822383621"
+                },
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/dxLPwh7lXc",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869634757897990145/photo/1",
+                    "display_url": "pic.twitter.com/dxLPwh7lXc",
+                    "media_key": "3_869634726855835651"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 106,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869494169542197248",
+        "text": "Au Marché Blanqui pour défendre une gauche utile pour le 13ème et pour la France ! https://t.co/VWGO8bHBfk",
+        "created_at": "2017-05-30 10:02:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869494137741029376"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 869494169542197248,
+        "entities": {
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/VWGO8bHBfk",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869494169542197248/photo/1",
+                    "display_url": "pic.twitter.com/VWGO8bHBfk",
+                    "media_key": "3_869494137741029376"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869248568175013888",
+        "text": "RT @jerome_coumet: Tous les soirs à votre rencontre avec @martinlagane votre futur député de #paris13 https://t.co/gMhWzxJ16f",
+        "created_at": "2017-05-29 17:46:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869241134907879424",
+                "3_869241146534506497"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869248568175013888,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 101,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/gMhWzxJ16f",
+                    "expanded_url": "https://twitter.com/jerome_coumet/status/869241158349840387/photo/1",
+                    "display_url": "pic.twitter.com/gMhWzxJ16f",
+                    "media_key": "3_869241134907879424"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/gMhWzxJ16f",
+                    "expanded_url": "https://twitter.com/jerome_coumet/status/869241158349840387/photo/1",
+                    "display_url": "pic.twitter.com/gMhWzxJ16f",
+                    "media_key": "3_869241146534506497"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 57,
+                    "end": 70,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869241673280368640",
+        "text": "Échanges francs et directs en bas de chez vous ! Ce soir, c'était les habitants des rues Jeanne d'Arc et  Dunois que je rencontrais. https://t.co/QxLhCLoioc",
+        "created_at": "2017-05-29 17:18:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869241657098743808",
+                "3_869241657094537220"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 869241673280368640,
+        "entities": {
+            "urls": [
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/QxLhCLoioc",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869241673280368640/photo/1",
+                    "display_url": "pic.twitter.com/QxLhCLoioc",
+                    "media_key": "3_869241657098743808"
+                },
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/QxLhCLoioc",
+                    "expanded_url": "https://twitter.com/martinlagane/status/869241673280368640/photo/1",
+                    "display_url": "pic.twitter.com/QxLhCLoioc",
+                    "media_key": "3_869241657094537220"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868901645077417984",
+        "text": "RT @AnneDutreize: Et augmentation de 50% de la production en agriculture biologique depuis 2012. Qui inspire qui ? https://t.co/Xi1gSuT8EK",
+        "created_at": "2017-05-28 18:47:50+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868901645077417984,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/Xi1gSuT8EK",
+                    "expanded_url": "https://twitter.com/martinlagane/status/868857892119642112",
+                    "display_url": "twitter.com/martinlagane/s…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AnneDutreize",
+                    "id": "4063823175"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868860206180126720",
+        "text": "Le PR appelle au rassemblement et au dépassement des postures. Apparemment, il n'a pas encore été entendu par ses militants @EnMarcheParis13",
+        "created_at": "2017-05-28 16:03:10+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868860206180126720,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868859601130749953",
+        "text": "#démocratie Entre 2012 et 2017 : loi sur la transparence et interdiction du cumul des mandats. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 16:00:46+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868859601130749953,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "démocratie"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868858867261870080",
+        "text": "#protection Avec le Compte Personnel d'Activité, les droits sociaux sont garantis tout au long de la vie. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:57:51+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868858867261870080,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "protection"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868858373005094913",
+        "text": "#formationprofessionnelle Entre 2012 et 2017, plan 500 000 formations professionnelles. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:55:53+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868858373005094913,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 25,
+                    "tag": "formationprofessionnelle"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868858182755655680",
+        "text": "#education Entre 2012 et 2017, création de 40 000 postes, réformes des programmes et rythmes scolaires. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:55:08+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868858182755655680,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "education"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868857892119642112",
+        "text": "#climat Entre 2012 et 2017 : Accord de Paris, Loi pour la transition énergétique. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:53:58+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868857892119642112,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "tag": "climat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868857376773943296",
+        "text": "#Sante Réduction des inégalités d'accès aux soins grâce à la généralisation du tiers payant généralisé. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:51:55+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868857376773943296,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "Sante"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868857219349131264",
+        "text": "#competitivite Entre 2012 et 2017, allègements de 40 milliards pour les entreprises françaises. Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:51:18+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868857219349131264,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "tag": "competitivite"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868856989539065857",
+        "text": "#securite Entre 2012 et 2017, création de 10 000 postes pour nos forces de sécurité ! Qui inspire qui @EnMarcheParis13 ?",
+        "created_at": "2017-05-28 15:50:23+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 868856989539065857,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "tag": "securite"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867653082250924033",
+        "text": "@Matilla75 @jerome_coumet @dseignot @EtienneTraisnel @E_Coblence @Annick_Olivier @PS13Ouest Merci !",
+        "created_at": "2017-05-25 08:06:29+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 867647136044916737,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "Matilla75",
+                    "id": "2981341481"
+                },
+                {
+                    "start": 11,
+                    "end": 25,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                },
+                {
+                    "start": 26,
+                    "end": 35,
+                    "username": "dseignot",
+                    "id": "94228561"
+                },
+                {
+                    "start": 53,
+                    "end": 64,
+                    "username": "E_Coblence",
+                    "id": "3705242776"
+                },
+                {
+                    "start": 65,
+                    "end": 80,
+                    "username": "Annick_Olivier",
+                    "id": "2468254962"
+                },
+                {
+                    "start": 81,
+                    "end": 91,
+                    "username": "PS13Ouest",
+                    "id": "3242728729"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2981341481,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867649865668595714",
+        "text": "RT @jerome_coumet: L'identité de #paris13 est à gauche\n\nOui au rassemblement engagé par E. Macron, mais sans renier nos engagements \n\nVoton…",
+        "created_at": "2017-05-25 07:53:42+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867649865668595714,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 41,
+                    "tag": "paris13"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867649744088297472",
+        "text": "La France a besoin d'une gauche ouverte et dynamique, constructive et exigeante. \n\n#legislatives #circo7509 https://t.co/m0NR8BWj6w",
+        "created_at": "2017-05-25 07:53:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867649717391544321"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 867649744088297472,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 96,
+                    "tag": "legislatives"
+                },
+                {
+                    "start": 97,
+                    "end": 107,
+                    "tag": "circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/m0NR8BWj6w",
+                    "expanded_url": "https://twitter.com/martinlagane/status/867649744088297472/photo/1",
+                    "display_url": "pic.twitter.com/m0NR8BWj6w",
+                    "media_key": "3_867649717391544321"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 5,
+            "like_count": 22,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867517644093739008",
+        "text": "RT @cq1_croulebarbe: Les fresques du Pont Pascal en cours de réalisation. @LezartsBievre @CQ75013 @mairiedu13 @arnaudblesse @jerome_coumet…",
+        "created_at": "2017-05-24 23:08:18+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 867517644093739008,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "cq1_croulebarbe",
+                    "id": "3310404232"
+                },
+                {
+                    "start": 74,
+                    "end": 88,
+                    "username": "LezartsBievre",
+                    "id": "1383808867"
+                },
+                {
+                    "start": 89,
+                    "end": 97,
+                    "username": "CQ75013",
+                    "id": "4717323262"
+                },
+                {
+                    "start": 98,
+                    "end": 109,
+                    "username": "mairiedu13",
+                    "id": "532146739"
+                },
+                {
+                    "start": 110,
+                    "end": 123,
+                    "username": "arnaudblesse",
+                    "id": "111289427"
+                },
+                {
+                    "start": 124,
+                    "end": 138,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866966983241334786",
+        "text": "Au Marché Blanqui, les habitants veulent une gauche ouverte et dynamique, constructive et exigeante !",
+        "created_at": "2017-05-23 10:40:10+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866966983241334786,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "866911836482023424",
+        "text": "Toutes mes pensées vont aux victimes de l'effroyable attentat de #Manchester ainsi qu'à leur famille.",
+        "created_at": "2017-05-23 07:01:02+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864489046776492033",
+                    "name": "Manchester",
+                    "description": "Manchester"
+                }
+            }
+        ],
+        "conversation_id": 866911836482023424,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 76,
+                    "tag": "Manchester"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "866575918046875648",
+        "text": "RT @BaglaSevan: Sur le terrain pour @martinlagane avec #lagauchedu13e\n#circo7509\n#Lagane2017 https://t.co/uM8BoBF1QJ",
+        "created_at": "2017-05-22 08:46:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866545622169604096",
+                "3_866545623713140736"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866575918046875648,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 69,
+                    "tag": "lagauchedu13e"
+                },
+                {
+                    "start": 70,
+                    "end": 80,
+                    "tag": "circo7509"
+                },
+                {
+                    "start": 81,
+                    "end": 92,
+                    "tag": "Lagane2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 93,
+                    "end": 116,
+                    "url": "https://t.co/uM8BoBF1QJ",
+                    "expanded_url": "https://twitter.com/BaglaSevan/status/866545647406784512/photo/1",
+                    "display_url": "pic.twitter.com/uM8BoBF1QJ",
+                    "media_key": "3_866545622169604096"
+                },
+                {
+                    "start": 93,
+                    "end": 116,
+                    "url": "https://t.co/uM8BoBF1QJ",
+                    "expanded_url": "https://twitter.com/BaglaSevan/status/866545647406784512/photo/1",
+                    "display_url": "pic.twitter.com/uM8BoBF1QJ",
+                    "media_key": "3_866545623713140736"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "BaglaSevan",
+                    "id": "2334595871"
+                },
+                {
+                    "start": 36,
+                    "end": 49,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866575539259269120",
+        "text": "Paris : coup de jeune pour les bains douches de la Butte-aux-Cailles https://t.co/kz2QGOCEr7",
+        "created_at": "2017-05-22 08:44:43+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 866575539259269120,
+        "entities": {
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/kz2QGOCEr7",
+                    "expanded_url": "http://fb.me/2XoiOKM0h",
+                    "display_url": "fb.me/2XoiOKM0h"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "866547332711673857",
+        "text": "De bon matin au métro Place d'Italie pour convaincre les électeurs de faire entendre la voix d'une gauche utile et exigeante à l'Assemblée. https://t.co/7yd3MImAin",
+        "created_at": "2017-05-22 06:52:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866547321009577984",
+                "3_866547321017958400"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855426783717371904",
+                    "name": "Italy",
+                    "description": "Italy"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866547332711673857,
+        "entities": {
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/7yd3MImAin",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866547332711673857/photo/1",
+                    "display_url": "pic.twitter.com/7yd3MImAin",
+                    "media_key": "3_866547321009577984"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/7yd3MImAin",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866547332711673857/photo/1",
+                    "display_url": "pic.twitter.com/7yd3MImAin",
+                    "media_key": "3_866547321017958400"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866433676426563584",
+        "text": "RT @BCazeneuve: La justice sociale doit demeurer la boussole des politiques gouvernementales\nLa droite et la gauche n'ont pas disparu.",
+        "created_at": "2017-05-21 23:21:00+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866433676426563584,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "BCazeneuve",
+                    "id": "427288938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 251,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866433668138631170",
+        "text": "RT @BCazeneuve: J'ai trop de sympathie pour le président pour le laisser seul face à la droite.La gauche doit être forte à l' AN pour réuss…",
+        "created_at": "2017-05-21 23:20:58+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866433668138631170,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "BCazeneuve",
+                    "id": "427288938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 298,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866321455709138944",
+        "text": "Ambiance conviviale au vide grenier  rue des Frères-d'Astier-de-La-Vigerie. https://t.co/POeOxNlOMA",
+        "created_at": "2017-05-21 15:55:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866321432195862528",
+                "3_866321432174899204"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866321455709138944,
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/POeOxNlOMA",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866321455709138944/photo/1",
+                    "display_url": "pic.twitter.com/POeOxNlOMA",
+                    "media_key": "3_866321432195862528"
+                },
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/POeOxNlOMA",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866321455709138944/photo/1",
+                    "display_url": "pic.twitter.com/POeOxNlOMA",
+                    "media_key": "3_866321432174899204"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866315548623294464",
+        "text": "RT @jerome_coumet: Belle mobilisation ce matin sur les marchés Auguste-Blanqui et Jeanne d'Arc\nIll faut être constructifs et faire entendre…",
+        "created_at": "2017-05-21 15:31:36+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866315548623294464,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866244697563566080",
+        "text": "Au marché Jeanne d'Arc pour la Gauche du 13eme ! #Circo7509 https://t.co/N9oRLltQRs",
+        "created_at": "2017-05-21 10:50:04+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866244648351739905",
+                "3_866244648364363776",
+                "3_866244648364380160"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866244697563566080,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 59,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/N9oRLltQRs",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866244697563566080/photo/1",
+                    "display_url": "pic.twitter.com/N9oRLltQRs",
+                    "media_key": "3_866244648351739905"
+                },
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/N9oRLltQRs",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866244697563566080/photo/1",
+                    "display_url": "pic.twitter.com/N9oRLltQRs",
+                    "media_key": "3_866244648364363776"
+                },
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/N9oRLltQRs",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866244697563566080/photo/1",
+                    "display_url": "pic.twitter.com/N9oRLltQRs",
+                    "media_key": "3_866244648364380160"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "id": "866221036370636800",
+        "text": "Au contact des habitants du 13e au Marché Blanqui pour présenter ma candidature. #Legislatives #Circo7509 https://t.co/Blh8SXvjQo",
+        "created_at": "2017-05-21 09:16:03+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866220847236882433",
+                "3_866220847228473346"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866221036370636800,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 81,
+                    "end": 94,
+                    "tag": "Legislatives"
+                },
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "Circo7509"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/Blh8SXvjQo",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866221036370636800/photo/1",
+                    "display_url": "pic.twitter.com/Blh8SXvjQo",
+                    "media_key": "3_866220847236882433"
+                },
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/Blh8SXvjQo",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866221036370636800/photo/1",
+                    "display_url": "pic.twitter.com/Blh8SXvjQo",
+                    "media_key": "3_866220847228473346"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866001484290371584",
+        "text": "Félicitations au FC Gobelins qui monte en national grâce à sa victoire ce soir ! Heureux d'y avoir assisté. #Paris13 https://t.co/3v0yLCm3Po",
+        "created_at": "2017-05-20 18:43:38+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866001389088120833"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 866001484290371584,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 116,
+                    "tag": "Paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/3v0yLCm3Po",
+                    "expanded_url": "https://twitter.com/martinlagane/status/866001484290371584/photo/1",
+                    "display_url": "pic.twitter.com/3v0yLCm3Po",
+                    "media_key": "3_866001389088120833"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865880542314713088",
+        "text": "Rencontre chaleureuse avec les associations sportives, ce matin, au stade Carpentier !",
+        "created_at": "2017-05-20 10:43:03+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 865880542314713088,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865880348386877440",
+        "text": "RT @jerome_coumet: Heureux d'avoir inauguré le Club House du Stade Carpentier \n\nL'occasion de saluer l'investissement des associations spor…",
+        "created_at": "2017-05-20 10:42:16+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 865880348386877440,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865722632993468419",
+        "text": "RT @BFMTV: Pour Cazeneuve, la justice sociale doit rester \"la boussoles des politiques gouvernementales\"\nhttps://t.co/PUKbOjTkas https://t.…",
+        "created_at": "2017-05-20 00:15:34+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 865722632993468419,
+        "entities": {
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/PUKbOjTkas",
+                    "expanded_url": "http://www.bfmtv.com/politique/pour-cazeneuve-la-justice-sociale-doit-rester-la-boussoles-des-politiques-gouvernementales-1167761.html",
+                    "display_url": "bfmtv.com/politique/pour…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "username": "BFMTV",
+                    "id": "133663801"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865624464796532736",
+        "text": "RT @jerome_coumet: Jean-Marie Le Guen ne se présentera aux législatives \n\nMartin Lagane incarnera la gauche 13e\nJe serai son suppléant \nhtt…",
+        "created_at": "2017-05-19 17:45:29+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 865624464796532736,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865622127935868932",
+        "text": "RT @jerome_coumet: Fête des voisins à Bédier Boutroux #paris13 \n\nVive le 13e ! https://t.co/O7TYFOzsfp",
+        "created_at": "2017-05-19 17:36:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865621797496004608"
+            ]
+        },
+        "author_id": 3439765943,
+        "context_annotations": [],
+        "conversation_id": 865622127935868932,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 62,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/O7TYFOzsfp",
+                    "expanded_url": "https://twitter.com/jerome_coumet/status/865621819549601793/photo/1",
+                    "display_url": "pic.twitter.com/O7TYFOzsfp",
+                    "media_key": "3_865621797496004608"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "jerome_coumet",
+                    "id": "84644257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865616572517236736",
+        "text": "RT @Aleks_Paris: #FF et #Twelcome à https://t.co/F7kAitXpap @martinlagane qui portera les couleurs du @partisocialiste ds #Circo7509 #Paris",
+        "created_at": "2017-05-19 17:14:07+00:00",
+        "attachments": null,
+        "author_id": 3439765943,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 865616572517236736,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 20,
+                    "tag": "FF"
+                },
+                {
+                    "start": 24,
+                    "end": 33,
+                    "tag": "Twelcome"
+                },
+                {
+                    "start": 122,
+                    "end": 132,
+                    "tag": "Circo7509"
+                },
+                {
+                    "start": 133,
+                    "end": 139,
+                    "tag": "Paris"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 36,
+                    "end": 59,
+                    "url": "https://t.co/F7kAitXpap",
+                    "expanded_url": "https://twitter.com/martinlagane",
+                    "display_url": "twitter.com/martinlagane"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "Aleks_Paris",
+                    "id": "22637980"
+                },
+                {
+                    "start": 60,
+                    "end": 73,
+                    "username": "martinlagane",
+                    "id": "3439765943"
+                },
+                {
+                    "start": 102,
+                    "end": 118,
+                    "username": "partisocialiste",
+                    "id": "19900973"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
     }
 ]

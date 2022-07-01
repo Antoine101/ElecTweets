@@ -103,5 +103,3192 @@
         "reply_settings": "everyone",
         "source": "Twitter Web Client",
         "withheld": null
+    },
+    {
+        "id": "873073472905199617",
+        "text": "#Projet #legislatives2017 #paris13 https://t.co/9n5TmWtE2c",
+        "created_at": "2017-06-09 07:05:11+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873073361928175618"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 873073472905199617,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "tag": "Projet"
+                },
+                {
+                    "start": 8,
+                    "end": 25,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 26,
+                    "end": 34,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/9n5TmWtE2c",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/873073472905199617/photo/1",
+                    "display_url": "pic.twitter.com/9n5TmWtE2c",
+                    "media_key": "3_873073361928175618"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872855159642226688",
+        "text": "#democratie #dynamisme #legislatives2017 #paris13 https://t.co/AqaEH17lZ3",
+        "created_at": "2017-06-08 16:37:41+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872854964548317184"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872855159642226688,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "democratie"
+                },
+                {
+                    "start": 12,
+                    "end": 22,
+                    "tag": "dynamisme"
+                },
+                {
+                    "start": 23,
+                    "end": 40,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 41,
+                    "end": 49,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/AqaEH17lZ3",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/872855159642226688/photo/1",
+                    "display_url": "pic.twitter.com/AqaEH17lZ3",
+                    "media_key": "3_872854964548317184"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872835419242725377",
+        "text": "Mon bureau du jour... au café La Marquise #Paris13 #legislatives2017 https://t.co/fH4jnwfI7j",
+        "created_at": "2017-06-08 15:19:15+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872835401693749249"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850442647088971776",
+                    "name": "Coffee",
+                    "description": "Coffee"
+                }
+            }
+        ],
+        "conversation_id": 872835419242725377,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 50,
+                    "tag": "Paris13"
+                },
+                {
+                    "start": 51,
+                    "end": 68,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/fH4jnwfI7j",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/872835419242725377/photo/1",
+                    "display_url": "pic.twitter.com/fH4jnwfI7j",
+                    "media_key": "3_872835401693749249"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872708273291579392",
+        "text": "RT @LesCentristes_: NOS CANDIDATS | Élisabeth STIBBE\n@E_STIBBE \n#circo7509\n#legislatives2017 \n@LesCentristes_ https://t.co/J7KFWUkAHf",
+        "created_at": "2017-06-08 06:54:01+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872682752788893696"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872708273291579392,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 64,
+                    "end": 74,
+                    "tag": "circo7509"
+                },
+                {
+                    "start": 75,
+                    "end": 92,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/J7KFWUkAHf",
+                    "expanded_url": "https://twitter.com/LesCentristes_/status/872682970368421888/photo/1",
+                    "display_url": "pic.twitter.com/J7KFWUkAHf",
+                    "media_key": "3_872682752788893696"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "LesCentristes_",
+                    "id": "34224009"
+                },
+                {
+                    "start": 53,
+                    "end": 62,
+                    "username": "E_STIBBE",
+                    "id": "105209550"
+                },
+                {
+                    "start": 94,
+                    "end": 109,
+                    "username": "LesCentristes_",
+                    "id": "34224009"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872708159634382848",
+        "text": "Dans nos boites aux lettres... #legislatives2017 #paris13 https://t.co/JN6R8xkLpP",
+        "created_at": "2017-06-08 06:53:34+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872708089266528256"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872708159634382848,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 48,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 49,
+                    "end": 57,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/JN6R8xkLpP",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/872708159634382848/photo/1",
+                    "display_url": "pic.twitter.com/JN6R8xkLpP",
+                    "media_key": "3_872708089266528256"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872489097486577665",
+        "text": "#délinquance #criminalité #legislatives2017 #paris13 https://t.co/G3EwlpDCIp",
+        "created_at": "2017-06-07 16:23:05+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872488822088630274"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872489097486577665,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "tag": "délinquance"
+                },
+                {
+                    "start": 13,
+                    "end": 25,
+                    "tag": "criminalité"
+                },
+                {
+                    "start": 26,
+                    "end": 43,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 44,
+                    "end": 52,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 76,
+                    "url": "https://t.co/G3EwlpDCIp",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/872489097486577665/photo/1",
+                    "display_url": "pic.twitter.com/G3EwlpDCIp",
+                    "media_key": "3_872488822088630274"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872187651922722817",
+        "text": "RT @MarieClaudePer7: Beaucoup de monde pour écouter Elisabeth Stibbe et Léa Barrère. Des discussions nourries.#Stibbe2017#Paris13 https://t…",
+        "created_at": "2017-06-06 20:25:15+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872187651922722817,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "MarieClaudePer7",
+                    "id": "716977860985139200"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872187127060205573",
+        "text": "#stage #apprentissage #legislatives2017 #paris13 https://t.co/crq3iXhm9t",
+        "created_at": "2017-06-06 20:23:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872187008197812226"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872187127060205573,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "stage"
+                },
+                {
+                    "start": 7,
+                    "end": 21,
+                    "tag": "apprentissage"
+                },
+                {
+                    "start": 22,
+                    "end": 39,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/crq3iXhm9t",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/872187127060205573/photo/1",
+                    "display_url": "pic.twitter.com/crq3iXhm9t",
+                    "media_key": "3_872187008197812226"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872107877179195394",
+        "text": "RT @prefpolice: 🔴Parvis de #NotreDame Intervention en cours des effectifs de police, évitez le secteur",
+        "created_at": "2017-06-06 15:08:15+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 872107877179195394,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 37,
+                    "tag": "NotreDame"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "prefpolice",
+                    "id": "164713706"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2959,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871799071081721856",
+        "text": "Entre la douleur des familles, la souffrance des blessés, l'angoisse pour les disparus, j'apporte mon soutien aux victimes #LondonAttacks",
+        "created_at": "2017-06-05 18:41:10+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871799071081721856,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 137,
+                    "tag": "LondonAttacks"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871781769447702529",
+        "text": "Faire campagne, c'est plus qu'un régal, c'est un bonheur entre les riches échanges et l'enthousiasme des militants #legislatives2017",
+        "created_at": "2017-06-05 17:32:25+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871781769447702529,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 132,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871777265822179331",
+        "text": "#précarité #Energie #legislatives2017 #paris13 https://t.co/UbdWsLXhXU",
+        "created_at": "2017-06-05 17:14:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871776988524158976"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871777265822179331,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "précarité"
+                },
+                {
+                    "start": 11,
+                    "end": 19,
+                    "tag": "Energie"
+                },
+                {
+                    "start": 20,
+                    "end": 37,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 38,
+                    "end": 46,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 47,
+                    "end": 70,
+                    "url": "https://t.co/UbdWsLXhXU",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/871777265822179331/photo/1",
+                    "display_url": "pic.twitter.com/UbdWsLXhXU",
+                    "media_key": "3_871776988524158976"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871415965925474304",
+        "text": "#49.3 #AssNat #legislatives2017 #paris13 https://t.co/gmzCNCSXJF",
+        "created_at": "2017-06-04 17:18:51+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871415773524307968"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871415965925474304,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 6,
+                    "end": 13,
+                    "tag": "AssNat"
+                },
+                {
+                    "start": 14,
+                    "end": 31,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 32,
+                    "end": 40,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/gmzCNCSXJF",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/871415965925474304/photo/1",
+                    "display_url": "pic.twitter.com/gmzCNCSXJF",
+                    "media_key": "3_871415773524307968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871291317124550656",
+        "text": "Toutes mes pensées vont aux victimes de l'attentat de Londres. Let's make the planet safe again  #LondonAttacks",
+        "created_at": "2017-06-04 09:03:32+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855412191050121217",
+                    "name": "London",
+                    "description": "london"
+                }
+            }
+        ],
+        "conversation_id": 871291317124550656,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 97,
+                    "end": 111,
+                    "tag": "LondonAttacks"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871082015843659784",
+        "text": "Faire campagne, c'est avant tout comprendre les attentes de nos concitoyens au niveau local et sur le plan national #legislatives2017 https://t.co/KFXxWLkmrY",
+        "created_at": "2017-06-03 19:11:51+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871081912395288578"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871082015843659784,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 133,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/KFXxWLkmrY",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/871082015843659784/photo/1",
+                    "display_url": "pic.twitter.com/KFXxWLkmrY",
+                    "media_key": "3_871081912395288578"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871044413333614592",
+        "text": "#Transports #Energie #ecologie #legislatives2017 #paris13 https://t.co/DaXsKNnQEA",
+        "created_at": "2017-06-03 16:42:26+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871044236124332032"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 871044413333614592,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "tag": "Transports"
+                },
+                {
+                    "start": 12,
+                    "end": 20,
+                    "tag": "Energie"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "tag": "ecologie"
+                },
+                {
+                    "start": 31,
+                    "end": 48,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 49,
+                    "end": 57,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/DaXsKNnQEA",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/871044413333614592/photo/1",
+                    "display_url": "pic.twitter.com/DaXsKNnQEA",
+                    "media_key": "3_871044236124332032"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870934998546886656",
+        "text": "Distribution de tracts pour les \"grands\" et de 🎈pour les enfants  au marché Vincent Auriol #paris13 #legislatives2017 #proximite  #Famille https://t.co/5xbZBpsXgG",
+        "created_at": "2017-06-03 09:27:39+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870934980406505472"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 870934998546886656,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 91,
+                    "end": 99,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 100,
+                    "end": 117,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "proximite"
+                },
+                {
+                    "start": 130,
+                    "end": 138,
+                    "tag": "Famille"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/5xbZBpsXgG",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/870934998546886656/photo/1",
+                    "display_url": "pic.twitter.com/5xbZBpsXgG",
+                    "media_key": "3_870934980406505472"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870697173477859329",
+        "text": "#rythmesscolaires #communes #legislatives2017 #paris13 https://t.co/rq4ivnAsBQ",
+        "created_at": "2017-06-02 17:42:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870697016254492672"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 870697173477859329,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "rythmesscolaires"
+                },
+                {
+                    "start": 18,
+                    "end": 27,
+                    "tag": "communes"
+                },
+                {
+                    "start": 28,
+                    "end": 45,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 46,
+                    "end": 54,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 55,
+                    "end": 78,
+                    "url": "https://t.co/rq4ivnAsBQ",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/870697173477859329/photo/1",
+                    "display_url": "pic.twitter.com/rq4ivnAsBQ",
+                    "media_key": "3_870697016254492672"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870515410923159554",
+        "text": "Les Etats-Unis se retirent de l'accord de Paris sur le climat : un grand pas en arrière pour l'Humanité. #legislatives2017  #paris13",
+        "created_at": "2017-06-02 05:40:22+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870515410923159554,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 122,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 124,
+                    "end": 132,
+                    "tag": "paris13"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870356757138341889",
+        "text": "#femmes #emploi #legislatives2017 #paris13 https://t.co/WxDym8DYiJ",
+        "created_at": "2017-06-01 19:09:56+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870356749689266176"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 870356757138341889,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "tag": "femmes"
+                },
+                {
+                    "start": 8,
+                    "end": 15,
+                    "tag": "emploi"
+                },
+                {
+                    "start": 16,
+                    "end": 33,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 34,
+                    "end": 42,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/WxDym8DYiJ",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/870356757138341889/photo/1",
+                    "display_url": "pic.twitter.com/WxDym8DYiJ",
+                    "media_key": "3_870356749689266176"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870175047297757184",
+        "text": "Un colleur sachant coller doit savoir encoller sans s’en coller partout ! #legislatives2017 #paris13 https://t.co/S1HupLu2Ma",
+        "created_at": "2017-06-01 07:07:53+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870174876883177472",
+                "3_870174921359597568"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 870175047297757184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 74,
+                    "end": 91,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 92,
+                    "end": 100,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/S1HupLu2Ma",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/870175047297757184/photo/1",
+                    "display_url": "pic.twitter.com/S1HupLu2Ma",
+                    "media_key": "3_870174876883177472"
+                },
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/S1HupLu2Ma",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/870175047297757184/photo/1",
+                    "display_url": "pic.twitter.com/S1HupLu2Ma",
+                    "media_key": "3_870174921359597568"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869950322927689729",
+        "text": "#legislatives2017 #migrants #paris13 https://t.co/nrNNsoQ9hc",
+        "created_at": "2017-05-31 16:14:54+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869950211145289730"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 869950322927689729,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 27,
+                    "tag": "migrants"
+                },
+                {
+                    "start": 28,
+                    "end": 36,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/nrNNsoQ9hc",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/869950322927689729/photo/1",
+                    "display_url": "pic.twitter.com/nrNNsoQ9hc",
+                    "media_key": "3_869950211145289730"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869887229216382976",
+        "text": "Sur le marché Vincent Auriol ce matin pour annoncer notre réunion publique du 6 juin. #legislatives2017 #paris13 https://t.co/yTfV8joHoD",
+        "created_at": "2017-05-31 12:04:11+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869887150267011072"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 869887229216382976,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 103,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 104,
+                    "end": 112,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/yTfV8joHoD",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/869887229216382976/photo/1",
+                    "display_url": "pic.twitter.com/yTfV8joHoD",
+                    "media_key": "3_869887150267011072"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869599405007097856",
+        "text": "#legislatives2017 #paris13 #apprentissage #entreprise #ecole https://t.co/vZKtW2pt21",
+        "created_at": "2017-05-30 17:00:29+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869599241202741248"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 869599405007097856,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 27,
+                    "end": 41,
+                    "tag": "apprentissage"
+                },
+                {
+                    "start": 42,
+                    "end": 53,
+                    "tag": "entreprise"
+                },
+                {
+                    "start": 54,
+                    "end": 60,
+                    "tag": "ecole"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 61,
+                    "end": 84,
+                    "url": "https://t.co/vZKtW2pt21",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/869599405007097856/photo/1",
+                    "display_url": "pic.twitter.com/vZKtW2pt21",
+                    "media_key": "3_869599241202741248"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869269075918286848",
+        "text": "Merci à notre équipe tout-terrain ! #legislatives2017 #paris13 https://t.co/Qa6Vfppbvi",
+        "created_at": "2017-05-29 19:07:52+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029940559",
+                    "name": "Live: The French Open Tennis",
+                    "description": "Coverage of the latest tennis action."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10049609722",
+                    "name": "2017 French Open Tennis"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049590513",
+                    "name": "First Round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "4",
+                    "name": "TV Episodes",
+                    "description": "Television show episodes"
+                },
+                "entity": {
+                    "id": "10049611344",
+                    "name": "Day 2",
+                    "description": "John Inverdale presents live coverage from Paris as the first round the 2017 French Open continues, with expert analysis from Jim Courier, Marion Bartoli, and Mark Petchey."
+                }
+            }
+        ],
+        "conversation_id": 869269075918286848,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 53,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 54,
+                    "end": 62,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/Qa6Vfppbvi",
+                    "expanded_url": "https://twitter.com/MarieClaudePer7/status/869252470261862402",
+                    "display_url": "twitter.com/MarieClaudePer…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869233305954250753",
+        "text": "#legislatives2017 #entreprise #Entrepreneur #administration #réglementation #paris13 https://t.co/jDy6fnSeti",
+        "created_at": "2017-05-29 16:45:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869232695544565760"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 869233305954250753,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 29,
+                    "tag": "entreprise"
+                },
+                {
+                    "start": 30,
+                    "end": 43,
+                    "tag": "Entrepreneur"
+                },
+                {
+                    "start": 44,
+                    "end": 59,
+                    "tag": "administration"
+                },
+                {
+                    "start": 60,
+                    "end": 75,
+                    "tag": "réglementation"
+                },
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/jDy6fnSeti",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/869233305954250753/photo/1",
+                    "display_url": "pic.twitter.com/jDy6fnSeti",
+                    "media_key": "3_869232695544565760"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868909569342406657",
+        "text": "#legislatives2017 #DroitDuTravail #contrat #paris13 https://t.co/GhjjArpHHu",
+        "created_at": "2017-05-28 19:19:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868909384285507584"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868909569342406657,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 33,
+                    "tag": "DroitDuTravail"
+                },
+                {
+                    "start": 34,
+                    "end": 42,
+                    "tag": "contrat"
+                },
+                {
+                    "start": 43,
+                    "end": 51,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 52,
+                    "end": 75,
+                    "url": "https://t.co/GhjjArpHHu",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868909569342406657/photo/1",
+                    "display_url": "pic.twitter.com/GhjjArpHHu",
+                    "media_key": "3_868909384285507584"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868805430314717184",
+        "text": "Un peu de fraîcheur après la course #10kmpourelles avec l'eau de Paris offerte aux Parisiennes, aux Parisiens et à tous dans le 13e! https://t.co/0QC5Eg6qC9",
+        "created_at": "2017-05-28 12:25:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868805228803633152"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 868805430314717184,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 36,
+                    "end": 50,
+                    "tag": "10kmpourelles"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/0QC5Eg6qC9",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868805430314717184/photo/1",
+                    "display_url": "pic.twitter.com/0QC5Eg6qC9",
+                    "media_key": "3_868805228803633152"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868795894203809792",
+        "text": "#10kmpourelles un beau parcours dans le 13e, entre architecture contemporaine et lieux historiques : merci aux organisateurs et bravo! https://t.co/ENs2Tlwe4I",
+        "created_at": "2017-05-28 11:47:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868794805236764673",
+                "3_868795093993631744",
+                "3_868795578246942720",
+                "3_868795751127810048"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868795894203809792,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "tag": "10kmpourelles"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ENs2Tlwe4I",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868795894203809792/photo/1",
+                    "display_url": "pic.twitter.com/ENs2Tlwe4I",
+                    "media_key": "3_868794805236764673"
+                },
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ENs2Tlwe4I",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868795894203809792/photo/1",
+                    "display_url": "pic.twitter.com/ENs2Tlwe4I",
+                    "media_key": "3_868795093993631744"
+                },
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ENs2Tlwe4I",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868795894203809792/photo/1",
+                    "display_url": "pic.twitter.com/ENs2Tlwe4I",
+                    "media_key": "3_868795578246942720"
+                },
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/ENs2Tlwe4I",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868795894203809792/photo/1",
+                    "display_url": "pic.twitter.com/ENs2Tlwe4I",
+                    "media_key": "3_868795751127810048"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868700750381293568",
+        "text": "#legislatives2017 Bonne fête à ma maman qui a pu voter aux législatives de 1945 grâce au suffrage universel enfin étendu aux femmes!",
+        "created_at": "2017-05-28 05:29:33+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868700750381293568,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868686127166828544",
+        "text": "paradoxe sportif : un petit échauffement dans la fraîcheur matinale! \n@ tout à l'heure sur la course dans le 13e #10kmpourelles",
+        "created_at": "2017-05-28 04:31:26+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868686127166828544,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 127,
+                    "tag": "10kmpourelles"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868551047333244928",
+        "text": "En fin d'après-midi, mobilisation pour sauver la bibliothèque Marguerite Durand #legislatives2017 #paris13 #DroitsDesFemmes https://t.co/VzowFsrxAV",
+        "created_at": "2017-05-27 19:34:41+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868551025569005568"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868551047333244928,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 97,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 98,
+                    "end": 106,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 107,
+                    "end": 123,
+                    "tag": "DroitsDesFemmes"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 124,
+                    "end": 147,
+                    "url": "https://t.co/VzowFsrxAV",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868551047333244928/photo/1",
+                    "display_url": "pic.twitter.com/VzowFsrxAV",
+                    "media_key": "3_868551025569005568"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868505971986923522",
+        "text": "#Egalité #salaires #DroitsDesFemmes #legislatives2017 #paris13 https://t.co/HtkHF6083z",
+        "created_at": "2017-05-27 16:35:34+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868505906857865216"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868505971986923522,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "tag": "Egalité"
+                },
+                {
+                    "start": 9,
+                    "end": 18,
+                    "tag": "salaires"
+                },
+                {
+                    "start": 19,
+                    "end": 35,
+                    "tag": "DroitsDesFemmes"
+                },
+                {
+                    "start": 36,
+                    "end": 53,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 54,
+                    "end": 62,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/HtkHF6083z",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868505971986923522/photo/1",
+                    "display_url": "pic.twitter.com/HtkHF6083z",
+                    "media_key": "3_868505906857865216"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868380585546350592",
+        "text": "#legislatives2017  déjà du monde au marché Vincent Auriol https://t.co/MkD38sdeb0",
+        "created_at": "2017-05-27 08:17:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868380583134732288"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868380585546350592,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/MkD38sdeb0",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868380585546350592/photo/1",
+                    "display_url": "pic.twitter.com/MkD38sdeb0",
+                    "media_key": "3_868380583134732288"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868230305269862400",
+        "text": "#legislatives2017  Encore de bonnes discussions ce soir avenue de France https://t.co/Bi7O3P4JxY",
+        "created_at": "2017-05-26 22:20:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868230092559986692"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 868230305269862400,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/Bi7O3P4JxY",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868230305269862400/photo/1",
+                    "display_url": "pic.twitter.com/Bi7O3P4JxY",
+                    "media_key": "3_868230092559986692"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868177229708238848",
+        "text": "Toutes &amp; tous demain au Métro Olympiades à 17h pour défendre la bibliothèque Marguerite Durand ! #paris13 #DroitDesFemmes #BMB",
+        "created_at": "2017-05-26 18:49:16+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868177229708238848,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 109,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 110,
+                    "end": 125,
+                    "tag": "DroitDesFemmes"
+                },
+                {
+                    "start": 126,
+                    "end": 130,
+                    "tag": "BMB"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868142611965628416",
+        "text": "#legislatives2017 #paris13 #Sante #Infirmiere https://t.co/aXhPowtm7t",
+        "created_at": "2017-05-26 16:31:42+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868142439432941568"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868142611965628416,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "tag": "Sante"
+                },
+                {
+                    "start": 34,
+                    "end": 45,
+                    "tag": "Infirmiere"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/aXhPowtm7t",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868142611965628416/photo/1",
+                    "display_url": "pic.twitter.com/aXhPowtm7t",
+                    "media_key": "3_868142439432941568"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868088223280529408",
+        "text": "Ce matin à Masséna #paris13 #legislatives2017 https://t.co/9x4xHjsgiM",
+        "created_at": "2017-05-26 12:55:35+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868088217341501440",
+                "3_868088220436885504"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 868088223280529408,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 27,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 28,
+                    "end": 45,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/9x4xHjsgiM",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868088223280529408/photo/1",
+                    "display_url": "pic.twitter.com/9x4xHjsgiM",
+                    "media_key": "3_868088217341501440"
+                },
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/9x4xHjsgiM",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/868088223280529408/photo/1",
+                    "display_url": "pic.twitter.com/9x4xHjsgiM",
+                    "media_key": "3_868088220436885504"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867843201629114368",
+        "text": "#legislatives2017 Encore une belle journée à l'écoute des habitants du 13e avec ma remplaçante @LeaBarrere. Merci à tous nos militants!",
+        "created_at": "2017-05-25 20:41:57+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867843201629114368,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 95,
+                    "end": 106,
+                    "username": "LeaBarrere",
+                    "id": "3371564037"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867779058364493826",
+        "text": "#législatives2017 #paris13 #proximité #artisan #commerce https://t.co/87Kgqn58Lt",
+        "created_at": "2017-05-25 16:27:04+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867778883629846528"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867779058364493826,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "législatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "paris13"
+                },
+                {
+                    "start": 27,
+                    "end": 37,
+                    "tag": "proximité"
+                },
+                {
+                    "start": 38,
+                    "end": 46,
+                    "tag": "artisan"
+                },
+                {
+                    "start": 47,
+                    "end": 56,
+                    "tag": "commerce"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/87Kgqn58Lt",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/867779058364493826/photo/1",
+                    "display_url": "pic.twitter.com/87Kgqn58Lt",
+                    "media_key": "3_867778883629846528"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867777200329818112",
+        "text": "Ambiance estivale ce matin au marché Jeanne d'Arc ! #legislatives2017 #paris13 https://t.co/1rXQTVJI3s",
+        "created_at": "2017-05-25 16:19:41+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867776692877766659"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867777200329818112,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 69,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 70,
+                    "end": 78,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/1rXQTVJI3s",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/867777200329818112/photo/1",
+                    "display_url": "pic.twitter.com/1rXQTVJI3s",
+                    "media_key": "3_867776692877766659"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867450418703597568",
+        "text": "A la rencontre des habitants du quartier Choisy-Tolbiac, des échanges riches et sympathiques! https://t.co/QlEo7IdNNn",
+        "created_at": "2017-05-24 18:41:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867450342438572032"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867450418703597568,
+        "entities": {
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/QlEo7IdNNn",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/867450418703597568/photo/1",
+                    "display_url": "pic.twitter.com/QlEo7IdNNn",
+                    "media_key": "3_867450342438572032"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867406346890686464",
+        "text": "#priorités #EducatiionNationale #législatives2017 #paris13 https://t.co/zSMdYqmPbb",
+        "created_at": "2017-05-24 15:46:03+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867406197137305600"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867406346890686464,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "priorités"
+                },
+                {
+                    "start": 11,
+                    "end": 31,
+                    "tag": "EducatiionNationale"
+                },
+                {
+                    "start": 32,
+                    "end": 49,
+                    "tag": "législatives2017"
+                },
+                {
+                    "start": 50,
+                    "end": 58,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/zSMdYqmPbb",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/867406346890686464/photo/1",
+                    "display_url": "pic.twitter.com/zSMdYqmPbb",
+                    "media_key": "3_867406197137305600"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867049534282768384",
+        "text": "#gouvernement #legislatives2017 #paris13 https://t.co/focr4llrpI",
+        "created_at": "2017-05-23 16:08:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867048712480186373"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 867049534282768384,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "tag": "gouvernement"
+                },
+                {
+                    "start": 14,
+                    "end": 31,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 32,
+                    "end": 40,
+                    "tag": "paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/focr4llrpI",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/867049534282768384/photo/1",
+                    "display_url": "pic.twitter.com/focr4llrpI",
+                    "media_key": "3_867048712480186373"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866887836594827264",
+        "text": "@ktourmente Si c'est un attentat, en voici: soutien aux victimes et familles, horreur/sauvagerie, révolte contre inacceptable  #ManchesterArenaBlast",
+        "created_at": "2017-05-23 05:25:40+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 866884250414534657,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 127,
+                    "end": 148,
+                    "tag": "ManchesterArenaBlast"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "ktourmente",
+                    "id": "49065228"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 49065228,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866884936627884032",
+        "text": "All my thoughts to the victims and their families #ManchesterArena",
+        "created_at": "2017-05-23 05:14:09+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 866884936627884032,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 50,
+                    "end": 66,
+                    "tag": "ManchesterArena"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866691473735077890",
+        "text": "#legislatives2017 #Paris13 https://t.co/PBJ6mVZVkH",
+        "created_at": "2017-05-22 16:25:24+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866691388288663553"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 866691473735077890,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "Paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 27,
+                    "end": 50,
+                    "url": "https://t.co/PBJ6mVZVkH",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/866691473735077890/photo/1",
+                    "display_url": "pic.twitter.com/PBJ6mVZVkH",
+                    "media_key": "3_866691388288663553"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "866239726533128193",
+        "text": "Une partie de l'équipe sous le soleil et avec le sourire au marché Jeanne d'Arc https://t.co/8wWcwV4MHK",
+        "created_at": "2017-05-21 10:30:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866239709835649024"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 866239726533128193,
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/8wWcwV4MHK",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/866239726533128193/photo/1",
+                    "display_url": "pic.twitter.com/8wWcwV4MHK",
+                    "media_key": "3_866239709835649024"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865973017112870912",
+        "text": "RT @LeaBarrere: Salon Afrique Unie dans le 13e et on oublie pas La campagne #Stibbe2017 https://t.co/8hLPwxlK8e",
+        "created_at": "2017-05-20 16:50:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865958842189963265",
+                "3_865958842265415680",
+                "3_865958842185781249",
+                "3_865958842194161669"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "864921776123293696",
+                    "name": "Africa",
+                    "description": "Africa"
+                }
+            }
+        ],
+        "conversation_id": 865973017112870912,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 87,
+                    "tag": "Stibbe2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/8hLPwxlK8e",
+                    "expanded_url": "https://twitter.com/LeaBarrere/status/865958854290542592/photo/1",
+                    "display_url": "pic.twitter.com/8hLPwxlK8e",
+                    "media_key": "3_865958842189963265"
+                },
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/8hLPwxlK8e",
+                    "expanded_url": "https://twitter.com/LeaBarrere/status/865958854290542592/photo/1",
+                    "display_url": "pic.twitter.com/8hLPwxlK8e",
+                    "media_key": "3_865958842265415680"
+                },
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/8hLPwxlK8e",
+                    "expanded_url": "https://twitter.com/LeaBarrere/status/865958854290542592/photo/1",
+                    "display_url": "pic.twitter.com/8hLPwxlK8e",
+                    "media_key": "3_865958842185781249"
+                },
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/8hLPwxlK8e",
+                    "expanded_url": "https://twitter.com/LeaBarrere/status/865958854290542592/photo/1",
+                    "display_url": "pic.twitter.com/8hLPwxlK8e",
+                    "media_key": "3_865958842194161669"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "LeaBarrere",
+                    "id": "3371564037"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865946811562852353",
+        "text": "Beau début de campagne avec ma remplaçante Léa Barrère au marché Vincent Auriol : merci à ceux qui nous aident à défendre nos valeurs ! https://t.co/gxl0sxiIRz",
+        "created_at": "2017-05-20 15:06:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865946640145895428",
+                "3_865946640229834752"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865946811562852353,
+        "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/gxl0sxiIRz",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/865946811562852353/photo/1",
+                    "display_url": "pic.twitter.com/gxl0sxiIRz",
+                    "media_key": "3_865946640145895428"
+                },
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/gxl0sxiIRz",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/865946811562852353/photo/1",
+                    "display_url": "pic.twitter.com/gxl0sxiIRz",
+                    "media_key": "3_865946640229834752"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865932989074726916",
+        "text": "Merci @MarieClaudePer7 pour ton aide précieuse et ton soutien ! #legislatives2017 #Paris13 https://t.co/BjdQHGzgS6",
+        "created_at": "2017-05-20 14:11:27+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865932989074726916,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 64,
+                    "end": 81,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 82,
+                    "end": 90,
+                    "tag": "Paris13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/BjdQHGzgS6",
+                    "expanded_url": "https://twitter.com/MarieClaudePer7/status/865928938257870848",
+                    "display_url": "twitter.com/MarieClaudePer…"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 6,
+                    "end": 22,
+                    "username": "MarieClaudePer7",
+                    "id": "716977860985139200"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865922895968710658",
+        "text": "Merci ! https://t.co/JCpqcDeFjT",
+        "created_at": "2017-05-20 13:31:21+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865922895968710658,
+        "entities": {
+            "urls": [
+                {
+                    "start": 8,
+                    "end": 31,
+                    "url": "https://t.co/JCpqcDeFjT",
+                    "expanded_url": "https://twitter.com/vaudourv/status/865893599157899264",
+                    "display_url": "twitter.com/vaudourv/statu…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865922774816231424",
+        "text": "RT @LeaBarrere: Première opération le marché Auriol ce matin, bon contact avec les habitants du 13e, le plaisir de retrouver le terrain htt…",
+        "created_at": "2017-05-20 13:30:52+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865922774816231424,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "LeaBarrere",
+                    "id": "3371564037"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "865650515023077376",
+        "text": "Tracts reçus ! Dans la #9ecircoParis dès demain matin à la rencontre des hab. du 13e avec @LeaBarrere et nos équipes ! #legislatives2017 https://t.co/ylcmRMrw2s",
+        "created_at": "2017-05-19 19:29:00+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865650510065315840"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865650515023077376,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 23,
+                    "end": 36,
+                    "tag": "9ecircoParis"
+                },
+                {
+                    "start": 119,
+                    "end": 136,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/ylcmRMrw2s",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/865650515023077376/photo/1",
+                    "display_url": "pic.twitter.com/ylcmRMrw2s",
+                    "media_key": "3_865650510065315840"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 90,
+                    "end": 101,
+                    "username": "LeaBarrere",
+                    "id": "3371564037"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865233344757469184",
+        "text": "Candidature déposée avec ma remplaçante Léa Barrère: une équipe battante qui ne restera pas sur le banc de touche! https://t.co/FxG7MPepVC",
+        "created_at": "2017-05-18 15:51:19+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_865233314894028800"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 865233344757469184,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/FxG7MPepVC",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/865233344757469184/photo/1",
+                    "display_url": "pic.twitter.com/FxG7MPepVC",
+                    "media_key": "3_865233314894028800"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "863837382969352193",
+        "text": "Belle journée festive pour ce SamakiDay 2017, avec des jeunes unis dans des actions solidaires au Cambodge, notamment pour l'éducation. https://t.co/6EUeOZQGcv",
+        "created_at": "2017-05-14 19:24:16+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_863837106631843844"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 863837382969352193,
+        "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/6EUeOZQGcv",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/863837382969352193/photo/1",
+                    "display_url": "pic.twitter.com/6EUeOZQGcv",
+                    "media_key": "3_863837106631843844"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "863059331985682433",
+        "text": "RT @nathalietortrat: Journée internationale des infirmières et infirmiers. Merci à eux pour leur engagement au quotidien, au côté des malad…",
+        "created_at": "2017-05-12 15:52:34+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 863059331985682433,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "nathalietortrat",
+                    "id": "81319400"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "863058573886148608",
+        "text": "RT @France3Paris: EN IMAGES : le concours de façades, à l’origine de chefs d’œuvre d’#ArtNouveau, fait son retour à Paris https://t.co/FC4R…",
+        "created_at": "2017-05-12 15:49:33+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 863058573886148608,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 85,
+                    "end": 96,
+                    "tag": "ArtNouveau"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "France3Paris",
+                    "id": "82115310"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861843683502682112",
+        "text": "Journée de l'Europe : Ode à la Joie! A la joie de fêter l'union et d'avoir vaincu ses poisons, la haine et l'intolérance. https://t.co/Y3M1cBcDK9",
+        "created_at": "2017-05-09 07:22:01+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861843660417138688"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 861843683502682112,
+        "entities": {
+            "urls": [
+                {
+                    "start": 122,
+                    "end": 145,
+                    "url": "https://t.co/Y3M1cBcDK9",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/861843683502682112/photo/1",
+                    "display_url": "pic.twitter.com/Y3M1cBcDK9",
+                    "media_key": "3_861843660417138688"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "861614728493363200",
+        "text": "Un 8 mai porteur de messages de fraternité pour les enfants du 13e conviés à la cérémonie et qui construiront l'Histoire de demain. https://t.co/Tokpn6vo8i",
+        "created_at": "2017-05-08 16:12:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861614262632017921"
+            ]
+        },
+        "author_id": 105209550,
+        "context_annotations": [],
+        "conversation_id": 861614728493363200,
+        "entities": {
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/Tokpn6vo8i",
+                    "expanded_url": "https://twitter.com/E_STIBBE/status/861614728493363200/photo/1",
+                    "display_url": "pic.twitter.com/Tokpn6vo8i",
+                    "media_key": "3_861614262632017921"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "856401113477787648",
+        "text": "RT @LesCentristes_: #présidentielle - réaction d' @Herve_Morin : \"J’appelle la grande famille centriste à s’unir franchement et massivement…",
+        "created_at": "2017-04-24 06:55:11+00:00",
+        "attachments": null,
+        "author_id": 105209550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856401113477787648,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 35,
+                    "tag": "présidentielle"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "LesCentristes_",
+                    "id": "34224009"
+                },
+                {
+                    "start": 50,
+                    "end": 62,
+                    "username": "Herve_Morin",
+                    "id": "34225599"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
     }
 ]

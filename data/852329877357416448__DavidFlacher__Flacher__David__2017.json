@@ -1,0 +1,369 @@
+[
+    {
+        "id": "873164518742011904",
+        "text": "RT @SolenneBoiziau: En route pour le #FearlessCities à #Barcelone !\n@EnComuBarcelona @commonspolis \n@MouvementUtopia  #DémocratieLocale htt…",
+        "created_at": "2017-06-09 13:06:58+00:00",
+        "attachments": null,
+        "author_id": 852329877357416448,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855416051793674240",
+                    "name": "Barcelona",
+                    "description": "Barcelona"
+                }
+            }
+        ],
+        "conversation_id": 873164518742011904,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 37,
+                    "end": 52,
+                    "tag": "FearlessCities"
+                },
+                {
+                    "start": 55,
+                    "end": 65,
+                    "tag": "Barcelone"
+                },
+                {
+                    "start": 118,
+                    "end": 135,
+                    "tag": "DémocratieLocale"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "SolenneBoiziau",
+                    "id": "2375601996"
+                },
+                {
+                    "start": 68,
+                    "end": 84,
+                    "username": "EnComuBarcelona",
+                    "id": "3025683243"
+                },
+                {
+                    "start": 85,
+                    "end": 98,
+                    "username": "commonspolis",
+                    "id": "822054872203882497"
+                },
+                {
+                    "start": 100,
+                    "end": 116,
+                    "username": "MouvementUtopia",
+                    "id": "569140565"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872841026431537152",
+        "text": "Le candidat EM du 13ème visé par une plainte pour détournement de fonds! @DemainEnCommun l'alternative citoyenne!\nhttps://t.co/pcCUgNkaX2",
+        "created_at": "2017-06-08 15:41:31+00:00",
+        "attachments": null,
+        "author_id": 852329877357416448,
+        "context_annotations": [],
+        "conversation_id": 872841026431537152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 73,
+                    "end": 88,
+                    "username": "demainencommun",
+                    "id": "1296305944012500992"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/pcCUgNkaX2",
+                    "expanded_url": "https://goo.gl/PS95eO",
+                    "display_url": "goo.gl/PS95eO"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872519716031561728",
+        "text": "RT @ONU_France: .@AminaJMohammed vice SG de l'#ONU souligne les \"avancées de l'EU\" pour le #DeveloppementDurable, appelle à renforcer la #s…",
+        "created_at": "2017-06-07 18:24:45+00:00",
+        "attachments": null,
+        "author_id": 852329877357416448,
+        "context_annotations": [],
+        "conversation_id": 872519716031561728,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 50,
+                    "tag": "ONU"
+                },
+                {
+                    "start": 91,
+                    "end": 112,
+                    "tag": "DeveloppementDurable"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "ONU_France",
+                    "id": "626897187"
+                },
+                {
+                    "start": 17,
+                    "end": 32,
+                    "username": "AminaJMohammed",
+                    "id": "3066095291"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872369421444149250",
+        "text": "Découvrez notre mouvement et nos candidats pour les législatives 2017 sur demainencommun.fr  ! @DemainEnCommun",
+        "created_at": "2017-06-07 08:27:32+00:00",
+        "attachments": null,
+        "author_id": 852329877357416448,
+        "context_annotations": [],
+        "conversation_id": 872369421444149250,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 95,
+                    "end": 110,
+                    "username": "demainencommun",
+                    "id": "1296305944012500992"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "f3bfc7dcc928977f"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872369006925185024",
+        "text": "https://t.co/uhsOitmM5E",
+        "created_at": "2017-06-07 08:25:53+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872368982287933441"
+            ]
+        },
+        "author_id": 852329877357416448,
+        "context_annotations": [],
+        "conversation_id": 872369006925185024,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/uhsOitmM5E",
+                    "expanded_url": "https://twitter.com/DavidFlacher/status/872369006925185024/photo/1",
+                    "display_url": "pic.twitter.com/uhsOitmM5E",
+                    "media_key": "3_872368982287933441"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "41366b2dd544d68f"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872368966693531649",
+        "text": "https://t.co/fSGl3MYs2a",
+        "created_at": "2017-06-07 08:25:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872368937400446976"
+            ]
+        },
+        "author_id": 852329877357416448,
+        "context_annotations": [],
+        "conversation_id": 872368966693531649,
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/fSGl3MYs2a",
+                    "expanded_url": "https://twitter.com/DavidFlacher/status/872368966693531649/photo/1",
+                    "display_url": "pic.twitter.com/fSGl3MYs2a",
+                    "media_key": "3_872368937400446976"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "f3bfc7dcc928977f"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "872363205686853632",
+        "text": "RT @RACFrance: .@greenpeacefr et @fondationhulot ont posé des questions sur la stratégie d' #EDF. Pas de réponse de @EmmanuelMacron",
+        "created_at": "2017-06-07 08:02:50+00:00",
+        "attachments": null,
+        "author_id": 852329877357416448,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 872363205686853632,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 96,
+                    "tag": "EDF"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "RACFrance",
+                    "id": "478448085"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "greenpeacefr",
+                    "id": "4008771"
+                },
+                {
+                    "start": 33,
+                    "end": 48,
+                    "username": "fondationhulot",
+                    "id": "890653759600304129"
+                },
+                {
+                    "start": 116,
+                    "end": 131,
+                    "username": "EmmanuelMacron",
+                    "id": "1976143068"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

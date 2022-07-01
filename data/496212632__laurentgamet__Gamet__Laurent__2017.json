@@ -12,16 +12,6 @@
         "context_annotations": [],
         "conversation_id": 873182026391846914,
         "entities": {
-            "urls": [
-                {
-                    "start": 100,
-                    "end": 123,
-                    "url": "https://t.co/hippLVkYCI",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/873182026391846914/video/1",
-                    "display_url": "pic.twitter.com/hippLVkYCI",
-                    "media_key": "7_873179807634399232"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 58,
@@ -37,6 +27,16 @@
                     "start": 87,
                     "end": 99,
                     "tag": "JeVoteGamet"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/hippLVkYCI",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/873182026391846914/video/1",
+                    "display_url": "pic.twitter.com/hippLVkYCI",
+                    "media_key": "7_873179807634399232"
                 }
             ]
         },
@@ -177,16 +177,6 @@
         "context_annotations": [],
         "conversation_id": 872855417604501504,
         "entities": {
-            "urls": [
-                {
-                    "start": 73,
-                    "end": 96,
-                    "url": "https://t.co/qyKRPKtaOk",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872855417604501504/video/1",
-                    "display_url": "pic.twitter.com/qyKRPKtaOk",
-                    "media_key": "7_872853439042244610"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -202,6 +192,16 @@
                     "start": 55,
                     "end": 72,
                     "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/qyKRPKtaOk",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872855417604501504/video/1",
+                    "display_url": "pic.twitter.com/qyKRPKtaOk",
+                    "media_key": "7_872853439042244610"
                 }
             ]
         },
@@ -234,16 +234,6 @@
         "context_annotations": [],
         "conversation_id": 872848493899132929,
         "entities": {
-            "urls": [
-                {
-                    "start": 77,
-                    "end": 100,
-                    "url": "https://t.co/JjUntk53hT",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872848493899132929/photo/1",
-                    "display_url": "pic.twitter.com/JjUntk53hT",
-                    "media_key": "3_872848461741404160"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 37,
@@ -259,6 +249,16 @@
                     "start": 59,
                     "end": 76,
                     "tag": "legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/JjUntk53hT",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872848493899132929/photo/1",
+                    "display_url": "pic.twitter.com/JjUntk53hT",
+                    "media_key": "3_872848461741404160"
                 }
             ]
         },
@@ -365,16 +365,6 @@
         "context_annotations": [],
         "conversation_id": 872726103772856320,
         "entities": {
-            "urls": [
-                {
-                    "start": 136,
-                    "end": 159,
-                    "url": "https://t.co/Kk5iGn8Cnj",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872726103772856320/photo/1",
-                    "display_url": "pic.twitter.com/Kk5iGn8Cnj",
-                    "media_key": "3_872726023263186944"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 32,
@@ -395,6 +385,16 @@
                     "start": 125,
                     "end": 135,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/Kk5iGn8Cnj",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872726103772856320/photo/1",
+                    "display_url": "pic.twitter.com/Kk5iGn8Cnj",
+                    "media_key": "3_872726023263186944"
                 }
             ]
         },
@@ -460,16 +460,6 @@
         "context_annotations": [],
         "conversation_id": 872463893163061248,
         "entities": {
-            "urls": [
-                {
-                    "start": 70,
-                    "end": 93,
-                    "url": "https://t.co/4B70xpIjEe",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872463893163061248/video/1",
-                    "display_url": "pic.twitter.com/4B70xpIjEe",
-                    "media_key": "7_872462387139547136"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 41,
@@ -480,6 +470,16 @@
                     "start": 59,
                     "end": 69,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/4B70xpIjEe",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872463893163061248/video/1",
+                    "display_url": "pic.twitter.com/4B70xpIjEe",
+                    "media_key": "7_872462387139547136"
                 }
             ]
         },
@@ -508,15 +508,6 @@
         "context_annotations": [],
         "conversation_id": 872463611385532416,
         "entities": {
-            "urls": [
-                {
-                    "start": 70,
-                    "end": 93,
-                    "url": "https://t.co/p0iLVTsJOb",
-                    "expanded_url": "http://fb.me/BVZYDbxK",
-                    "display_url": "fb.me/BVZYDbxK"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 41,
@@ -527,6 +518,15 @@
                     "start": 59,
                     "end": 69,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/p0iLVTsJOb",
+                    "expanded_url": "http://fb.me/BVZYDbxK",
+                    "display_url": "fb.me/BVZYDbxK"
                 }
             ]
         },
@@ -639,6 +639,13 @@
         "context_annotations": [],
         "conversation_id": 872174278329987072,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 156,
+                    "end": 166,
+                    "tag": "Circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 13,
@@ -657,13 +664,6 @@
                     "end": 109,
                     "username": "GillesLeGendre",
                     "id": "843748232"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 156,
-                    "end": 166,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -694,16 +694,6 @@
         "context_annotations": [],
         "conversation_id": 872358900015796227,
         "entities": {
-            "urls": [
-                {
-                    "start": 99,
-                    "end": 122,
-                    "url": "https://t.co/XZgEpGZaPs",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872358900015796227/photo/1",
-                    "display_url": "pic.twitter.com/XZgEpGZaPs",
-                    "media_key": "3_872358812447125506"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 32,
@@ -724,6 +714,16 @@
                     "start": 88,
                     "end": 98,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/XZgEpGZaPs",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872358900015796227/photo/1",
+                    "display_url": "pic.twitter.com/XZgEpGZaPs",
+                    "media_key": "3_872358812447125506"
                 }
             ]
         },
@@ -874,6 +874,13 @@
         "context_annotations": [],
         "conversation_id": 872105159555510277,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "tag": "NotreDame"
+                }
+            ],
             "urls": [
                 {
                     "start": 87,
@@ -882,13 +889,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/872105159555510277/video/1",
                     "display_url": "pic.twitter.com/jGuoGekgGr",
                     "media_key": "7_872103760629301249"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 10,
-                    "end": 20,
-                    "tag": "NotreDame"
                 }
             ]
         },
@@ -1014,24 +1014,6 @@
         "context_annotations": [],
         "conversation_id": 872086328892108800,
         "entities": {
-            "urls": [
-                {
-                    "start": 137,
-                    "end": 160,
-                    "url": "https://t.co/F3LMF3GPY7",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/872086328892108800/video/1",
-                    "display_url": "pic.twitter.com/F3LMF3GPY7",
-                    "media_key": "7_872084164618727425"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 11,
-                    "end": 26,
-                    "username": "GillesLeGendre",
-                    "id": "843748232"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -1042,6 +1024,24 @@
                     "start": 126,
                     "end": 136,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 11,
+                    "end": 26,
+                    "username": "GillesLeGendre",
+                    "id": "843748232"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/F3LMF3GPY7",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/872086328892108800/video/1",
+                    "display_url": "pic.twitter.com/F3LMF3GPY7",
+                    "media_key": "7_872084164618727425"
                 }
             ]
         },
@@ -1075,6 +1075,18 @@
         "context_annotations": [],
         "conversation_id": 872027510082605058,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 29,
+                    "tag": "écologiste"
+                },
+                {
+                    "start": 130,
+                    "end": 140,
+                    "tag": "Circo7502"
+                }
+            ],
             "urls": [
                 {
                     "start": 141,
@@ -1091,18 +1103,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/872027510082605058/photo/1",
                     "display_url": "pic.twitter.com/FDzNPM6S3D",
                     "media_key": "3_872027471570403329"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 18,
-                    "end": 29,
-                    "tag": "écologiste"
-                },
-                {
-                    "start": 130,
-                    "end": 140,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -1173,16 +1173,6 @@
         "context_annotations": [],
         "conversation_id": 871801045789364224,
         "entities": {
-            "urls": [
-                {
-                    "start": 112,
-                    "end": 135,
-                    "url": "https://t.co/IMw3nys7pF",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/871801045789364224/photo/1",
-                    "display_url": "pic.twitter.com/IMw3nys7pF",
-                    "media_key": "3_871801025870561285"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 70,
@@ -1198,6 +1188,16 @@
                     "start": 101,
                     "end": 111,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/IMw3nys7pF",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/871801045789364224/photo/1",
+                    "display_url": "pic.twitter.com/IMw3nys7pF",
+                    "media_key": "3_871801025870561285"
                 }
             ]
         },
@@ -1226,14 +1226,6 @@
         "context_annotations": [],
         "conversation_id": 871795650475823105,
         "entities": {
-            "mentions": [
-                {
-                    "start": 14,
-                    "end": 27,
-                    "username": "YvesGernigon",
-                    "id": "557462852"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 77,
@@ -1244,6 +1236,14 @@
                     "start": 126,
                     "end": 137,
                     "tag": "CircoExt05"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "YvesGernigon",
+                    "id": "557462852"
                 }
             ]
         },
@@ -1272,6 +1272,18 @@
         "context_annotations": [],
         "conversation_id": 871768097157414912,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 90,
+                    "end": 100,
+                    "tag": "Circo7502"
+                },
+                {
+                    "start": 101,
+                    "end": 118,
+                    "tag": "legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -1284,18 +1296,6 @@
                     "end": 89,
                     "username": "PartiPAN_France",
                     "id": "736957224682192896"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 90,
-                    "end": 100,
-                    "tag": "Circo7502"
-                },
-                {
-                    "start": 101,
-                    "end": 118,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -1380,24 +1380,6 @@
         "context_annotations": [],
         "conversation_id": 871417160517787648,
         "entities": {
-            "urls": [
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/bDxJs8mxbm",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/871417160517787648/video/1",
-                    "display_url": "pic.twitter.com/bDxJs8mxbm",
-                    "media_key": "7_871415930299056128"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 118,
-                    "end": 134,
-                    "username": "PartiPAN_France",
-                    "id": "736957224682192896"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 90,
@@ -1408,6 +1390,24 @@
                     "start": 108,
                     "end": 117,
                     "tag": "Circ7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 118,
+                    "end": 134,
+                    "username": "PartiPAN_France",
+                    "id": "736957224682192896"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/bDxJs8mxbm",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/871417160517787648/video/1",
+                    "display_url": "pic.twitter.com/bDxJs8mxbm",
+                    "media_key": "7_871415930299056128"
                 }
             ]
         },
@@ -1440,24 +1440,6 @@
         "context_annotations": [],
         "conversation_id": 871329711275864064,
         "entities": {
-            "urls": [
-                {
-                    "start": 106,
-                    "end": 129,
-                    "url": "https://t.co/7MjAdDYnLX",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/871329711275864064/video/1",
-                    "display_url": "pic.twitter.com/7MjAdDYnLX",
-                    "media_key": "7_871327560050896896"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 75,
-                    "end": 91,
-                    "username": "PartiPAN_France",
-                    "id": "736957224682192896"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 45,
@@ -1468,6 +1450,24 @@
                     "start": 64,
                     "end": 74,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 91,
+                    "username": "PartiPAN_France",
+                    "id": "736957224682192896"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/7MjAdDYnLX",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/871329711275864064/video/1",
+                    "display_url": "pic.twitter.com/7MjAdDYnLX",
+                    "media_key": "7_871327560050896896"
                 }
             ]
         },
@@ -1501,6 +1501,23 @@
         "context_annotations": [],
         "conversation_id": 870997006541619201,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "tag": "ExpoRodin"
+                },
+                {
+                    "start": 81,
+                    "end": 98,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 99,
+                    "end": 109,
+                    "tag": "Circo7502"
+                }
+            ],
             "urls": [
                 {
                     "start": 110,
@@ -1517,23 +1534,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/870997006541619201/photo/1",
                     "display_url": "pic.twitter.com/MhKqqeFMqd",
                     "media_key": "3_870996980696309760"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 10,
-                    "end": 20,
-                    "tag": "ExpoRodin"
-                },
-                {
-                    "start": 81,
-                    "end": 98,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 99,
-                    "end": 109,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -1568,6 +1568,18 @@
         "context_annotations": [],
         "conversation_id": 870962890790096896,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 92,
+                    "tag": "Circo7502"
+                },
+                {
+                    "start": 93,
+                    "end": 110,
+                    "tag": "legislatives2017"
+                }
+            ],
             "urls": [
                 {
                     "start": 111,
@@ -1592,18 +1604,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/870962890790096896/photo/1",
                     "display_url": "pic.twitter.com/xcMkMZGOTR",
                     "media_key": "3_870962861534785536"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 82,
-                    "end": 92,
-                    "tag": "Circo7502"
-                },
-                {
-                    "start": 93,
-                    "end": 110,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -1737,24 +1737,6 @@
         ],
         "conversation_id": 870680996684759041,
         "entities": {
-            "urls": [
-                {
-                    "start": 109,
-                    "end": 132,
-                    "url": "https://t.co/QDrBSAASsV",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/870680996684759041/photo/1",
-                    "display_url": "pic.twitter.com/QDrBSAASsV",
-                    "media_key": "3_870680969778475008"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 92,
-                    "end": 108,
-                    "username": "LesFederalistes",
-                    "id": "31413954"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 27,
@@ -1780,6 +1762,24 @@
                     "start": 81,
                     "end": 91,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 108,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/QDrBSAASsV",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/870680996684759041/photo/1",
+                    "display_url": "pic.twitter.com/QDrBSAASsV",
+                    "media_key": "3_870680969778475008"
                 }
             ]
         },
@@ -1825,24 +1825,6 @@
         ],
         "conversation_id": 870680538352197633,
         "entities": {
-            "urls": [
-                {
-                    "start": 116,
-                    "end": 139,
-                    "url": "https://t.co/F6SFA95pbZ",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/870680538352197633/photo/1",
-                    "display_url": "pic.twitter.com/F6SFA95pbZ",
-                    "media_key": "3_870680519456903169"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 99,
-                    "end": 115,
-                    "username": "LesFederalistes",
-                    "id": "31413954"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 27,
@@ -1858,6 +1840,24 @@
                     "start": 88,
                     "end": 98,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 115,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/F6SFA95pbZ",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/870680538352197633/photo/1",
+                    "display_url": "pic.twitter.com/F6SFA95pbZ",
+                    "media_key": "3_870680519456903169"
                 }
             ]
         },
@@ -1966,24 +1966,6 @@
         ],
         "conversation_id": 870659010416058369,
         "entities": {
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/GoGpFlWt5M",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/870659010416058369/photo/1",
-                    "display_url": "pic.twitter.com/GoGpFlWt5M",
-                    "media_key": "3_870659000433606656"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 122,
-                    "end": 138,
-                    "username": "LesFederalistes",
-                    "id": "31413954"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 27,
@@ -2004,6 +1986,24 @@
                     "start": 111,
                     "end": 121,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 122,
+                    "end": 138,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/GoGpFlWt5M",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/870659010416058369/photo/1",
+                    "display_url": "pic.twitter.com/GoGpFlWt5M",
+                    "media_key": "3_870659000433606656"
                 }
             ]
         },
@@ -2049,24 +2049,6 @@
         ],
         "conversation_id": 870616181492920320,
         "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/skhXdSq3Qg",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/870616181492920320/photo/1",
-                    "display_url": "pic.twitter.com/skhXdSq3Qg",
-                    "media_key": "3_870616169337802753"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 73,
-                    "end": 89,
-                    "username": "LesFederalistes",
-                    "id": "31413954"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 112,
@@ -2077,6 +2059,24 @@
                     "start": 123,
                     "end": 140,
                     "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 73,
+                    "end": 89,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/skhXdSq3Qg",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/870616181492920320/photo/1",
+                    "display_url": "pic.twitter.com/skhXdSq3Qg",
+                    "media_key": "3_870616169337802753"
                 }
             ]
         },
@@ -2105,29 +2105,6 @@
         "context_annotations": [],
         "conversation_id": 870572181629140992,
         "entities": {
-            "urls": [
-                {
-                    "start": 90,
-                    "end": 113,
-                    "url": "https://t.co/SrSM55S9iJ",
-                    "expanded_url": "http://cancerspediatriques.fr/signer-charte",
-                    "display_url": "cancerspediatriques.fr/signer-charte"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 12,
-                    "username": "AssoACCL",
-                    "id": "3796268662"
-                },
-                {
-                    "start": 15,
-                    "end": 28,
-                    "username": "laurentgamet",
-                    "id": "496212632"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 40,
@@ -2154,6 +2131,29 @@
                     "end": 142,
                     "tag": "Circo7502"
                 }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "AssoACCL",
+                    "id": "3796268662"
+                },
+                {
+                    "start": 15,
+                    "end": 28,
+                    "username": "laurentgamet",
+                    "id": "496212632"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/SrSM55S9iJ",
+                    "expanded_url": "http://cancerspediatriques.fr/signer-charte",
+                    "display_url": "cancerspediatriques.fr/signer-charte"
+                }
             ]
         },
         "geo": null,
@@ -2179,15 +2179,6 @@
         "context_annotations": [],
         "conversation_id": 870556616998998016,
         "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/974sDBjXkb",
-                    "expanded_url": "https://twitter.com/LMPT75/status/870367450893873152",
-                    "display_url": "twitter.com/LMPT75/status/…"
-                }
-            ],
             "mentions": [
                 {
                     "start": 12,
@@ -2200,6 +2191,15 @@
                     "end": 140,
                     "username": "lerefuge",
                     "id": "162335425"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/974sDBjXkb",
+                    "expanded_url": "https://twitter.com/LMPT75/status/870367450893873152",
+                    "display_url": "twitter.com/LMPT75/status/…"
                 }
             ]
         },
@@ -2228,23 +2228,6 @@
         "context_annotations": [],
         "conversation_id": 870290911196008449,
         "entities": {
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/sqhixg58XM",
-                    "expanded_url": "http://www.cancerspediatriques.fr/signer-charte/",
-                    "display_url": "cancerspediatriques.fr/signer-charte/"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 100,
-                    "end": 116,
-                    "username": "partidesenfants",
-                    "id": "805422815360983040"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 71,
@@ -2255,6 +2238,23 @@
                     "start": 82,
                     "end": 99,
                     "tag": "Législatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 100,
+                    "end": 116,
+                    "username": "partidesenfants",
+                    "id": "805422815360983040"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/sqhixg58XM",
+                    "expanded_url": "http://www.cancerspediatriques.fr/signer-charte/",
+                    "display_url": "cancerspediatriques.fr/signer-charte/"
                 }
             ]
         },
@@ -2318,6 +2318,14 @@
         "context_annotations": [],
         "conversation_id": 870229739843276800,
         "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "InterLGBT",
+                    "id": "207692841"
+                }
+            ],
             "urls": [
                 {
                     "start": 12,
@@ -2326,14 +2334,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/870256764595392512/photo/1",
                     "display_url": "pic.twitter.com/aFcULKzbh8",
                     "media_key": "3_870256715136192513"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 10,
-                    "username": "InterLGBT",
-                    "id": "207692841"
                 }
             ]
         },
@@ -2360,6 +2360,23 @@
         "context_annotations": [],
         "conversation_id": 870256485980413953,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 62,
+                    "tag": "LGBTI"
+                },
+                {
+                    "start": 99,
+                    "end": 116,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 117,
+                    "end": 127,
+                    "tag": "Circo7501"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2378,23 +2395,6 @@
                     "end": 88,
                     "username": "InterLGBT",
                     "id": "207692841"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 56,
-                    "end": 62,
-                    "tag": "LGBTI"
-                },
-                {
-                    "start": 99,
-                    "end": 116,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 117,
-                    "end": 127,
-                    "tag": "Circo7501"
                 }
             ]
         },
@@ -2654,6 +2654,14 @@
         "context_annotations": [],
         "conversation_id": 870211106496794624,
         "entities": {
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 32,
+                    "username": "_LICRA_",
+                    "id": "194027573"
+                }
+            ],
             "urls": [
                 {
                     "start": 141,
@@ -2661,14 +2669,6 @@
                     "url": "https://t.co/RxiGA5JDgw",
                     "expanded_url": "https://twitter.com/_LICRA_/status/869567725525508096",
                     "display_url": "twitter.com/_LICRA_/status…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 24,
-                    "end": 32,
-                    "username": "_LICRA_",
-                    "id": "194027573"
                 }
             ]
         },
@@ -2701,16 +2701,6 @@
         "context_annotations": [],
         "conversation_id": 870179609337319424,
         "entities": {
-            "urls": [
-                {
-                    "start": 122,
-                    "end": 145,
-                    "url": "https://t.co/U0aiwfiwP3",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/870179609337319424/photo/1",
-                    "display_url": "pic.twitter.com/U0aiwfiwP3",
-                    "media_key": "3_870179580065329152"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 47,
@@ -2731,6 +2721,16 @@
                     "start": 114,
                     "end": 121,
                     "tag": "paris5"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 122,
+                    "end": 145,
+                    "url": "https://t.co/U0aiwfiwP3",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/870179609337319424/photo/1",
+                    "display_url": "pic.twitter.com/U0aiwfiwP3",
+                    "media_key": "3_870179580065329152"
                 }
             ]
         },
@@ -2795,30 +2795,6 @@
         "context_annotations": [],
         "conversation_id": 869914248356405248,
         "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/zblJ8YcPFq",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/869914248356405248/video/1",
-                    "display_url": "pic.twitter.com/zblJ8YcPFq",
-                    "media_key": "7_869911953594077184"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 93,
-                    "end": 100,
-                    "username": "bayrou",
-                    "id": "17211968"
-                },
-                {
-                    "start": 101,
-                    "end": 110,
-                    "username": "desarnez",
-                    "id": "303885267"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 64,
@@ -2849,6 +2825,30 @@
                     "start": 133,
                     "end": 140,
                     "tag": "paris7"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 100,
+                    "username": "bayrou",
+                    "id": "17211968"
+                },
+                {
+                    "start": 101,
+                    "end": 110,
+                    "username": "desarnez",
+                    "id": "303885267"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/zblJ8YcPFq",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/869914248356405248/video/1",
+                    "display_url": "pic.twitter.com/zblJ8YcPFq",
+                    "media_key": "7_869911953594077184"
                 }
             ]
         },
@@ -2940,23 +2940,6 @@
         ],
         "conversation_id": 869851742300770304,
         "entities": {
-            "urls": [
-                {
-                    "start": 108,
-                    "end": 131,
-                    "url": "https://t.co/eDdikmDBzJ",
-                    "expanded_url": "https://twitter.com/YvesGernigon/status/869846410438561792",
-                    "display_url": "twitter.com/YvesGernigon/s…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 24,
-                    "end": 37,
-                    "username": "YvesGernigon",
-                    "id": "557462852"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 57,
@@ -2967,6 +2950,23 @@
                     "start": 96,
                     "end": 107,
                     "tag": "CircoExt04"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "YvesGernigon",
+                    "id": "557462852"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/eDdikmDBzJ",
+                    "expanded_url": "https://twitter.com/YvesGernigon/status/869846410438561792",
+                    "display_url": "twitter.com/YvesGernigon/s…"
                 }
             ]
         },
@@ -3036,14 +3036,11 @@
         ],
         "conversation_id": 869808290661879808,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 134,
-                    "end": 157,
-                    "url": "https://t.co/Nq9LOmJfqh",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/869808290661879808/photo/1",
-                    "display_url": "pic.twitter.com/Nq9LOmJfqh",
-                    "media_key": "3_869808240875511808"
+                    "start": 123,
+                    "end": 133,
+                    "tag": "circo7502"
                 }
             ],
             "mentions": [
@@ -3060,11 +3057,14 @@
                     "id": "3074524457"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 123,
-                    "end": 133,
-                    "tag": "circo7502"
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/Nq9LOmJfqh",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/869808290661879808/photo/1",
+                    "display_url": "pic.twitter.com/Nq9LOmJfqh",
+                    "media_key": "3_869808240875511808"
                 }
             ]
         },
@@ -3097,16 +3097,6 @@
         "context_annotations": [],
         "conversation_id": 869587553359454209,
         "entities": {
-            "urls": [
-                {
-                    "start": 73,
-                    "end": 96,
-                    "url": "https://t.co/Y6TqR1EJOx",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/869587553359454209/photo/1",
-                    "display_url": "pic.twitter.com/Y6TqR1EJOx",
-                    "media_key": "3_869587528663388163"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 36,
@@ -3122,6 +3112,16 @@
                     "start": 65,
                     "end": 72,
                     "tag": "paris5"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/Y6TqR1EJOx",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/869587553359454209/photo/1",
+                    "display_url": "pic.twitter.com/Y6TqR1EJOx",
+                    "media_key": "3_869587528663388163"
                 }
             ]
         },
@@ -3154,16 +3154,6 @@
         "context_annotations": [],
         "conversation_id": 869437190543208448,
         "entities": {
-            "urls": [
-                {
-                    "start": 122,
-                    "end": 145,
-                    "url": "https://t.co/8TSe9zEyeg",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/869437190543208448/video/1",
-                    "display_url": "pic.twitter.com/8TSe9zEyeg",
-                    "media_key": "7_869436051349274625"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 76,
@@ -3174,6 +3164,16 @@
                     "start": 94,
                     "end": 104,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 122,
+                    "end": 145,
+                    "url": "https://t.co/8TSe9zEyeg",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/869437190543208448/video/1",
+                    "display_url": "pic.twitter.com/8TSe9zEyeg",
+                    "media_key": "7_869436051349274625"
                 }
             ]
         },
@@ -3274,15 +3274,6 @@
         "context_annotations": [],
         "conversation_id": 869162568757252097,
         "entities": {
-            "urls": [
-                {
-                    "start": 142,
-                    "end": 165,
-                    "url": "https://t.co/fmKOSRiAaV",
-                    "expanded_url": "http://laurentgamet.fr/mon-suppleant/",
-                    "display_url": "laurentgamet.fr/mon-suppleant/"
-                }
-            ],
             "mentions": [
                 {
                     "start": 0,
@@ -3295,6 +3286,15 @@
                     "end": 44,
                     "username": "PartiPAN_France",
                     "id": "736957224682192896"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 142,
+                    "end": 165,
+                    "url": "https://t.co/fmKOSRiAaV",
+                    "expanded_url": "http://laurentgamet.fr/mon-suppleant/",
+                    "display_url": "laurentgamet.fr/mon-suppleant/"
                 }
             ]
         },
@@ -3407,6 +3407,13 @@
         "context_annotations": [],
         "conversation_id": 869162568757252097,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 71,
+                    "end": 81,
+                    "tag": "Circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -3419,13 +3426,6 @@
                     "end": 44,
                     "username": "PartiPAN_France",
                     "id": "736957224682192896"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 71,
-                    "end": 81,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -3491,6 +3491,13 @@
         ],
         "conversation_id": 869126161221246976,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 61,
+                    "tag": "Poutine"
+                }
+            ],
             "mentions": [
                 {
                     "start": 83,
@@ -3503,13 +3510,6 @@
                     "end": 135,
                     "username": "afpfr",
                     "id": "338985020"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 61,
-                    "tag": "Poutine"
                 }
             ]
         },
@@ -3542,24 +3542,6 @@
         "context_annotations": [],
         "conversation_id": 868968031229267968,
         "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/ASFbf8Kwl3",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/868968031229267968/photo/1",
-                    "display_url": "pic.twitter.com/ASFbf8Kwl3",
-                    "media_key": "3_868967997947432965"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 37,
-                    "end": 52,
-                    "username": "GillesLeGendre",
-                    "id": "843748232"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 0,
@@ -3575,6 +3557,24 @@
                     "start": 130,
                     "end": 140,
                     "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 37,
+                    "end": 52,
+                    "username": "GillesLeGendre",
+                    "id": "843748232"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/ASFbf8Kwl3",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/868968031229267968/photo/1",
+                    "display_url": "pic.twitter.com/ASFbf8Kwl3",
+                    "media_key": "3_868967997947432965"
                 }
             ]
         },
@@ -3607,14 +3607,16 @@
         "context_annotations": [],
         "conversation_id": 868850540125581312,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 137,
-                    "end": 160,
-                    "url": "https://t.co/0rRIwpn0E2",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/868850540125581312/video/1",
-                    "display_url": "pic.twitter.com/0rRIwpn0E2",
-                    "media_key": "7_868849109570129920"
+                    "start": 66,
+                    "end": 83,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 84,
+                    "end": 94,
+                    "tag": "Circo7502"
                 }
             ],
             "mentions": [
@@ -3631,16 +3633,14 @@
                     "id": "565396191"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 66,
-                    "end": 83,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 84,
-                    "end": 94,
-                    "tag": "Circo7502"
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/0rRIwpn0E2",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/868850540125581312/video/1",
+                    "display_url": "pic.twitter.com/0rRIwpn0E2",
+                    "media_key": "7_868849109570129920"
                 }
             ]
         },
@@ -3702,6 +3702,18 @@
         "context_annotations": [],
         "conversation_id": 868534909593427968,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 67,
+                    "end": 84,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 85,
+                    "end": 95,
+                    "tag": "Circo7502"
+                }
+            ],
             "mentions": [
                 {
                     "start": 96,
@@ -3714,18 +3726,6 @@
                     "end": 118,
                     "username": "radiorcf",
                     "id": "194510325"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 67,
-                    "end": 84,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 85,
-                    "end": 95,
-                    "tag": "Circo7502"
                 }
             ]
         },
@@ -3792,16 +3792,6 @@
         "context_annotations": [],
         "conversation_id": 868458744639836161,
         "entities": {
-            "urls": [
-                {
-                    "start": 109,
-                    "end": 132,
-                    "url": "https://t.co/LyhMKmPdwZ",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/868458744639836161/video/1",
-                    "display_url": "pic.twitter.com/LyhMKmPdwZ",
-                    "media_key": "7_868455803157712896"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -3832,6 +3822,16 @@
                     "start": 98,
                     "end": 108,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/LyhMKmPdwZ",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/868458744639836161/video/1",
+                    "display_url": "pic.twitter.com/LyhMKmPdwZ",
+                    "media_key": "7_868455803157712896"
                 }
             ]
         },
@@ -3860,15 +3860,6 @@
         "context_annotations": [],
         "conversation_id": 868456663908577280,
         "entities": {
-            "urls": [
-                {
-                    "start": 109,
-                    "end": 132,
-                    "url": "https://t.co/ClWX2RCF3y",
-                    "expanded_url": "http://fb.me/1oaOKNWvK",
-                    "display_url": "fb.me/1oaOKNWvK"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -3899,6 +3890,15 @@
                     "start": 98,
                     "end": 108,
                     "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/ClWX2RCF3y",
+                    "expanded_url": "http://fb.me/1oaOKNWvK",
+                    "display_url": "fb.me/1oaOKNWvK"
                 }
             ]
         },
@@ -3929,16 +3929,6 @@
         "context_annotations": [],
         "conversation_id": 868160913211260928,
         "entities": {
-            "urls": [
-                {
-                    "start": 124,
-                    "end": 147,
-                    "url": "https://t.co/ewuOwCzypo",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/868160913211260928/video/1",
-                    "display_url": "pic.twitter.com/ewuOwCzypo",
-                    "media_key": "7_868153641131290628"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 65,
@@ -3969,6 +3959,16 @@
                     "start": 118,
                     "end": 123,
                     "tag": "LREM"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 124,
+                    "end": 147,
+                    "url": "https://t.co/ewuOwCzypo",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/868160913211260928/video/1",
+                    "display_url": "pic.twitter.com/ewuOwCzypo",
+                    "media_key": "7_868153641131290628"
                 }
             ]
         },
@@ -4086,16 +4086,6 @@
         ],
         "conversation_id": 867788516792692736,
         "entities": {
-            "urls": [
-                {
-                    "start": 103,
-                    "end": 126,
-                    "url": "https://t.co/sGKhSsFRsy",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/867788516792692736/video/1",
-                    "display_url": "pic.twitter.com/sGKhSsFRsy",
-                    "media_key": "7_867784320886476800"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -4126,6 +4116,16 @@
                     "start": 95,
                     "end": 102,
                     "tag": "paris7"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/sGKhSsFRsy",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/867788516792692736/video/1",
+                    "display_url": "pic.twitter.com/sGKhSsFRsy",
+                    "media_key": "7_867784320886476800"
                 }
             ]
         },
@@ -4169,16 +4169,6 @@
         ],
         "conversation_id": 867439679515357186,
         "entities": {
-            "urls": [
-                {
-                    "start": 120,
-                    "end": 143,
-                    "url": "https://t.co/T7lBOay4h2",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/867439679515357186/video/1",
-                    "display_url": "pic.twitter.com/T7lBOay4h2",
-                    "media_key": "7_867436466921762824"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -4220,6 +4210,16 @@
                     "end": 119,
                     "tag": "etatdurgence"
                 }
+            ],
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 143,
+                    "url": "https://t.co/T7lBOay4h2",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/867439679515357186/video/1",
+                    "display_url": "pic.twitter.com/T7lBOay4h2",
+                    "media_key": "7_867436466921762824"
+                }
             ]
         },
         "geo": {
@@ -4251,16 +4251,6 @@
         "context_annotations": [],
         "conversation_id": 867407976579174400,
         "entities": {
-            "urls": [
-                {
-                    "start": 131,
-                    "end": 154,
-                    "url": "https://t.co/JIUZ5D1LtF",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/867407976579174400/photo/1",
-                    "display_url": "pic.twitter.com/JIUZ5D1LtF",
-                    "media_key": "3_867407922837508096"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 67,
@@ -4286,6 +4276,16 @@
                     "start": 123,
                     "end": 130,
                     "tag": "paris7"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/JIUZ5D1LtF",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/867407976579174400/photo/1",
+                    "display_url": "pic.twitter.com/JIUZ5D1LtF",
+                    "media_key": "3_867407922837508096"
                 }
             ]
         },
@@ -4331,14 +4331,11 @@
         ],
         "conversation_id": 866901464131805185,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/RDoveuruC7",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/866901464131805185/photo/1",
-                    "display_url": "pic.twitter.com/RDoveuruC7",
-                    "media_key": "3_866901370980499456"
+                    "start": 0,
+                    "end": 11,
+                    "tag": "Manchester"
                 }
             ],
             "mentions": [
@@ -4349,11 +4346,14 @@
                     "id": "1113993006"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 0,
-                    "end": 11,
-                    "tag": "Manchester"
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/RDoveuruC7",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/866901464131805185/photo/1",
+                    "display_url": "pic.twitter.com/RDoveuruC7",
+                    "media_key": "3_866901370980499456"
                 }
             ]
         },
@@ -4417,13 +4417,21 @@
         ],
         "conversation_id": 866776456860487687,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/J3aNC7UtGx",
-                    "expanded_url": "https://twitter.com/GillesLeGendre/status/742759444581322753",
-                    "display_url": "twitter.com/GillesLeGendre…"
+                    "start": 71,
+                    "end": 76,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 92,
+                    "end": 109,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 110,
+                    "end": 120,
+                    "tag": "circo7502"
                 }
             ],
             "mentions": [
@@ -4446,21 +4454,13 @@
                     "id": "425188796"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 71,
-                    "end": 76,
-                    "tag": "LREM"
-                },
-                {
-                    "start": 92,
-                    "end": 109,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 110,
-                    "end": 120,
-                    "tag": "circo7502"
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/J3aNC7UtGx",
+                    "expanded_url": "https://twitter.com/GillesLeGendre/status/742759444581322753",
+                    "display_url": "twitter.com/GillesLeGendre…"
                 }
             ]
         },
@@ -4489,13 +4489,21 @@
         "context_annotations": [],
         "conversation_id": 866776037891477506,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/Our3Mk0JxS",
-                    "expanded_url": "https://twitter.com/GillesLeGendre/status/749526893951651840",
-                    "display_url": "twitter.com/GillesLeGendre…"
+                    "start": 67,
+                    "end": 72,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 88,
+                    "end": 105,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 106,
+                    "end": 116,
+                    "tag": "circo7502"
                 }
             ],
             "mentions": [
@@ -4512,21 +4520,13 @@
                     "id": "425188796"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 67,
-                    "end": 72,
-                    "tag": "LREM"
-                },
-                {
-                    "start": 88,
-                    "end": 105,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 106,
-                    "end": 116,
-                    "tag": "circo7502"
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/Our3Mk0JxS",
+                    "expanded_url": "https://twitter.com/GillesLeGendre/status/749526893951651840",
+                    "display_url": "twitter.com/GillesLeGendre…"
                 }
             ]
         },
@@ -4555,13 +4555,21 @@
         "context_annotations": [],
         "conversation_id": 866775759591014400,
         "entities": {
-            "urls": [
+            "hashtags": [
                 {
-                    "start": 132,
-                    "end": 155,
-                    "url": "https://t.co/BoHUoa31DP",
-                    "expanded_url": "https://twitter.com/GillesLeGendre/status/749559391586844672",
-                    "display_url": "twitter.com/GillesLeGendre…"
+                    "start": 66,
+                    "end": 71,
+                    "tag": "LREM"
+                },
+                {
+                    "start": 87,
+                    "end": 104,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 105,
+                    "end": 115,
+                    "tag": "circo7502"
                 }
             ],
             "mentions": [
@@ -4578,21 +4586,13 @@
                     "id": "425188796"
                 }
             ],
-            "hashtags": [
+            "urls": [
                 {
-                    "start": 66,
-                    "end": 71,
-                    "tag": "LREM"
-                },
-                {
-                    "start": 87,
-                    "end": 104,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 105,
-                    "end": 115,
-                    "tag": "circo7502"
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/BoHUoa31DP",
+                    "expanded_url": "https://twitter.com/GillesLeGendre/status/749559391586844672",
+                    "display_url": "twitter.com/GillesLeGendre…"
                 }
             ]
         },
@@ -4673,6 +4673,32 @@
         "context_annotations": [],
         "conversation_id": 865921238354591745,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 47,
+                    "tag": "Maubert"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "tag": "paris5"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 132,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                },
+                {
+                    "start": 133,
+                    "end": 138,
+                    "username": "nk_m",
+                    "id": "20702279"
+                }
+            ],
             "urls": [
                 {
                     "start": 139,
@@ -4697,32 +4723,6 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/865921238354591745/photo/1",
                     "display_url": "pic.twitter.com/lLGigupMzk",
                     "media_key": "3_865921181886689280"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 119,
-                    "end": 132,
-                    "username": "Guaino_Henri",
-                    "id": "742985276495122432"
-                },
-                {
-                    "start": 133,
-                    "end": 138,
-                    "username": "nk_m",
-                    "id": "20702279"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 39,
-                    "end": 47,
-                    "tag": "Maubert"
-                },
-                {
-                    "start": 49,
-                    "end": 56,
-                    "tag": "paris5"
                 }
             ]
         },
@@ -4768,16 +4768,6 @@
         ],
         "conversation_id": 865861575567187969,
         "entities": {
-            "urls": [
-                {
-                    "start": 126,
-                    "end": 149,
-                    "url": "https://t.co/vUwQbnPv0G",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/865921066543329280/video/1",
-                    "display_url": "pic.twitter.com/vUwQbnPv0G",
-                    "media_key": "7_865919561312481280"
-                }
-            ],
             "mentions": [
                 {
                     "start": 0,
@@ -4796,6 +4786,16 @@
                     "end": 87,
                     "username": "laurentgamet",
                     "id": "496212632"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 126,
+                    "end": 149,
+                    "url": "https://t.co/vUwQbnPv0G",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/865921066543329280/video/1",
+                    "display_url": "pic.twitter.com/vUwQbnPv0G",
+                    "media_key": "7_865919561312481280"
                 }
             ]
         },
@@ -4822,6 +4822,18 @@
         "context_annotations": [],
         "conversation_id": 865894507136655361,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 84,
+                    "end": 88,
+                    "tag": "GPA"
+                },
+                {
+                    "start": 92,
+                    "end": 96,
+                    "tag": "PMA"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -4840,18 +4852,6 @@
                     "end": 49,
                     "username": "LesFederalistes",
                     "id": "31413954"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 84,
-                    "end": 88,
-                    "tag": "GPA"
-                },
-                {
-                    "start": 92,
-                    "end": 96,
-                    "tag": "PMA"
                 }
             ]
         },
@@ -4960,6 +4960,13 @@
         "context_annotations": [],
         "conversation_id": 865894507136655361,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 75,
+                    "tag": "UE"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -4978,13 +4985,6 @@
                     "end": 58,
                     "username": "LesFederalistes",
                     "id": "31413954"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 72,
-                    "end": 75,
-                    "tag": "UE"
                 }
             ]
         },
@@ -5013,6 +5013,13 @@
         "context_annotations": [],
         "conversation_id": 865894507136655361,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 103,
+                    "tag": "LGBT"
+                }
+            ],
             "mentions": [
                 {
                     "start": 10,
@@ -5025,13 +5032,6 @@
                     "end": 34,
                     "username": "InterLGBT",
                     "id": "207692841"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 98,
-                    "end": 103,
-                    "tag": "LGBT"
                 }
             ]
         },
@@ -5060,6 +5060,13 @@
         "context_annotations": [],
         "conversation_id": 865894507136655361,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 119,
+                    "tag": "LGBT"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -5072,13 +5079,6 @@
                     "end": 24,
                     "username": "InterLGBT",
                     "id": "207692841"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 114,
-                    "end": 119,
-                    "tag": "LGBT"
                 }
             ]
         },
@@ -5293,6 +5293,16 @@
         ],
         "conversation_id": 865527769760845825,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/dZWmoIKVkH",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/865527769760845825/video/1",
+                    "display_url": "pic.twitter.com/dZWmoIKVkH",
+                    "media_key": "7_865526405575999489"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 18,
@@ -5308,16 +5318,6 @@
                     "start": 123,
                     "end": 140,
                     "tag": "legislatives2017"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/dZWmoIKVkH",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/865527769760845825/video/1",
-                    "display_url": "pic.twitter.com/dZWmoIKVkH",
-                    "media_key": "7_865526405575999489"
                 }
             ]
         },
@@ -5474,13 +5474,6 @@
         "context_annotations": [],
         "conversation_id": 865225259397591040,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 68,
-                    "end": 75,
-                    "tag": "paris5"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -5489,6 +5482,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/865225259397591040/photo/1",
                     "display_url": "pic.twitter.com/muUSMKlmO5",
                     "media_key": "3_865225221783117824"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 75,
+                    "tag": "paris5"
                 }
             ]
         },
@@ -5585,13 +5585,6 @@
                     "id": "557462852"
                 }
             ],
-            "hashtags": [
-                {
-                    "start": 42,
-                    "end": 59,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 141,
@@ -5608,6 +5601,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/865138844861157376/photo/1",
                     "display_url": "pic.twitter.com/BNQIkMMnpH",
                     "media_key": "3_865138795254919168"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 59,
+                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -5660,13 +5660,6 @@
                     "id": "4052155036"
                 }
             ],
-            "hashtags": [
-                {
-                    "start": 63,
-                    "end": 68,
-                    "tag": "LGBT"
-                }
-            ],
             "urls": [
                 {
                     "start": 113,
@@ -5675,6 +5668,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/864853392786673665/video/1",
                     "display_url": "pic.twitter.com/C4tnJRZBl3",
                     "media_key": "7_864850167392063489"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 68,
+                    "tag": "LGBT"
                 }
             ]
         },
@@ -5955,6 +5955,16 @@
         "context_annotations": [],
         "conversation_id": 864534655856463872,
         "entities": {
+            "urls": [
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/qDTttbMnkn",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/864534655856463872/video/1",
+                    "display_url": "pic.twitter.com/qDTttbMnkn",
+                    "media_key": "7_864532795766390784"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 10,
@@ -5980,16 +5990,6 @@
                     "start": 120,
                     "end": 130,
                     "tag": "circo7502"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/qDTttbMnkn",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/864534655856463872/video/1",
-                    "display_url": "pic.twitter.com/qDTttbMnkn",
-                    "media_key": "7_864532795766390784"
                 }
             ]
         },
@@ -6042,23 +6042,6 @@
                     "id": "31413954"
                 }
             ],
-            "hashtags": [
-                {
-                    "start": 75,
-                    "end": 86,
-                    "tag": "VotezGamet"
-                },
-                {
-                    "start": 87,
-                    "end": 94,
-                    "tag": "paris7"
-                },
-                {
-                    "start": 106,
-                    "end": 116,
-                    "tag": "circo7502"
-                }
-            ],
             "urls": [
                 {
                     "start": 134,
@@ -6075,6 +6058,23 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/864511752146432000/photo/1",
                     "display_url": "pic.twitter.com/RQpP263R2C",
                     "media_key": "3_864511722933043200"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 75,
+                    "end": 86,
+                    "tag": "VotezGamet"
+                },
+                {
+                    "start": 87,
+                    "end": 94,
+                    "tag": "paris7"
+                },
+                {
+                    "start": 106,
+                    "end": 116,
+                    "tag": "circo7502"
                 }
             ]
         },
@@ -6320,6 +6320,16 @@
         "context_annotations": [],
         "conversation_id": 864159890243293184,
         "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/iO6ZV34gaA",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/864159890243293184/video/1",
+                    "display_url": "pic.twitter.com/iO6ZV34gaA",
+                    "media_key": "7_864158412589993986"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 65,
@@ -6335,16 +6345,6 @@
                     "start": 130,
                     "end": 140,
                     "tag": "circo7502"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/iO6ZV34gaA",
-                    "expanded_url": "https://twitter.com/laurentgamet/status/864159890243293184/video/1",
-                    "display_url": "pic.twitter.com/iO6ZV34gaA",
-                    "media_key": "7_864158412589993986"
                 }
             ]
         },
@@ -6469,13 +6469,6 @@
         ],
         "conversation_id": 863821068645146624,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 135,
-                    "tag": "Macron"
-                }
-            ],
             "urls": [
                 {
                     "start": 136,
@@ -6500,6 +6493,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/863821068645146624/photo/1",
                     "display_url": "pic.twitter.com/GlEvTk4gsO",
                     "media_key": "3_863821023766097920"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 128,
+                    "end": 135,
+                    "tag": "Macron"
                 }
             ]
         },
@@ -6546,13 +6546,6 @@
         ],
         "conversation_id": 863393238115397634,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 66,
-                    "tag": "JAimeLeBanon"
-                }
-            ],
             "urls": [
                 {
                     "start": 67,
@@ -6569,6 +6562,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/863393238115397634/photo/1",
                     "display_url": "pic.twitter.com/fkKV95K7kR",
                     "media_key": "3_863393175070810112"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 66,
+                    "tag": "JAimeLeBanon"
                 }
             ]
         },
@@ -6664,13 +6664,6 @@
                     "id": "31413954"
                 }
             ],
-            "hashtags": [
-                {
-                    "start": 40,
-                    "end": 57,
-                    "tag": "legislatives2017"
-                }
-            ],
             "urls": [
                 {
                     "start": 137,
@@ -6679,6 +6672,13 @@
                     "expanded_url": "https://twitter.com/laurentgamet/status/863136953109278720/photo/1",
                     "display_url": "pic.twitter.com/ztwueR7zke",
                     "media_key": "3_863136913963855873"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 57,
+                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -6876,6 +6876,15 @@
                     "id": "31413954"
                 }
             ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/khMJ3nFm6F",
+                    "expanded_url": "https://twitter.com/AvecGamet/status/862390924118294528",
+                    "display_url": "twitter.com/AvecGamet/stat…"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 51,
@@ -6886,15 +6895,6 @@
                     "start": 59,
                     "end": 69,
                     "tag": "Circo7502"
-                }
-            ],
-            "urls": [
-                {
-                    "start": 105,
-                    "end": 128,
-                    "url": "https://t.co/khMJ3nFm6F",
-                    "expanded_url": "https://twitter.com/AvecGamet/status/862390924118294528",
-                    "display_url": "twitter.com/AvecGamet/stat…"
                 }
             ]
         },
@@ -6929,13 +6929,6 @@
         "context_annotations": [],
         "conversation_id": 862346690862436352,
         "entities": {
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 60,
-                    "tag": "Paris7"
-                }
-            ],
             "urls": [
                 {
                     "start": 138,
@@ -6961,6 +6954,13 @@
                     "display_url": "pic.twitter.com/njnj8D9Vg7",
                     "media_key": "3_862346619852914688"
                 }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 60,
+                    "tag": "Paris7"
+                }
             ]
         },
         "geo": {
@@ -6973,6 +6973,2411 @@
             "retweet_count": 2,
             "reply_count": 1,
             "like_count": 4,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862037283612086273",
+        "text": "Premières rencontres citoyennes demain dans les rues de #Paris7 On vous attend nombreux ! @SylvainDAPFE @LesFederalistes @RECocitoyenne https://t.co/waYCPbsSfo",
+        "created_at": "2017-05-09 20:11:18+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 862037283612086273,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 120,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                },
+                {
+                    "start": 121,
+                    "end": 135,
+                    "username": "RECocitoyenne",
+                    "id": "96803858"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/waYCPbsSfo",
+                    "expanded_url": "https://twitter.com/AvecGamet/status/862036904400781314",
+                    "display_url": "twitter.com/AvecGamet/stat…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 56,
+                    "end": 63,
+                    "tag": "Paris7"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "862006541662265344",
+        "text": "RT @Boudaud2017: Ce 9 mai l'Europe @LesFederalistes et @MAZUEL_Pace avec @Cedricsuzanne @laurentgamet @YvesGernigon @BoudaudAnduaga  @100po…",
+        "created_at": "2017-05-09 18:09:09+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 862006541662265344,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 35,
+                    "end": 51,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                },
+                {
+                    "start": 55,
+                    "end": 67,
+                    "username": "MAZUEL_Pace",
+                    "id": "3338973317"
+                },
+                {
+                    "start": 73,
+                    "end": 87,
+                    "username": "CedricSuzanne",
+                    "id": "1445764864161587200"
+                },
+                {
+                    "start": 88,
+                    "end": 101,
+                    "username": "laurentgamet",
+                    "id": "496212632"
+                },
+                {
+                    "start": 102,
+                    "end": 115,
+                    "username": "YvesGernigon",
+                    "id": "557462852"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861987747099283458",
+        "text": "RT @YvesGernigon: Bonne fête de l'Europe ! Happy Europe Day! avec @LesFederalistes https://t.co/y6ZTAbrAcN",
+        "created_at": "2017-05-09 16:54:28+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861883991221297152"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            }
+        ],
+        "conversation_id": 861987747099283458,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "YvesGernigon",
+                    "id": "557462852"
+                },
+                {
+                    "start": 66,
+                    "end": 82,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/y6ZTAbrAcN",
+                    "expanded_url": "https://twitter.com/YvesGernigon/status/861884181575598080/photo/1",
+                    "display_url": "pic.twitter.com/y6ZTAbrAcN",
+                    "media_key": "3_861883991221297152"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861582750826074112",
+        "text": "Bravo à mon suppléant @SylvainDAPFE pour son action en faveur de la protection animale et de la nature à la #foiredeparis. Fier! https://t.co/OQQdJjPeSf",
+        "created_at": "2017-05-08 14:05:09+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 861582750826074112,
+        "entities": {
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/OQQdJjPeSf",
+                    "expanded_url": "https://twitter.com/AvecGamet/status/861582139271393281",
+                    "display_url": "twitter.com/AvecGamet/stat…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 121,
+                    "tag": "foiredeparis"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861494232384753664",
+        "text": "#8mai1945  Je pense à mon arrière grand père, Lucien Gamet, mort pour la France alors qu'il aidait l'armée rouge dans l'élan de libération https://t.co/c08s6NBL9R",
+        "created_at": "2017-05-08 08:13:25+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861494214382768131",
+                "3_861494218761654272",
+                "3_861494223635435520",
+                "3_861494228471468032"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 861494232384753664,
+        "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/c08s6NBL9R",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861494232384753664/photo/1",
+                    "display_url": "pic.twitter.com/c08s6NBL9R",
+                    "media_key": "3_861494214382768131"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/c08s6NBL9R",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861494232384753664/photo/1",
+                    "display_url": "pic.twitter.com/c08s6NBL9R",
+                    "media_key": "3_861494218761654272"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/c08s6NBL9R",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861494232384753664/photo/1",
+                    "display_url": "pic.twitter.com/c08s6NBL9R",
+                    "media_key": "3_861494223635435520"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/c08s6NBL9R",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861494232384753664/photo/1",
+                    "display_url": "pic.twitter.com/c08s6NBL9R",
+                    "media_key": "3_861494228471468032"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "tag": "8mai1945"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "861280582101282817",
+        "text": "Je salue la victoire d'Emmanuel #Macron. Nous resterons vigilants​ quant à l'application de son programme Européen.",
+        "created_at": "2017-05-07 18:04:27+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 861280582101282817,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 32,
+                    "end": 39,
+                    "tag": "Macron"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "861229495495401472",
+        "text": "Visite de la #foiredeparis et du #ConcoursLepine Ns sommes prêts à organiser l'exposition universelle de 2025.\nVive @Paris @ViparisOfficiel https://t.co/sQiQHbNfao",
+        "created_at": "2017-05-07 14:41:27+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_861229341270822912",
+                "3_861229378453331968",
+                "3_861229417288396800",
+                "3_861229454802247680"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 861229495495401472,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 116,
+                    "end": 122,
+                    "username": "Paris",
+                    "id": "71016845"
+                },
+                {
+                    "start": 123,
+                    "end": 139,
+                    "username": "ViparisOfficiel",
+                    "id": "93707270"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/sQiQHbNfao",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861229495495401472/photo/1",
+                    "display_url": "pic.twitter.com/sQiQHbNfao",
+                    "media_key": "3_861229341270822912"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/sQiQHbNfao",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861229495495401472/photo/1",
+                    "display_url": "pic.twitter.com/sQiQHbNfao",
+                    "media_key": "3_861229378453331968"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/sQiQHbNfao",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861229495495401472/photo/1",
+                    "display_url": "pic.twitter.com/sQiQHbNfao",
+                    "media_key": "3_861229417288396800"
+                },
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/sQiQHbNfao",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/861229495495401472/photo/1",
+                    "display_url": "pic.twitter.com/sQiQHbNfao",
+                    "media_key": "3_861229454802247680"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 13,
+                    "end": 26,
+                    "tag": "foiredeparis"
+                },
+                {
+                    "start": 33,
+                    "end": 48,
+                    "tag": "ConcoursLepine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "860873662613815304",
+        "text": "Fan du Hockey ! En piste pr les Bleus ce soir. Et vive #Paris2024 La France c'est le sport! #iihfworlds2017 https://t.co/Ie1bd5kKmh",
+        "created_at": "2017-05-06 15:07:30+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_860873582678855680",
+                "3_860873611594403841",
+                "3_860873642149904385"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 860873662613815304,
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/Ie1bd5kKmh",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/860873662613815304/photo/1",
+                    "display_url": "pic.twitter.com/Ie1bd5kKmh",
+                    "media_key": "3_860873582678855680"
+                },
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/Ie1bd5kKmh",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/860873662613815304/photo/1",
+                    "display_url": "pic.twitter.com/Ie1bd5kKmh",
+                    "media_key": "3_860873611594403841"
+                },
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/Ie1bd5kKmh",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/860873662613815304/photo/1",
+                    "display_url": "pic.twitter.com/Ie1bd5kKmh",
+                    "media_key": "3_860873642149904385"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 65,
+                    "tag": "Paris2024"
+                },
+                {
+                    "start": 92,
+                    "end": 107,
+                    "tag": "iihfworlds2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "860067110340481025",
+        "text": "Je souhaite une bonne retraite to His Royal Highness The Duke of Edinburgh  @RoyalFamily #Buckingham",
+        "created_at": "2017-05-04 09:42:33+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 860067110340481025,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 88,
+                    "username": "RoyalFamily",
+                    "id": "36042554"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 73,
+                    "probability": 0.8041,
+                    "type": "Place",
+                    "normalized_text": "Edinburgh"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 100,
+                    "tag": "Buckingham"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "860024143542136833",
+        "text": "Je tiens à adresser un coup de chapeau à Emmanuel Macron pour sa maîtrise des sujets lors du débat d'hier soir.... https://t.co/I2tzhwFKF3",
+        "created_at": "2017-05-04 06:51:48+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 860024143542136833,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/I2tzhwFKF3",
+                    "expanded_url": "http://fb.me/8QuNzk5MA",
+                    "display_url": "fb.me/8QuNzk5MA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "857984208052080641",
+        "text": "@G_Peltouz @datirachida @franceinfo @LeParisien_75 @lemondefr @libe @LEXPRESS Je suis tout à fait d'accord. Je suis secrétaire général de @LesFederalistes et ma candidature est Fédéraliste. Ensemble ns y arriverons",
+        "created_at": "2017-04-28 15:45:50+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857958944546881536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "G_Peltouz",
+                    "id": "4157596115"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 24,
+                    "end": 35,
+                    "username": "franceinfo",
+                    "id": "38395124"
+                },
+                {
+                    "start": 36,
+                    "end": 50,
+                    "username": "LeParisien_75",
+                    "id": "74400293"
+                },
+                {
+                    "start": 51,
+                    "end": 61,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                },
+                {
+                    "start": 62,
+                    "end": 67,
+                    "username": "libe",
+                    "id": "68440549"
+                },
+                {
+                    "start": 68,
+                    "end": 77,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
+                },
+                {
+                    "start": 138,
+                    "end": 154,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 4157596115,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857979826103255040",
+        "text": "@G_Peltouz @datirachida @franceinfo @LeParisien_75 @lemondefr @libe @LEXPRESS Guillaume @datirachida est une très bonne députée européenne même si nous ne sommes pas toujours d'accord sur les orientations.",
+        "created_at": "2017-04-28 15:28:25+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857958944546881536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "G_Peltouz",
+                    "id": "4157596115"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 24,
+                    "end": 35,
+                    "username": "franceinfo",
+                    "id": "38395124"
+                },
+                {
+                    "start": 36,
+                    "end": 50,
+                    "username": "LeParisien_75",
+                    "id": "74400293"
+                },
+                {
+                    "start": 51,
+                    "end": 61,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                },
+                {
+                    "start": 62,
+                    "end": 67,
+                    "username": "libe",
+                    "id": "68440549"
+                },
+                {
+                    "start": 68,
+                    "end": 77,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
+                },
+                {
+                    "start": 88,
+                    "end": 100,
+                    "username": "datirachida",
+                    "id": "272401679"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 4157596115,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857958944546881536",
+        "text": "#legislatives2017 @datirachida soyez la marraine de ma campagne dans la #Circo7502 @franceinfo @LeParisien_75 @lemondefr @libe @LEXPRESS https://t.co/xDUDdxIFqN",
+        "created_at": "2017-04-28 14:05:27+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_857956995009306624"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857958944546881536,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 30,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 83,
+                    "end": 94,
+                    "username": "franceinfo",
+                    "id": "38395124"
+                },
+                {
+                    "start": 95,
+                    "end": 109,
+                    "username": "LeParisien_75",
+                    "id": "74400293"
+                },
+                {
+                    "start": 110,
+                    "end": 120,
+                    "username": "lemondefr",
+                    "id": "24744541"
+                },
+                {
+                    "start": 121,
+                    "end": 126,
+                    "username": "libe",
+                    "id": "68440549"
+                },
+                {
+                    "start": 127,
+                    "end": 136,
+                    "username": "LEXPRESS",
+                    "id": "13353862"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/xDUDdxIFqN",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/857958944546881536/video/1",
+                    "display_url": "pic.twitter.com/xDUDdxIFqN",
+                    "media_key": "7_857956995009306624"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 72,
+                    "end": 82,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857935314530304004",
+        "text": "@datirachida @lesRepublicains @jmaphatie @laurentwauquiez @francoisbaroin Je suis le candidat de la droite, du centre et des citoyens. Travaillons ensemble! Le vote @nk_m n'est pas représentatif de notre famille.",
+        "created_at": "2017-04-28 12:31:33+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857861558084526080,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 13,
+                    "end": 29,
+                    "username": "lesRepublicains",
+                    "id": "95455794"
+                },
+                {
+                    "start": 30,
+                    "end": 40,
+                    "username": "jmaphatie",
+                    "id": "369914677"
+                },
+                {
+                    "start": 41,
+                    "end": 57,
+                    "username": "laurentwauquiez",
+                    "id": "19438626"
+                },
+                {
+                    "start": 58,
+                    "end": 73,
+                    "username": "francoisbaroin",
+                    "id": "96093611"
+                },
+                {
+                    "start": 165,
+                    "end": 170,
+                    "username": "nk_m",
+                    "id": "20702279"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 272401679,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857853549354639360",
+        "text": "[#franceinfo] @datirachida émet des doutes sur @nk_m \nJ'appelle ts ses soutiens à me rejoindre pr 1 vraie candidature de la droite du centre",
+        "created_at": "2017-04-28 07:06:38+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857853549354639360,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 26,
+                    "username": "datirachida",
+                    "id": "272401679"
+                },
+                {
+                    "start": 47,
+                    "end": 52,
+                    "username": "nk_m",
+                    "id": "20702279"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 1,
+                    "end": 12,
+                    "tag": "franceinfo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857532637744955392",
+        "text": "Je demande @vpecresse de faire débloquer les lycées @Paris\nLes lycéens qui crient #NiFnNiMacron sont des irresponsables.",
+        "created_at": "2017-04-27 09:51:27+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857532637744955392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 11,
+                    "end": 21,
+                    "username": "vpecresse",
+                    "id": "49969223"
+                },
+                {
+                    "start": 52,
+                    "end": 58,
+                    "username": "Paris",
+                    "id": "71016845"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 95,
+                    "tag": "NiFnNiMacron"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857491055700316160",
+        "text": "Le donneur de leçons et lanceur de rumeurs @Nicolas_Canut (LR) appelle à voter blanc c'est à dire #MarineLePen. Il prouve son imposture!",
+        "created_at": "2017-04-27 07:06:13+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 857491055700316160,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "Nicolas_Canut",
+                    "id": "96380200"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 110,
+                    "tag": "MarineLePen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857166714571808768",
+        "text": "Fier d'être fédéralistes Européen et secrétaire général du #PFE @LesFederalistes Ensemble disons NON au #FN https://t.co/WOuAXnC5ID",
+        "created_at": "2017-04-26 09:37:24+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855409238318882816",
+                    "name": "Europe",
+                    "description": "Europa"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857166714571808768,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 64,
+                    "end": 80,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/WOuAXnC5ID",
+                    "expanded_url": "https://twitter.com/YvesGernigon/status/857142342452744192",
+                    "display_url": "twitter.com/YvesGernigon/s…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 63,
+                    "tag": "PFE"
+                },
+                {
+                    "start": 104,
+                    "end": 107,
+                    "tag": "FN"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857151584224129024",
+        "text": "@gdechanterac @LaManifPourTous Oui @LaManifPourTous appelle à voter #FN et reste donc une ennemie de la République",
+        "created_at": "2017-04-26 08:37:17+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 857126700563484673,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "gdechanterac",
+                    "id": "50664506"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "LaManifPourTous",
+                    "id": "875696023"
+                },
+                {
+                    "start": 35,
+                    "end": 51,
+                    "username": "LaManifPourTous",
+                    "id": "875696023"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 71,
+                    "tag": "FN"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 50664506,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "857126700563484673",
+        "text": "@LaManifPourTous montre une fois de plus qu'elle est anti-République. Elle a prouvé son homophobie, elle prouve sa xénophobie.",
+        "created_at": "2017-04-26 06:58:24+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 857126700563484673,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "LaManifPourTous",
+                    "id": "875696023"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 875696023,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856903113822941185",
+        "text": "[#Video] \"En votant @MLP_officiel on devient soi même un ennemi de la République\" @LesFederalistes #Presidentielles2017 #legislatives2017 https://t.co/FfGAe9tGEY",
+        "created_at": "2017-04-25 16:09:57+00:00",
+        "attachments": {
+            "media_keys": [
+                "7_856900855269924864"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 856903113822941185,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 33,
+                    "username": "MLP_officiel",
+                    "id": "217749896"
+                },
+                {
+                    "start": 82,
+                    "end": 98,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/FfGAe9tGEY",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/856903113822941185/video/1",
+                    "display_url": "pic.twitter.com/FfGAe9tGEY",
+                    "media_key": "7_856900855269924864"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 1,
+                    "end": 7,
+                    "tag": "Video"
+                },
+                {
+                    "start": 99,
+                    "end": 119,
+                    "tag": "Presidentielles2017"
+                },
+                {
+                    "start": 120,
+                    "end": 137,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856806162704080896",
+        "text": "\"Je souffre sans haine\" profond respect pour le compagnon de Xavier Jugelé. Je ne sais pas si je serais capable... https://t.co/3DOXDTelWh",
+        "created_at": "2017-04-25 09:44:42+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 856806162704080896,
+        "entities": {
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/3DOXDTelWh",
+                    "expanded_url": "http://fb.me/YG2mB6ho",
+                    "display_url": "fb.me/YG2mB6ho"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "856804257856716801",
+        "text": "Je m'associe à l'hommage national rendu aujourd'hui à Xavier Jugelé, tombé pour la France",
+        "created_at": "2017-04-25 09:37:08+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 856804257856716801,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856536931794079744",
+        "text": "RT @LesFederalistes: #Presidentielle2017 @YvesGernigon Plus que jamais les élections législatives seront le 3e tour de l'élection président…",
+        "created_at": "2017-04-24 15:54:52+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 856536931794079744,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "YvesGernigon",
+                    "id": "557462852"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 21,
+                    "end": 40,
+                    "tag": "Presidentielle2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856443325926297600",
+        "text": "@christineboutin appelle à voter @MLP_officiel On peut donc dire qu'elle est une ennemie de la République ! #VousNePasserezPas",
+        "created_at": "2017-04-24 09:42:55+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 856443325926297600,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "christineboutin",
+                    "id": "90635543"
+                },
+                {
+                    "start": 33,
+                    "end": 46,
+                    "username": "MLP_officiel",
+                    "id": "217749896"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 126,
+                    "tag": "VousNePasserezPas"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 90635543,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    },
+    {
+        "id": "856216917178277888",
+        "text": "À titre personnel, je voterai CONTRE @MLP_officiel . \nUne ennemie de la République ne doit pas accéder au pouvoir. #Presidentielles2017",
+        "created_at": "2017-04-23 18:43:15+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856216917178277888,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 37,
+                    "end": 50,
+                    "username": "MLP_officiel",
+                    "id": "217749896"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 135,
+                    "tag": "Presidentielles2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "856111795517390848",
+        "text": "A voté ! Visiblement les Parisiens sont mobilisés ! Bravo les amis! #ElectionsPresidentielles2017 https://t.co/4yHBviilZB",
+        "created_at": "2017-04-23 11:45:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_856111763036803074"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856111795517390848,
+        "entities": {
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/4yHBviilZB",
+                    "expanded_url": "https://twitter.com/laurentgamet/status/856111795517390848/photo/1",
+                    "display_url": "pic.twitter.com/4yHBviilZB",
+                    "media_key": "3_856111763036803074"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 97,
+                    "tag": "ElectionsPresidentielles2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855522123145785345",
+        "text": "RT @flagasso: Pour ne jamais oublier Xavier.\nRIP https://t.co/HWzvWN0R90",
+        "created_at": "2017-04-21 20:42:23+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_855384357435002880"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855522123145785345,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "flagasso",
+                    "id": "31058326"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/HWzvWN0R90",
+                    "expanded_url": "https://twitter.com/flagasso/status/855384363562913792/photo/1",
+                    "display_url": "pic.twitter.com/HWzvWN0R90",
+                    "media_key": "3_855384357435002880"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855472076316127234",
+        "text": "RT @franceadeselles: Bon anniversaire les filles ! https://t.co/uiCV6Atuex",
+        "created_at": "2017-04-21 17:23:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_855470163780669440"
+            ]
+        },
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855472076316127234,
+        "entities": {
+            "urls": [
+                {
+                    "start": 51,
+                    "end": 74,
+                    "url": "https://t.co/uiCV6Atuex",
+                    "expanded_url": "https://twitter.com/franceadeselles/status/855470179362500609/photo/1",
+                    "display_url": "pic.twitter.com/uiCV6Atuex",
+                    "media_key": "3_855470163780669440"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855338703375355904",
+        "text": "@PietroDeMatteis @Maufroid_xavier @LesFederalistes @eufederalists @StandUpUSEurope C'est bien ce que je dis. Vs avez quitté @LesFederalistes pr faire de l'associatif financé par la Commission. C'est parfait pr vous",
+        "created_at": "2017-04-21 08:33:32+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855322687631011840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "PietroDeMatteis",
+                    "id": "109288334"
+                },
+                {
+                    "start": 17,
+                    "end": 33,
+                    "username": "Maufroid_xavier",
+                    "id": "1066075848"
+                },
+                {
+                    "start": 34,
+                    "end": 50,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                },
+                {
+                    "start": 51,
+                    "end": 65,
+                    "username": "eufederalists",
+                    "id": "83894723"
+                },
+                {
+                    "start": 124,
+                    "end": 140,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 109288334,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855327227633745921",
+        "text": "@Maufroid_xavier @PietroDeMatteis @LesFederalistes Xavier aujourd'hui je n'ai pas envie de faire de politique. #Paris a encore été frappé. Place au recueillement.",
+        "created_at": "2017-04-21 07:47:56+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855322687631011840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Maufroid_xavier",
+                    "id": "1066075848"
+                },
+                {
+                    "start": 17,
+                    "end": 33,
+                    "username": "PietroDeMatteis",
+                    "id": "109288334"
+                },
+                {
+                    "start": 34,
+                    "end": 50,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 111,
+                    "end": 117,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1066075848,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855323266176524288",
+        "text": "@Maufroid_xavier @PietroDeMatteis à quitté @LesFederalistes pour un autre parti politique. Il est pour la Commission de corrompus, pas moi.",
+        "created_at": "2017-04-21 07:32:12+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855322687631011840,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Maufroid_xavier",
+                    "id": "1066075848"
+                },
+                {
+                    "start": 17,
+                    "end": 33,
+                    "username": "PietroDeMatteis",
+                    "id": "109288334"
+                },
+                {
+                    "start": 43,
+                    "end": 59,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1066075848,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "855193116487364608",
+        "text": "#Paris ne tombera pas. Pensons ce soir au policier tué parce que policier de la République. Unissons nous pour rester debout.",
+        "created_at": "2017-04-20 22:55:02+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 855193116487364608,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "Paris"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "854699556830892032",
+        "text": "@UEfrance c'est vous qui l'avez gâché en spoliant le peuple Européen de son pouvoir. Vive l'Europe Fédérale @LesFederalistes https://t.co/0o8sIFO9Om",
+        "created_at": "2017-04-19 14:13:48+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 854699556830892032,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "UEFrance",
+                    "id": "484872080"
+                },
+                {
+                    "start": 108,
+                    "end": 124,
+                    "username": "LesFederalistes",
+                    "id": "31413954"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 125,
+                    "end": 148,
+                    "url": "https://t.co/0o8sIFO9Om",
+                    "expanded_url": "https://twitter.com/UEfrance/status/854607624813367297",
+                    "display_url": "twitter.com/UEfrance/statu…"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 484872080,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "854624712198156289",
+        "text": "Quand un nazi soutien un voleur... #RendsLargent https://t.co/tRtfNPRa4B",
+        "created_at": "2017-04-19 09:16:24+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            }
+        ],
+        "conversation_id": 854624712198156289,
+        "entities": {
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/tRtfNPRa4B",
+                    "expanded_url": "https://twitter.com/jfpoisson78/status/854591137906130944",
+                    "display_url": "twitter.com/jfpoisson78/st…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 35,
+                    "end": 48,
+                    "tag": "RendsLargent"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "852109999220424705",
+        "text": "@nk_m @hodentt @nk_m nous sommes les deux candidats de la droite. Unissons nos forces pour combattre l'homophobie #LGBT #Tchétchénie @LeParisien_75",
+        "created_at": "2017-04-12 10:43:49+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 852099025063092224,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "username": "nk_m",
+                    "id": "20702279"
+                },
+                {
+                    "start": 6,
+                    "end": 14,
+                    "username": "hodentt",
+                    "id": "467188782"
+                },
+                {
+                    "start": 15,
+                    "end": 20,
+                    "username": "nk_m",
+                    "id": "20702279"
+                },
+                {
+                    "start": 133,
+                    "end": 147,
+                    "username": "LeParisien_75",
+                    "id": "74400293"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 119,
+                    "tag": "LGBT"
+                },
+                {
+                    "start": 120,
+                    "end": 132,
+                    "tag": "Tchétchénie"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 20702279,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "852096100676849664",
+        "text": "Je demande @fhollande une intervention armée immédiate en #Tchétchénie pour libérer nos frères internés parce que homosexuels",
+        "created_at": "2017-04-12 09:48:36+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 852096100676849664,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 11,
+                    "end": 21,
+                    "username": "fhollande",
+                    "id": "18814998"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 70,
+                    "tag": "Tchétchénie"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "851926836770635777",
+        "text": "@Lbucchini @MarineRosset Quand on veut être député il faut respecter la loi. Je m'engage à ne pas faire d'affichage sauvage. @AvecGamet @AvecMRosset",
+        "created_at": "2017-04-11 22:36:00+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 851913117026189312,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "Lbucchini",
+                    "id": "21254599"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "MarineRosset",
+                    "id": "425231735"
+                },
+                {
+                    "start": 136,
+                    "end": 148,
+                    "username": "AvecMRosset",
+                    "id": "818856623393439745"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": 21254599,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "851913117026189312",
+        "text": "Bel exemple d'affichage sauvage @MarineRosset Je rappelle que l’article L. 90 du Code électoral punit d’1 amende max de 9000euros #Circo7502 https://t.co/o8k3veXJDx",
+        "created_at": "2017-04-11 21:41:29+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 851913117026189312,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 32,
+                    "end": 45,
+                    "username": "MarineRosset",
+                    "id": "425231735"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/o8k3veXJDx",
+                    "expanded_url": "https://twitter.com/AvecMRosset/status/851880798575894529",
+                    "display_url": "twitter.com/AvecMRosset/st…"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 130,
+                    "end": 140,
+                    "tag": "Circo7502"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "id": "851731728771231744",
+        "text": "Je souhaite une bonne campagne à ma copine @FatouTallANLD Une grande candidate pour une grande député ! On est tous avec toi",
+        "created_at": "2017-04-11 09:40:43+00:00",
+        "attachments": null,
+        "author_id": 496212632,
+        "context_annotations": [],
+        "conversation_id": 851731728771231744,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 57,
+                    "username": "FatouTallANLD",
+                    "id": "838709682978054145"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "09f6a7707f18e0b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
             "quote_count": 0
         },
         "reply_settings": "everyone",

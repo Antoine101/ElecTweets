@@ -1,0 +1,3668 @@
+[
+    {
+        "id": "873298186345074688",
+        "text": "Dimanche, le choix est entre vos mains, \nDimanche, chaque voix comptera ! https://t.co/qfQYObFMAF",
+        "created_at": "2017-06-09 21:58:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_873298173707640833"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 873298186345074688,
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/qfQYObFMAF",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/873298186345074688/photo/1",
+                    "display_url": "pic.twitter.com/qfQYObFMAF",
+                    "media_key": "3_873298173707640833"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 158,
+            "like_count": 83,
+            "quote_count": 22
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873276232976261121",
+        "text": "La campagne s'achève ce soir. En espérant qu'elle reprenne lundi, si les parisiens veulent donner une voix forte au Parlement.",
+        "created_at": "2017-06-09 20:30:53+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 873276232976261121,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 110,
+            "reply_count": 60,
+            "like_count": 135,
+            "quote_count": 12
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "873187635442929664",
+        "text": "RT @FabMtre: Si au 2nd tour vous ne voulez pas avoir à choisir entre Macron et Macron, votez utile dès le 1er tour, votez @Guaino_Henri ! #…",
+        "created_at": "2017-06-09 14:38:49+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 873187635442929664,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "FabMtre",
+                    "id": "120549876"
+                },
+                {
+                    "start": 122,
+                    "end": 135,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "873169666285416448",
+        "text": "Macron, c’est le règne de la pensée unique et du pseudo progressisme, entre gauche sociétale et droite libérale.\nhttps://t.co/eqxY2DieX4",
+        "created_at": "2017-06-09 13:27:25+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 873169666285416448,
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/eqxY2DieX4",
+                    "expanded_url": "http://www.valeursactuelles.com/politique/exclusif-henri-guaino-lautoritarisme-qui-pointe-chez-monsieur-macron-est-une-inquietude-84547",
+                    "display_url": "valeursactuelles.com/politique/excl…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 440,
+            "reply_count": 58,
+            "like_count": 376,
+            "quote_count": 32
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "872523184444231680",
+        "text": "Je suis ce soir avec @SOSCdOrient pour évoquer la douloureuse situation de la chrétienté en Orient. https://t.co/wI3Vh70vL8",
+        "created_at": "2017-06-07 18:38:32+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872522983893544960",
+                "3_872522984392716288",
+                "3_872522984266838018",
+                "3_872522984606531586"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 872523184444231680,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 33,
+                    "username": "SOSCdOrient",
+                    "id": "1952304890"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/wI3Vh70vL8",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/872523184444231680/photo/1",
+                    "display_url": "pic.twitter.com/wI3Vh70vL8",
+                    "media_key": "3_872522983893544960"
+                },
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/wI3Vh70vL8",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/872523184444231680/photo/1",
+                    "display_url": "pic.twitter.com/wI3Vh70vL8",
+                    "media_key": "3_872522984392716288"
+                },
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/wI3Vh70vL8",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/872523184444231680/photo/1",
+                    "display_url": "pic.twitter.com/wI3Vh70vL8",
+                    "media_key": "3_872522984266838018"
+                },
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/wI3Vh70vL8",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/872523184444231680/photo/1",
+                    "display_url": "pic.twitter.com/wI3Vh70vL8",
+                    "media_key": "3_872522984606531586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 187,
+            "reply_count": 19,
+            "like_count": 245,
+            "quote_count": 10
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872448314779865089",
+        "text": "RT @FabMtre: Sa voix peut s'éteindre, tant mieux, dimanche je vote pour un LR qui incarne une véritable opposition #Guaino https://t.co/NFq…",
+        "created_at": "2017-06-07 13:41:02+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 872448314779865089,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 115,
+                    "end": 122,
+                    "tag": "Guaino"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "FabMtre",
+                    "id": "120549876"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "872353412859514880",
+        "text": "RT @Guaino2017: Henri Guaino et son équipe encore et toujours sur le terrain aujourd'hui ! #Circo7502 #Guaino2017 https://t.co/fUingv8wWq",
+        "created_at": "2017-06-07 07:23:55+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_872067180547932161",
+                "3_872067180992618496"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 872353412859514880,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 91,
+                    "end": 101,
+                    "tag": "Circo7502"
+                },
+                {
+                    "start": 102,
+                    "end": 113,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/fUingv8wWq",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/872067371653107712/photo/1",
+                    "display_url": "pic.twitter.com/fUingv8wWq",
+                    "media_key": "3_872067180547932161"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/fUingv8wWq",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/872067371653107712/photo/1",
+                    "display_url": "pic.twitter.com/fUingv8wWq",
+                    "media_key": "3_872067180992618496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871984289088503809",
+        "text": "L'élection a porté au pouvoir le visage juvénile d'un vieux système qui reprend toujours la main depuis 40 ans. https://t.co/vvp8kuG2W1",
+        "created_at": "2017-06-06 06:57:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871984278053191680"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871984289088503809,
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/vvp8kuG2W1",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/871984289088503809/photo/1",
+                    "display_url": "pic.twitter.com/vvp8kuG2W1",
+                    "media_key": "3_871984278053191680"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 249,
+            "reply_count": 27,
+            "like_count": 232,
+            "quote_count": 15
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871983798304608256",
+        "text": "RT @Guaino2017: .@Guaino_Henri \"A force de dire qu'il faut l'unité, sans trancher les contradictions on finit par ne plus savoir ce pour qu…",
+        "created_at": "2017-06-06 06:55:12+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871983798304608256,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 17,
+                    "end": 30,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871983739118776321",
+        "text": "RT @Guaino2017: .@Guaino_Henri \"Les électeurs de cette élect ont dans leur main une responsab qui dépassent les simples limites de la circo…",
+        "created_at": "2017-06-06 06:54:58+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871983739118776321,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 17,
+                    "end": 30,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871983625218162689",
+        "text": "RT @Guaino2017: .@Guaino_Henri \"Concernant NKM, si elle gagne, qui est-ce qui gagne ? Une pers qui a cherché pdt 15 j à devenir min de Macr…",
+        "created_at": "2017-06-06 06:54:31+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871983625218162689,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 17,
+                    "end": 30,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 55,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "871094320480309248",
+        "text": "Serait-il condamnable qu’un peuple veuille préserver ce qu’il a mis 1000 ans à construire de plus beau à force d’intelligence et de travail? https://t.co/EaBK2Cpcbj",
+        "created_at": "2017-06-03 20:00:44+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_871094108386992128"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871094320480309248,
+        "entities": {
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/EaBK2Cpcbj",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/871094320480309248/photo/1",
+                    "display_url": "pic.twitter.com/EaBK2Cpcbj",
+                    "media_key": "3_871094108386992128"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1156,
+            "reply_count": 100,
+            "like_count": 1268,
+            "quote_count": 42
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871073802993766401",
+        "text": "RT @SOSCdOrient: Dès l'aube les pèlerins affluent vers la cathédrale de #Paris pour la messe d'ouverture du Pélerinage @ndchretiente https:…",
+        "created_at": "2017-06-03 18:39:13+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 871073802993766401,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 78,
+                    "tag": "Paris"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "SOSCdOrient",
+                    "id": "1952304890"
+                },
+                {
+                    "start": 119,
+                    "end": 132,
+                    "username": "ndchretiente",
+                    "id": "1352476380"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 44,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "871053155936735232",
+        "text": "« Tous les fondements de la civilisation sont remis en cause. Nous avons besoin de clarté ! » https://t.co/T2p9lw82Ro via @bvoltaire",
+        "created_at": "2017-06-03 17:17:10+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 871053155936735232,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 122,
+                    "end": 132,
+                    "username": "BVoltaire",
+                    "id": "586595369"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/T2p9lw82Ro",
+                    "expanded_url": "http://www.bvoltaire.fr/fondements-de-civilisation-remis-cause-avons-besoin-de-clarte/",
+                    "display_url": "bvoltaire.fr/fondements-de-…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 244,
+            "reply_count": 27,
+            "like_count": 195,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870923541574815744",
+        "text": "J'appelle les candidats de la 2ème circo de Paris à accepter ma proposition de débat, afin que ce qui nous oppose apparaisse enfin clair. https://t.co/6pivrX7sXr",
+        "created_at": "2017-06-03 08:42:07+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870923349458907136"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870923541574815744,
+        "entities": {
+            "urls": [
+                {
+                    "start": 138,
+                    "end": 161,
+                    "url": "https://t.co/6pivrX7sXr",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/870923541574815744/photo/1",
+                    "display_url": "pic.twitter.com/6pivrX7sXr",
+                    "media_key": "3_870923349458907136"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 157,
+            "reply_count": 13,
+            "like_count": 141,
+            "quote_count": 7
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870726498549936132",
+        "text": ".@nk_m tu dis que je fais perdre mon camp depuis 15 ans. J'ai largement contribué à faire gagner deux présidents de la République. Et toi ? https://t.co/qK5V117sC2",
+        "created_at": "2017-06-02 19:39:09+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870726498549936132,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 1,
+                    "end": 6,
+                    "username": "nk_m",
+                    "id": "20702279"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "url": "https://t.co/qK5V117sC2",
+                    "expanded_url": "https://twitter.com/lcp/status/870563309883465728",
+                    "display_url": "twitter.com/lcp/status/870…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 558,
+            "reply_count": 124,
+            "like_count": 688,
+            "quote_count": 51
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870722380510965763",
+        "text": "La nationalité française, ce n'est pas seulement avoir un travail, un logement, une adresse en France. Une patrie, ce n'est pas un hôtel.",
+        "created_at": "2017-06-02 19:22:47+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 870722380510965763,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1311,
+            "reply_count": 125,
+            "like_count": 1503,
+            "quote_count": 72
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870721961504190465",
+        "text": "RT @Guaino2017: Nous étions également rue cler et dans ses alentours cet après-midi ! #circo7502 #Guaino2017 💪🏻@Guaino_Henri https://t.co/M…",
+        "created_at": "2017-06-02 19:21:07+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870721961504190465,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 96,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 97,
+                    "end": 108,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 111,
+                    "end": 124,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870515295533780993",
+        "text": "RT @Guaino2017: Il n'y a plus assez de places pour tout le monde pour écouter @Guaino_Henri ! #circo7502 💪🏻 https://t.co/WUnzKxHiLB",
+        "created_at": "2017-06-02 05:39:54+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870355334010986496",
+                "3_870355333977341952"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870515295533780993,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 104,
+                    "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 78,
+                    "end": 91,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/WUnzKxHiLB",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/870355359831121920/photo/1",
+                    "display_url": "pic.twitter.com/WUnzKxHiLB",
+                    "media_key": "3_870355334010986496"
+                },
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/WUnzKxHiLB",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/870355359831121920/photo/1",
+                    "display_url": "pic.twitter.com/WUnzKxHiLB",
+                    "media_key": "3_870355333977341952"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870311843465764864",
+        "text": "RT @jjcd49: Les électeurs de la circonscription auront la responsabilité de trancher entre 2 lignes politiques différentes : choix de porté…",
+        "created_at": "2017-06-01 16:11:27+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870311843465764864,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "jjcd49",
+                    "id": "566279306"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870311755666395136",
+        "text": "RT @jjcd49: Ce clan a marginalisé l'inspiration gaulliste qui est pourtant à l'origine de ce parti : il est temps de réagir ! https://t.co/…",
+        "created_at": "2017-06-01 16:11:06+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870311755666395136,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "jjcd49",
+                    "id": "566279306"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870304385523384320",
+        "text": "Un immense merci aux habitants de la 2ème circonscription de Paris pour leur accueil. S'ils m'élisent, je saurai défendre notre pays. https://t.co/tVId8Ie3BE",
+        "created_at": "2017-06-01 15:41:49+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_870302478486601729",
+                "3_870303582721015808",
+                "3_870304346608676864"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 870304385523384320,
+        "entities": {
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/tVId8Ie3BE",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/870304385523384320/photo/1",
+                    "display_url": "pic.twitter.com/tVId8Ie3BE",
+                    "media_key": "3_870302478486601729"
+                },
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/tVId8Ie3BE",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/870304385523384320/photo/1",
+                    "display_url": "pic.twitter.com/tVId8Ie3BE",
+                    "media_key": "3_870303582721015808"
+                },
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/tVId8Ie3BE",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/870304385523384320/photo/1",
+                    "display_url": "pic.twitter.com/tVId8Ie3BE",
+                    "media_key": "3_870304346608676864"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 81,
+            "reply_count": 10,
+            "like_count": 99,
+            "quote_count": 12
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870257945350635520",
+        "text": "RT @Guaino2017: Ca matin nous étions au marché de la Place Maubert, Port Royal, Saxe Breteuil et enfin rue Cler. #NousSommesPartout #Circo7…",
+        "created_at": "2017-06-01 12:37:17+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870257945350635520,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 131,
+                    "tag": "NousSommesPartout"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870197254551994368",
+        "text": "RT @FrkGuiot: .@Guaino_Henri est l'un des plus honnêtes, face à tout ce gloubiboulga politique qui salit la France ! Soutien à Henri #Guain…",
+        "created_at": "2017-06-01 08:36:07+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 870197254551994368,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 28,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "870188005209911296",
+        "text": "Aujourd'hui, \"être de gauche\", ce n'est plus être pour la justice sociale, mais pour la GPA, la PMA, l'euthanasie, le multiculturalisme etc.",
+        "created_at": "2017-06-01 07:59:22+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870188005209911296,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1406,
+            "reply_count": 134,
+            "like_count": 1222,
+            "quote_count": 86
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "870187386566832128",
+        "text": "RT @Guaino2017: Première séance de nuit pour @Guaino_Henri ! 22 h 45 la réunion passionne et s'éternise ! ☺️#Guaino2017 #Circo7502 https://…",
+        "created_at": "2017-06-01 07:56:54+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 870187386566832128,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 119,
+                    "tag": "Guaino2017"
+                },
+                {
+                    "start": 120,
+                    "end": 130,
+                    "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 45,
+                    "end": 58,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869987125957017600",
+        "text": "Que les choses soient claires : j'ai donné mille fois plus à ma famille politique que ceux qui, aujourd'hui, me reprochent de la diviser.",
+        "created_at": "2017-05-31 18:41:09+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 869987125957017600,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 303,
+            "reply_count": 44,
+            "like_count": 449,
+            "quote_count": 7
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869985240143548436",
+        "text": "RT @Guaino2017: Des Parisiens très heureux de la candidature de @Guaino_Henri pour une certaine idée de la France ! #circo7502 https://t.co…",
+        "created_at": "2017-05-31 18:33:39+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 869985240143548436,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 64,
+                    "end": 77,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869884711228891137",
+        "text": "C'est en échangeant avec vous que je suis fier de défendre \"une certaine idée de la France\". #Legislatives2017 https://t.co/GYMqoAk9ru",
+        "created_at": "2017-05-31 11:54:11+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869884693109493760",
+                "3_869884693117890567",
+                "3_869884693126291456"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 869884711228891137,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 110,
+                    "tag": "Legislatives2017"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/GYMqoAk9ru",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869884711228891137/photo/1",
+                    "display_url": "pic.twitter.com/GYMqoAk9ru",
+                    "media_key": "3_869884693109493760"
+                },
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/GYMqoAk9ru",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869884711228891137/photo/1",
+                    "display_url": "pic.twitter.com/GYMqoAk9ru",
+                    "media_key": "3_869884693117890567"
+                },
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/GYMqoAk9ru",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869884711228891137/photo/1",
+                    "display_url": "pic.twitter.com/GYMqoAk9ru",
+                    "media_key": "3_869884693126291456"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 7,
+            "like_count": 44,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869551198478774273",
+        "text": "RT @Guaino2017: @Guaino_Henri proche de ses militants, à l'écoute de ses électeurs : l'homme qu'il nous faut à l'Assemblée. https://t.co/7S…",
+        "created_at": "2017-05-30 13:48:55+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 869551198478774273,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869547344928403457",
+        "text": "J'étais ce matin au Marché Raspail pour convaincre : ne pas choisir une ligne claire, c'est laisser les mains libres au gouvernement. https://t.co/mwHLsFhtxC",
+        "created_at": "2017-05-30 13:33:37+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_869547306999312384",
+                "3_869547307024437248",
+                "3_869547306999320578",
+                "3_869547307028668416"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 869547344928403457,
+        "entities": {
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/mwHLsFhtxC",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869547344928403457/photo/1",
+                    "display_url": "pic.twitter.com/mwHLsFhtxC",
+                    "media_key": "3_869547306999312384"
+                },
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/mwHLsFhtxC",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869547344928403457/photo/1",
+                    "display_url": "pic.twitter.com/mwHLsFhtxC",
+                    "media_key": "3_869547307024437248"
+                },
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/mwHLsFhtxC",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869547344928403457/photo/1",
+                    "display_url": "pic.twitter.com/mwHLsFhtxC",
+                    "media_key": "3_869547306999320578"
+                },
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/mwHLsFhtxC",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/869547344928403457/photo/1",
+                    "display_url": "pic.twitter.com/mwHLsFhtxC",
+                    "media_key": "3_869547307028668416"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 81,
+            "reply_count": 9,
+            "like_count": 73,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869206543954268160",
+        "text": "Avec des amis comme ça, elle n'a plus besoin d'ennemis ! https://t.co/jTj77dXWa7",
+        "created_at": "2017-05-29 14:59:23+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 869206543954268160,
+        "entities": {
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/jTj77dXWa7",
+                    "expanded_url": "https://twitter.com/alainjuppe/status/869167309868470273",
+                    "display_url": "twitter.com/alainjuppe/sta…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 453,
+            "reply_count": 48,
+            "like_count": 444,
+            "quote_count": 26
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "869142574782656512",
+        "text": "RT @Guaino2017: Nous étions aussi Rue Cler ce matin pour défendre \"une certaine idée de la France\" 🇫🇷 https://t.co/2bkML8GD2a",
+        "created_at": "2017-05-29 10:45:12+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868866916470980609",
+                "3_868866916483567617",
+                "3_868866918769467392"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 869142574782656512,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/2bkML8GD2a",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/868866930056286209/photo/1",
+                    "display_url": "pic.twitter.com/2bkML8GD2a",
+                    "media_key": "3_868866916470980609"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/2bkML8GD2a",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/868866930056286209/photo/1",
+                    "display_url": "pic.twitter.com/2bkML8GD2a",
+                    "media_key": "3_868866916483567617"
+                },
+                {
+                    "start": 102,
+                    "end": 125,
+                    "url": "https://t.co/2bkML8GD2a",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/868866930056286209/photo/1",
+                    "display_url": "pic.twitter.com/2bkML8GD2a",
+                    "media_key": "3_868866918769467392"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 35,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "869142517320732673",
+        "text": "RT @Guaino2017: Distribution de roses à toutes les mamans en ce jour de #FeteDesMeres, un petit geste pour vous faire plaisir ! #circo7502…",
+        "created_at": "2017-05-29 10:44:58+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 869142517320732673,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 72,
+                    "end": 85,
+                    "tag": "FeteDesMeres"
+                },
+                {
+                    "start": 128,
+                    "end": 138,
+                    "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868867341345583104",
+        "text": "J'étais Rue Cler ce matin, pour convaincre les parisiens de faire un choix clair pour leur pays. https://t.co/JTni1Plv5n",
+        "created_at": "2017-05-28 16:31:31+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868867328129236992",
+                "3_868867328913682432"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868867341345583104,
+        "entities": {
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/JTni1Plv5n",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868867341345583104/photo/1",
+                    "display_url": "pic.twitter.com/JTni1Plv5n",
+                    "media_key": "3_868867328129236992"
+                },
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/JTni1Plv5n",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868867341345583104/photo/1",
+                    "display_url": "pic.twitter.com/JTni1Plv5n",
+                    "media_key": "3_868867328913682432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 115,
+            "reply_count": 11,
+            "like_count": 153,
+            "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868801008146800640",
+        "text": "RT @FabMtre: Sur le marché Place Monge pour convaincre les Parisiens de voter @Guaino_Henri ! #Guaino2017 @Guaino2017 https://t.co/T53DwxN7…",
+        "created_at": "2017-05-28 12:07:56+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868801008146800640,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 94,
+                    "end": 105,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "FabMtre",
+                    "id": "120549876"
+                },
+                {
+                    "start": 78,
+                    "end": 91,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                },
+                {
+                    "start": 106,
+                    "end": 117,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868555495812063232",
+        "text": "Ils peuvent briser une croix. On ne brisera pas notre âme. https://t.co/WOiduxlNG6",
+        "created_at": "2017-05-27 19:52:21+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868555438400442369"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868555495812063232,
+        "entities": {
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/WOiduxlNG6",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868555495812063232/photo/1",
+                    "display_url": "pic.twitter.com/WOiduxlNG6",
+                    "media_key": "3_868555438400442369"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 992,
+            "reply_count": 89,
+            "like_count": 1158,
+            "quote_count": 35
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868532107332784128",
+        "text": "RT @Guaino2017: Plaisir d'échanger avec les Parisiens sur les marchés et les commerçants de la #circo7502 ! #Guaino2017 @Guaino_Henri https…",
+        "created_at": "2017-05-27 18:19:25+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868532107332784128,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 108,
+                    "end": 119,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 120,
+                    "end": 133,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868460853976346625",
+        "text": "RT @Guaino2017: Sur le vif, Place Maubert, nous échangeons afin de convaincre et voter @Guaino_Henri, une voix gaulliste ! #Circo7502 #Guai…",
+        "created_at": "2017-05-27 13:36:17+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868460853976346625,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 123,
+                    "end": 133,
+                    "tag": "Circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 87,
+                    "end": 100,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868460762985115649",
+        "text": "RT @loic2k: Les équipes d'Henri Guaino sur le terrain à Saint Germain.\n#Guaino https://t.co/uMx3iW17GV",
+        "created_at": "2017-05-27 13:35:55+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868432173577244672"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868460762985115649,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 71,
+                    "end": 78,
+                    "tag": "Guaino"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "loic2k",
+                    "id": "844397276"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/uMx3iW17GV",
+                    "expanded_url": "https://twitter.com/loic2k/status/868432188907409408/photo/1",
+                    "display_url": "pic.twitter.com/uMx3iW17GV",
+                    "media_key": "3_868432173577244672"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868445677940093090",
+        "text": "RT @FabMtre: Sur le marché place Maubert pour convaincre de voter @Guaino_Henri ! #circo7502 #guaino2017 https://t.co/R1vXneAOMJ",
+        "created_at": "2017-05-27 12:35:59+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867705032438947840",
+                "3_867705032447340546",
+                "3_867705032464060416"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868445677940093090,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 92,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 93,
+                    "end": 104,
+                    "tag": "guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "FabMtre",
+                    "id": "120549876"
+                },
+                {
+                    "start": 66,
+                    "end": 79,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/R1vXneAOMJ",
+                    "expanded_url": "https://twitter.com/FabMtre/status/867705051866959873/photo/1",
+                    "display_url": "pic.twitter.com/R1vXneAOMJ",
+                    "media_key": "3_867705032438947840"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/R1vXneAOMJ",
+                    "expanded_url": "https://twitter.com/FabMtre/status/867705051866959873/photo/1",
+                    "display_url": "pic.twitter.com/R1vXneAOMJ",
+                    "media_key": "3_867705032447340546"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/R1vXneAOMJ",
+                    "expanded_url": "https://twitter.com/FabMtre/status/867705051866959873/photo/1",
+                    "display_url": "pic.twitter.com/R1vXneAOMJ",
+                    "media_key": "3_867705032464060416"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868428980566839297",
+        "text": "RT @Guaino2017: Nous sommes avec les Parisiens de la #circo7502 pour échanger et défendre les idées de @Guaino_Henri ! #Guaino2017 https://…",
+        "created_at": "2017-05-27 11:29:38+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868428980566839297,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 63,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 119,
+                    "end": 130,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 103,
+                    "end": 116,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868428898694045697",
+        "text": "RT @Guaino2017: Ce matin, nous sommes partout sur la circonscription pour porter la voix de @Guaino_Henri, ici à Port Royal ! #circo7502 #G…",
+        "created_at": "2017-05-27 11:29:18+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868428898694045697,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 126,
+                    "end": 136,
+                    "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 92,
+                    "end": 105,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868428873440034816",
+        "text": "RT @Guaino2017: Dans la rue cler, les Parisiens veulent une voix forte à l'Assemblée pour défendre une certaine idée de la France ! #circo7…",
+        "created_at": "2017-05-27 11:29:12+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 868428873440034816,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868409480777789440",
+        "text": "Je serai toute la journée à l'écoute des Français de ma circonscription. Leur attente : une voix forte pour les défendre à l'Assemblée. https://t.co/HG5ujQcGuw",
+        "created_at": "2017-05-27 10:12:09+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868409391938248704"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868409480777789440,
+        "entities": {
+            "urls": [
+                {
+                    "start": 136,
+                    "end": 159,
+                    "url": "https://t.co/HG5ujQcGuw",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868409480777789440/photo/1",
+                    "display_url": "pic.twitter.com/HG5ujQcGuw",
+                    "media_key": "3_868409391938248704"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 65,
+            "reply_count": 6,
+            "like_count": 72,
+            "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868389818316750852",
+        "text": "Je ne comprends pas que cet assassinat soit passé sous silence. Cela ne doit pas rester impuni. https://t.co/cbSapHH7Vb",
+        "created_at": "2017-05-27 08:54:01+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868389818316750852,
+        "entities": {
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/cbSapHH7Vb",
+                    "expanded_url": "http://www.lefigaro.fr/actualite-france/2017/05/22/01016-20170522ARTFIG00350-la-defenestration-de-sarah-halimi-mobilise-la-communaute-juive.php",
+                    "display_url": "lefigaro.fr/actualite-fran…",
+                    "status": 200,
+                    "unwound_url": "https://www.lefigaro.fr/actualite-france/2017/05/22/01016-20170522ARTFIG00350-la-defenestration-de-sarah-halimi-mobilise-la-communaute-juive.php"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 895,
+            "reply_count": 79,
+            "like_count": 680,
+            "quote_count": 21
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868382567552233475",
+        "text": "Ce que je veux : la liberté, mais pas la loi de la jungle, l’égalité, mais pas l’égalitarisme, la laïcité, mais pas le laïcisme.",
+        "created_at": "2017-05-27 08:25:12+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868382567552233475,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 376,
+            "reply_count": 24,
+            "like_count": 402,
+            "quote_count": 14
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "868187739262525440",
+        "text": "Quel bonheur de rencontrer des gens qui, comme moi, veulent défendre une certaine idée de la France. #circo7502 https://t.co/WtAAAyu4CD",
+        "created_at": "2017-05-26 19:31:01+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868187728990679041"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            }
+        ],
+        "conversation_id": 868187739262525440,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 111,
+                    "tag": "circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/WtAAAyu4CD",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868187739262525440/photo/1",
+                    "display_url": "pic.twitter.com/WtAAAyu4CD",
+                    "media_key": "3_868187728990679041"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 131,
+            "reply_count": 13,
+            "like_count": 217,
+            "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868133200459124738",
+        "text": "Encore une attaque contre les Chrétiens d'Orient. Jusqu'où ira la haine de la chrétienté ? Cette folie meurtrière ne cessera donc jamais ?",
+        "created_at": "2017-05-26 15:54:18+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868133200459124738,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 557,
+            "reply_count": 90,
+            "like_count": 488,
+            "quote_count": 31
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "868018423963549697",
+        "text": "A 12h, je passerai le Grand Oral des #GGRMC @RMCinfo https://t.co/jORXrBYkOZ",
+        "created_at": "2017-05-26 08:18:13+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_868018418431254530"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 868018423963549697,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 37,
+                    "end": 43,
+                    "tag": "GGRMC"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 52,
+                    "username": "RMCInfo",
+                    "id": "123830541"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 76,
+                    "url": "https://t.co/jORXrBYkOZ",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/868018423963549697/photo/1",
+                    "display_url": "pic.twitter.com/jORXrBYkOZ",
+                    "media_key": "3_868018418431254530"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 3,
+            "like_count": 41,
+            "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867811911144026114",
+        "text": "RT @Guaino2017: Eric Zemmour évoque notre circonscription et le combat nécessaire que porte @Guaino_Henri face à NKM. #circo7502 https://t.…",
+        "created_at": "2017-05-25 18:37:37+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 867811911144026114,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 118,
+                    "end": 128,
+                    "tag": "circo7502"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 92,
+                    "end": 105,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 62,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867791615577993217",
+        "text": "RT @Guaino2017: 🇫🇷 Engagez-vous auprès d'Henri Guaino pour les législatives en envoyant nom/prénom/numéro/adresse/profession à guainodepute…",
+        "created_at": "2017-05-25 17:16:58+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 867791615577993217,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 96,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867716568838541312",
+        "text": "J'étais ce matin au Marché Maubert à l'écoute des habitants du 5ème arrondissement avec Jean-Jacques Chaban-Delmas. #circo7502 https://t.co/TRfkPDsczy",
+        "created_at": "2017-05-25 12:18:46+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_867716547682463745",
+                "3_867716547678281729",
+                "3_867716547682414592",
+                "3_867716547682414594"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 867716568838541312,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/TRfkPDsczy",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/867716568838541312/photo/1",
+                    "display_url": "pic.twitter.com/TRfkPDsczy",
+                    "media_key": "3_867716547682463745"
+                },
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/TRfkPDsczy",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/867716568838541312/photo/1",
+                    "display_url": "pic.twitter.com/TRfkPDsczy",
+                    "media_key": "3_867716547678281729"
+                },
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/TRfkPDsczy",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/867716568838541312/photo/1",
+                    "display_url": "pic.twitter.com/TRfkPDsczy",
+                    "media_key": "3_867716547682414592"
+                },
+                {
+                    "start": 127,
+                    "end": 150,
+                    "url": "https://t.co/TRfkPDsczy",
+                    "expanded_url": "https://twitter.com/Guaino_Henri/status/867716568838541312/photo/1",
+                    "display_url": "pic.twitter.com/TRfkPDsczy",
+                    "media_key": "3_867716547682414594"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 19,
+            "like_count": 91,
+            "quote_count": 6
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867625408065400833",
+        "text": "Je veux que la ligne politique soit claire : NKM incarne quelque chose, j’incarne autre chose. #Circo7502 https://t.co/uxfVyivnqw",
+        "created_at": "2017-05-25 06:16:31+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 867625408065400833,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 105,
+                    "tag": "Circo7502"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 106,
+                    "end": 129,
+                    "url": "https://t.co/uxfVyivnqw",
+                    "expanded_url": "https://youtu.be/gepehUYDuxU",
+                    "display_url": "youtu.be/gepehUYDuxU"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 11,
+            "like_count": 97,
+            "quote_count": 3
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867622306625007617",
+        "text": "RT @RTLFrance: #RTLMatin - le candidat aux #legislatives2017 dans la 2ème circonscription de Paris @Guaino_Henri sera l'invité de #YvesCalv…",
+        "created_at": "2017-05-25 06:04:12+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 867622306625007617,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 24,
+                    "tag": "RTLMatin"
+                },
+                {
+                    "start": 43,
+                    "end": 60,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "RTLFrance",
+                    "id": "34294667"
+                },
+                {
+                    "start": 99,
+                    "end": 112,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "id": "867407912133677056",
+        "text": "RT @behache3: Jean-Jacques Chaban-Delmas, fils de Jacques, est le suppléant d'@Guaino_Henri à Paris, «au nom de la transmission des valeurs…",
+        "created_at": "2017-05-24 15:52:16+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 867407912133677056,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "behache3",
+                    "id": "25808897"
+                },
+                {
+                    "start": 78,
+                    "end": 91,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 110,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867407571912716288",
+        "text": "Lorsque les gens se rendront compte qu'ils ont mis au pouvoir ce dont ils voulaient se débarrasser, craignons la colère du Peuple. #Macron",
+        "created_at": "2017-05-24 15:50:55+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 867407571912716288,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 131,
+                    "end": 138,
+                    "tag": "Macron"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1538,
+            "reply_count": 200,
+            "like_count": 1368,
+            "quote_count": 101
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "867079321214734336",
+        "text": "Avec En Marche, nous sommes en pleine illusion lyrique. Avec ma candidature, vous savez ce que je défendrai: une certaine idée de la France.",
+        "created_at": "2017-05-23 18:06:34+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 867079321214734336,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 231,
+            "reply_count": 30,
+            "like_count": 315,
+            "quote_count": 10
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866922008432562176",
+        "text": "C'est la première fois qu'en votant pour une même étiquette (LR) on ne sait pas si on vote pour la majorité ou pour l'opposition.",
+        "created_at": "2017-05-23 07:41:28+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866922008432562176,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1731,
+            "reply_count": 200,
+            "like_count": 1684,
+            "quote_count": 132
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866921432483332096",
+        "text": "RT @Guaino2017: Tous ici pour faire gagner @Guaino_Henri dans cette circonscription ! #circo7502 #Guaino2017 https://t.co/nwuPbjOgNq",
+        "created_at": "2017-05-23 07:39:10+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_866735102474235904"
+            ]
+        },
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 866921432483332096,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 86,
+                    "end": 96,
+                    "tag": "circo7502"
+                },
+                {
+                    "start": 97,
+                    "end": 108,
+                    "tag": "Guaino2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Guaino2017",
+                    "id": "744277121284120577"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/nwuPbjOgNq",
+                    "expanded_url": "https://twitter.com/Guaino2017/status/866735477054996481/photo/1",
+                    "display_url": "pic.twitter.com/nwuPbjOgNq",
+                    "media_key": "3_866735102474235904"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866577999503687681",
+        "text": "Moi, je ne sais pas ce que c'est que la droite qui pense comme Monsieur Macron. Ce n'est pas la mienne en tout cas. #LCI",
+        "created_at": "2017-05-22 08:54:29+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 866577999503687681,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 120,
+                    "tag": "LCI"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 543,
+            "reply_count": 60,
+            "like_count": 625,
+            "quote_count": 11
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866569310713634816",
+        "text": "RT @audrey_crespo: #VIDÉO : @Guaino_Henri justifie sa candidature face à @nkm à Paris #legislatives2017 &gt;&gt; https://t.co/m0jIFAQngb #LCImati…",
+        "created_at": "2017-05-22 08:19:58+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 866569310713634816,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 25,
+                    "tag": "VIDÉO"
+                },
+                {
+                    "start": 86,
+                    "end": 103,
+                    "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "audrey_crespo",
+                    "id": "3577025416"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "Guaino_Henri",
+                    "id": "742985276495122432"
+                },
+                {
+                    "start": 73,
+                    "end": 77,
+                    "username": "nkm",
+                    "id": "2201364602"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/m0jIFAQngb",
+                    "expanded_url": "http://www.lci.fr/elections/legislatives-henri-guaino-face-a-nkm-a-paris-c-est-aux-electeurs-de-trancher-la-ligne-politique-des-republicains-2052811.html",
+                    "display_url": "lci.fr/elections/legi…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "866249343849951232",
+        "text": "Notre démocratie a besoin d'une droite républicaine qui tranche ses contradictions et adopte une ligne politique claire. #Legislatives2017",
+        "created_at": "2017-05-21 11:08:32+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 866249343849951232,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 121,
+                    "end": 138,
+                    "tag": "Legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 230,
+            "reply_count": 35,
+            "like_count": 289,
+            "quote_count": 11
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "865861575567187969",
+        "text": "Je me présente dans la 2ème circonscription de Paris avec la promesse de rendre à notre vie politique la clarté et la dignité perdues",
+        "created_at": "2017-05-20 09:27:41+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 865861575567187969,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 756,
+            "reply_count": 193,
+            "like_count": 909,
+            "quote_count": 97
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861962025274093568",
+        "text": "Mercredi 20h, je serai avec @CRE_SciencesPo, H. Védrine, Chevènement et Debray pour parler des présidentielles. https://t.co/ud25YqKbgy",
+        "created_at": "2017-05-09 15:12:15+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861962025274093568,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "CRE_SciencesPo",
+                    "id": "1894653906"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/ud25YqKbgy",
+                    "expanded_url": "https://www.facebook.com/events/286190085165902/?ti=icl",
+                    "display_url": "facebook.com/events/2861900…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 37,
+            "like_count": 95,
+            "quote_count": 7
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861687970964877312",
+        "text": "L'homme pour lequel \"la culture française n'existe pas\" va s'asseoir dans le fauteuil du Général De Gaulle...",
+        "created_at": "2017-05-08 21:03:16+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 861687970964877312,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1871,
+            "reply_count": 349,
+            "like_count": 1628,
+            "quote_count": 134
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859903051708190721",
+        "text": "Macron est sans doute l'une des pires choses qui puisse arriver à notre pays.",
+        "created_at": "2017-05-03 22:50:38+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859903051708190721,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3217,
+            "reply_count": 654,
+            "like_count": 3101,
+            "quote_count": 225
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859727136357273600",
+        "text": "Guerre de mémoire : Marine Le Pen fait une campagne plus digne que celle d'Emmanuel Macron.",
+        "created_at": "2017-05-03 11:11:36+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859727136357273600,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2607,
+            "reply_count": 487,
+            "like_count": 2793,
+            "quote_count": 195
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859378786525118464",
+        "text": "Macron est une imposture intellectuelle, morale et politique.",
+        "created_at": "2017-05-02 12:07:23+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 859378786525118464,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3467,
+            "reply_count": 564,
+            "like_count": 3495,
+            "quote_count": 256
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859136778585944064",
+        "text": "Si Macron gouverne la France comme il parle aux ouvriers, le pire est à craindre. - HG",
+        "created_at": "2017-05-01 20:05:44+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 859136778585944064,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2641,
+            "reply_count": 374,
+            "like_count": 2572,
+            "quote_count": 109
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858032330774130689",
+        "text": "Emmanuel Macron représente ce que j'ai toujours combattu en politique.",
+        "created_at": "2017-04-28 18:57:03+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 858032330774130689,
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2577,
+            "reply_count": 602,
+            "like_count": 2927,
+            "quote_count": 213
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856817742128852992",
+        "text": "Jamais personne ne me fera voter pour Emmanuel Macron. #Présidentielle2017",
+        "created_at": "2017-04-25 10:30:43+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            }
+        ],
+        "conversation_id": 856817742128852992,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 74,
+                    "tag": "Présidentielle2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1794,
+            "reply_count": 328,
+            "like_count": 2132,
+            "quote_count": 151
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "854723497691680770",
+        "text": "J'aurais tout fait pour que tout cela n'arrive pas. #Presidentielle2017",
+        "created_at": "2017-04-19 15:48:56+00:00",
+        "attachments": null,
+        "author_id": 742985276495122432,
+        "context_annotations": [],
+        "conversation_id": 854723497691680770,
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 71,
+                    "tag": "Presidentielle2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 153,
+            "reply_count": 84,
+            "like_count": 205,
+            "quote_count": 16
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

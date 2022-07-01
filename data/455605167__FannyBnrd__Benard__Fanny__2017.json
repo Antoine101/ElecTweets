@@ -49,14 +49,6 @@
                     "display_url": "youtu.be/iFzDpbQuumw"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 47,
@@ -67,6 +59,14 @@
                     "start": 68,
                     "end": 83,
                     "tag": "votonscitoyens"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -134,14 +134,6 @@
                     "display_url": "twitter.com/nousdemocratie…"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 15,
-                    "username": "BenjMathieu",
-                    "id": "1934913450"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 25,
@@ -152,6 +144,14 @@
                     "start": 55,
                     "end": 64,
                     "tag": "citoyens"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "BenjMathieu",
+                    "id": "1934913450"
                 }
             ]
         },
@@ -178,14 +178,6 @@
         "context_annotations": [],
         "conversation_id": 870530531204763648,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 54,
@@ -201,6 +193,14 @@
                     "start": 114,
                     "end": 126,
                     "tag": "quaideseine"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -523,6 +523,13 @@
         "context_annotations": [],
         "conversation_id": 867454593206292480,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 125,
+                    "end": 133,
+                    "tag": "circo18"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -535,13 +542,6 @@
                     "end": 59,
                     "username": "LCI",
                     "id": "26110930"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 125,
-                    "end": 133,
-                    "tag": "circo18"
                 }
             ]
         },
@@ -704,6 +704,18 @@
         ],
         "conversation_id": 866634114107101184,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 87,
+                    "end": 94,
+                    "tag": "Macron"
+                },
+                {
+                    "start": 98,
+                    "end": 108,
+                    "tag": "Mélenchon"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -716,18 +728,6 @@
                     "end": 125,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 87,
-                    "end": 94,
-                    "tag": "Macron"
-                },
-                {
-                    "start": 98,
-                    "end": 108,
-                    "tag": "Mélenchon"
                 }
             ]
         },
@@ -815,6 +815,13 @@
         ],
         "conversation_id": 866634104305004544,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 27,
+                    "tag": "Macron"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -827,13 +834,6 @@
                     "end": 128,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 27,
-                    "tag": "Macron"
                 }
             ]
         },
@@ -860,6 +860,13 @@
         "context_annotations": [],
         "conversation_id": 866634094477815809,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 129,
+                    "tag": "renouvellement"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -878,13 +885,6 @@
                     "end": 53,
                     "username": "franceinfo",
                     "id": "38395124"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 114,
-                    "end": 129,
-                    "tag": "renouvellement"
                 }
             ]
         },
@@ -955,6 +955,18 @@
         "context_annotations": [],
         "conversation_id": 866005339354869760,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 112,
+                    "tag": "rendeznouslecharpe"
+                },
+                {
+                    "start": 129,
+                    "end": 137,
+                    "tag": "circo18"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -967,18 +979,6 @@
                     "end": 128,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 93,
-                    "end": 112,
-                    "tag": "rendeznouslecharpe"
-                },
-                {
-                    "start": 129,
-                    "end": 137,
-                    "tag": "circo18"
                 }
             ]
         },
@@ -1018,6 +1018,13 @@
         ],
         "conversation_id": 865984293658656768,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 125,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1030,13 +1037,6 @@
                     "end": 87,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 106,
-                    "end": 125,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -1086,19 +1086,19 @@
         ],
         "conversation_id": 865981980298674176,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 122,
+                    "tag": "circo18"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 114,
-                    "end": 122,
-                    "tag": "circo18"
                 }
             ]
         },
@@ -1125,19 +1125,19 @@
         "context_annotations": [],
         "conversation_id": 865315114093867008,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 108,
+                    "end": 132,
+                    "tag": "NosVoixSontEssentielles"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 16,
                     "username": "greenpeacefr",
                     "id": "4008771"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 108,
-                    "end": 132,
-                    "tag": "NosVoixSontEssentielles"
                 }
             ]
         },
@@ -1280,19 +1280,19 @@
                     "display_url": "twitter.com/GrablyR/status…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 39,
+                    "tag": "gouvernementmacron"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 39,
-                    "tag": "gouvernementmacron"
                 }
             ]
         },
@@ -1332,14 +1332,6 @@
         ],
         "conversation_id": 864241690789507079,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 55,
@@ -1350,6 +1342,14 @@
                     "start": 107,
                     "end": 124,
                     "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -1389,6 +1389,13 @@
         ],
         "conversation_id": 864089346042978305,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 104,
+                    "end": 121,
+                    "tag": "legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1407,13 +1414,6 @@
                     "end": 94,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 104,
-                    "end": 121,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -1440,19 +1440,19 @@
         "context_annotations": [],
         "conversation_id": 864089270755217409,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 23,
+                    "end": 30,
+                    "tag": "député"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 23,
-                    "end": 30,
-                    "tag": "député"
                 }
             ]
         },
@@ -1565,6 +1565,18 @@
         "context_annotations": [],
         "conversation_id": 863454308628660224,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 68,
+                    "end": 76,
+                    "tag": "circo18"
+                },
+                {
+                    "start": 95,
+                    "end": 114,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1577,18 +1589,6 @@
                     "end": 134,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 68,
-                    "end": 76,
-                    "tag": "circo18"
-                },
-                {
-                    "start": 95,
-                    "end": 114,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -1650,14 +1650,6 @@
         ],
         "conversation_id": 863090149785260032,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 41,
@@ -1673,6 +1665,14 @@
                     "start": 122,
                     "end": 130,
                     "tag": "twitter"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -1699,6 +1699,18 @@
         "context_annotations": [],
         "conversation_id": 862797431028711424,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 127,
+                    "tag": "circo18"
+                },
+                {
+                    "start": 128,
+                    "end": 136,
+                    "tag": "Paris18"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1711,18 +1723,6 @@
                     "end": 118,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 119,
-                    "end": 127,
-                    "tag": "circo18"
-                },
-                {
-                    "start": 128,
-                    "end": 136,
-                    "tag": "Paris18"
                 }
             ]
         },
@@ -1763,14 +1763,6 @@
                     "media_key": "3_862758365734293504"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 60,
@@ -1781,6 +1773,14 @@
                     "start": 78,
                     "end": 97,
                     "tag": "reprenonslepouvoir"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -1883,6 +1883,18 @@
                     "display_url": "twitter.com/benjmathieu/st…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "rendeznouslecharpe"
+                },
+                {
+                    "start": 57,
+                    "end": 74,
+                    "tag": "legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 44,
@@ -1895,18 +1907,6 @@
                     "end": 90,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 19,
-                    "tag": "rendeznouslecharpe"
-                },
-                {
-                    "start": 57,
-                    "end": 74,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -1946,6 +1946,13 @@
         ],
         "conversation_id": 862262436535181312,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 63,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -1964,13 +1971,6 @@
                     "end": 130,
                     "username": "Le_Figaro",
                     "id": "8350912"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 44,
-                    "end": 63,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2006,14 +2006,6 @@
                     "display_url": "twitter.com/emmanuelrmarti…"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 123,
-                    "end": 138,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 85,
@@ -2024,6 +2016,14 @@
                     "start": 103,
                     "end": 122,
                     "tag": "rendeznouslecharpe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 123,
+                    "end": 138,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -2087,6 +2087,13 @@
         ],
         "conversation_id": 862200273770618880,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 117,
+                    "tag": "Rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2111,13 +2118,6 @@
                     "end": 60,
                     "username": "benoithamon",
                     "id": "14389177"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 98,
-                    "end": 117,
-                    "tag": "Rendeznouslecharpe"
                 }
             ]
         },
@@ -2144,6 +2144,13 @@
         "context_annotations": [],
         "conversation_id": 862194954654941184,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 129,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2156,13 +2163,6 @@
                     "end": 36,
                     "username": "AssembleeNat",
                     "id": "242694507"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 110,
-                    "end": 129,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2295,6 +2295,13 @@
                     "display_url": "twitter.com/EmmanuelRMarti…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 79,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2307,13 +2314,6 @@
                     "end": 59,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 60,
-                    "end": 79,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2425,14 +2425,6 @@
                     "display_url": "twitter.com/BenjMathieu/st…"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "astridquillien",
-                    "id": "835872902666993666"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 30,
@@ -2443,6 +2435,14 @@
                     "start": 74,
                     "end": 93,
                     "tag": "rendeznouslecharpe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "astridquillien",
+                    "id": "835872902666993666"
                 }
             ]
         },
@@ -2478,6 +2478,13 @@
                     "display_url": "twitter.com/EmmanuelRMarti…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 88,
+                    "end": 107,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2490,13 +2497,6 @@
                     "end": 87,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 88,
-                    "end": 107,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2545,6 +2545,13 @@
                     "display_url": "twitter.com/benjmathieu/st…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 108,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2557,13 +2564,6 @@
                     "end": 36,
                     "username": "fpupponi",
                     "id": "413819531"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 89,
-                    "end": 108,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2590,6 +2590,13 @@
         "context_annotations": [],
         "conversation_id": 862187449929392128,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 93,
+                    "end": 104,
+                    "tag": "democratie"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2608,13 +2615,6 @@
                     "end": 64,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 93,
-                    "end": 104,
-                    "tag": "democratie"
                 }
             ]
         },
@@ -2641,6 +2641,13 @@
         "context_annotations": [],
         "conversation_id": 862185402840608768,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 120,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2659,13 +2666,6 @@
                     "end": 71,
                     "username": "JLWingert",
                     "id": "26823148"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 101,
-                    "end": 120,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2706,6 +2706,13 @@
                     "media_key": "3_862182484506796032"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 71,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2718,13 +2725,6 @@
                     "end": 87,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 52,
-                    "end": 71,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2773,14 +2773,6 @@
                     "display_url": "twitter.com/leabons/status…"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 85,
-                    "end": 100,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 47,
@@ -2791,6 +2783,14 @@
                     "start": 67,
                     "end": 84,
                     "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 100,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -2817,6 +2817,13 @@
         "context_annotations": [],
         "conversation_id": 862183810770841600,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 108,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -2829,13 +2836,6 @@
                     "end": 125,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 89,
-                    "end": 108,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2889,19 +2889,19 @@
                     "media_key": "3_862181828907737088"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 99,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "EmmanuelRMartin",
                     "id": "836263161418432513"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 80,
-                    "end": 99,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2942,19 +2942,19 @@
                     "media_key": "3_862181220498759680"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 101,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 82,
-                    "end": 101,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -2981,6 +2981,18 @@
         "context_annotations": [],
         "conversation_id": 862182071653076992,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 35,
+                    "tag": "rendeznouslecharpe"
+                },
+                {
+                    "start": 40,
+                    "end": 57,
+                    "tag": "legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -2993,18 +3005,6 @@
                     "end": 78,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 16,
-                    "end": 35,
-                    "tag": "rendeznouslecharpe"
-                },
-                {
-                    "start": 40,
-                    "end": 57,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -3077,14 +3077,6 @@
                     "media_key": "3_862181336324374528"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 102,
-                    "end": 117,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 64,
@@ -3095,6 +3087,14 @@
                     "start": 84,
                     "end": 101,
                     "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 102,
+                    "end": 117,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -3121,6 +3121,18 @@
         "context_annotations": [],
         "conversation_id": 862180450340675584,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 41,
+                    "end": 58,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 80,
+                    "end": 99,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -3139,18 +3151,6 @@
                     "end": 79,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 41,
-                    "end": 58,
-                    "tag": "legislatives2017"
-                },
-                {
-                    "start": 80,
-                    "end": 99,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3177,6 +3177,18 @@
         "context_annotations": [],
         "conversation_id": 862175707916644352,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 36,
+                    "tag": "rendeznouslecharpe"
+                },
+                {
+                    "start": 59,
+                    "end": 76,
+                    "tag": "legislatives2017"
+                }
+            ],
             "mentions": [
                 {
                     "start": 0,
@@ -3189,18 +3201,6 @@
                     "end": 97,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 17,
-                    "end": 36,
-                    "tag": "rendeznouslecharpe"
-                },
-                {
-                    "start": 59,
-                    "end": 76,
-                    "tag": "legislatives2017"
                 }
             ]
         },
@@ -3254,6 +3254,13 @@
                     "media_key": "3_862177957082804224"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 72,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3266,13 +3273,6 @@
                     "end": 88,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 72,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3342,14 +3342,6 @@
                     "display_url": "twitter.com/matthieu_niang…"
                 }
             ],
-            "mentions": [
-                {
-                    "start": 99,
-                    "end": 114,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 61,
@@ -3360,6 +3352,14 @@
                     "start": 79,
                     "end": 98,
                     "tag": "rendeznouslecharpe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 114,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -3411,14 +3411,6 @@
         ],
         "conversation_id": 862178191653433344,
         "entities": {
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "FatouTallANLD",
-                    "id": "838709682978054145"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 47,
@@ -3429,6 +3421,14 @@
                     "start": 102,
                     "end": 119,
                     "tag": "legislatives2017"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "FatouTallANLD",
+                    "id": "838709682978054145"
                 }
             ]
         },
@@ -3509,19 +3509,19 @@
                     "media_key": "3_862177263772741633"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 77,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 11,
                     "username": "LeaBons",
                     "id": "2875219540"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 58,
-                    "end": 77,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3594,6 +3594,13 @@
                     "display_url": "twitter.com/LeaBons/status…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 67,
+                    "end": 86,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3612,13 +3619,6 @@
                     "end": 92,
                     "username": "nous",
                     "id": "4145211"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 67,
-                    "end": 86,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3699,6 +3699,13 @@
                     "display_url": "twitter.com/benjmathieu/st…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 34,
+                    "end": 53,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3711,13 +3718,6 @@
                     "end": 69,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 34,
-                    "end": 53,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3753,6 +3753,13 @@
                     "display_url": "twitter.com/matthieu_niang…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 79,
+                    "end": 98,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -3765,13 +3772,6 @@
                     "end": 114,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 79,
-                    "end": 98,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3812,19 +3812,19 @@
                     "media_key": "3_862173939317043200"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 73,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 54,
-                    "end": 73,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -3851,14 +3851,6 @@
         "context_annotations": [],
         "conversation_id": 862171798313598977,
         "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 16,
-                    "username": "Matthieu_Niango",
-                    "id": "852188206560944129"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 17,
@@ -3869,6 +3861,14 @@
                     "start": 35,
                     "end": 54,
                     "tag": "rendeznouslecharpe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Matthieu_Niango",
+                    "id": "852188206560944129"
                 }
             ]
         },
@@ -3920,14 +3920,6 @@
         ],
         "conversation_id": 862164467580379136,
         "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
-                }
-            ],
             "hashtags": [
                 {
                     "start": 16,
@@ -3938,6 +3930,14 @@
                     "start": 34,
                     "end": 53,
                     "tag": "rendeznouslecharpe"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
                 }
             ]
         },
@@ -3973,19 +3973,19 @@
                     "display_url": "twitter.com/benjmathieu/st…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 68,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 69,
                     "end": 84,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 49,
-                    "end": 68,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4012,6 +4012,13 @@
         "context_annotations": [],
         "conversation_id": 862170845694840832,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 102,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4024,13 +4031,6 @@
                     "end": 118,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 83,
-                    "end": 102,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4071,19 +4071,19 @@
                     "media_key": "3_862169720958615552"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 72,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 11,
                     "username": "LeaBons",
                     "id": "2875219540"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 53,
-                    "end": 72,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4151,19 +4151,19 @@
                     "display_url": "twitter.com/Matthieu_Niang…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4204,19 +4204,19 @@
                     "media_key": "3_862162829452902400"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 58,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 39,
-                    "end": 58,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4252,19 +4252,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4300,19 +4300,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4348,19 +4348,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4401,19 +4401,19 @@
                     "media_key": "3_862165780049297408"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 61,
+                    "end": 80,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 61,
-                    "end": 80,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4449,19 +4449,19 @@
                     "display_url": "twitter.com/leabons/status…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 59,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 24,
                     "end": 39,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 40,
-                    "end": 59,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4510,19 +4510,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4576,6 +4576,13 @@
                     "media_key": "3_862166226088464384"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 60,
+                    "end": 79,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4588,13 +4595,6 @@
                     "end": 95,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 60,
-                    "end": 79,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4635,6 +4635,13 @@
                     "media_key": "3_862166441319182337"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 58,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
@@ -4647,13 +4654,6 @@
                     "end": 74,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 39,
-                    "end": 58,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4689,19 +4689,19 @@
                     "display_url": "twitter.com/DiezVM/status/…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4737,19 +4737,19 @@
                     "display_url": "twitter.com/diezvm/status/…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 59,
                     "end": 74,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 19,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4803,19 +4803,19 @@
                     "media_key": "3_862164463478288384"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 61,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 42,
-                    "end": 61,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4856,19 +4856,19 @@
                     "media_key": "3_862164632018051072"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 78,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 59,
-                    "end": 78,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4909,19 +4909,19 @@
                     "media_key": "3_862165402432020481"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 68,
                     "end": 83,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 19,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -4948,19 +4948,19 @@
         "context_annotations": [],
         "conversation_id": 862164605849788417,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 139,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 120,
-                    "end": 139,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5026,19 +5026,19 @@
                     "media_key": "3_862163903396151296"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 71,
+                    "end": 90,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 71,
-                    "end": 90,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5079,19 +5079,19 @@
                     "media_key": "3_862163724030939136"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 46,
+                    "end": 65,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 46,
-                    "end": 65,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5127,19 +5127,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5175,19 +5175,19 @@
                     "display_url": "twitter.com/NousDemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 19,
+                    "end": 38,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 17,
                     "username": "FatouTallANLD",
                     "id": "838709682978054145"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 19,
-                    "end": 38,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5228,19 +5228,19 @@
                     "media_key": "3_862160071660363776"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 47,
+                    "end": 66,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 19,
                     "username": "Matthieu_Niango",
                     "id": "852188206560944129"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 47,
-                    "end": 66,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5281,19 +5281,19 @@
                     "media_key": "3_862160209833340928"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 82,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 47,
                     "end": 62,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 63,
-                    "end": 82,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5347,19 +5347,19 @@
                     "media_key": "3_862160843278036993"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 20,
                     "end": 35,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 19,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5400,19 +5400,19 @@
                     "media_key": "3_862136706266529792"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 39,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 39,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5439,19 +5439,19 @@
         "context_annotations": [],
         "conversation_id": 862160107928473601,
         "entities": {
+            "hashtags": [
+                {
+                    "start": 100,
+                    "end": 119,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 100,
-                    "end": 119,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5492,19 +5492,19 @@
                     "media_key": "3_862159837815242753"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 65,
                     "end": 80,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 0,
-                    "end": 19,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5545,19 +5545,19 @@
                     "media_key": "3_862135243926536192"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 39,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 3,
                     "end": 18,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 20,
-                    "end": 39,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5593,19 +5593,19 @@
                     "display_url": "twitter.com/nousdemocratie…"
                 }
             ],
+            "hashtags": [
+                {
+                    "start": 34,
+                    "end": 53,
+                    "tag": "rendeznouslecharpe"
+                }
+            ],
             "mentions": [
                 {
                     "start": 54,
                     "end": 69,
                     "username": "NousDemocratie",
                     "id": "803600322811805697"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 34,
-                    "end": 53,
-                    "tag": "rendeznouslecharpe"
                 }
             ]
         },
@@ -5636,6 +5636,14 @@
         "context_annotations": [],
         "conversation_id": 862158155245080581,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 20,
@@ -5651,14 +5659,6 @@
                     "expanded_url": "https://twitter.com/NousDemocratie/status/862137411870101504/photo/1",
                     "display_url": "pic.twitter.com/Vh82yTwKzu",
                     "media_key": "3_862137370166132737"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
                 }
             ]
         },
@@ -5689,6 +5689,14 @@
         "context_annotations": [],
         "conversation_id": 862158138828619777,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 20,
@@ -5704,14 +5712,6 @@
                     "expanded_url": "https://twitter.com/NousDemocratie/status/862140896845934593/photo/1",
                     "display_url": "pic.twitter.com/3Ef32aNx1d",
                     "media_key": "3_862140880773316608"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
                 }
             ]
         },
@@ -5742,6 +5742,14 @@
         "context_annotations": [],
         "conversation_id": 862158102031937537,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 20,
@@ -5757,14 +5765,6 @@
                     "expanded_url": "https://twitter.com/NousDemocratie/status/862146938845757440/photo/1",
                     "display_url": "pic.twitter.com/n9wCbAJHDc",
                     "media_key": "3_862146913273094146"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 18,
-                    "username": "NousDemocratie",
-                    "id": "803600322811805697"
                 }
             ]
         },
@@ -5795,6 +5795,14 @@
         "context_annotations": [],
         "conversation_id": 862158091298770946,
         "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
             "hashtags": [
                 {
                     "start": 20,
@@ -5811,7 +5819,56 @@
                     "display_url": "pic.twitter.com/VcsZhzhTOF",
                     "media_key": "3_862135011029417984"
                 }
-            ],
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861304924881043456",
+        "text": "RT @NousDemocratie: La France échappe au fascisme. Maintenant, les citoyens peuvent s'exprimer autrement que le pistolet sur la tempe #Legi…",
+        "created_at": "2017-05-07 19:41:11+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855410955341119490",
+                    "name": "France",
+                    "description": "France"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861304924881043456,
+        "entities": {
             "mentions": [
                 {
                     "start": 3,
@@ -5823,10 +5880,2207 @@
         },
         "geo": null,
         "in_reply_to_user_id": null,
-        "lang": "qme",
+        "lang": "fr",
         "possibly_sensitive": false,
         "public_metrics": {
-            "retweet_count": 10,
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861215603205431296",
+        "text": "RT @NousDemocratie: Unifions les mouvements #citoyens contre les #professionnels de la politique. Eux se serrent déjà bien les coudes.\nhttp…",
+        "created_at": "2017-05-07 13:46:15+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 861215603205431296,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 53,
+                    "tag": "citoyens"
+                },
+                {
+                    "start": 65,
+                    "end": 80,
+                    "tag": "professionnels"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861107729380687873",
+        "text": "RT @NousDemocratie: Vous avez envie de #renouveau et de #candidatscitoyens ? Venez découvrir ce que nous proposons à l'ENS jeudi 11 mai htt…",
+        "created_at": "2017-05-07 06:37:35+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 861107729380687873,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 49,
+                    "tag": "renouveau"
+                },
+                {
+                    "start": 56,
+                    "end": 74,
+                    "tag": "candidatscitoyens"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "861107375536693248",
+        "text": "RT @NousDemocratie: This is it ! Rendez-vous le 11 mai à Paris pour rencontrer vos candidats citoyens en IDF pour #legislatives2017 https:/…",
+        "created_at": "2017-05-07 06:36:11+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 861107375536693248,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 114,
+                    "end": 131,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109335954939904",
+        "text": "RT @NousDemocratie: On parle d' \"initiative populaire\" ? #2017LeDébat https://t.co/cakhekUNMw",
+        "created_at": "2017-05-04 12:30:20+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_859882474591195138"
+            ]
+        },
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109335954939904,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 69,
+                    "tag": "2017LeDébat"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/cakhekUNMw",
+                    "expanded_url": "https://twitter.com/NousDemocratie/status/859882483982225408/photo/1",
+                    "display_url": "pic.twitter.com/cakhekUNMw",
+                    "media_key": "3_859882474591195138"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109325779558400",
+        "text": "RT @NousDemocratie: \"Je ferai\", \"je déciderai\", \"je proposerai\", \"je serai\", \"je financerai\", \"j'eradiquerai\"... #2017LeDebat",
+        "created_at": "2017-05-04 12:30:17+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109325779558400,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 125,
+                    "tag": "2017LeDebat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109264504881152",
+        "text": "RT @NousDemocratie: On assiste donc à un pugilat illisible. Nous méritons un débat de + grande qualité #2017LeDebat",
+        "created_at": "2017-05-04 12:30:03+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109264504881152,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 115,
+                    "tag": "2017LeDebat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109246440099841",
+        "text": "RT @NousDemocratie: En direct du #2017LeDébat : deux #professionnels de la politique se disputent nos voix pour mieux nous faire taire pend…",
+        "created_at": "2017-05-04 12:29:59+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109246440099841,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 33,
+                    "end": 45,
+                    "tag": "2017LeDébat"
+                },
+                {
+                    "start": 53,
+                    "end": 68,
+                    "tag": "professionnels"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109218988294145",
+        "text": "RT @NousDemocratie: \"Mes électeurs\", \"les miens\", dit #LePen. Aucun citoyen ne vous appartient, madame ! #2017LeDébat",
+        "created_at": "2017-05-04 12:29:52+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109218988294145,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 60,
+                    "tag": "LePen"
+                },
+                {
+                    "start": 105,
+                    "end": 117,
+                    "tag": "2017LeDébat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109191943475202",
+        "text": "RT @NousDemocratie: Bon quand est-ce qu'on parle des institutions ? Laissez un peu les Français décider ! #2017LeDebat",
+        "created_at": "2017-05-04 12:29:46+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109191943475202,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 118,
+                    "tag": "2017LeDebat"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "860109179150905345",
+        "text": "RT @NousDemocratie: #CumulDesMandats : la proposition d'anld reçoit un soutien timide de #Macron. Allons plus loin. https://t.co/y8Y6CrnmbN",
+        "created_at": "2017-05-04 12:29:43+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_859878432506863617"
+            ]
+        },
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 860109179150905345,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 36,
+                    "tag": "CumulDesMandats"
+                },
+                {
+                    "start": 89,
+                    "end": 96,
+                    "tag": "Macron"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/y8Y6CrnmbN",
+                    "expanded_url": "https://twitter.com/NousDemocratie/status/859878439096115207/photo/1",
+                    "display_url": "pic.twitter.com/y8Y6CrnmbN",
+                    "media_key": "3_859878432506863617"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "859076960210878465",
+        "text": "RT @NousDemocratie: #legislatives2017 : @AdhalBaraANLD en campagne à #Sarcelles https://t.co/mHGWq72WcB",
+        "created_at": "2017-05-01 16:08:02+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 859076960210878465,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                },
+                {
+                    "start": 40,
+                    "end": 54,
+                    "username": "AdhalBaraANLD",
+                    "id": "841751521545097216"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 37,
+                    "tag": "legislatives2017"
+                },
+                {
+                    "start": 69,
+                    "end": 79,
+                    "tag": "Sarcelles"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/mHGWq72WcB",
+                    "expanded_url": "https://youtu.be/j8oJlj2-SZw",
+                    "display_url": "youtu.be/j8oJlj2-SZw",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=j8oJlj2-SZw&feature=youtu.be"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858450380140797956",
+        "text": "RT @DisizKmel: Je retourne ma veste toujours du bon côté  #MLPNDA https://t.co/rjD3Jzlleu",
+        "created_at": "2017-04-29 22:38:14+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_858254772759130115"
+            ]
+        },
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 858450380140797956,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "DisizKmel",
+                    "id": "4438798815"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 65,
+                    "tag": "MLPNDA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/rjD3Jzlleu",
+                    "expanded_url": "https://twitter.com/DisizKmel/status/858254781646819329/photo/1",
+                    "display_url": "pic.twitter.com/rjD3Jzlleu",
+                    "media_key": "3_858254772759130115"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "858361491887714304",
+        "text": "Il faut des mouvements citoyens pour changer les choses de l'intérieur @Matthieu_Niango @NousDemocratie #Démocratiesansmaître #ANLD",
+        "created_at": "2017-04-29 16:45:01+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 858361491887714304,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 71,
+                    "end": 87,
+                    "username": "Matthieu_Niango",
+                    "id": "852188206560944129"
+                },
+                {
+                    "start": 88,
+                    "end": 103,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 104,
+                    "end": 125,
+                    "tag": "Démocratiesansmaître"
+                },
+                {
+                    "start": 126,
+                    "end": 131,
+                    "tag": "ANLD"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "857519225677676544",
+        "text": "RT @BenjMathieu: Le premier tour de la #Presidentielle2017 vu par les @JeunesFillon c'est à revivre ici en vidéo #fillon #LR https://t.co/k…",
+        "created_at": "2017-04-27 08:58:09+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            }
+        ],
+        "conversation_id": 857519225677676544,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "BenjMathieu",
+                    "id": "1934913450"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 58,
+                    "tag": "Presidentielle2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856257747075117056",
+        "text": "RT @Sebastien_Kopp: #Whomademyclothes ? Super journée hier à Paris avec de nombreuses voix qui s'élèvent, des chemins qui se croisent #rana…",
+        "created_at": "2017-04-23 21:25:30+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "13",
+                    "name": "Place",
+                    "description": "Named places in the world, like Fenway Park"
+                },
+                "entity": {
+                    "id": "855411324334899200",
+                    "name": "Paris",
+                    "description": "Paris"
+                }
+            }
+        ],
+        "conversation_id": 856257747075117056,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Sebastien_Kopp",
+                    "id": "602567426"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 20,
+                    "end": 37,
+                    "tag": "Whomademyclothes"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856256005172338689",
+        "text": "RT @ParisPasRose: #BREAKING Au QG de Fillon, des militants de @SensCommun_ se disent désormais prêts pour des sexualités alternatives.\nhttp…",
+        "created_at": "2017-04-23 21:18:34+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856256005172338689,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "ParisPasRose",
+                    "id": "2270881405"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 27,
+                    "tag": "BREAKING"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 738,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856255448776929280",
+        "text": "RT @NousDemocratie: Les Français veulent du #renouveau ! Tout est ouvert pour les #législatives2017",
+        "created_at": "2017-04-23 21:16:22+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856255448776929280,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 44,
+                    "end": 54,
+                    "tag": "renouveau"
+                },
+                {
+                    "start": 82,
+                    "end": 99,
+                    "tag": "législatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856255300764143617",
+        "text": "RT @NousDemocratie: Et maintenant, @FrancoisFillon doit rendre des comptes à la justice. #Presidentielle2017 #justice https://t.co/L4OXiAix…",
+        "created_at": "2017-04-23 21:15:46+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822150372865081344",
+                    "name": "François Fillon",
+                    "description": "François Fillon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856255300764143617,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                },
+                {
+                    "start": 35,
+                    "end": 50,
+                    "username": "FrancoisFillon",
+                    "id": "551669623"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 108,
+                    "tag": "Presidentielle2017"
+                },
+                {
+                    "start": 109,
+                    "end": 117,
+                    "tag": "justice"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856254412582506497",
+        "text": "RT @NousDemocratie: Défaite historique des vieux #partis. Plus que jamais, les citoyens peuvent et doivent reprendre les rênes #ANousLaDemo…",
+        "created_at": "2017-04-23 21:12:15+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856254412582506497,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 49,
+                    "end": 56,
+                    "tag": "partis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856219086270984196",
+        "text": "RT @LeaBons: Ne votez plus pour eux, votez pour vous #legislatives2017 @NousDemocratie @ReleveCitoyenne",
+        "created_at": "2017-04-23 18:51:52+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856219086270984196,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LeaBons",
+                    "id": "2875219540"
+                },
+                {
+                    "start": 71,
+                    "end": 86,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                },
+                {
+                    "start": 87,
+                    "end": 103,
+                    "username": "ReleveCitoyenne",
+                    "id": "828635714531229696"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 53,
+                    "end": 70,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856219067589558272",
+        "text": "RT @benoithamon: Vous attendez une renaissance : ce soir elle est douloureuse, demain elle sera féconde.",
+        "created_at": "2017-04-23 18:51:48+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856219067589558272,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "benoithamon",
+                    "id": "14389177"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3941,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856219024736362497",
+        "text": "RT @NousDemocratie: Et maintenant, regardons les vieux dinosaures s'écrouler, et créons un nouvel écosystème démocratique #legislatives2017",
+        "created_at": "2017-04-23 18:51:37+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856219024736362497,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 139,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856219010630922247",
+        "text": "RT @NousDemocratie: Première exigence : en finir avec les #professionnels de la politique #renouveau https://t.co/zWv1HsDJuP",
+        "created_at": "2017-04-23 18:51:34+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_856213652881510400"
+            ]
+        },
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856219010630922247,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 58,
+                    "end": 73,
+                    "tag": "professionnels"
+                },
+                {
+                    "start": 90,
+                    "end": 100,
+                    "tag": "renouveau"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/zWv1HsDJuP",
+                    "expanded_url": "https://twitter.com/NousDemocratie/status/856213663170035712/photo/1",
+                    "display_url": "pic.twitter.com/zWv1HsDJuP",
+                    "media_key": "3_856213652881510400"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856218996236046336",
+        "text": "RT @LeaBons: Pour un vrai changement démocratique, rendez-vous aux urnes aux législatives pour retrouver votre place de Citoyens @NousDemoc…",
+        "created_at": "2017-04-23 18:51:31+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856218996236046336,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LeaBons",
+                    "id": "2875219540"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856218891567214592",
+        "text": "RT @LeaBons: N'oubliez pas, ce sont les députés qui votent les lois quelque soit notre président ! #legislatives2017 @NousDemocratie",
+        "created_at": "2017-04-23 18:51:06+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            }
+        ],
+        "conversation_id": 856218891567214592,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "LeaBons",
+                    "id": "2875219540"
+                },
+                {
+                    "start": 117,
+                    "end": 132,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 99,
+                    "end": 116,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856189194825236481",
+        "text": "RT @Charlineaparis: Si je bois une bière à chaque fois que la rtbf dit \"il faut rester prudent\" en donnant des chiffres je suis bourrée dan…",
+        "created_at": "2017-04-23 16:53:05+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856189194825236481,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "Charlineaparis",
+                    "id": "344057947"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1089,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856116784214282241",
+        "text": "RT @NousDemocratie: Frédéric Worms sur @franceinter #now : la Démocratie est une aspiration universelle",
+        "created_at": "2017-04-23 12:05:21+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856116784214282241,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                },
+                {
+                    "start": 39,
+                    "end": 51,
+                    "username": "franceinter",
+                    "id": "34867057"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "tag": "now"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856116737850441728",
+        "text": "RT @NousDemocratie: \"Déverrouiller le système politique\", préoccupation majeure des citoyens durant cette #Presidentielle2017 https://t.co/…",
+        "created_at": "2017-04-23 12:05:10+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "855508544816271360",
+                    "name": "French Election Day 1st round",
+                    "description": "French Election Day 1st round"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                    "id": "854996002930962432",
+                    "name": "Presidentielle - French Elections",
+                    "description": "Presidentielle - French Elections (Live)"
+                }
+            }
+        ],
+        "conversation_id": 856116737850441728,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 106,
+                    "end": 125,
+                    "tag": "Presidentielle2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "856051733507829761",
+        "text": "RT @Maitre_Eolas: Tenez, je vous en ai fait un Moment.\n⚡️ “Un nouveau raté au Figaro”\n\nhttps://t.co/Yg8NUAA0W5",
+        "created_at": "2017-04-23 07:46:52+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 856051733507829761,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Maitre_Eolas",
+                    "id": "7607262"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/Yg8NUAA0W5",
+                    "expanded_url": "https://twitter.com/i/moments/855558780775432193",
+                    "display_url": "twitter.com/i/moments/8555…"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 352,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "853196024374075392",
+        "text": "RT @piosmo: Effrayant article de @mandraud sur les persécutions contre les homos en Tchétchénie. https://t.co/zilvX77cs7",
+        "created_at": "2017-04-15 10:39:18+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 853196024374075392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "piosmo",
+                    "id": "249345275"
+                },
+                {
+                    "start": 33,
+                    "end": 42,
+                    "username": "mandraud",
+                    "id": "307435339"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/zilvX77cs7",
+                    "expanded_url": "http://mobile.lemonde.fr/europe/article/2017/04/15/le-calvaire-des-homosexuels-tchetchenes_5111627_3214.html?xtref=acc_dir&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+                    "display_url": "mobile.lemonde.fr/europe/article…",
+                    "status": 200,
+                    "unwound_url": "https://www.lemonde.fr/europe/article/2017/04/15/le-calvaire-des-homosexuels-tchetchenes_5111627_3214.html?xtref=acc_dir&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852816741499420677",
+        "text": "RT @AnnickCojean: En Iraq ou en Syrie?Stupéfiant -effrayant- récit de Trump qui se souvient de son dessert mais se trompe sur le pays visé…",
+        "created_at": "2017-04-14 09:32:10+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "836270250563792896",
+                    "name": "Chocolate",
+                    "description": "Chocolate"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842464827708596225",
+                    "name": "Cake decorations",
+                    "description": "Cake"
+                }
+            }
+        ],
+        "conversation_id": 852816741499420677,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "AnnickCojean",
+                    "id": "300153792"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852649659415834624",
+        "text": "RT @FatouTallANLD: Amorcons un réel partage du pouvoir en faveur des citoyens avec ANLD! dans la 18è circo ! #ALND! #legislatives2017 photo…",
+        "created_at": "2017-04-13 22:28:14+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 852649659415834624,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "FatouTallANLD",
+                    "id": "838709682978054145"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 109,
+                    "end": 114,
+                    "tag": "ALND"
+                },
+                {
+                    "start": 116,
+                    "end": 133,
+                    "tag": "legislatives2017"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852649641137102848",
+        "text": "RT @Ale_Marchand: Matthieu Niango l'un des co-fondateurs de @NousDemocratie #ANLD!, \ninvité de la matinale @CNEWS ce matin.     \nhttps://t.…",
+        "created_at": "2017-04-13 22:28:10+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 852649641137102848,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Ale_Marchand",
+                    "id": "119854508"
+                },
+                {
+                    "start": 60,
+                    "end": 75,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                },
+                {
+                    "start": 107,
+                    "end": 113,
+                    "username": "CNEWS",
+                    "id": "18396319"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 81,
+                    "tag": "ANLD"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852649544164810752",
+        "text": "RT @NousDemocratie: Réunion de travail : on prépare de nouvelles surprises... #happenings #ComPol https://t.co/wrXyuV9Q7R",
+        "created_at": "2017-04-13 22:27:47+00:00",
+        "attachments": {
+            "media_keys": [
+                "3_852600451212222464"
+            ]
+        },
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 852649544164810752,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "NousDemocratie",
+                    "id": "803600322811805697"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 89,
+                    "tag": "happenings"
+                },
+                {
+                    "start": 90,
+                    "end": 97,
+                    "tag": "ComPol"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/wrXyuV9Q7R",
+                    "expanded_url": "https://twitter.com/NousDemocratie/status/852600461194559493/photo/1",
+                    "display_url": "pic.twitter.com/wrXyuV9Q7R",
+                    "media_key": "3_852600451212222464"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852273345395654657",
+        "text": "RT @Vivienne2345: Joli cours d'histoire politiq\nMichel Winock: «Les Français demandent un roi dont ils s’appliquent à se débarrasser» https…",
+        "created_at": "2017-04-12 21:32:54+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 852273345395654657,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "Vivienne2345",
+                    "id": "2966719715"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "852272515011555328",
+        "text": "RT @Greenpeace: \"We've failed.\" Heartbroken scientist admits the #GreatBarrierReef is now 'terminal'\nhttps://t.co/2ppA5OLLZs https://t.co/X…",
+        "created_at": "2017-04-12 21:29:36+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 852272515011555328,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "Greenpeace",
+                    "id": "3459051"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 82,
+                    "tag": "GreatBarrierReef"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/2ppA5OLLZs",
+                    "expanded_url": "http://act.gp/2oWce1E",
+                    "display_url": "act.gp/2oWce1E"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 1115,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "851917750356377601",
+        "text": "RT @laRadioNova: \"Encore un w-end sous les bombes. ll faut vivre sa vie, passer entre les gouttes de l’histoire, du temps.\" L'entrée d'Edou…",
+        "created_at": "2017-04-11 21:59:54+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [],
+        "conversation_id": 851917750356377601,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "laRadioNova",
+                    "id": "270466816"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 247,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "851915324106715136",
+        "text": "RT @LPJofficiel: [🎥 VIDEO] Quand notre journaliste @Louis_Morin se fait agresser par les membres de la sécurité du meeting de @FrancoisFill…",
+        "created_at": "2017-04-11 21:50:15+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10028787768",
+                    "name": "Le Petit Journal"
+                }
+            }
+        ],
+        "conversation_id": 851915324106715136,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "LPJofficiel",
+                    "id": "626384623"
+                },
+                {
+                    "start": 51,
+                    "end": 63,
+                    "username": "Louis_Morin",
+                    "id": "31434564"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2442,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "id": "851913919685947392",
+        "text": "RT @benoithamon: La communauté internationale doit condamner les exactions rapportées par la presse de Kadyrov contre les homosexuels en #T…",
+        "created_at": "2017-04-11 21:44:40+00:00",
+        "attachments": null,
+        "author_id": 455605167,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "840174668174700546",
+                    "name": "Benoît Hamon",
+                    "description": "Benoît Hamon"
+                }
+            }
+        ],
+        "conversation_id": 851913919685947392,
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "benoithamon",
+                    "id": "14389177"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 2022,
             "reply_count": 0,
             "like_count": 0,
             "quote_count": 0
