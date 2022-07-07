@@ -30,7 +30,7 @@ affiliation_elections.nom_annee_election,
 nom_derniere_election,
 sortant,
 dissident,
-parti_vainqueur_presidentielles,
+CASE WHEN nom_derniere_election  = parti_vainqueur_presidentielles THEN 1 ELSE 0 END as parti_vainqueur_presidentielles,
 resultat_election
 
 FROM public.candidats
