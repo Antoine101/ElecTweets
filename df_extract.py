@@ -14,7 +14,7 @@ password="password"
 conn = psycopg2.connect(dbname=dbname, user=user, host=host, password=password)
 #conn = psycopg2.connect(dbname="ElecTweets", user="postgres", host="localhost")
 
-candidates_df = pd.read_sql_query(
+candidacy_df = pd.read_sql_query(
 """SELECT 
 candidats.id AS id_candidat,
 prenom,
@@ -39,7 +39,7 @@ INNER JOIN public.denomination_partis ON affiliation_elections.nom_annee_electio
 INNER JOIN public.contexte_elections ON affiliation_elections.annee_election = contexte_elections.annee
 """, conn)
 
-tweets_aggr_df = pd.read_sql_query(
+tweets_profile_aggr_df = pd.read_sql_query(
 """SELECT
 candidats.id AS id_candidat,
 prenom,
@@ -303,7 +303,7 @@ GROUP BY candidats.id, prenom, nom, id_twitter, annee_election, date_premier_tou
 conn.close()
 
 # Create the merges dataset from the two previous queries
-df = pd.merge(candidates_df,tweets_aggr_df, on=['id_candidat','annee_election'], how='left', suffixes=('', '_y'))
+df = pd.merge(candidacy_df,tweets_profile_aggr_df, on=['id_candidat','annee_election'], how='left', suffixes=('', '_y'))
 df.drop(list(df.filter(regex = "_y")), axis=1, inplace=True)
 
 df.to_csv('data/dataframe_to_use.csv', sep=";", index=False)
